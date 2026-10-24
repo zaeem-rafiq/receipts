@@ -45,10 +45,53 @@ def test_no_key_is_local_stub(store, monkeypatch):
     assert not rt.enabled() and rt.status() == "local stub"
 
 
-def test_key_without_wired_client_stays_stub(store, monkeypatch):
+class FakeResponse:
+    def __init__(self, status, payload):
+        self.status_code, self._payload = status, payload
+
+    def json(self):
+        return self._payload
+
+    def raise_for_status(self):
+        if self.status_code >= 400:
+            raise RuntimeError(f"HTTP {self.status_code}")
+
+
+def test_real_client_wire_shape(store, monkeypatch):
+    """Same call shape as @roundtable/sdk 0.1.1: POST {url}/api/tools/<tool>, Bearer key, request_id on writes."""
+    import requests
     monkeypatch.setenv("ROUNDTABLE_API_KEY", "test-not-a-key")
-    rt.put_file("claims.json", {"a": 1})
-    assert not rt.enabled()
+    monkeypatch.delenv("ROUNDTABLE_URL", raising=False)
+    calls = []
+
+    def fake_post(url, json=None, headers=None, timeout=None):
+        calls.append((url, json, headers))
+        if url.endswith("/write_file"):
+            return FakeResponse(200, {"version": {"id": "ver_1"}})
+        if url.endswith("/read_file"):
+            return FakeResponse(200, {"content": '{"a": 1}', "version": "ver_1"})
+        return FakeResponse(200, {"ok": True})
+
+    monkeypatch.setattr(requests, "post", fake_post)
+    assert rt.put_file("claims.json", {"a": 1}, note="source=llm") == 1
+    assert rt.get_file("claims.json") == ({"a": 1}, 1)
+    rt.post_message("engine run")
+    assert rt.enabled() and rt.status() == "Roundtable workspace"
+    (u1, b1, h1), (u2, b2, _), (u3, b3, _) = calls
+    assert u1 == "https://roundtable.bot/api/tools/write_file"
+    assert h1["Authorization"] == "Bearer test-not-a-key"
+    assert b1["path"] == "receipts/claims.json" and b1["message"] == "source=llm" and b1["request_id"]
+    assert u2.endswith("/read_file") and "request_id" not in b2
+    assert u3.endswith("/record") and b3["kind"] == "journal" and b3["request_id"]
+
+
+def test_real_client_401_stays_local(store, monkeypatch):
+    import requests
+    monkeypatch.setenv("ROUNDTABLE_API_KEY", "test-not-a-key")
+    monkeypatch.setattr(requests, "post", lambda *a, **k: FakeResponse(401, {"error": "A valid agent token is required."}))
+    assert rt.put_file("claims.json", {"a": 1}) == 1
+    assert rt.get_file("claims.json") == ({"a": 1}, 1)
+    assert not rt.enabled() and "local stub" in rt.status()
 
 
 def test_remote_success_turns_badge_real(store, monkeypatch):
