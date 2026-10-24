@@ -3,7 +3,9 @@ import re
 from datetime import date, datetime, timedelta
 
 SEVERITY = ["shutdown", "acquisition", "layoffs_major", "layoffs_minor", "acquirer", "funding", "product_launch", "none"]
-SHUTDOWN_KW = ["ceased operations", "shut down", "shutting down", "winding down", "bankruptcy", "shutdown"]
+SHUTDOWN_KW = ["ceased operations", "shut down", "shuts down", "shutting down", "winding down", "wind down", "bankruptcy", "shutdown"]
+SHUTDOWN_RE = re.compile(r"\b(" + "|".join(re.escape(k) for k in SHUTDOWN_KW) + r")\b", re.I)
+NOT_SHUTDOWN_RE = re.compile(r"\b(government|federal)\s+shutdown\b", re.I)
 
 
 def _text(a):
@@ -48,8 +50,6 @@ def classify(article, company_name, cfg):
     codes = _codes(article)
     if "RK07" in codes:
         return {"class": "shutdown", "trigger": "Akta code RK07", "keyword_classified": False}
-    if any(k in text.lower() for k in SHUTDOWN_KW):
-        return {"class": "shutdown", "trigger": "shutdown keyword", "keyword_classified": True}
     if "CM03" in codes:
         if is_target_side([article.get("title", ""), article.get("ai_summary", "")], company_name):
             return {"class": "acquisition", "trigger": "CM03 + target-side match", "keyword_classified": True}
@@ -61,6 +61,9 @@ def classify(article, company_name, cfg):
         return {"class": "funding", "trigger": "Akta code CM01/CM09", "keyword_classified": False}
     if "SD01" in codes:
         return {"class": "product_launch", "trigger": "Akta code SD01", "keyword_classified": False}
+    # Keyword fallback only when Akta gave no usable tag (PLAN section 6); whole words, not substrings.
+    if SHUTDOWN_RE.search(NOT_SHUTDOWN_RE.sub(" ", text)):
+        return {"class": "shutdown", "trigger": "shutdown keyword (no Akta tag)", "keyword_classified": True}
     return {"class": "none", "trigger": "no weighted code", "keyword_classified": False}
 
 

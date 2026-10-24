@@ -63,7 +63,9 @@ def headline(charges, subs, ctab, as_of, deck_arr):
         idx = y * 12 + (m - 1) - k
         return idx // 12, idx % 12 + 1
 
-    m3 = [month_slice(ok, *prev(as_of.year, as_of.month, k))["amount"].sum() for k in range(3)]
+    m3_slices = [month_slice(ok, *prev(as_of.year, as_of.month, k)) for k in range(3)]
+    m3 = [s["amount"].sum() for s in m3_slices]
+    m3_ids = [cid for s in m3_slices for cid in s["charge_id"]]
     ttm_start = pd.Timestamp(*prev(as_of.year, as_of.month, 11), 1)
     ttm = ok[(ok["created"] >= ttm_start) & (ok["created"] <= as_of)]
     active_subs = subs[subs["status"].isin(["active", "past_due"])]
@@ -74,8 +76,8 @@ def headline(charges, subs, ctab, as_of, deck_arr):
         ("12 x subscription charges in " + as_of.strftime("%b %Y"), 12 * int(sep[sep["subkind"] == "subscription"]["amount"].sum()),
          list(sep[sep["subkind"] == "subscription"]["charge_id"])),
         ("12 x recurring MRR (annual ratable)", recurring_arr, list(active_subs["subscription_id"])),
-        ("12 x trailing 3-month average of total charges", int(round(4 * sum(m3))), []),
-        ("trailing 12-month total charges", int(ttm["amount"].sum()), []),
+        ("12 x trailing 3-month average of total charges", int(round(4 * sum(m3))), m3_ids),
+        ("trailing 12-month total charges", int(ttm["amount"].sum()), list(ttm["charge_id"])),
         ("sum of active contract values", int(contract_values), list(active_subs["subscription_id"])),
     ]
     reproduction = [{"definition": d, "value": v, "pct_diff": round((v - deck_arr) / deck_arr, 4), "ids": ids} for d, v, ids in defs]
@@ -109,7 +111,12 @@ def headline(charges, subs, ctab, as_of, deck_arr):
         "bridge_start": sep_total_arr,
         "bridge_check": bridge_check,
         "monthly_totals": {f"{prev(as_of.year, as_of.month, k)[1]:02d}": int(m3[k]) for k in range(3)},
+        "monthly_total_ids": {f"{prev(as_of.year, as_of.month, k)[1]:02d}": list(m3_slices[k]["charge_id"]) for k in range(3)},
         "ttm_total": int(ttm["amount"].sum()),
+        "ttm_ids": list(ttm["charge_id"]),
+        "implementation_prior_12m_ids": list(impl_prior["charge_id"]),
+        "implementation_sep_ids": list(impl_sep["charge_id"]),
+        "customers_ever_billed_ids": sorted(ok["customer_id"].unique().tolist()),
         "customers_ever_billed": int(ok["customer_id"].nunique()),
         "active_customers": len(active),
         "active_monthly": int((active["active_interval"] == "month").sum()),

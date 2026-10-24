@@ -22,9 +22,13 @@ def main():
     doc, source = None, "fallback"
     if nicrron.enabled():
         try:
-            text, _ = nicrron.chat([{"role": "user", "content": PROMPT + deck}], max_tokens=1500)
+            text, _ = nicrron.chat([{"role": "user", "content": PROMPT + deck}], max_tokens=1500, json_mode=True)
             doc = json.loads(re.search(r"\{.*\}", text, re.S).group(0))
             assert all(c["quote"] in deck for c in doc["claims"]), "quote not in deck"
+            # The model may paraphrase `text`; the number the engine parses must be the one in the deck-verified quote.
+            from engine.load import parse_claim_number
+            for c in doc["claims"]:
+                assert parse_claim_number(c["text"]) == parse_claim_number(c["quote"]), f"claim {c['id']}: number differs from the deck quote"
             assert len(doc["logos"]) == len(fb["logos"])
             for i, l in enumerate(doc["logos"]):
                 l["slot"] = f"logo_{i + 1:02d}"

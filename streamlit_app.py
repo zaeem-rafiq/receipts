@@ -12,8 +12,10 @@ from llm import summarize
 
 st.set_page_config(page_title="Receipts", layout="wide")
 
-COLORS = {"green": "#1f9d55", "green_plus": "#1f9d55", "amber": "#d97706", "amber_pilot": "#b7791f", "grey": "#718096", "red": "#c53030"}
-LABEL = {"green": "VERIFIED", "green_plus": "VERIFIED +", "amber": "AT RISK", "amber_pilot": "PILOT", "grey": "", "red": "NOT IN LEDGER"}
+COLORS = {"green": "#1f9d55", "green_plus": "#1f9d55", "amber": "#d97706", "amber_pilot": "#b7791f", "grey": "#718096",
+          "grey_unverified": "#718096", "red": "#c53030"}
+LABEL = {"green": "VERIFIED", "green_plus": "VERIFIED +", "amber": "AT RISK", "amber_pilot": "PILOT", "grey": "",
+         "grey_unverified": "WORLD CHECK N/A", "red": "NOT IN LEDGER"}
 
 
 @st.cache_data(show_spinner=False)
@@ -31,6 +33,7 @@ def compute(run_date_iso, akta_on):
     _, cv = roundtable.get_file("claims.json")
     F["meta"]["roundtable_claims_version"] = cv
     F["meta"]["prism_trace_id"] = run.trace_id
+    F["meta"]["prism_exported"] = run.exported
     F["meta"]["prism_spans"] = [s["name"] for s in run.spans]
     run.save()
     return F
@@ -65,10 +68,16 @@ with st.sidebar:
 F = compute(run_date.isoformat(), akta_on)
 H, D, M = F["headline"], {k: E(v) for k, v in F["display"].items()}, F["meta"]
 
+# Badges report what this run actually did, never what a key would allow.
+summary_via_model = F["summary"]["source"].startswith("Nicrron")
+extraction_via_model = M["extraction_source"] == "llm"
+nicrron_state = (f"{nicrron.MODEL} (summary{' + extraction' if extraction_via_model else ''})" if summary_via_model
+                 else (f"{nicrron.MODEL} (extraction only; summary: template)" if extraction_via_model
+                       else ("template (model call failed or blocked)" if nicrron.enabled() else "OFF")))
 st.markdown(
     badge("Akta", M["akta_mode"], M["akta_mode"] in ("CACHED", "LIVE"))
-    + badge("Nicrron", nicrron.MODEL if nicrron.enabled() else "OFF", nicrron.enabled())
-    + badge("PRISM", f"trace {M['prism_trace_id']}" + ("" if prism.enabled() else " (local only)"), prism.enabled())
+    + badge("Nicrron", nicrron_state, summary_via_model or extraction_via_model)
+    + badge("PRISM", f"trace {M['prism_trace_id']}" + ("" if M.get("prism_exported") else " (local only)"), bool(M.get("prism_exported")))
     + badge("Roundtable", f"claims v{M['roundtable_claims_version']} / findings v{M['roundtable_findings_version']}"
             + ("" if roundtable.enabled() else " (local stub)"), roundtable.enabled()),
     unsafe_allow_html=True)
@@ -138,10 +147,13 @@ with b:
     ak = l["akta"]
     st.write(f"Domain {ak['domain'] or 'n/a'} · headcount range {ak.get('headcount_range') or 'unverified'} · segment {ak.get('segment')}")
     st.write(f"Operating status: {ak.get('operating_status') or 'unverified'}")
-    st.caption(f"Mode: {ak['mode']}" + (f" · fetched {ak.get('fetched_at')}" if ak.get("fetched_at") else ""))
+    st.caption(f"Mode: {ak['mode']}" + (f" · fetched {ak.get('fetched_at')}" if ak.get("fetched_at") else "")
+               + (f" · last live error: {ak['live_error']}" if ak.get("live_error") else ""))
 with c:
-    st.markdown("**World (Akta News, 180 days)**")
-    if not ak["events"]:
+    st.markdown(f"**World (Akta News, 180 days) · {ak['mode']}**")
+    if ak.get("news_status") == "unavailable":
+        st.write("World check unavailable: no cached, live or mock Akta news for this domain, so this card is not marked verified.")
+    elif not ak["events"]:
         st.write("No articles in window.")
     for e in ak["events"]:
         st.markdown(E(f"{e['date']} · {e['publisher']}: {e['title']}"))
@@ -158,23 +170,54 @@ st.dataframe([{"logo": x["name"], "headcount_range": x["akta"].get("headcount_ra
 
 # ---------- live panel ----------
 st.subheader("Check any company")
-q = st.text_input("Company website (e.g. ramp.com, cloudflare.com, miro.com)")
+q = st.text_input("Company website or name (e.g. ramp.com, Cloudflare, miro.com)")
+
+
+def known_domains():
+    """Bare names a judge may type -> website: the deck logos plus the pre-warmed live-panel list."""
+    table = {l["name"].lower(): l["akta"]["domain"] for l in F["logos"] if l["akta"].get("domain")}
+    try:
+        from scripts.warm import EXTRA
+        for d in EXTRA:
+            table.setdefault(d.split(".")[0], d)
+    except Exception:
+        pass
+    return table
+
+
 if q:
     cfg = load.load_config()
-    enr, nws = akta.get("enrichment", q), akta.get("news", q)
-    if enr.get("unresolved") and nws.get("unresolved"):
-        st.write("Not in today's cache; live lookups run from the demo laptop (AKTA_OFFLINE=0 with a live budget).")
+    raw = q.strip()
+    dom = None
+    try:
+        dom = akta.domain_of(raw) if "." in raw else known_domains().get(raw.lower())
+    except ValueError:
+        dom = None
+    if not dom:
+        st.error("Enter a website like ramp.com, or one of the pre-warmed names (Ramp, Cloudflare, Miro, Rippling, Notion, Vanta, HubSpot, Airtable, PostHog, Wix).")
     else:
-        fg = (enr.get("response") or {}).get("firmographic") or {}
-        evs = rules.events_for(nws.get("response"), q.split(".")[0].title(), cfg, run_date)
-        top = rules.most_severe(evs)
-        st.write(f"Headcount range {fg.get('headcount_range') or 'unverified'} · mode {nws['mode']}")
-        for e in evs:
-            st.markdown(E(f"{e['date']} · {e['title']} → {e['class']}"))
-        st.write(f"Most severe in window: {top['class'] if top else 'none'} (weight {cfg['policy'].get(top['class'] if top else 'none', 0):.2f})")
+        try:
+            enr, nws = akta.get("enrichment", dom), akta.get("news", dom)
+        except Exception as e:  # the client degrades on its own; this is the last net
+            enr, nws = {"unresolved": True, "mode": "MISS", "response": {}}, {"unresolved": True, "mode": "MISS", "response": {}}
+            st.error(f"Lookup failed: {type(e).__name__}")
+        if enr.get("unresolved") and nws.get("unresolved"):
+            err = akta.ERRORS.get(("news", dom)) or akta.ERRORS.get(("enrichment", dom))
+            st.write(f"{dom}: not in today's cache" + (f"; live lookup failed ({err})" if err else "; live lookups run from the demo laptop (AKTA_OFFLINE=0 with a live budget)") + ".")
+        else:
+            fg = (enr.get("response") or {}).get("firmographic") or {}
+            name = next((l["name"] for l in F["logos"] if l["akta"].get("domain") == dom), dom.split(".")[0].title())
+            evs = rules.events_for(nws.get("response"), name, cfg, run_date)
+            top = rules.most_severe(evs)
+            st.write(f"{dom} · headcount range {fg.get('headcount_range') or 'unverified'} · mode {nws['mode']}"
+                     + (" (hand-written fixture, not Akta output)" if nws["mode"] == "MOCK" else ""))
+            for e in evs:
+                st.markdown(E(f"{e['date']} · {e['title']} → {e['class']} ({e['trigger']})"))
+            st.write(f"Most severe in window: {top['class'] if top else 'none'} (weight {cfg['policy'].get(top['class'] if top else 'none', 0):.2f})")
 
 # ---------- provenance ----------
-st.download_button("Download provenance (JSON)", json.dumps({"provenance": F["provenance"], "meta": M, "claims": F["claims"]}, indent=1, default=str),
-                   file_name="provenance.json")
+st.download_button("Download provenance (JSON)",
+                   json.dumps({"headline": H, "display": F["display"], "provenance": F["provenance"], "ledger": F["ledger"], "meta": M, "claims": F["claims"]},
+                              indent=1, default=str), file_name="provenance.json")
 st.caption(f"Ledger as of {M['as_of']} · news anchored to {M['run_date']} · extraction source: {M['extraction_source']} · "
            f"PRISM spans: {', '.join(M['prism_spans'][:3])}…")

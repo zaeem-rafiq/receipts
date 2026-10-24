@@ -88,6 +88,20 @@ def parse_claim_number(text):
     return int(round(n))
 
 
+def parse_post_money(text):
+    """'Raising $4M at a $20M post-money valuation' -> 20000000. The figure must sit right before 'post-money' / 'post money';
+    anything else returns None (shown as 'unparsed'), never a guess."""
+    m = re.search(r"\$?\s*(\d[\d,]*(?:\.\d+)?)\s*([kKmMbB])?\s*(?:post[- ]money|post[- ]money valuation)", text or "", re.I)
+    if not m:
+        m = re.search(r"post[- ]money(?: valuation)?\s*(?:of|at|:)?\s*\$?\s*(\d[\d,]*(?:\.\d+)?)\s*([kKmMbB])?\b", text or "", re.I)
+    if not m:
+        return None
+    n = float(m.group(1).replace(",", ""))
+    if m.group(2):
+        n *= SUFFIX[m.group(2).lower()]
+    return int(round(n))
+
+
 def parse_all_numbers(text):
     out = []
     for m in re.finditer(r"\$?\s*(\d[\d,]*(?:\.\d+)?)\s*([kKmMbB])?\b", text):

@@ -13,6 +13,7 @@ QUESTIONS = {
     "ONE_TIME": "{name} paid a {amount} setup fee and never subscribed; is a subscription in the pipeline?",
     "NOT_IN_LEDGER": "{name} is on the deck but has no charges; is it a signed-not-live customer, a design partner, or a logo from a prior company?",
     "VERIFIED": "{name} has paid for {tenure} months; may we call them as a reference?",
+    "UNVERIFIED": "{name} pays {share} of MRR but the outside-world check did not run (no Akta news available); what has changed at {name} this year?",
 }
 EVENT_WORDS = {"layoffs_major": "major layoffs", "layoffs_minor": "layoffs", "acquisition": "an acquisition announced",
                "shutdown": "a shutdown announced", "funding": "a funding round", "acquirer": "M&A (buyer)"}
@@ -61,8 +62,12 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
             ak["events"] = rules.events_for(nws.get("response"), lg["name"], cfg, run_date)
             ak["fetched_at"] = nws.get("fetched_at")
             ak["mode"] = nws["mode"]
+            # A 204 is a real answer (no news). No record at all (offline miss, live failure) means the window was not checked.
+            ak["news_status"] = "unavailable" if nws.get("unresolved") else "checked"
+            ak["live_error"] = akta.ERRORS.get(("news", ak["domain"])) or akta.ERRORS.get(("enrichment", ak["domain"]))
         else:
             ak["segment"], ak["headcount_range"] = "unverified", None
+            ak["news_status"] = "off"
         top = rules.most_severe(ak["events"], ak.get("operating_status"))
         ev_class = top["class"] if top else "none"
         if events_override is not None:
@@ -71,7 +76,12 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
         weight = cfg["policy"].get(ev_class, 0.0)
         mrr_now = row["mrr_now"] if row else 0
         if status == "ACTIVE":
-            verdict = "AT_RISK" if weight > 0 else "VERIFIED"
+            if weight > 0:
+                verdict = "AT_RISK"
+            elif akta_enabled and events_override is None and ak.get("news_status") == "unavailable":
+                verdict = "UNVERIFIED"  # the ledger is fine; the world check did not run, so no green
+            else:
+                verdict = "VERIFIED"
         elif status == "PILOT":
             verdict = "PILOT_OR_CHURNED"
         elif status == "ONE_TIME":
@@ -80,7 +90,7 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
             verdict = "NOT_IN_LEDGER"
         mrr_at_risk = int(round(mrr_now * weight)) if status == "ACTIVE" else 0
         card = {"VERIFIED": "green_plus" if ev_class == "funding" else "green", "AT_RISK": "amber",
-                "PILOT_OR_CHURNED": "amber_pilot", "ONE_TIME": "grey",
+                "PILOT_OR_CHURNED": "amber_pilot", "ONE_TIME": "grey", "UNVERIFIED": "grey_unverified",
                 "NOT_IN_LEDGER": "red" if weight > 0 else "grey"}[verdict]
         q = QUESTIONS[verdict].format(
             name=lg["name"], share=pct(row["share_of_mrr"]) if row else "", event=EVENT_WORDS.get(ev_class, ev_class),
@@ -91,6 +101,9 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
         if top and top.get("article_id"):
             lp.append({"kind": "article", "id": top["article_id"]})
         lp.append({"kind": "rule", "id": f"policy.{ev_class}={weight}"})
+        if ak["domain"]:
+            lp.append({"kind": "company", "id": ak["domain"], "mode": ak["mode"], "fetched_at": ak.get("fetched_at"),
+                       "news_status": ak.get("news_status")})
         provenance.append({"slot": lg["slot"], "items": lp})
         out_logos.append({
             **lg, "customer_id": m["customer_id"], "match_tier": m["tier"], "nearest_name": m["nearest_name"], "nearest_ratio": m["ratio"],
@@ -107,13 +120,13 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
     exposed = [l for l in out_logos if l["status"] == "ACTIVE" and l["weight"] > 0]
     mrr_exposed = sum(l["mrr_now"] for l in exposed)
     logo_verified_mrr = sum(l["mrr_now"] for l in out_logos if l["verdict"] in ("VERIFIED", "AT_RISK"))
+    unverified = [l["slot"] for l in out_logos if l["verdict"] == "UNVERIFIED"]
     ent = [l for l in out_logos if l["akta"].get("segment") == "enterprise"]
     any_akta = any(l["akta"].get("headcount_range") for l in out_logos)
-    post = None
-    import re
-    mm = re.search(r"\$(\d+(?:\.\d+)?)M post-money", claim["ask"]["text"])
-    post = int(float(mm.group(1)) * 1_000_000) if mm else None
+    # Raise and post-money come from the deck-verified quote (regex only); any wording the regex cannot read is reported, not guessed.
+    ask_text = claim["ask"].get("quote") or claim["ask"]["text"]
     raise_ = claim["ask"]["value"]
+    post = load.parse_post_money(ask_text)
     counts = {}
     for l in out_logos:
         counts[l["status"]] = counts.get(l["status"], 0) + 1
@@ -129,7 +142,8 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
         "top1_share": h["top1_share"], "top5_share": h["top5_share"],
         "logo_verified_arr": 12 * logo_verified_mrr, "logo_verified_share": round(logo_verified_mrr / rec_mrr, 4),
         "raise": raise_, "post_money": post,
-        "multiples": {"on_deck_arr": round(post / deck_arr, 1), "on_recurring_arr": round(post / rec_arr, 1)},
+        "multiples": {"on_deck_arr": round(post / deck_arr, 1) if post else None, "on_recurring_arr": round(post / rec_arr, 1) if post else None},
+        "unverified_slots": unverified,
         "deck_customers_claim": claim["customers"]["value"],
     }
     display = {
@@ -142,8 +156,24 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
         "deck_enterprise_claim": str(claim["enterprise"]["value"]),
         "customers_ever_billed": str(h["customers_ever_billed"]), "active_customers": str(h["active_customers"]),
         "logo_verified_arr": usd(headline["logo_verified_arr"]),
-        "multiple_deck": f"{headline['multiples']['on_deck_arr']}x", "multiple_recurring": f"{headline['multiples']['on_recurring_arr']}x",
+        "multiple_deck": f"{headline['multiples']['on_deck_arr']}x" if post else "unparsed", "multiple_recurring": f"{headline['multiples']['on_recurring_arr']}x" if post else "unparsed",
+        "post_money": usd(post) if post else "unparsed",
     }
+    # Ledger-level provenance: the charge and subscription ids behind every headline and tie-out number.
+    provenance.append({"slot": "ledger", "items": [
+        {"kind": "definition", "id": r["definition"], "value": r["value"], "row_ids": r["ids"]} for r in h["reproduction"]
+    ] + [
+        {"kind": "bridge", "id": b["step"], "value": b["delta"], "row_ids": b["row_ids"]} for b in h["bridge"]
+    ] + [
+        {"kind": "recurring_mrr", "id": "sum of active subscription MRR", "value": rec_mrr,
+         "row_ids": [s for l in ctab.to_dict("records") if l["status"] == "ACTIVE" for s in l["subscription_ids"]]},
+        {"kind": "ttm", "id": "trailing 12-month total charges", "value": h["ttm_total"], "row_ids": h["ttm_ids"]},
+        {"kind": "implementation_rows", "id": f"{as_of.strftime('%B')} implementation rows", "value": h["implementation_rows_sep"], "row_ids": h["implementation_sep_ids"]},
+        {"kind": "implementation_rows", "id": "implementation rows, prior 12 months", "value": h["implementation_rows_prior_12m"], "row_ids": h["implementation_prior_12m_ids"]},
+        {"kind": "customers_ever_billed", "id": "distinct customers with a succeeded charge", "value": h["customers_ever_billed"], "row_ids": h["customers_ever_billed_ids"]},
+        {"kind": "claim", "id": "deck_arr", "value": deck_arr, "quote": claim["arr"].get("quote"), "slide": claim["arr"].get("slide")},
+        {"kind": "claim", "id": "ask", "value": raise_, "post_money": post, "quote": claim["ask"].get("quote"), "slide": claim["ask"].get("slide")},
+    ]})
     tie_out = [
         f"Charge kind classified from subscription_id + description; agrees with the file's type column on {agree}/{nrows} rows.",
         f"Implementation rows: {h['implementation_rows_sep']} in {as_of.strftime('%B')} vs {h['implementation_rows_prior_12m']} in the prior 12 months.",

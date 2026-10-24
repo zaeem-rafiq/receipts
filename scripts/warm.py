@@ -83,17 +83,17 @@ def main(argv=None):
                 continue
             resp = (rec or {}).get("response") or {}
             if rec is None:
-                print(f"  {ep:10s} {d:18s} skipped (no key, offline or budget)")
-            elif resp.get("forbidden"):
-                path.unlink(missing_ok=True)
-                stats["not_cached_403"] += 1
-                failures.append((ep, d, "403: plan or section not allowed"))
-                print(f"  {ep:10s} {d:18s} 403 (not cached; MOCK still serves it)")
-            elif resp.get("error"):
-                path.unlink(missing_ok=True)
-                stats["not_cached_error"] += 1
-                failures.append((ep, d, f"HTTP {resp['error']}"))
-                print(f"  {ep:10s} {d:18s} HTTP {resp['error']} (not cached)")
+                err = client.ERRORS.pop((ep, d), None)
+                if err is None:
+                    print(f"  {ep:10s} {d:18s} skipped (no key, offline or budget)")
+                elif err == "HTTP 403":
+                    stats["not_cached_403"] += 1
+                    failures.append((ep, d, "403: plan or section not allowed"))
+                    print(f"  {ep:10s} {d:18s} 403 (not cached; MOCK still serves it)")
+                else:
+                    stats["not_cached_error"] += 1
+                    failures.append((ep, d, err))
+                    print(f"  {ep:10s} {d:18s} {err} (not cached)")
             elif resp.get("empty"):
                 stats["empty"] += 1
                 empties.append((ep, d))

@@ -4,6 +4,5 @@ pyyaml
 openai
 requests
 pytest
-# optional, PRISM export:
-# opentelemetry-sdk
-# opentelemetry-exporter-otlp-proto-http
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-http

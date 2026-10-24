@@ -17,6 +17,7 @@ MOCK = CACHE / "mock"
 BASE = "https://api.akta.pro/api/v1/"
 SECTIONS = "firmographic,financial_estimate,company_hierarchy,strategic_signal"
 _live_used = 0  # module-level, survives Streamlit reruns
+ERRORS = {}  # (endpoint, domain) -> last live failure, for the UI; never persisted
 
 
 def domain_of(website):
@@ -52,22 +53,28 @@ def _live(endpoint, domain):
         url, params = BASE + "news", {"company": domain, "start_date": (today - timedelta(days=180)).isoformat(),
                                       "end_date": today.isoformat(), "limit": 50}
     _live_used += 1
-    for wait in (0, 2, 4, 8):
-        time.sleep(wait or 2.5)
-        r = requests.get(url, params=params, headers={"x-api-key": key}, timeout=30)
-        if r.status_code == 204:
-            resp = {"data": [], "empty": True}
+    resp, err = None, None
+    try:
+        for wait in (0, 2, 4, 8):
+            time.sleep(wait or 2.5)
+            r = requests.get(url, params=params, headers={"x-api-key": key}, timeout=30)
+            if r.status_code == 204:
+                resp = {"data": [], "empty": True}
+                break
+            if r.status_code in (429, 500, 502, 503, 504):
+                err = f"HTTP {r.status_code}"
+                continue
+            if r.status_code >= 400:  # 401 bad key, 403 plan/section, 404, 422: never retried, never cached
+                err = f"HTTP {r.status_code}"
+                break
+            resp, err = r.json(), None
             break
-        if r.status_code == 403:
-            resp = {"forbidden": True}
-            break
-        if r.status_code in (429, 500, 502, 503, 504):
-            continue
-        r.raise_for_status()
-        resp = r.json()
-        break
-    else:
-        resp = {"error": r.status_code}
+    except (requests.RequestException, ValueError) as e:  # timeout, DNS, bad JSON: degrade, never crash the page
+        resp, err = None, type(e).__name__
+    if resp is None:
+        ERRORS[(endpoint, domain)] = err or "unknown"
+        return None  # nothing persisted: get() falls through to the MOCK fixture or unresolved
+    ERRORS.pop((endpoint, domain), None)
     if endpoint == "news" and isinstance(resp.get("data"), list):
         for a in resp["data"]:
             a.pop("full_text", None)
@@ -97,12 +104,14 @@ def get(endpoint, website):
 
 
 def mode_summary(modes):
+    """Header badge text. Honest about mixtures: any MOCK or MISS in the run is named with its share."""
     if not modes:
         return "OFF"
-    if "LIVE" in modes:
-        return "LIVE"
-    if "CACHED" in modes:
-        return "CACHED"
-    if "MOCK" in modes:
-        return "MOCK"
-    return "OFF"
+    n = len(modes)
+    real = sum(1 for m in modes if m in ("LIVE", "CACHED"))
+    if real == n:
+        return "LIVE" if "LIVE" in modes else "CACHED"
+    mock = sum(1 for m in modes if m == "MOCK")
+    miss = n - real - mock
+    parts = [f"{mock} MOCK" if mock else "", f"{real} real" if real else "", f"{miss} missing" if miss else ""]
+    return ("MOCK " if mock else "MISS ") + "(" + ", ".join(p for p in parts if p) + f" of {n})"
