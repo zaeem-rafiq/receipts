@@ -147,10 +147,14 @@ def main(argv=None):
     if not os.environ.get("AKTA_API_KEY"):
         print("AKTA_API_KEY is not set in this shell. Export it and re-run. Nothing was fetched.")
         return 2
-    ok = 0
+    os.environ["AKTA_OFFLINE"] = "0"  # same gate as scripts/warm.py: live only with a key, only from this script
+    ok, spent = 0, 0.0
     for k, d in jobs[: a.budget]:
-        ok += run_job(k, d)
-    print(f"done: {ok}/{min(len(jobs), a.budget)} cached. Commit demo_cache/akta/{{search,enrichment_depth,headcount,addition}}/ to build/t0.")
+        if run_job(k, d):
+            ok += 1
+            spent += CREDITS[k]
+    print(f"done: {ok}/{min(len(jobs), a.budget)} cached, about {spent:g} credits consumed "
+          f"(estimate from docs/AKTA_DEPTH.md prices; refused calls are assumed free, UNVERIFIED). Commit demo_cache/akta/{{search,enrichment_depth,headcount,addition}}/ to build/t0.")
     return 0
 
 

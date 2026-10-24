@@ -172,3 +172,16 @@ def test_warm_depth_plans_addition_only_for_204(monkeypatch, tmp_path):
     (tmp_path / "enrichment" / "newco.app.json").write_text(json.dumps({"response": {"data": [], "empty": True}}))
     assert ("addition", "newco.app") in warm_depth.plan(["newco.app"], False)
     assert ("addition", "monday.com") not in warm_depth.plan(["monday.com"], False)
+
+
+# ---------------- engine integration: populated, never an error, never moves a headline number
+
+def test_engine_cards_carry_world_and_profile_without_moving_headline(monkeypatch):
+    from engine import findings
+    with_depth = findings.run(run_date=RUN)
+    for l in with_depth["logos"]:
+        assert l["world"] and "error" not in l["world"], l["name"]
+        assert l["profile"] and "error" not in l["profile"], l["name"]
+    monkeypatch.setattr(findings, "depth", None)
+    without = findings.run(run_date=RUN)
+    assert with_depth["headline"] == without["headline"] and with_depth["display"] == without["display"]
