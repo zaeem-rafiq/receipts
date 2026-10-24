@@ -97,6 +97,11 @@ VERDICT_WHY = {
 }
 
 
+STEP_LABEL = {"implementation_fees_sep_annualized": "September implementation fees ×12 (one-time, not recurring)",
+              "one_time_services_sep_annualized": "September one-time services ×12 (not recurring)",
+              "annual_contracts_other_months_ratable": "annual contracts billed in other months, spread over the year"}
+
+
 # ---------- header ----------
 st.markdown("<h1 class='rc-wordmark'>Receipts<span>.</span></h1>", unsafe_allow_html=True)
 st.caption("Twelve logos on a seed deck, each checked against the customer revenue export and against the outside world (Akta).")
@@ -138,18 +143,24 @@ H, D, M = F["headline"], {k: E(v) for k, v in F["display"].items()}, F["meta"]
 # Badges report what this run actually did, never what a key would allow.
 summary_via_model = F["summary"]["source"].startswith("Nicrron")
 extraction_via_model = M["extraction_source"] == "llm"
-nicrron_state = (f"{nicrron.MODEL} (summary{' + extraction' if extraction_via_model else ''})" if summary_via_model
-                 else (f"{nicrron.MODEL} (extraction only; summary: template)" if extraction_via_model
-                       else ("template (model call failed or blocked)" if nicrron.enabled() else "OFF")))
+nicrron_state = (f"on, {nicrron.MODEL} wrote the summary{' and extraction' if extraction_via_model else ''}" if summary_via_model
+                 else (f"extraction only ({nicrron.MODEL}); summary from a template" if extraction_via_model
+                       else ("model call failed, summary from a template" if nicrron.enabled() else "off, summary from a template")))
+AKTA_PLAIN = {"CACHED": "saved real responses (CACHED)", "LIVE": "fetched live (LIVE)", "MOCK": "test data, not Akta output (MOCK)"}
+prism_state = ("trace sent" if M.get("prism_exported") else ("trace send failed" if prism.enabled() else "trace kept on this machine only")) \
+    + f" (session {M['prism_trace_id']})"
+rt_state = ("files shared" if roundtable.enabled() else "local copies only, not shared") \
+    + f" (claims v{M['roundtable_claims_version']}, findings v{M['roundtable_findings_version']})"
 st.markdown(
-    badge("Akta", M["akta_mode"], M["akta_mode"] in ("CACHED", "LIVE"), "Company data and news")
-    + badge("Nicrron", nicrron_state, summary_via_model or extraction_via_model, "AI model gateway that writes the summary")
-    + badge("PRISM", f"session {M['prism_trace_id']}"
-            + ("" if M.get("prism_exported") else (" (export failed)" if prism.enabled() else " (local only)")), bool(M.get("prism_exported")), "Run tracing")
-    + badge("Roundtable", f"claims v{M['roundtable_claims_version']} / findings v{M['roundtable_findings_version']}"
-            + ("" if roundtable.enabled() else f" ({roundtable.status()})"), roundtable.enabled(), "File hand-off between steps"),
+    badge("Akta company data:", AKTA_PLAIN.get(M["akta_mode"], M["akta_mode"]), M["akta_mode"] in ("CACHED", "LIVE"), "Company data and news")
+    + badge("Nicrron AI summary:", nicrron_state, summary_via_model or extraction_via_model, "AI model gateway that writes the summary")
+    + badge("PRISM run log:", prism_state, bool(M.get("prism_exported")), "Run tracing")
+    + badge("Roundtable hand-off:", rt_state, roundtable.enabled(), "File hand-off between steps"),
     unsafe_allow_html=True)
 st.caption("Badges show what this run actually used. Green = used; grey = not used on this host (the numbers do not depend on it).")
+if not akta_on:
+    st.info("Akta news is off for this run: news was not checked, so every verdict is ledger-only. A logo with risk news can show "
+            "VERIFIED here; turn the toggle back on to see it.")
 
 # ---------- strip ----------
 c1, c2, c3, c4 = st.columns(4)
@@ -174,8 +185,13 @@ with st.expander("Tie-out: how the deck's number was built"):
     rep["value"] = rep["value"].map(findings.usd)
     rep["pct_diff"] = rep["pct_diff"].map(lambda x: f"{100 * x:+.1f}%")
     st.dataframe(rep, hide_index=True, width="stretch")
-    br = pd.DataFrame([{"step": b["step"], "rows": b["rows"], "delta": findings.usd(b["delta"]), "row ids": ", ".join(b["row_ids"])} for b in F["ledger"]["bridge"]])
+    st.markdown("**Bridge from deck ARR to recurring ARR** (each step names the ledger rows behind it)")
+    br = pd.DataFrame([{"step": STEP_LABEL.get(b["step"], b["step"]), "rows": b["rows"], "delta": findings.usd(b["delta"]), "row ids": ", ".join(b["row_ids"])} for b in F["ledger"]["bridge"]])
     st.dataframe(br, hide_index=True, width="stretch")
+    st.markdown(E(" ".join(
+        [f"Deck ARR {findings.usd(H['deck_arr'])}"]
+        + [f"{'−' if b['delta'] < 0 else '+'} {STEP_LABEL.get(b['step'], b['step'])} {findings.usd(abs(b['delta']))}" for b in F["ledger"]["bridge"]]
+        + [f"= Recurring ARR {findings.usd(H['recurring_arr'])}"])))
     for line in F["tie_out_lines"]:
         st.markdown(f"- {E(line)}")
 
@@ -191,7 +207,9 @@ for i, l in enumerate(F["logos"]):
         color = COLORS[l["card"]]
         sub = {"ACTIVE": f"{cash(l['mrr_now'])}/month · {l['tenure_months']} months", "PILOT": f"pilot, {l['tenure_months']} months, canceled",
                "ONE_TIME": f"one-time {cash(l['lifetime_revenue'])}", "NOT_IN_LEDGER": "no charges"}[l["status"]]
-        ev = f"news: {plain(l['event_class'])}" if l["event_class"] != "none" else ""
+        ev = (f"latest news: {plain(l['event_class'])} "
+              + ("(risk)" if l["weight"] > 0 and l["status"] == "ACTIVE" else ("(no billed revenue at stake)" if l["weight"] > 0 else "(not a risk)"))
+              if l["event_class"] != "none" else "")
         st.markdown(f"<div class='rc-card' style='--rc:{color}'>"
                     f"<b>{l['name']}</b><br><span class='rc-stamp'>{LABEL[l['card']] or l['status'].replace('_', ' ')}</span><hr>"
                     f"<small>{sub}</small><br><small>{ev}</small></div>", unsafe_allow_html=True)
@@ -202,7 +220,7 @@ for i, l in enumerate(F["logos"]):
 # ---------- receipt ----------
 l = next(x for x in F["logos"] if x["slot"] == st.session_state.sel)
 st.subheader(f"Receipt: {l['name']}  ·  {LABEL[l['card']] or l['verdict'].replace('_', ' ')}", anchor="receipt")
-st.markdown(f"**Why:** {VERDICT_WHY.get(l['verdict'], '')}")
+st.markdown(f"**Why:** {VERDICT_WHY.get(l['verdict'], '')}" + ("" if akta_on else " Akta news is off for this run, so news was not checked."))
 if st.session_state.pop("jump", False):
     st.toast(f"Showing the receipt for {l['name']}")
     components.html("<script>try{window.parent.document.getElementById('receipt').scrollIntoView({behavior:'smooth'})}catch(e){}</script>", height=0)
