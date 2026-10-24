@@ -3,6 +3,7 @@ import json
 from datetime import date
 
 import streamlit as st
+import streamlit.components.v1 as components
 
 from integrations import env  # noqa: F401  (.env or the Secrets box -> os.environ, before the clients read it)
 from akta import client as akta
@@ -51,22 +52,61 @@ def usd(n):
     return E(findings.usd(n))
 
 
-def badge(name, state, ok):
+def badge(name, state, ok, tip=""):
     color = "#1f9d55" if ok else "#a0aec0"
-    return f"<span style='background:{color};color:white;padding:2px 8px;border-radius:10px;margin-right:6px;font-size:0.8rem'>{name} {state}</span>"
+    return (f"<span title='{tip}' style='display:inline-block;background:{color};color:white;padding:2px 8px;border-radius:10px;"
+            f"margin:0 6px 4px 0;font-size:0.8rem'>{name} {state}</span> ")
+
+
+def cash(n):
+    """Dollar amount for raw HTML blocks (no markdown escape, no LaTeX)."""
+    return findings.usd(n).replace("$", "&#36;")
+
+
+def plain(cls):
+    return cls.replace("_", " ")
+
+
+VERDICT_WHY = {
+    "VERIFIED": "Billed customer in the ledger and no weighted risk news in the window.",
+    "AT_RISK": "Billed customer in the ledger, but the news window has a risk event (classified articles are listed first on the right).",
+    "PILOT_OR_CHURNED": "The ledger shows a pilot that was canceled; it is not a paying customer today.",
+    "ONE_TIME": "The ledger shows only a one-time charge, not recurring revenue.",
+    "NOT_IN_LEDGER": "No charges for this name in the customer revenue export.",
+    "UNVERIFIED": "Billed customer in the ledger, but the outside-world (Akta news) check did not run, so it is not marked verified.",
+}
 
 
 # ---------- header ----------
 st.title("Receipts")
 st.caption("Twelve logos on a seed deck, each checked against the customer revenue export and against the outside world (Akta).")
 st.warning("Fictional startup (Bramblefin); customer names are real public companies used for demonstration; the commercial relationships "
-           "and the ledger are invented. **Prototype:** Akta data below is a MOCK fixture unless the badge says CACHED or LIVE.")
+           "and the ledger are invented. **Akta data:** the badge below says where it came from: CACHED = real Akta API responses saved "
+           "earlier and replayed; LIVE = fetched now; MOCK = hand-written test data, not Akta output.")
+with st.container(border=True):
+    st.markdown("**Start here (about one minute)**  \n"
+                "1. Read the four numbers: what the deck claims versus what the revenue ledger supports.  \n"
+                "2. In the **Logo wall**, click **Receipt** under any logo. The page jumps to that logo's evidence and its verdict.  \n"
+                "3. Try any company yourself in [Check any company](#check-any-company) (type a website, press Enter).")
+    with st.expander("What the words mean"):
+        st.markdown(
+            "- **ARR** (annual recurring revenue) = monthly recurring revenue × 12. **MRR** = monthly recurring revenue.  \n"
+            "- **Deck ARR**: the number on the startup's pitch slide. **Recurring ARR**: what the subscription ledger supports.  \n"
+            "- **ARR flagged (policy-weighted)**: recurring revenue from customers with risk news, multiplied by a fixed weight per "
+            "event type (for example layoffs or an acquisition). A screening signal, not a valuation; never subtracted from ARR.  \n"
+            "- **Exposure (unweighted)**: the same customers' revenue with no weight applied.  \n"
+            "- **Receipt**: the evidence for one logo: its ledger rows, its company profile and its news.  \n"
+            "- **Tie-out**: how the deck's number can be rebuilt from the ledger.  \n"
+            "- **Second-meeting question**: a question an investor could ask the founder next.  \n"
+            "- **Akta**: company data and news API. **Nicrron**: AI model gateway that writes the summary. **PRISM**: run tracing. "
+            "**Roundtable**: file hand-off between steps. A grey badge means that tool was not used on this host.")
 
 with st.sidebar:
     st.header("Run")
-    run_date = st.date_input("Run date (news window anchor)", value=date.today())
-    akta_on = st.toggle("Akta on", value=True, help="Off = events {} for every slot; shows how load-bearing Akta is.")
-    st.caption(f"AKTA_OFFLINE={'1' if akta.offline() else '0'} · live budget left: {akta.budget_left()}")
+    run_date = st.date_input("Run date (news is checked for the 180 days before this date)", value=date.today())
+    akta_on = st.toggle("Use Akta news", value=True, help="Off = ignore all news for every logo; shows how much the verdicts depend on Akta.")
+    st.caption(f"Live Akta lookups: {'off on this host (cached data only)' if akta.offline() else 'on'} · "
+               f"live calls left: {akta.budget_left()}")
 
 F = compute(run_date.isoformat(), akta_on)
 H, D, M = F["headline"], {k: E(v) for k, v in F["display"].items()}, F["meta"]
@@ -78,13 +118,14 @@ nicrron_state = (f"{nicrron.MODEL} (summary{' + extraction' if extraction_via_mo
                  else (f"{nicrron.MODEL} (extraction only; summary: template)" if extraction_via_model
                        else ("template (model call failed or blocked)" if nicrron.enabled() else "OFF")))
 st.markdown(
-    badge("Akta", M["akta_mode"], M["akta_mode"] in ("CACHED", "LIVE"))
-    + badge("Nicrron", nicrron_state, summary_via_model or extraction_via_model)
+    badge("Akta", M["akta_mode"], M["akta_mode"] in ("CACHED", "LIVE"), "Company data and news")
+    + badge("Nicrron", nicrron_state, summary_via_model or extraction_via_model, "AI model gateway that writes the summary")
     + badge("PRISM", f"session {M['prism_trace_id']}"
-            + ("" if M.get("prism_exported") else (" (export failed)" if prism.enabled() else " (local only)")), bool(M.get("prism_exported")))
+            + ("" if M.get("prism_exported") else (" (export failed)" if prism.enabled() else " (local only)")), bool(M.get("prism_exported")), "Run tracing")
     + badge("Roundtable", f"claims v{M['roundtable_claims_version']} / findings v{M['roundtable_findings_version']}"
-            + ("" if roundtable.enabled() else f" ({roundtable.status()})"), roundtable.enabled()),
+            + ("" if roundtable.enabled() else f" ({roundtable.status()})"), roundtable.enabled(), "File hand-off between steps"),
     unsafe_allow_html=True)
+st.caption("Badges show what this run actually used. Green = used; grey = not used on this host (the numbers do not depend on it).")
 
 # ---------- strip ----------
 c1, c2, c3, c4 = st.columns(4)
@@ -93,12 +134,12 @@ c2.metric("Recurring ARR (ledger)", F["display"]["recurring_arr"])
 c3.metric("ARR flagged (policy-weighted)", F["display"]["arr_at_risk"], help="Screening weights, not a valuation. Never subtracted into ARR or used in a multiple.")
 c4.metric("Top customer share of MRR", F["display"]["top1_share"])
 st.caption(f"Exposure (unweighted): {D['arr_exposed']} of recurring ARR sits with {D['exposed_customers']} customers that had a risk event "
-           f"({D['exposure_pct']}). Ask: {D['multiple_deck']} deck ARR vs {D['multiple_recurring']} recurring ARR.")
+           f"({D['exposure_pct']}). Valuation asked: {D['multiple_deck']} deck ARR vs {D['multiple_recurring']} recurring ARR.")
 
 # ---------- summary ----------
 with st.container(border=True):
     st.markdown("**Summary**  \n" + E(F["summary"]["text"]).replace("\n", "  \n"))
-    st.caption(f"Source: {F['summary']['source']}. Digit guardrail: every number must appear in the engine's display strings"
+    st.caption(f"Source: {F['summary']['source']}. Number check: every number in this text must match a number the deterministic engine computed"
                + (f"; blocked tokens: {F['summary']['guardrail_failures']}" if F["summary"]["guardrail_failures"] else "; pass."))
 
 # ---------- tie-out ----------
@@ -116,24 +157,31 @@ with st.expander("Tie-out: how the deck's number was built"):
 
 # ---------- wall ----------
 st.subheader("Logo wall (deck slide 5)")
+st.caption("Click **Receipt** under a logo to see its evidence. Green = verified paying customer (+ = recent funding news) · "
+           "amber = at risk or pilot only · grey = one-time or world check not available · red = not in the ledger.")
 if "sel" not in st.session_state:
     st.session_state.sel = "logo_01"
 cols = st.columns(6)
 for i, l in enumerate(F["logos"]):
     with cols[i % 6]:
         color = COLORS[l["card"]]
-        sub = {"ACTIVE": f"{usd(l['mrr_now']).replace('$', '&#36;')}/mo · {l['tenure_months']} mo", "PILOT": f"pilot, {l['tenure_months']} mo, canceled",
-               "ONE_TIME": f"one-time {usd(l['lifetime_revenue']).replace('$', '&#36;')}", "NOT_IN_LEDGER": "no charges"}[l["status"]]
-        ev = l["event_class"] if l["event_class"] != "none" else ""
+        sub = {"ACTIVE": f"{cash(l['mrr_now'])}/month · {l['tenure_months']} months", "PILOT": f"pilot, {l['tenure_months']} months, canceled",
+               "ONE_TIME": f"one-time {cash(l['lifetime_revenue'])}", "NOT_IN_LEDGER": "no charges"}[l["status"]]
+        ev = f"news: {plain(l['event_class'])}" if l["event_class"] != "none" else ""
         st.markdown(f"<div style='border-left:6px solid {color};padding:6px 8px;background:rgba(127,127,127,0.08);border-radius:6px;min-height:92px'>"
                     f"<b>{l['name']}</b><br><span style='color:{color};font-weight:600'>{LABEL[l['card']] or l['status'].replace('_', ' ')}</span><br>"
                     f"<small>{sub}</small><br><small>{ev}</small></div>", unsafe_allow_html=True)
         if st.button("Receipt", key=f"b_{l['slot']}", width="stretch"):
             st.session_state.sel = l["slot"]
+            st.session_state.jump = True
 
 # ---------- receipt ----------
 l = next(x for x in F["logos"] if x["slot"] == st.session_state.sel)
-st.subheader(f"Receipt: {l['name']}  ·  {l['verdict'].replace('_', ' ')}")
+st.subheader(f"Receipt: {l['name']}  ·  {LABEL[l['card']] or l['verdict'].replace('_', ' ')}", anchor="receipt")
+st.markdown(f"**Why:** {VERDICT_WHY.get(l['verdict'], '')}")
+if st.session_state.pop("jump", False):
+    st.toast(f"Showing the receipt for {l['name']}")
+    components.html("<script>try{window.parent.document.getElementById('receipt').scrollIntoView({behavior:'smooth'})}catch(e){}</script>", height=0)
 a, b, c = st.columns(3)
 with a:
     st.markdown("**Ledger**")
@@ -159,11 +207,23 @@ with c:
         st.write("World check unavailable: no cached, live or mock Akta news for this domain, so this card is not marked verified.")
     elif not ak["events"]:
         st.write("No articles in window.")
-    for e in ak["events"]:
+
+    def news_line(e):
         st.markdown(E(f"{e['date']} · {e['publisher']}: {e['title']}"))
-        st.caption(f"code {e['code'] or 'none'} → {e['class']} ({e['trigger']}{', keyword-classified' if e['keyword_classified'] else ''})"
+        st.caption(f"code {e['code'] or 'none'} → {plain(e['class'])} ({e['trigger']}{', matched by keyword' if e['keyword_classified'] else ''})"
                    f"{'' if e['in_window'] else ' · outside window'}")
-    st.write(f"Policy weight **{l['weight']:.2f}** → MRR flagged **{usd(l['mrr_at_risk'])}**")
+
+    weighted = [e for e in ak["events"] if e["class"] != "none"]
+    other = [e for e in ak["events"] if e["class"] == "none"]
+    if weighted:
+        st.markdown("Classified articles (the most severe one sets the verdict):")
+    for e in weighted:
+        news_line(e)
+    if other:
+        with st.expander(f"{len(other)} other articles with no risk code"):
+            for e in other:
+                news_line(e)
+    st.write(f"Policy weight **{l['weight']:.2f}** (fixed weight for this event type) → monthly revenue flagged **{usd(l['mrr_at_risk'])}**")
 st.info(E(f"Second-meeting question: {l['question']}"))
 
 # ---------- enterprise check ----------
@@ -173,8 +233,8 @@ st.dataframe([{"logo": x["name"], "headcount_range": x["akta"].get("headcount_ra
              hide_index=True, width="stretch")
 
 # ---------- live panel ----------
-st.subheader("Check any company")
-q = st.text_input("Company website or name (e.g. ramp.com, Cloudflare, miro.com)")
+st.subheader("Check any company", anchor="check-any-company")
+q = st.text_input("Company website or name (e.g. ramp.com, Cloudflare, miro.com), then press Enter")
 
 
 def known_domains():
@@ -210,7 +270,7 @@ if q:
             if err:
                 why = f"live lookup failed ({err})"
             elif akta.offline():
-                why = "live lookups are off on this host (AKTA_OFFLINE=1)"
+                why = "live lookups are off on this host, so only pre-warmed companies work here"
             elif akta.budget_left() <= 0:
                 why = "this session's live budget is spent (AKTA_LIVE_BUDGET)"
             else:
@@ -223,15 +283,22 @@ if q:
             name = next((l["name"] for l in F["logos"] if l["akta"].get("domain") == dom), dom.split(".")[0].title())
             evs = rules.events_for(nws.get("response"), name, cfg, run_date, domain=dom)
             top = rules.most_severe(evs)
-            st.write(f"{dom} · headcount range {fg.get('headcount_range') or 'unverified'} · mode {nws['mode']}"
+            st.markdown(f"**Result for {dom}:** most severe event in the last 180 days: "
+                        f"**{plain(top['class']) if top else 'none'}** (weight {cfg['policy'].get(top['class'] if top else 'none', 0):.2f})")
+            st.write(f"{dom} · headcount range {fg.get('headcount_range') or 'unverified'} · data: {nws['mode']}"
                      + (" (hand-written fixture, not Akta output)" if nws["mode"] == "MOCK" else ""))
-            for e in evs:
-                st.markdown(E(f"{e['date']} · {e['title']} → {e['class']} ({e['trigger']})"))
-            st.write(f"Most severe in window: {top['class'] if top else 'none'} (weight {cfg['policy'].get(top['class'] if top else 'none', 0):.2f})")
+            for e in [e for e in evs if e["class"] != "none"]:
+                st.markdown(E(f"{e['date']} · {e['title']} → {plain(e['class'])} ({e['trigger']})"))
+            rest = [e for e in evs if e["class"] == "none"]
+            if rest:
+                with st.expander(f"{len(rest)} other articles with no risk code"):
+                    for e in rest:
+                        st.markdown(E(f"{e['date']} · {e['title']}"))
 
 # ---------- provenance ----------
 st.download_button("Download provenance (JSON)",
                    json.dumps({"headline": H, "display": F["display"], "provenance": F["provenance"], "ledger": F["ledger"], "meta": M, "claims": F["claims"]},
                               indent=1, default=str), file_name="provenance.json")
 st.caption(f"Ledger as of {M['as_of']} · news anchored to {M['run_date']} · extraction source: {M['extraction_source']} · "
-           f"PRISM spans: {', '.join(M['prism_spans'][:3])}…")
+           f"PRISM spans: {', '.join(M['prism_spans'][:3])}…. The JSON lists the ledger row ids (data_room/stripe_charges.csv) "
+           "and Akta article ids behind every number.")
