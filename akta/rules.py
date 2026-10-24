@@ -34,7 +34,7 @@ def layoff_class(text, cfg):
     if any(x >= ev["layoffs_major_min_pct"] for x in pcts):
         return "layoffs_major", f"percent of workforce >= {ev['layoffs_major_min_pct']}"
     for m in re.finditer(r"(\d[\d,]*)\s+(people|employees|staff|jobs|workers|positions|roles)", text):
-        if int(m.group(1).replace(",", "")) >= ev["layoffs_major_min_people"] and LAYOFF_VERB_RE.search(text[max(0, m.start() - 80):m.end() + 40]):
+        if int(m.group(1).replace(",", "")) >= ev["layoffs_major_min_people"] and LAYOFF_VERB_RE.search(text[max(0, m.start() - 80):m.start()]):
             return "layoffs_major", f"people >= {ev['layoffs_major_min_people']}"
     for kw in ev["layoffs_major_keywords"]:
         if re.search(rf"\b{kw}\b", text, re.I):
