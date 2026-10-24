@@ -69,7 +69,7 @@ def plain(cls):
 
 VERDICT_WHY = {
     "VERIFIED": "Billed customer in the ledger and no weighted risk news in the window.",
-    "AT_RISK": "Billed customer in the ledger, but the news window has a risk event (classified articles are listed first on the right).",
+    "AT_RISK": "Billed customer in the ledger, but the news window has a risk event (shown first on the right).",
     "PILOT_OR_CHURNED": "The ledger shows a pilot that was canceled; it is not a paying customer today.",
     "ONE_TIME": "The ledger shows only a one-time charge, not recurring revenue.",
     "NOT_IN_LEDGER": "No charges for this name in the customer revenue export.",
@@ -98,6 +98,10 @@ with st.container(border=True):
             "- **Receipt**: the evidence for one logo: its ledger rows, its company profile and its news.  \n"
             "- **Tie-out**: how the deck's number can be rebuilt from the ledger.  \n"
             "- **Second-meeting question**: a question an investor could ask the founder next.  \n"
+            "- **Policy weight**: the fixed share of a customer's revenue flagged for each event type (shutdown 1.00, acquisition or "
+            "major layoffs 0.50, minor layoffs 0.25; funding, product launch and **acquirer** 0.00).  \n"
+            "- **Acquisition** = the customer is being bought (a risk). **Acquirer** = the customer is buying another company "
+            "(buyer side, not a risk).  \n"
             "- **Akta**: company data and news API. **Nicrron**: AI model gateway that writes the summary. **PRISM**: run tracing. "
             "**Roundtable**: file hand-off between steps. A grey badge means that tool was not used on this host.")
 
@@ -190,8 +194,9 @@ with a:
         st.markdown(f"Status {l['status']} · MRR {usd(l['mrr_now'])} · tenure {l['tenure_months'] or 'n/a'} months · "
                  f"lifetime {usd(l['lifetime_revenue'])} · {len(l['charge_ids'])} charge rows")
         charges, _, _ = load.load_ledger()
-        st.dataframe(charges[charges["charge_id"].isin(l["charge_ids"])][["charge_id", "created", "amount", "subkind", "description"]],
-                     hide_index=True, width="stretch", height=220)
+        rows = charges[charges["charge_id"].isin(l["charge_ids"])][["created", "amount", "subkind", "charge_id", "description"]].copy()
+        rows["created"] = rows["created"].astype(str).str[:10]
+        st.dataframe(rows, hide_index=True, width="stretch", height=220)
     else:
         st.write(f"Not in the ledger. Nearest ledger name: {l['nearest_name']} (ratio {l['nearest_ratio']}).")
 with b:
@@ -213,14 +218,19 @@ with c:
         st.caption(f"code {e['code'] or 'none'} → {plain(e['class'])} ({e['trigger']}{', matched by keyword' if e['keyword_classified'] else ''})"
                    f"{'' if e['in_window'] else ' · outside window'}")
 
-    weighted = [e for e in ak["events"] if e["class"] != "none"]
-    other = [e for e in ak["events"] if e["class"] == "none"]
+    pol = load.load_config()["policy"]
+
+    def counts(e):
+        return e["in_window"] and e.get("primary", True) and (pol.get(e["class"], 0) > 0 or e["class"] == "funding")
+
+    weighted = [e for e in ak["events"] if counts(e)]
+    other = [e for e in ak["events"] if not counts(e)]
     if weighted:
-        st.markdown("Classified articles (the most severe one sets the verdict):")
+        st.markdown("Articles that can change the verdict (risk weight above zero, or funding):")
     for e in weighted:
         news_line(e)
     if other:
-        with st.expander(f"{len(other)} other articles with no risk code"):
+        with st.expander(f"{len(other)} other articles (no effect on the verdict)"):
             for e in other:
                 news_line(e)
     st.write(f"Policy weight **{l['weight']:.2f}** (fixed weight for this event type) → monthly revenue flagged **{usd(l['mrr_at_risk'])}**")
@@ -287,13 +297,14 @@ if q:
                         f"**{plain(top['class']) if top else 'none'}** (weight {cfg['policy'].get(top['class'] if top else 'none', 0):.2f})")
             st.write(f"{dom} · headcount range {fg.get('headcount_range') or 'unverified'} · data: {nws['mode']}"
                      + (" (hand-written fixture, not Akta output)" if nws["mode"] == "MOCK" else ""))
-            for e in [e for e in evs if e["class"] != "none"]:
+            hit = [e for e in evs if e["in_window"] and cfg["policy"].get(e["class"], 0) > 0]
+            for e in hit:
                 st.markdown(E(f"{e['date']} · {e['title']} → {plain(e['class'])} ({e['trigger']})"))
-            rest = [e for e in evs if e["class"] == "none"]
+            rest = [e for e in evs if e not in hit]
             if rest:
-                with st.expander(f"{len(rest)} other articles with no risk code"):
+                with st.expander(f"{len(rest)} other articles (no risk weight)"):
                     for e in rest:
-                        st.markdown(E(f"{e['date']} · {e['title']}"))
+                        st.markdown(E(f"{e['date']} · {e['title']} → {plain(e['class'])}"))
 
 # ---------- provenance ----------
 st.download_button("Download provenance (JSON)",
