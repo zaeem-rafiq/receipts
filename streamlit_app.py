@@ -20,18 +20,22 @@ st.markdown("""<style>
 h1, h2, h3 {font-family: 'Instrument Serif', Georgia, serif !important; font-weight: 400 !important; letter-spacing: -0.01em;}
 .rc-wordmark {font-family: 'Instrument Serif', Georgia, serif; font-size: 3rem; line-height: 1.1; margin: 0;}
 .rc-wordmark span {color: #B8361E;}
-[data-testid="stMetric"] {background: #FFFDF8; border: 1px solid #D9D2C3; border-radius: 4px; padding: 14px 16px;}
-[data-testid="stMetricLabel"] p {font-family: 'IBM Plex Mono', monospace; text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.7rem; white-space: normal;}
+[data-testid="stMetric"] {background: #FFFDF8; border: 1px solid #D9D2C3; border-radius: 4px; padding: 14px 16px; min-height: 128px;}
+[data-testid="stMetricLabel"] p {text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.68rem; font-weight: 600; color: #6B6355; white-space: normal;}
 [data-testid="stMetricLabel"] div {overflow: visible; white-space: normal;}
-[data-testid="stMetricValue"] {font-family: 'Instrument Serif', Georgia, serif; font-variant-numeric: tabular-nums;}
+[data-testid="stMetricValue"], [data-testid="stMetricValue"] > div {font-family: 'Instrument Serif', Georgia, serif; font-variant-numeric: tabular-nums;
+  font-size: clamp(1.7rem, 2.6vw, 2.4rem); line-height: 1.15; overflow: visible; text-overflow: clip; white-space: nowrap;}
 [data-testid="stColumn"]:nth-child(3) [data-testid="stMetric"] {background: #F6E1DA; border-color: #E3B3A6;}
 [data-testid="stColumn"]:nth-child(3) [data-testid="stMetricValue"] {color: #B8361E;}
-.rc-card {background: #FFFDF8; border: 1px solid #D9D2C3; border-top: 4px solid var(--rc); border-radius: 2px; padding: 8px 10px; min-height: 170px;}
-.rc-card b {font-size: 0.95rem;}
-.rc-stamp {display: inline-block; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; font-weight: 600; letter-spacing: 0.06em;
-           color: var(--rc); border: 1px solid var(--rc); padding: 0 5px; margin: 3px 0; border-radius: 2px;}
-.rc-card small {font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; color: #555;}
-.rc-card hr {border: none; border-top: 1px dashed #CFC6B3; margin: 4px 0;}
+.rc-card {background: #FFFDF8; border: 1px solid #D9D2C3; border-top: 4px solid var(--rc); border-radius: 3px; padding: 12px 14px;
+          height: 132px; box-sizing: border-box; display: flex; flex-direction: column; gap: 4px; overflow: hidden; margin-bottom: 6px;}
+.rc-card .rc-name {font-weight: 600; font-size: 1rem; color: #1E1B16; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+.rc-stamp {align-self: flex-start; white-space: nowrap; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; font-weight: 600; letter-spacing: 0.06em;
+           color: var(--rc); border: 1px solid var(--rc); padding: 1px 6px; border-radius: 2px;}
+.rc-card hr {border: none; border-top: 1px dashed #CFC6B3; margin: 4px 0 2px; width: 100%;}
+.rc-line {font-size: 0.82rem; line-height: 1.3; color: #4A443A; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+.rc-news {font-size: 0.78rem; line-height: 1.3; color: #6B6355;}
+.rc-news b {font-weight: 600; color: #4A443A;}
 </style>""", unsafe_allow_html=True)
 
 COLORS = {"green": "#1f9d55", "green_plus": "#1f9d55", "amber": "#d97706", "amber_pilot": "#b7791f", "grey": "#718096",
@@ -204,18 +208,19 @@ st.caption("Click **Receipt** under a logo to see its evidence. Green = verified
            "amber = at risk or pilot only · grey = one-time or world check not available · red = not in the ledger.")
 if "sel" not in st.session_state:
     st.session_state.sel = "logo_01"
-cols = st.columns(6)
 for i, l in enumerate(F["logos"]):
-    with cols[i % 6]:
+    if i % 4 == 0:
+        cols = st.columns(4)
+    with cols[i % 4]:
         color = COLORS[l["card"]]
-        sub = {"ACTIVE": f"{cash(l['mrr_now'])}/month · {l['tenure_months']} months", "PILOT": f"pilot, {l['tenure_months']} months, canceled",
-               "ONE_TIME": f"one-time {cash(l['lifetime_revenue'])}", "NOT_IN_LEDGER": "no charges"}[l["status"]]
-        ev = (f"latest news: {plain(l['event_class'])} "
-              + ("(risk)" if l["weight"] > 0 and l["status"] == "ACTIVE" else ("(no billed revenue at stake)" if l["weight"] > 0 else "(not a risk)"))
-              if l["event_class"] != "none" else "")
+        sub = {"ACTIVE": f"{cash(l['mrr_now'])}/mo · {l['tenure_months']} mo", "PILOT": f"Pilot · {l['tenure_months']} mo · canceled",
+               "ONE_TIME": f"One-time {cash(l['lifetime_revenue'])}", "NOT_IN_LEDGER": "No charges"}[l["status"]]
+        ev = (f"News: <b>{plain(l['event_class'])}</b> · "
+              + ("risk" if l["weight"] > 0 and l["status"] == "ACTIVE" else ("no billed revenue at stake" if l["weight"] > 0 else "not a risk"))
+              if l["event_class"] != "none" else "News: none in window")
         st.markdown(f"<div class='rc-card' style='--rc:{color}'>"
-                    f"<b>{l['name']}</b><br><span class='rc-stamp'>{LABEL[l['card']] or l['status'].replace('_', ' ')}</span><hr>"
-                    f"<small>{sub}</small><br><small>{ev}</small></div>", unsafe_allow_html=True)
+                    f"<div class='rc-name' title='{l['name']}'>{l['name']}</div><span class='rc-stamp'>{LABEL[l['card']] or l['status'].replace('_', ' ')}</span><hr>"
+                    f"<div class='rc-line'>{sub}</div><div class='rc-news'>{ev}</div></div>", unsafe_allow_html=True)
         if st.button("Receipt", key=f"b_{l['slot']}", width="stretch"):
             st.session_state.sel = l["slot"]
             st.session_state.jump = True
