@@ -8,7 +8,7 @@
 
 Built at Deal Flow, NYC's first VC hackathon (Betaworks, Oct 24 2026), Track 2: Diligence. Sponsor award entered: Wokelo "Best Use of External Data" (Akta API).
 
-**Live demo:** https://receiptsdealflow.streamlit.app (Streamlit Community Cloud, cache-only: `AKTA_OFFLINE=1`, so a judge's search never spends Akta credits). Repo: https://github.com/zaeem-rafiq/receipts.
+**Live demo:** https://receiptsdealflow.streamlit.app (Streamlit Community Cloud; the 22 deck companies are served from the committed Akta cache, and the "Check any company" panel makes live Akta lookups capped by `AKTA_LIVE_BUDGET`, so a judge can type any company and never run the account dry). Repo: https://github.com/zaeem-rafiq/receipts.
 
 ## Fiction disclosure
 
@@ -25,7 +25,7 @@ python -m pytest -q tests       # 166 checks, oracle in tests/oracle.json
 streamlit run streamlit_app.py
 ```
 
-Keys are read from the environment, a git-ignored `.env` in the repo root (`cp .env.example .env`), or the Streamlit Secrets box: `AKTA_API_KEY`, `NICRRON_API_KEY`, `PRISMTRACE_API_KEY` (plus `PRISMTRACE_PROJECT_ID` and `PRISMTRACE_HOST`, which default to the Receipts project and PRISM's API host). Missing keys never crash the app; the matching badge reads OFF or MOCK. `AKTA_OFFLINE=1` (the default, and the public host's setting) serves Akta data from `demo_cache/akta/` only; `AKTA_OFFLINE=0 AKTA_LIVE_BUDGET=10` on a laptop allows ten live lookups. `python scripts/warm.py` fills the cache for the 12 logo slots and the pre-warmed live-panel names.
+Keys are read from the environment, a git-ignored `.env` in the repo root (`cp .env.example .env`), or the Streamlit Secrets box: `AKTA_API_KEY`, `NICRRON_API_KEY`, `PRISMTRACE_API_KEY` (plus `PRISMTRACE_PROJECT_ID` and `PRISMTRACE_HOST`, which default to the Receipts project and PRISM's API host). Missing keys never crash the app; the matching badge reads OFF or MOCK. `AKTA_OFFLINE=1` (the default) serves Akta data from `demo_cache/akta/` only; `AKTA_OFFLINE=0 AKTA_LIVE_BUDGET=200` (the public host's setting) allows up to 200 live API calls per process, two per new company, before the panel falls back to the cache. `python scripts/warm.py` fills the cache for the 12 logo slots and the pre-warmed live-panel names.
 
 ## What is real and what is not
 

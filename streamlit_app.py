@@ -207,7 +207,15 @@ if q:
             st.error(f"Lookup failed: {type(e).__name__}")
         if enr.get("unresolved") and nws.get("unresolved"):
             err = akta.ERRORS.get(("news", dom)) or akta.ERRORS.get(("enrichment", dom))
-            st.write(f"{dom}: not in today's cache" + (f"; live lookup failed ({err})" if err else "; live lookups run from the demo laptop (AKTA_OFFLINE=0 with a live budget)") + ".")
+            if err:
+                why = f"live lookup failed ({err})"
+            elif akta.offline():
+                why = "live lookups are off on this host (AKTA_OFFLINE=1)"
+            elif akta.budget_left() <= 0:
+                why = "this session's live budget is spent (AKTA_LIVE_BUDGET)"
+            else:
+                why = "no Akta key on this host"
+            st.write(f"{dom}: not in today's cache; {why}. Try one of the pre-warmed names.")
         else:
             body = enr.get("response") or {}
             body = body["data"] if isinstance(body.get("data"), dict) else body
