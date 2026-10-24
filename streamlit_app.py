@@ -146,6 +146,13 @@ with st.sidebar:
                f"live calls left: {akta.budget_left()}")
 
 F = compute(run_date.isoformat(), akta_on)
+if not roundtable.enabled() and roundtable.has_key() and not st.session_state.get("rt_retry"):
+    # compute() is cached per run date, so one cold-start timeout would otherwise leave the badge grey for every visitor;
+    # retry the hand-off once per browser session with the same findings payload (local copy versioned as always).
+    st.session_state["rt_retry"] = True
+    _rv = roundtable.put_file("findings.json", {k: F[k] for k in ("headline", "display", "tie_out_lines", "meta")}, note="engine run (retry)")
+    if roundtable.enabled():
+        F["meta"]["roundtable_findings_version"] = _rv
 H, D, M = F["headline"], {k: E(v) for k, v in F["display"].items()}, F["meta"]
 
 # Badges report what this run actually did, never what a key would allow.
@@ -163,7 +170,7 @@ st.markdown(
     badge("Akta company data:", AKTA_PLAIN.get(M["akta_mode"], M["akta_mode"]), M["akta_mode"] in ("CACHED", "LIVE"), "Company data and news")
     + badge("Nicrron AI summary:", nicrron_state, summary_via_model or extraction_via_model, "AI model gateway that writes the summary")
     + badge("PRISM run log:", prism_state, bool(M.get("prism_exported")), "Run tracing")
-    + badge("Roundtable hand-off:", rt_state, roundtable.enabled(), "File hand-off between steps"),
+    + badge("Roundtable hand-off:", rt_state, roundtable.enabled(), "File hand-off between steps: " + roundtable.status() + (f" ({roundtable.STATE['last_error']})" if roundtable.STATE.get("last_error") else "")),
     unsafe_allow_html=True)
 st.caption("Badges show what this run actually used. Green = used; grey = not used on this host (the numbers do not depend on it).")
 if not akta_on:

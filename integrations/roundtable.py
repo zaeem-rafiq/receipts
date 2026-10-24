@@ -89,6 +89,10 @@ def enabled():
     return STATE["remote_ok"]
 
 
+def has_key():
+    return bool(os.environ.get("ROUNDTABLE_API_KEY"))
+
+
 def status():
     """Short label for the badge."""
     if STATE["remote_ok"]:
