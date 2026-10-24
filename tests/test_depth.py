@@ -195,3 +195,15 @@ def test_lines_helper():
                       events=[{"class": "acquisition", "in_window": True, "article_id": "a"}])
     ls = depth.lines(p)
     assert ls[0].startswith("Pays $72,000 ARR") and "announced, not closed" in ls[1]
+
+
+def test_company_search_list_shape(tmp_path, monkeypatch):
+    """Real Company Search returns response.data as a ranked candidate list; pick the logo's own website."""
+    monkeypatch.setattr(client, "CACHE", tmp_path)
+    put(tmp_path, "search", "example.com", {"data": [
+        {"name": "Example", "website": "https://www.example.com", "company_status": "delisted"},
+        {"name": "Example Ltd", "website": "https://example.co.uk", "company_status": "private"}]})
+    fg = {"company_type": {"label": "Private"}, "operating_status": {"label": "Operating"}}
+    p = depth.profile(enr(fg), "example.com", None, CFG, RUN, events=[])
+    assert p["company_status"] == "delisted" and p["status_check"]["source"] == "Company Search company_status"
+    assert p["status_check"]["agrees"] is False and "Ask the founder" in p["status_check"]["line"]
