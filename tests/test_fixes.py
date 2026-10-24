@@ -181,3 +181,43 @@ def test_guardrail_blocks_reformatted_numbers():
     assert summarize.guardrail("The deck claims $1,200,000 ARR and the ledger supports $840,000.", d) == []
     assert summarize.guardrail("The deck claims $1.2M ARR.", d)  # '$1.2' is not an engine token: blocked
     assert summarize.guardrail("ARR flagged is 13.3 percent", d) == ["13.3"]
+
+
+def test_failed_live_lookup_is_not_retried_within_the_process(monkeypatch, tmp_path):
+    _live_env(monkeypatch, tmp_path)
+    import requests
+    monkeypatch.setattr(requests, "get", lambda *a, **k: _Resp(403))
+    first = client.get("news", "https://monday.com")
+    second = client.get("news", "https://monday.com")
+    assert first["mode"] == "MOCK" and second["mode"] == "MOCK"
+    assert client._live_used == 1 and client.ERRORS[("news", "monday.com")] == "HTTP 403"
+
+
+def test_active_logo_without_website_is_unverified_when_akta_is_on(monkeypatch):
+    real = load.load_logos
+
+    def blank_one(data):
+        logos, claims, src = real(data)
+        for lg in logos:
+            if lg["slot"] == "logo_03":
+                lg["website"] = ""
+        return logos, claims, src
+    monkeypatch.setattr(load, "load_logos", blank_one)
+    F = findings.run(run_date=date(2026, 10, 24))
+    lg = next(l for l in F["logos"] if l["slot"] == "logo_03")
+    assert lg["status"] == "ACTIVE" and lg["verdict"] == "UNVERIFIED" and lg["card"] == "grey_unverified"
+    assert lg["akta"]["mode"] == "MISS" and lg["akta"]["news_status"] == "unavailable" and "logo_03" in F["headline"]["unverified_slots"]
+    assert "1 missing" in F["meta"]["akta_mode"]
+    off = findings.run(run_date=date(2026, 10, 24), akta_enabled=False)
+    assert next(l for l in off["logos"] if l["slot"] == "logo_03")["verdict"] == "VERIFIED"
+
+
+def test_shutdown_headline_beats_any_akta_tag():
+    art = {"title": "Relay announces shutdown; team joins Google Chrome", "ai_summary": "Relay will shut down on Sept 14."}
+    for codes in ([], ["CM03"], ["WT02"], ["SD01"], ["CM01"]):
+        c = rules.classify({**art, "types": [{"code": c} for c in codes]}, "Relay", CFG)
+        assert c["class"] == "shutdown", codes
+    # a layoff story that only mentions a closure in the summary keeps its tag
+    lay = {"title": "monday.com cuts roughly 20% of global workforce", "types": [{"code": "WT02"}],
+           "ai_summary": "monday.com is laying off roughly 20% of staff and shutting down its Berlin office."}
+    assert rules.classify(lay, "monday.com", CFG)["class"] == "layoffs_major"

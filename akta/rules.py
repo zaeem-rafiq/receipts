@@ -50,6 +50,9 @@ def classify(article, company_name, cfg):
     codes = _codes(article)
     if "RK07" in codes:
         return {"class": "shutdown", "trigger": "Akta code RK07", "keyword_classified": False}
+    if SHUTDOWN_RE.search(NOT_SHUTDOWN_RE.sub(" ", article.get("title", ""))):
+        # No Akta code means shutdown (PLAN section 6); a shutdown headline outranks any other tag on the same article.
+        return {"class": "shutdown", "trigger": "shutdown keyword in title", "keyword_classified": True}
     if "CM03" in codes:
         if is_target_side([article.get("title", ""), article.get("ai_summary", "")], company_name):
             return {"class": "acquisition", "trigger": "CM03 + target-side match", "keyword_classified": True}

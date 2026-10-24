@@ -34,9 +34,11 @@ def compute(run_date_iso, akta_on):
     _, cv = roundtable.get_file("claims.json")
     F["meta"]["roundtable_claims_version"] = cv
     F["meta"]["prism_trace_id"] = run.trace_id
-    F["meta"]["prism_exported"] = run.exported
     F["meta"]["prism_spans"] = [s["name"] for s in run.spans]
-    run.save()
+    F["meta"]["prism_exported"] = run.save()  # True only when PRISM accepted the trajectory
+    F["meta"]["prism_llm_calls"] = len(run.llm_calls)
+    F["meta"]["prism_accepted"] = run.accepted
+    F["meta"]["prism_export_error"] = run.export_error
     return F
 
 
@@ -78,7 +80,8 @@ nicrron_state = (f"{nicrron.MODEL} (summary{' + extraction' if extraction_via_mo
 st.markdown(
     badge("Akta", M["akta_mode"], M["akta_mode"] in ("CACHED", "LIVE"))
     + badge("Nicrron", nicrron_state, summary_via_model or extraction_via_model)
-    + badge("PRISM", f"trace {M['prism_trace_id']}" + ("" if M.get("prism_exported") else " (local only)"), bool(M.get("prism_exported")))
+    + badge("PRISM", f"session {M['prism_trace_id']}"
+            + ("" if M.get("prism_exported") else (" (export failed)" if prism.enabled() else " (local only)")), bool(M.get("prism_exported")))
     + badge("Roundtable", f"claims v{M['roundtable_claims_version']} / findings v{M['roundtable_findings_version']}"
             + ("" if roundtable.enabled() else " (local stub)"), roundtable.enabled()),
     unsafe_allow_html=True)

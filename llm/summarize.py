@@ -49,7 +49,7 @@ def summarize(display, run=None):
     try:
         cm = run.span("summarize", provider="nicrron", model=nicrron.MODEL) if run else None
         rec = cm.__enter__() if cm else {"attrs": {}}
-        text, meta = nicrron.chat([{"role": "user", "content": PROMPT + json.dumps(display)}])
+        text, meta = nicrron.chat([{"role": "user", "content": PROMPT + json.dumps(display)}], run=run, purpose="summary")
         bad = guardrail(text, display)
         rec["attrs"].update({"input": json.dumps(display), "output": text, "guardrail.digit_rule": "fail" if bad else "pass"})
         if cm:
