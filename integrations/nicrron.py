@@ -1,6 +1,8 @@
 """Nicrron gateway (OpenAI-compatible). Base URL and model per PLAN.md; live path UNTESTED from the sandbox (no key here)."""
 import os
 
+from integrations import env  # noqa: F401
+
 BASE_URL = "https://api.nicrron.ai/v1"
 MODEL = os.environ.get("NICRRON_MODEL", "anthropic/claude-haiku-5-5")
 

@@ -4,6 +4,7 @@ from datetime import date
 
 import streamlit as st
 
+from integrations import env  # noqa: F401  (.env or the Secrets box -> os.environ, before the clients read it)
 from akta import client as akta
 from akta import rules
 from engine import findings, load

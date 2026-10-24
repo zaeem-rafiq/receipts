@@ -7,6 +7,8 @@ import time
 import uuid
 from pathlib import Path
 
+from integrations import env  # noqa: F401
+
 LOG = Path(__file__).resolve().parent.parent / "demo_cache" / "traces"
 _tracer = None
 

@@ -23,7 +23,7 @@ python -m pytest -q tests       # 110 checks against tests/oracle.json
 streamlit run streamlit_app.py
 ```
 
-Keys are read from environment variables or Streamlit secrets only: `AKTA_API_KEY`, `NICRRON_API_KEY`, `PRISMTRACE_API_KEY`, `PRISMTRACE_PROJECT_ID`. Missing keys never crash the app; the matching badge reads OFF or MOCK. `AKTA_OFFLINE=1` (the default, and the public host's setting) serves Akta data from `demo_cache/akta/` only; `AKTA_OFFLINE=0 AKTA_LIVE_BUDGET=10` on a laptop allows ten live lookups. `python scripts/warm.py` fills the cache for the 12 logo slots and the pre-warmed live-panel names.
+Keys are read from the environment, a git-ignored `.env` in the repo root (`cp .env.example .env`), or the Streamlit Secrets box: `AKTA_API_KEY`, `NICRRON_API_KEY`, `PRISMTRACE_API_KEY`, `PRISMTRACE_PROJECT_ID`. Missing keys never crash the app; the matching badge reads OFF or MOCK. `AKTA_OFFLINE=1` (the default, and the public host's setting) serves Akta data from `demo_cache/akta/` only; `AKTA_OFFLINE=0 AKTA_LIVE_BUDGET=10` on a laptop allows ten live lookups. `python scripts/warm.py` fills the cache for the 12 logo slots and the pre-warmed live-panel names.
 
 ## What is real and what is not
 

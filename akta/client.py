@@ -11,6 +11,8 @@ from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
+from integrations import env  # noqa: F401  (loads .env / Streamlit secrets into os.environ)
+
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "demo_cache" / "akta"
 MOCK = CACHE / "mock"
