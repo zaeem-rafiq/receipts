@@ -50,10 +50,8 @@ streamlit_app.py
 
 Built on Oct 24, 2026 at Deal Flow (localhost:nyc with VCLab, at Betaworks), Track 2: Diligence.
 
-- **Zaeem Rafiq**: idea, product direction and diligence rules; finance engine and the oracle of expected values; pitch.
-- **{UI_TEAMMATE_NAME}**: UI/UX. Logo wall, receipt layout and the Streamlit app.
-- **{TEAMMATE_NAME}**: {LANE}
-- **{TEAMMATE_NAME}**: {LANE}
+- **Zaeem Khan**: idea, product direction and diligence rules; finance engine and the oracle of expected values; pitch.
+- **Anne Kelly**, **Bill Martin**, **Shaniqua Dawes**: UI/UX (logo wall, receipt layout, the Streamlit app), Akta profile and world columns, story and submission, as worked on build day.
 
 Sponsor tools in the product path: **akta.pro by Wokelo AI** (enrichment and news behind the Profile and World columns), **NicrronNinoo** (gateway for every model call), **PRISM by Block Convey** (run traces and the digit guardrail), **Roundtable** (claims/findings hand-off). AI coding tools (Claude Code) were used for implementation during the hackathon. The synthetic data room and the expected values were prepared beforehand, and all code was written on build day, per the rules.
 
