@@ -28,7 +28,8 @@ h1, h2, h3 {font-family: 'Instrument Serif', Georgia, serif !important; font-wei
 [data-testid="stColumn"]:nth-child(3) [data-testid="stMetric"] {background: #F6E1DA; border-color: #E3B3A6;}
 [data-testid="stColumn"]:nth-child(3) [data-testid="stMetricValue"] {color: #B8361E;}
 .rc-card {background: #FFFDF8; border: 1px solid #D9D2C3; border-top: 4px solid var(--rc); border-radius: 3px; padding: 12px 14px;
-          height: 132px; box-sizing: border-box; display: flex; flex-direction: column; gap: 4px; overflow: hidden; margin-bottom: 6px;}
+          height: 150px; box-sizing: border-box; display: flex; flex-direction: column; gap: 4px; overflow: hidden; margin-bottom: 6px;}
+.rc-card > * {flex-shrink: 0;}  /* a two-line news line must never squeeze the name off the top of the card */
 .rc-card .rc-name {font-weight: 600; font-size: 1rem; color: #1E1B16; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
 .rc-stamp {align-self: flex-start; white-space: nowrap; font-family: 'IBM Plex Mono', monospace; font-size: 0.66rem; font-weight: 600; letter-spacing: 0.06em;
            color: var(--rc); border: 1px solid var(--rc); padding: 1px 6px; border-radius: 2px;}
