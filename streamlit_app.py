@@ -89,7 +89,7 @@ def plain(cls):
 
 VERDICT_WHY = {
     "VERIFIED": "Billed customer in the ledger and no weighted risk news in the window.",
-    "AT_RISK": "Billed customer in the ledger, but the news window has a risk event (shown first on the right).",
+    "AT_RISK": "Billed customer in the ledger, but the news window has a risk event (listed first under World).",
     "PILOT_OR_CHURNED": "The ledger shows a pilot that was canceled; it is not a paying customer today.",
     "ONE_TIME": "The ledger shows only a one-time charge, not recurring revenue.",
     "NOT_IN_LEDGER": "No charges for this name in the customer revenue export.",
