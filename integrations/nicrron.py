@@ -25,4 +25,22 @@ def chat(messages, max_tokens=400, json_mode=False):
     else:
         r = client.chat.completions.create(**kwargs)
     usage = getattr(r, "usage", None)
-    return r.choices[0].message.content, {"model": MODEL, "usage": usage.model_dump() if usage else None, "json_mode": used_json_mode}
+    text = r.choices[0].message.content
+    _post_prism_trace(messages, text)
+    return text, {"model": MODEL, "usage": usage.model_dump() if usage else None, "json_mode": used_json_mode}
+
+
+def _post_prism_trace(messages, output):
+    """PRISM REST: one record per model call (input_messages / output_message / metadata). Best effort, never raises.
+    Endpoint and header per docs/SPONSOR_TOOLS.md; UNTESTED without a key."""
+    key = os.environ.get("PRISMTRACE_API_KEY")
+    if not key or os.environ.get("PRISM_ENABLED", "1") == "0":
+        return
+    try:
+        import requests
+        host = os.environ.get("PRISMTRACE_HOST", "https://prism.blockconvey.com").rstrip("/")
+        requests.post(f"{host}/api/traces", json={"input_messages": messages, "output_message": {"role": "assistant", "content": output},
+                      "metadata": {"model": MODEL, "project_id": os.environ.get("PRISMTRACE_PROJECT_ID", ""), "app": "receipts"}},
+                      headers={"X-PRISMtrace-Key": key}, timeout=10)
+    except Exception as e:
+        print("PRISM trace post failed:", type(e).__name__)
