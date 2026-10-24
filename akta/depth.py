@@ -401,3 +401,14 @@ def profile(enr_rec, domain=None, row=None, cfg=None, run_date=None, events=None
 
 def client_usd(n):
     return f"${int(n):,}"
+
+
+def lines(col):
+    """The plain strings the UI prints for one column (a world() or profile() dict), in order; [] when empty or failed."""
+    if not col or "error" in col:
+        return []
+    if "momentum_line" in col:
+        return [col["momentum_line"]]
+    out = [col.get("size_line"), (col.get("status_check") or {}).get("line"), (col.get("funding") or {}).get("line"),
+           (col.get("headcount_trend") or {}).get("line"), (col.get("addition") or {}).get("line")]
+    return [s for s in out if s]
