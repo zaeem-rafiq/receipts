@@ -211,7 +211,8 @@ with c:
     def news_line(e):
         st.markdown(E(f"{e['date']} · {e['publisher']}: {e['title']}"))
         st.caption(f"code {e['code'] or 'none'} → {plain(e['class'])} ({e['trigger']}{', matched by keyword' if e['keyword_classified'] else ''})"
-                   f"{'' if e['in_window'] else ' · outside window'}")
+                   f"{'' if e['in_window'] else ' · outside window'}"
+                   f"{'' if e.get('primary', True) else (' · ignored: news digest covering several companies' if e.get('digest') else ' · ignored: not about this company')}")
 
     weighted = [e for e in ak["events"] if e["class"] != "none"]
     other = [e for e in ak["events"] if e["class"] == "none"]

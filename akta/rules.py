@@ -94,6 +94,17 @@ def _dom(url):
     return re.sub(r"^(https?://)?(www\.)?", "", str(url or "").strip().lower()).split("/")[0]
 
 
+DIGEST_RE = re.compile(r"\b(top\s+(?:\d+|five|ten)\b[^|]*\b(?:stories|news)|news\s+stories\s+of\s+the\s+week|round-?up|week\s+in\s+review|"
+                       r"this\s+week\s+in|news\s+today|funding\s+(?:rounds?|news)\b[^|]*\b(?:week|today|month))\b", re.I)
+
+
+def is_digest(article):
+    """A roundup of several companies' news ("Top five news stories of the week", "Funding rounds this week") never moves a
+    verdict: the layoff or funding figures in it belong to whichever company that sentence is about, and Akta marks every
+    company in the digest as a primary mention. The article stays listed, flagged as ignored."""
+    return bool(DIGEST_RE.search(article.get("title", "") or ""))
+
+
 def is_primary_subject(article, domain):
     """True when the article's company_mentions name this domain as a primary subject. Articles without company_mentions
     (hand-written MOCK fixtures) and calls without a domain are not gated."""
@@ -113,7 +124,8 @@ def events_for(news_response, company_name, cfg, run_date, domain=None):
         c = classify(a, company_name, cfg)
         out.append({
             "code": ",".join(_codes(a)),
-            "primary": is_primary_subject(a, domain),
+            "primary": is_primary_subject(a, domain) and not is_digest(a),
+            "digest": is_digest(a),
             "class": c["class"],
             "trigger": c["trigger"],
             "keyword_classified": c["keyword_classified"],
