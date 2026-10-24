@@ -22,7 +22,7 @@ def main():
     doc, source = None, "fallback"
     if nicrron.enabled():
         try:
-            text, _ = nicrron.chat([{"role": "user", "content": PROMPT + deck}], max_tokens=1500, json_mode=True, purpose="extract")
+            text, _ = nicrron.chat([{"role": "user", "content": PROMPT + deck}], max_tokens=6000, json_mode=True, purpose="extract")
             doc = json.loads(re.search(r"\{.*\}", text, re.S).group(0))
             assert all(c["quote"] in deck for c in doc["claims"]), "quote not in deck"
             # The model may paraphrase `text`; the number the engine parses must be the one in the deck-verified quote.

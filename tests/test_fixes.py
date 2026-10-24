@@ -288,3 +288,40 @@ def test_content_text_accepts_string_list_or_alternate_fields():
     assert nicrron._content_text(M(content=[{"type": "text", "text": "a"}, {"type": "text", "text": "b"}])) == "ab"
     assert nicrron._content_text(M(content=None, text="alt")) == "alt"
     assert nicrron._content_text(M(content=None)) == ""
+
+
+def test_chat_retries_with_a_bigger_budget_when_thinking_eats_max_tokens(monkeypatch, tmp_path):
+    from integrations import nicrron, prism
+    monkeypatch.setenv("NICRRON_API_KEY", "nk-test-not-real")
+    monkeypatch.delenv("PRISMTRACE_API_KEY", raising=False)
+    prism.reset()
+    seen = []
+
+    class Msg:
+        def __init__(self, c):
+            self.content = c
+
+    class Choice:
+        def __init__(self, c, fin):
+            self.message, self.finish_reason = Msg(c), fin
+
+    class Usage:
+        def model_dump(self):
+            return {"prompt_tokens": 300, "completion_tokens": 400}
+
+    class Resp:
+        def __init__(self, c, fin):
+            self.choices, self.usage = [Choice(c, fin)], Usage()
+
+    class Completions:
+        def create(self, **kw):
+            seen.append(kw["max_tokens"])
+            return Resp(None, "length") if kw["max_tokens"] <= 2000 else Resp("Deck ARR is $1,200,000.\n" * 3, "stop")
+
+    class FakeOpenAI:
+        def __init__(self, **kw):
+            self.chat = type("C", (), {"completions": Completions()})()
+    import openai
+    monkeypatch.setattr(openai, "OpenAI", FakeOpenAI)
+    text, meta = nicrron.chat([{"role": "user", "content": "p"}])
+    assert seen == [2000, 6000] and text.startswith("Deck ARR") and meta["finish_reason"] == "stop"

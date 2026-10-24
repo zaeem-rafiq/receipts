@@ -14,7 +14,11 @@ def enabled():
     return bool(os.environ.get("NICRRON_API_KEY"))
 
 
-def chat(messages, max_tokens=400, json_mode=False, run=None, purpose="chat"):
+MAX_TOKENS = 2000  # the gateway's Claude models think before they answer and the thinking counts against max_tokens:
+# with 400 the app's prompts came back as finish_reason=length with 0-7 visible characters (laptop probe, Oct 24 1:42 PM)
+
+
+def chat(messages, max_tokens=MAX_TOKENS, json_mode=False, run=None, purpose="chat"):
     """Returns (text, meta). Raises if disabled; callers fall back to deterministic text.
     json_mode tries response_format={"type": "json_object"} once (support on the gateway is UNVERIFIED) and retries without it.
     `run` is the prism.Run whose PRISM session this call belongs to (None at build time, e.g. llm/extract.py)."""
@@ -33,10 +37,18 @@ def chat(messages, max_tokens=400, json_mode=False, run=None, purpose="chat"):
         r = client.chat.completions.create(**kwargs)
     latency_ms = int(1000 * (time.time() - t0))
     usage = getattr(r, "usage", None)
-    usage = usage.model_dump() if usage else None
     choice = r.choices[0]
     text = _content_text(choice.message)
     finish = getattr(choice, "finish_reason", None)
+    if finish == "length" and len(text.strip()) < 40:
+        # the budget went to thinking; one retry with a larger budget before the caller falls back to the template
+        r = client.chat.completions.create(**{**kwargs, "max_tokens": max(max_tokens * 3, 4000)})
+        choice = r.choices[0]
+        text = _content_text(choice.message)
+        finish = getattr(choice, "finish_reason", None)
+        latency_ms = int(1000 * (time.time() - t0))
+        usage = getattr(r, "usage", None)
+    usage = usage.model_dump() if usage else None
     prism.record_llm(messages, text, MODEL, latency_ms, usage=usage, run=run, purpose=purpose, json_mode=used_json_mode, finish_reason=finish)
     return text, {"model": MODEL, "usage": usage, "json_mode": used_json_mode, "latency_ms": latency_ms, "finish_reason": finish}
 
