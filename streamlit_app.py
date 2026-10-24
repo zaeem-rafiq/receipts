@@ -83,7 +83,7 @@ st.markdown(
     + badge("PRISM", f"session {M['prism_trace_id']}"
             + ("" if M.get("prism_exported") else (" (export failed)" if prism.enabled() else " (local only)")), bool(M.get("prism_exported")))
     + badge("Roundtable", f"claims v{M['roundtable_claims_version']} / findings v{M['roundtable_findings_version']}"
-            + ("" if roundtable.enabled() else " (local stub)"), roundtable.enabled()),
+            + ("" if roundtable.enabled() else f" ({roundtable.status()})"), roundtable.enabled()),
     unsafe_allow_html=True)
 
 # ---------- strip ----------
