@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture hand-written from tests/oracle.json event_notes so the prototype runs without AKTA_API_KEY. NOT an Akta response. Headcount ranges are approximations of the oracle's notes (UNVERIFIED); URLs omitted on purpose.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_cf_1",
+    "title": "Cloudflare lays off about 20% of staff",
+    "publisher": "UNVERIFIED (oracle note)",
+    "published_date": "2026-05-08",
+    "ai_summary": "Cloudflare cut about 20% of its workforce.",
+    "types": [
+     {
+      "code": "WT02"
+     }
+    ],
+    "sentiment": "negative"
+   }
+  ]
+ }
+}

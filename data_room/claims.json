@@ -1,0 +1,103 @@
+{
+ "logos": [
+  {
+   "slot": "logo_01",
+   "name": "monday.com",
+   "website": "https://monday.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_02",
+   "name": "Mercury",
+   "website": "https://mercury.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_03",
+   "name": "Clay",
+   "website": "https://www.clay.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_04",
+   "name": "Braze",
+   "website": "https://www.braze.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_05",
+   "name": "Justworks",
+   "website": "https://www.justworks.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_06",
+   "name": "Retool",
+   "website": "https://retool.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_07",
+   "name": "Attio",
+   "website": "https://attio.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_08",
+   "name": "Cal.com",
+   "website": "https://cal.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_09",
+   "name": "Resend",
+   "website": "https://resend.com",
+   "slide": 5
+  },
+  {
+   "slot": "logo_10",
+   "name": "Granola",
+   "website": "https://www.granola.ai",
+   "slide": 5
+  },
+  {
+   "slot": "logo_11",
+   "name": "Relay",
+   "website": "https://www.relay.app",
+   "slide": 5
+  },
+  {
+   "slot": "logo_12",
+   "name": "Linear",
+   "website": "https://linear.app",
+   "slide": 5
+  }
+ ],
+ "claims": [
+  {
+   "id": "arr",
+   "text": "$1.2M ARR",
+   "slide": 4,
+   "quote": "$1.2M ARR."
+  },
+  {
+   "id": "customers",
+   "text": "48 customers",
+   "slide": 4,
+   "quote": "48 customers, mostly subscription software companies."
+  },
+  {
+   "id": "enterprise",
+   "text": "12 enterprise customers",
+   "slide": 5,
+   "quote": "12 enterprise customers, including:"
+  },
+  {
+   "id": "ask",
+   "text": "Raising $4M at a $20M post-money valuation",
+   "slide": 10,
+   "quote": "Raising $4M at a $20M post-money valuation."
+  }
+ ],
+ "source": "fallback"
+}

@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture hand-written from tests/oracle.json event_notes so the prototype runs without AKTA_API_KEY. NOT an Akta response. Headcount ranges are approximations of the oracle's notes (UNVERIFIED); URLs omitted on purpose.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_miro_1",
+    "title": "Bending Spoons agreed to acquire Miro for $1.36B",
+    "publisher": "UNVERIFIED (oracle note)",
+    "published_date": "2026-09-10",
+    "ai_summary": "Bending Spoons agreed to acquire Miro.",
+    "types": [
+     {
+      "code": "CM03"
+     }
+    ],
+    "sentiment": "neutral"
+   }
+  ]
+ }
+}

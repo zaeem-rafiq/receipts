@@ -1,0 +1,26 @@
+as_of: 2026-09-30            # ledger month-end
+recent_window_days: 180      # events within 180 days of the RUN date count toward MRR at risk
+news_lookback_days: 180      # Akta caps lookback at 6 months on non-enterprise plans
+segment_bands:
+  smb_max: 200
+  mid_max: 1000
+events:
+  layoffs_major_min_pct: 15        # layoffs_major if percent >= 15 OR people >= 500 OR 'mass'/'significant'
+  layoffs_major_min_people: 500
+  layoffs_major_keywords: [mass, significant]
+  acquisition_requires_target_side_match: true   # CM03 counts only if the company is the target; buyer-side -> acquirer (weight 0)
+non_recurring_types: [implementation, setup, one_time]   # prepaid_annual is recurring-but-annual
+policy:
+  shutdown: 1.00
+  acquirer: 0.00
+  acquisition: 0.50
+  layoffs_major: 0.50
+  layoffs_minor: 0.25
+  funding: 0.00
+  product_launch: 0.00
+  none: 0.00
+  unresolved: 0.00
+match:
+  legal_suffixes: [inc, inc., incorporated, llc, l.l.c., ltd, ltd., limited, corp, corp., corporation, co, co., company, holdings, group, plc]
+  fuzzy_min_ratio: 0.92
+  fuzzy_min_margin: 0.08

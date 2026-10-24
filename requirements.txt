@@ -1,0 +1,9 @@
+streamlit>=1.45
+pandas
+pyyaml
+openai
+requests
+pytest
+# optional, PRISM export:
+# opentelemetry-sdk
+# opentelemetry-exporter-otlp-proto-http
