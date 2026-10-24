@@ -1,6 +1,6 @@
 """Receipts: the logo slide of a seed deck, checked against the ledger and the world. Prototype."""
 import json
-from datetime import date
+from datetime import date, timedelta
 
 import streamlit as st
 import streamlit.components.v1 as components
@@ -132,7 +132,10 @@ with st.container(border=True):
 
 with st.sidebar:
     st.header("Run")
-    run_date = st.date_input("Run date (news is checked for the 180 days before this date)", value=date.today())
+    run_date = st.date_input("Run date (news is checked for the 180 days before this date)", value=date.today(),
+                             min_value=date(2000, 1, 1), max_value=date(2099, 12, 31))
+    st.caption(f"News window in use: {(run_date - timedelta(days=180)).isoformat()} to {run_date.isoformat()}. "
+               "A typed date applies after Enter or a click elsewhere.")
     akta_on = st.toggle("Use Akta news", value=True, help="Off = ignore all news for every logo; shows how much the verdicts depend on Akta.")
     st.caption(f"Live Akta lookups: {'off on this host (cached data only)' if akta.offline() else 'on'} · "
                f"live calls left: {akta.budget_left()}")
@@ -222,7 +225,6 @@ l = next(x for x in F["logos"] if x["slot"] == st.session_state.sel)
 st.subheader(f"Receipt: {l['name']}  ·  {LABEL[l['card']] or l['verdict'].replace('_', ' ')}", anchor="receipt")
 st.markdown(f"**Why:** {VERDICT_WHY.get(l['verdict'], '')}" + ("" if akta_on else " Akta news is off for this run, so news was not checked."))
 if st.session_state.pop("jump", False):
-    st.toast(f"Showing the receipt for {l['name']}")
     components.html("<script>try{window.parent.document.getElementById('receipt').scrollIntoView({behavior:'smooth'})}catch(e){}</script>", height=0)
 a, b, c = st.columns(3)
 with a:
@@ -232,9 +234,12 @@ with a:
         st.markdown(f"Status {l['status']} · MRR {usd(l['mrr_now'])} · tenure {l['tenure_months'] or 'n/a'} months · "
                  f"lifetime {usd(l['lifetime_revenue'])} · {len(l['charge_ids'])} charge rows")
         charges, _, _ = load.load_ledger()
-        rows = charges[charges["charge_id"].isin(l["charge_ids"])][["created", "amount", "subkind", "charge_id", "description"]].copy()
+        rows = charges[charges["charge_id"].isin(l["charge_ids"])][["created", "amount", "subkind", "charge_id"]].copy()
         rows["created"] = rows["created"].astype(str).str[:10]
+        rows["amount"] = rows["amount"].map(findings.usd)
+        rows.columns = ["date", "amount", "kind", "row id"]
         st.dataframe(rows, hide_index=True, width="stretch", height=220)
+        st.caption("Row ids match data_room/stripe_charges.csv, where each row's description is listed.")
     else:
         st.write(f"Not in the ledger. Nearest ledger name: {l['nearest_name']} (ratio {l['nearest_ratio']}).")
 with b:
@@ -258,6 +263,8 @@ with c:
                    f"{'' if e.get('primary', True) else (' · ignored: news digest covering several companies' if e.get('digest') else ' · ignored: not about this company')}")
 
     pol = load.load_config()["policy"]
+    st.caption("Each article shows its Akta event code (WT02 layoffs, CM03 merger or acquisition, RK07 distress, CM01/CM09 funding, "
+               "SD01 product launch) and how it was matched; for CM03, \"target-side\" means this company is the one being bought.")
 
     def counts(e):
         return e["in_window"] and e.get("primary", True) and (pol.get(e["class"], 0) > 0 or e["class"] == "funding")
@@ -298,7 +305,11 @@ def known_domains():
     return table
 
 
-if q:
+if q and not q.strip():
+    st.warning("The box only has spaces. Type a website like ramp.com or a name like Cloudflare, then press Enter.")
+elif not q:
+    st.caption("Results appear here after you type a company and press Enter.")
+if q.strip():
     cfg = load.load_config()
     raw = q.strip()
     dom = None
@@ -306,7 +317,9 @@ if q:
         dom = akta.domain_of(raw) if "." in raw else known_domains().get(raw.lower())
     except ValueError:
         dom = None
-    if not dom:
+    if not raw.isascii():
+        st.error("That text has non-Latin letters (for example a Cyrillic а that looks like a Latin a). Retype the website with a plain keyboard, like ramp.com.")
+    elif not dom:
         st.error("Enter a website like ramp.com, or one of the pre-warmed names (Ramp, Cloudflare, Miro, Rippling, Notion, Vanta, HubSpot, Airtable, PostHog, Wix).")
     else:
         try:
@@ -349,6 +362,7 @@ if q:
 st.download_button("Download provenance (JSON)",
                    json.dumps({"headline": H, "display": F["display"], "provenance": F["provenance"], "ledger": F["ledger"], "meta": M, "claims": F["claims"]},
                               indent=1, default=str), file_name="provenance.json")
+st.caption("The file saves to your browser's downloads folder as provenance.json; nothing opens on this page.")
 st.caption(f"Ledger as of {M['as_of']} · news anchored to {M['run_date']} · extraction source: {M['extraction_source']} · "
            f"PRISM spans: {', '.join(M['prism_spans'][:3])}…. The JSON lists the ledger row ids (data_room/stripe_charges.csv) "
            "and Akta article ids behind every number.")
