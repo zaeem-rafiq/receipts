@@ -84,7 +84,7 @@ def get(endpoint, website):
     domain = domain_of(website)
     rec = _read(CACHE / endpoint / f"{domain}.json")
     if rec:
-        rec.setdefault("mode", "CACHED")
+        rec["mode"] = "CACHED"  # a file written by an earlier LIVE call is a cache hit now, never LIVE
         return rec
     rec = _live(endpoint, domain)
     if rec:
