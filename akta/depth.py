@@ -253,10 +253,18 @@ def _status_check(fg, search, ev_class, domain):
     rec_status = str(_label(fg.get("operating_status")) or "").strip()
     ctype = str(_label(fg.get("company_type")) or "").strip()
     srch = None
+    raw = ((search or {}).get("response") or {}).get("data") if search else None
     sb = body(search) if search else None
-    if sb:
+    if isinstance(raw, list):  # real Company Search shape: response.data is a ranked list of candidates
+        cands = raw
+    elif sb:
         cands = sb.get("results") or sb.get("companies") or ([sb] if sb.get("company_status") else [])
+    else:
+        cands = []
+    if cands:
         for c in cands if isinstance(cands, list) else []:
+            if not isinstance(c, dict):
+                continue
             if client.domain_of(str(c.get("website", ""))) == domain or len(cands) == 1:
                 srch = _label(c.get("company_status"))
                 break
@@ -274,7 +282,8 @@ def _status_check(fg, search, ev_class, domain):
         else:
             agrees, line = False, f"Conflict: Akta company record says {status}, {rec_status}; the shutdown rests on news alone."
     elif any(k in low for k in ("acquired", "shut", "closed", "delisted")):
-        agrees, line = False, f"Akta company record says {status}, {rec_status}, but the 180-day news window is quiet."
+        agrees, line = False, (f"Akta {source} lists status '{status}' (operating status: {rec_status or 'not given'}); "
+                              "no matching event in the 180-day news window. Ask the founder.")
     else:
         agrees, line = True, f"Akta company record: {status}, {rec_status}."
     return {"company_status": status or None, "operating_status": rec_status or None, "source": source,

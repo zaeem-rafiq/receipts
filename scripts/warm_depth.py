@@ -102,7 +102,7 @@ def run_job(kind, d):
     else:
         params = {"company": d, "sections": "funding_detail,ma_and_investment"}
         st, resp = call("GET", "company/enrichment", params)
-        if resp is None and st in (403, 422):  # plan may allow one section and not the other
+        if resp is None and st in (400, 403, 422):  # one section name or plan may be refused; try each alone
             merged, got = {}, []
             for sec in ("funding_detail", "ma_and_investment"):
                 s2, r2 = call("GET", "company/enrichment", {"company": d, "sections": sec})
