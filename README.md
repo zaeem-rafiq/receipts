@@ -8,6 +8,8 @@
 
 Built at Deal Flow, NYC's first VC hackathon (Betaworks, Oct 24 2026), Track 2: Diligence. Sponsor award entered: Wokelo "Best Use of External Data" (Akta API).
 
+**Live demo:** https://receiptsdealflow.streamlit.app (Streamlit Community Cloud, cache-only: `AKTA_OFFLINE=1`, so a judge's search never spends Akta credits). Repo: https://github.com/zaeem-rafiq/receipts.
+
 ## Fiction disclosure
 
 The startup in the data room, **Bramblefin**, is fictional and its ledger is synthetic. The customer names are **real public companies used for demonstration only**; the commercial relationships, amounts and dates are invented. The outside-in signals shown for those companies come from the Akta API (public news and firmographics) or, when no key is present, from clearly labelled MOCK fixtures.
@@ -19,7 +21,7 @@ python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env            # fill in keys locally; .env is git-ignored
 python llm/extract.py           # writes data_room/claims.json (fallback claims without NICRRON_API_KEY)
-python -m pytest -q tests       # 110 checks against tests/oracle.json
+python -m pytest -q tests       # 166 checks, oracle in tests/oracle.json
 streamlit run streamlit_app.py
 ```
 
