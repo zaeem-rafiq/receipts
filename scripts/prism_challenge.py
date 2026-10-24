@@ -42,7 +42,7 @@ def one_run(version, F, run):
     if version == "v1":
         prompt = V1_PROMPT + json.dumps(v1_input(F))
     else:
-        prompt = summarize.PROMPT + json.dumps(display)
+        prompt = summarize.PROMPT + json.dumps(summarize.prompt_input(display))
     with run.span(f"summarize.{version}", version=version, provider="nicrron", model=nicrron.MODEL) as rec:
         text, meta = nicrron.chat([{"role": "user", "content": prompt}], run=run, purpose=f"challenge.{version}")
         bad = [summarize.TRUNCATED] if summarize.is_truncated(text) else summarize.guardrail(text, display)

@@ -325,3 +325,13 @@ def test_chat_retries_with_a_bigger_budget_when_thinking_eats_max_tokens(monkeyp
     monkeypatch.setattr(openai, "OpenAI", FakeOpenAI)
     text, meta = nicrron.chat([{"role": "user", "content": "p"}])
     assert seen == [2000, 6000] and text.startswith("Deck ARR") and meta["finish_reason"] == "stop"
+
+
+def test_prompt_labels_carry_no_digits_and_cover_every_display_key():
+    import re
+    display = findings.run(run_date=date(2026, 10, 24), events_override={})["display"]
+    shown = summarize.prompt_input(display)
+    assert set(shown.values()) == set(display.values()) and len(shown) == len(display)
+    assert not any(re.search(r"\d", k) for k in shown), [k for k in shown if re.search(r"\d", k)]
+    assert all(k in summarize.LABELS for k in display), [k for k in display if k not in summarize.LABELS]
+    assert not re.search(r"\d", summarize.PROMPT)

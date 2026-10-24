@@ -74,7 +74,7 @@ def main(argv=None):
         from engine import findings
         from llm import summarize
         F = findings.run(run_date=date.today())
-        v2 = summarize.PROMPT + json.dumps(F["display"])
+        v2 = summarize.PROMPT + json.dumps(summarize.prompt_input(F["display"]))
         _show("app summary prompt (v2), max_tokens=400", client, [{"role": "user", "content": v2}], max_tokens=400)
         _show("app summary prompt (v2), no limit", client, [{"role": "user", "content": v2}])
         _show("app summary prompt (v2) with a system line", client,

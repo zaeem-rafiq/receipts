@@ -47,8 +47,26 @@ def template(d):
     ])
 
 
-PROMPT = ("You write a five-line diligence summary for a VC partner. Use ONLY the strings in the JSON below, copied exactly; "
-          "do not compute, round, or introduce any number that is not already in the JSON. Plain sentences, one per line.\n\n")
+PROMPT = ("You write a five-line diligence summary for a VC partner. Use ONLY the values in the JSON below, copied exactly; "
+          "do not compute, round, or introduce any number that is not already a value in the JSON (the labels are not values, so "
+          "write 'the largest customer' and 'the five largest customers' in words). Plain sentences, one per line.\n\n")
+
+# Labels for the model carry no digits: a key like top5_share once made the model write "top 5", which the digit rule blocks.
+LABELS = {
+    "deck_arr": "deck ARR claim", "recurring_arr": "recurring ARR per the ledger", "recurring_mrr": "recurring MRR per the ledger",
+    "arr_at_risk": "ARR flagged (policy-weighted)", "arr_at_risk_pct": "ARR flagged as a share of recurring ARR",
+    "arr_exposed": "ARR exposed (unweighted)", "exposure_pct": "ARR exposed as a share of recurring ARR",
+    "exposed_customers": "customers with a risk event", "top1_share": "largest customer's share of MRR",
+    "top5_share": "five largest customers' share of MRR", "enterprise": "enterprise logos verified by headcount, of the deck's logos",
+    "deck_enterprise_claim": "deck's enterprise logo claim", "customers_ever_billed": "customers ever billed",
+    "active_customers": "active customers", "logo_verified_arr": "logo-verified recurring ARR",
+    "multiple_deck": "ask multiple on deck ARR", "multiple_recurring": "ask multiple on recurring ARR", "post_money": "post-money valuation",
+}
+
+
+def prompt_input(display):
+    """The display strings under digit-free labels, which is what the model is shown."""
+    return {LABELS.get(k, k.replace("_", " ")): v for k, v in display.items()}
 
 
 def summarize(display, run=None):
@@ -58,9 +76,9 @@ def summarize(display, run=None):
     try:
         cm = run.span("summarize", provider="nicrron", model=nicrron.MODEL) if run else None
         rec = cm.__enter__() if cm else {"attrs": {}}
-        text, meta = nicrron.chat([{"role": "user", "content": PROMPT + json.dumps(display)}], run=run, purpose="summary")
+        text, meta = nicrron.chat([{"role": "user", "content": PROMPT + json.dumps(prompt_input(display))}], run=run, purpose="summary")
         bad = [TRUNCATED] if is_truncated(text) else guardrail(text, display)
-        rec["attrs"].update({"input": json.dumps(display), "output": text, "guardrail.digit_rule": "fail" if bad else "pass",
+        rec["attrs"].update({"input": json.dumps(prompt_input(display)), "output": text, "guardrail.digit_rule": "fail" if bad else "pass",
                              "finish_reason": meta.get("finish_reason"), "chars_out": len(text)})
         if cm:
             cm.__exit__(None, None, None)
