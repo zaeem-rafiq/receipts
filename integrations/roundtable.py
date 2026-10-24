@@ -21,9 +21,9 @@ _versions = {}  # file name -> latest remote version id seen in this process
 
 
 class Client:
-    """Minimal port of the SDK's call(): POST /api/tools/<tool> with the agent key; one retry on 429/502/503/504."""
+    """Minimal port of the SDK's call(): POST /api/tools/<tool> with the agent key; one retry on 429/502/503/504; 5 s timeout."""
 
-    def __init__(self, key, url=None, timeout=10):
+    def __init__(self, key, url=None, timeout=5):  # short: a slow host must not stall the first page load
         self.key = key
         self.url = (url or os.environ.get("ROUNDTABLE_URL") or "https://roundtable.bot").rstrip("/")
         self.timeout = timeout
