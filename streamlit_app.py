@@ -109,8 +109,8 @@ cols = st.columns(6)
 for i, l in enumerate(F["logos"]):
     with cols[i % 6]:
         color = COLORS[l["card"]]
-        sub = {"ACTIVE": f"{usd(l['mrr_now'])}/mo · {l['tenure_months']} mo", "PILOT": f"pilot, {l['tenure_months']} mo, canceled",
-               "ONE_TIME": f"one-time {usd(l['lifetime_revenue'])}", "NOT_IN_LEDGER": "no charges"}[l["status"]]
+        sub = {"ACTIVE": f"{usd(l['mrr_now']).replace('$', '&#36;')}/mo · {l['tenure_months']} mo", "PILOT": f"pilot, {l['tenure_months']} mo, canceled",
+               "ONE_TIME": f"one-time {usd(l['lifetime_revenue']).replace('$', '&#36;')}", "NOT_IN_LEDGER": "no charges"}[l["status"]]
         ev = l["event_class"] if l["event_class"] != "none" else ""
         st.markdown(f"<div style='border-left:6px solid {color};padding:6px 8px;background:rgba(127,127,127,0.08);border-radius:6px;min-height:92px'>"
                     f"<b>{l['name']}</b><br><span style='color:{color};font-weight:600'>{LABEL[l['card']] or l['status'].replace('_', ' ')}</span><br>"
