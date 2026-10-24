@@ -1,0 +1,131 @@
+{
+ "fetched_at": "2026-10-24T11:47:30",
+ "params": {
+  "company": "notion.so",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 1,
+  "limit": 50,
+  "offset": 0,
+  "count": 1,
+  "data": [
+   {
+    "id": 41652254,
+    "title": "AI\u5354\u540c\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u300cEnable AI Foundry\u300d\u4f01\u753b\u3001Notion\u4e3b\u50ac\u306e\u7523\u5b98\u5b66\u30e9\u30a6\u30f3\u30c9\u30c6\u30fc\u30d6\u30eb\u3092\u4eac\u90fd\u3067\u958b\u50ac",
+    "url": "https://prtimes.jp/main/html/rd/p/000000029.000076636.html",
+    "publisher": "Prtimes",
+    "published_date": "2026-10-21T02:27:05",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5743,
+    "ai_summary": "Notion CEO Ivan Zhao joined 21 executives and academics in Kyoto for a roundtable on Oct 2, 2026, to discuss AI-driven organizational change. The event, hosted by Notion Labs Japan, covered challenges like data fragmentation and security, and Zhao proposed starting with small practical projects. The organizer, Enable AI Foundry, plans to expand its AI BASE hubs across Japan.",
+    "word_count": 60,
+    "author": "",
+    "countries": [
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Change Management & Transformation Consulting",
+      "code": "BPAHAGAC",
+      "is_primary": true
+     },
+     {
+      "name": "Workplace Accessibility, Adoption & Change Management (Digital Adoption, training, comms)",
+      "code": "BPAEAIAN",
+      "is_primary": false
+     },
+     {
+      "name": "Data, Analytics & AI Consulting",
+      "code": "BPAHACAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02lrozh",
+      "name": "Notion Labs Japan",
+      "website": "https://notion.so/@nellie-notion",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20000363",
+      "name": "economic organization"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "8VZQHL",
+      "name": "Events"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "813910",
+      "name": "Other Services (except Public Administration)"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8600",
+      "name": "SERVICES-MEMBERSHIP ORGANIZATIONS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ivan zhao"
+     ],
+     "location": [
+      "\u4eac\u90fd",
+      "\u5927\u962a",
+      "\u798f\u5ca1",
+      "\u4eac\u90fd\u5e02",
+      "kyoto"
+     ],
+     "product": [],
+     "event": [
+      "kyoto executive roundtable"
+     ]
+    },
+    "newsworthiness_score": 0.8128,
+    "group_id": 15104724
+   }
+  ],
+  "credits_consumed": 0.11
+ },
+ "mode": "LIVE"
+}

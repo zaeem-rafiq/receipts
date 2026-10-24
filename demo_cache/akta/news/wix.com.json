@@ -1,0 +1,6081 @@
+{
+ "fetched_at": "2026-10-24T11:48:05",
+ "params": {
+  "company": "wix.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 732,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42391380,
+    "title": "Wix.com (WIX) Partners With K Health On PatientGPT, Is The Upside Already Priced In?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-partners-k-221320609.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-23T22:13:20",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7229,
+    "ai_summary": "Wix.com announced a partnership with K Health to integrate PatientGPT into its adaptive web technology for health systems. The stock has returned 59.39% over 90 days but is down 18.85% year-to-date. Analysts estimate a fair value of $79.65, slightly below the recent close of $81.94.",
+    "word_count": 399,
+    "author": "Simply Wall St",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Patient Portals & Self-Service Access",
+      "code": "HLACAEAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00024j2",
+      "name": "K Health",
+      "website": "https://khealth.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "patientgpt"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.998,
+    "group_id": 15392810
+   },
+   {
+    "id": 42317519,
+    "title": "Best AI Website Builders in the UK for 2026, Compared",
+    "url": "https://opentools.ai/news/best-ai-website-builders-in-the-uk-for-2026-compared",
+    "publisher": "OpenTools",
+    "published_date": "2026-10-23T16:08:40",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9059,
+    "ai_summary": "Five AI website builders for UK businesses are compared, with One.com's Aida highlighted for its fully editable site after launch. The comparison notes that AI-generated content ownership remains unsettled, and exportability and portability are key considerations. Aida's standard editor and one.com's hosting are presented as advantages for sole traders.",
+    "word_count": 487,
+    "author": "",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Multimodal Generation (Text-Image-Video-Audio) & Creative Toolchains",
+      "code": "HDAAACAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": false
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m8jfe",
+      "name": "10web.io",
+      "website": "https://10web.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000dmr",
+      "name": "Durable",
+      "website": "https://durable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00068qw",
+      "name": "one.com",
+      "website": "http://www.one.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "622",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "629",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "aida",
+      "squarespace",
+      "10web",
+      "durable",
+      "wix",
+      "wordpress"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8397,
+    "group_id": 15670220
+   },
+   {
+    "id": 42248152,
+    "title": "Cycurion (NASDAQ:CYCU) vs. Wix.com (NASDAQ:WIX) Head-To-Head Review",
+    "url": "https://www.themarketsdaily.com/2026/10/23/cycurion-nasdaqcycu-vs-wix-com-nasdaqwix-head-to-head-review.html",
+    "publisher": "Markets Daily",
+    "published_date": "2026-10-23T09:59:02",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9259,
+    "ai_summary": "Wix.com and Cycurion are compared on valuation, risk, analyst ratings, dividends, earnings, and institutional ownership. Wix.com beats Cycurion on 12 of 13 factors, with Wix's consensus price target of $91.76 implying 11.16% upside versus Cycurion's 2,700% upside. Wix.com has higher revenue and earnings, trading at a lower P/E ratio.",
+    "word_count": 661,
+    "author": "Danessa Lincoln",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Competitive Intelligence & Benchmarking",
+      "code": "BPAHALAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004tw",
+      "name": "Cycurion",
+      "website": "https://cycurion.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "tel aviv, israel"
+     ],
+     "product": [
+      "wix editor",
+      "wix owner app",
+      "wix adi",
+      "wix logo maker",
+      "wix app market",
+      "payments by wix",
+      "wix marketplace",
+      "wix.com"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15617653
+   },
+   {
+    "id": 42223388,
+    "title": "Wix To Announce Third Quarter 2026 Results On November 10, 2026",
+    "url": "https://menafn.com/1111850428/Wix-To-Announce-Third-Quarter-2026-Results-On-November-10-2026",
+    "publisher": "Business & Financial",
+    "published_date": "2026-10-22T13:02:33",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9126,
+    "ai_summary": "Wix will announce its third-quarter 2026 financial results on November 10, 2026, at 8:30 a.m. ET. The company, founded in 2006 and strengthened by the 2025 acquisition of Base44, will hold a conference call with a webcast and replay available for 12 months.",
+    "word_count": 177,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Blogging & Website Publishing Platforms",
+      "code": "MPACAIAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "base44"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8838,
+    "group_id": 15396846
+   },
+   {
+    "id": 42138996,
+    "title": "Wix to Announce Third Quarter 2026 Results on November 10, 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wix-announce-third-quarter-2026-130000134.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-22T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9067,
+    "ai_summary": "Wix.com will report its third-quarter 2026 results on November 10, 2026, before market open, with a conference call at 8:30 a.m. ET. The company will issue a press release and shareholder update, and the webcast replay will be available for 12 months.",
+    "word_count": 190,
+    "author": "Wix com; Ltd",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "new york"
+     ],
+     "product": [
+      "base44"
+     ],
+     "event": [
+      "conference call"
+     ]
+    },
+    "newsworthiness_score": 0.9383,
+    "group_id": 15396846
+   },
+   {
+    "id": 42138992,
+    "title": "K Health and Wix Partner to Create an Intelligent Front Door into Health Systems by Embedding PatientGPT into Adaptive, Personalized Web Experiences",
+    "url": "https://finance.yahoo.com/healthcare/articles/k-health-wix-partner-create-130000264.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-22T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "K Health and Wix announced a partnership to embed PatientGPT, a clinical AI grounded in patient records, into adaptive web experiences. The collaboration aims to create personalized, on-brand interfaces that adapt to each patient in real time. K Health's PatientGPT has powered over 4 million patient visits.",
+    "word_count": 1442,
+    "author": "Business Wire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Healthcare & Wellness Personalization",
+      "code": "HDAAAGAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patient Education, Content & Personalized Journey Orchestration",
+      "code": "HLACAEAE",
+      "is_primary": false
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00024j2",
+      "name": "K Health",
+      "website": "https://khealth.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001354",
+      "name": "healthcare industry"
+     },
+     {
+      "code": "20000278",
+      "name": "health care provider"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "621498",
+      "name": "Health Care and Social Assistance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8000",
+      "name": "SERVICES-HEALTH SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david schwartz",
+      "ran shaul"
+     ],
+     "location": [
+      "new york",
+      "ny",
+      "yemen",
+      "israel",
+      "iran",
+      "national",
+      "regional",
+      "global"
+     ],
+     "product": [
+      "patientgpt",
+      "wix harmony",
+      "wix studio product",
+      "base44 offering"
+     ],
+     "event": [
+      "ukraine-russia war"
+     ]
+    },
+    "newsworthiness_score": 0.9352,
+    "group_id": 15392810
+   },
+   {
+    "id": 42100885,
+    "title": "K Health and Wix Partner to Create an Intelligent Front Door into Health Systems by Embedding PatientGPT into Adaptive, Personalized Web Experiences",
+    "url": "https://www.businesswire.com/news/home/20261022390215/en/K-Health-and-Wix-Partner-to-Create-an-Intelligent-Front-Door-into-Health-Systems-by-Embedding-PatientGPT-into-Adaptive-Personalized-Web-Experiences",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-10-22T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "K Health and Wix announced a partnership to embed PatientGPT, a clinical AI platform, into Wix's personalized web platform. PatientGPT is grounded in a patient's medical record and is expected to create adaptive, patient-specific web experiences. The partnership aims to unify health system entry points and provide always-on guidance.",
+    "word_count": 1506,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Healthcare & Wellness Personalization",
+      "code": "HDAAAGAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patient Education, Content & Personalized Journey Orchestration",
+      "code": "HLACAEAE",
+      "is_primary": false
+     },
+     {
+      "name": "Care Navigation, Referral & Digital Front Door Platforms",
+      "code": "HLALABAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00024j2",
+      "name": "K Health",
+      "website": "https://khealth.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001354",
+      "name": "healthcare industry"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8000",
+      "name": "SERVICES-HEALTH SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david schwartz",
+      "ran shaul",
+      "rona davis",
+      "jenna tocatlian"
+     ],
+     "location": [
+      "new york, ny",
+      "yemen",
+      "israel",
+      "iran",
+      "national",
+      "regional"
+     ],
+     "product": [
+      "patientgpt",
+      "wix harmony",
+      "wix studio product",
+      "base44 offering",
+      "wix studio"
+     ],
+     "event": [
+      "ukraine-russia war"
+     ]
+    },
+    "newsworthiness_score": 0.9102,
+    "group_id": 15392810
+   },
+   {
+    "id": 42093863,
+    "title": "Wix sets Nov. 10 date for Q3 2026 earnings",
+    "url": "https://www.stocktitan.net/news/WIX/wix-to-announce-third-quarter-2026-results-on-november-10-rz0x0czkbxbu.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-22T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7283,
+    "ai_summary": "Wix.com will report its third-quarter 2026 results before the market opens on November 10, 2026, with a conference call at 8:30 a.m. ET. The company will also issue a press release and shareholder update on the same day.",
+    "word_count": 221,
+    "author": "Wix.Com Ltd.",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "new york"
+     ],
+     "product": [
+      "base44"
+     ],
+     "event": [
+      "conference call"
+     ]
+    },
+    "newsworthiness_score": 0.9663,
+    "group_id": 15396846
+   },
+   {
+    "id": 42093840,
+    "title": "Wix, K Health partner on PatientGPT web experiences",
+    "url": "https://www.stocktitan.net/news/WIX/k-health-and-wix-partner-to-create-an-intelligent-front-door-into-zw0fwlvwicbl.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-22T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "K Health and Wix announced a partnership to embed PatientGPT, a clinical AI platform, into Wix's enterprise web technology for health systems. The collaboration aims to create personalized, adaptive web experiences that adapt to each patient in real time. PatientGPT has powered over 4 million patient visits.",
+    "word_count": 1518,
+    "author": "Wix.Com Ltd.",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Healthcare & Wellness Personalization",
+      "code": "HDAAAGAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patient Education, Content & Personalized Journey Orchestration",
+      "code": "HLACAEAE",
+      "is_primary": false
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00024j2",
+      "name": "K Health",
+      "website": "https://khealth.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001354",
+      "name": "healthcare industry"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8000",
+      "name": "SERVICES-HEALTH SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david schwartz",
+      "ran shaul",
+      "rona davis",
+      "jenna tocatlian"
+     ],
+     "location": [
+      "new york",
+      "ny",
+      "yemen",
+      "israel",
+      "iran",
+      "national"
+     ],
+     "product": [
+      "patientgpt",
+      "stocktitan",
+      "wix harmony",
+      "wix studio product",
+      "base44 offering",
+      "wix studio"
+     ],
+     "event": [
+      "ukraine-russia war"
+     ]
+    },
+    "newsworthiness_score": 0.9341,
+    "group_id": 15392810
+   },
+   {
+    "id": 42025407,
+    "title": "Websites are Racing to Patch Software Powering Up to 70% of the Web as AI Uncovers Critical Flaws",
+    "url": "https://www.ibtimes.com/websites-are-racing-patch-software-powering-70-web-ai-uncovers-critical-flaws-3808836",
+    "publisher": "International Business Times",
+    "published_date": "2026-10-21T18:10:41",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0034,
+    "ai_summary": "AI-assisted research uncovered critical PHP vulnerabilities (PHP2Shell) that could let attackers run code without logging in. The flaws affect PHP versions from 5.4 onward, and developers released emergency patches on Wednesday. The PHP Foundation acknowledged a structural failure in its security process.",
+    "word_count": 465,
+    "author": "Matias Civita",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ryan austin"
+     ],
+     "location": [],
+     "product": [
+      "joomla",
+      "wordpress",
+      "drupal",
+      "mediawiki",
+      "php",
+      "wikipedia"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 41736436,
+    "title": "Analysts see Wix recovery continuing",
+    "url": "https://en.globes.co.il/en/article-analysts-see-wix-recovery-continuing-1001560327",
+    "publisher": "Globes",
+    "published_date": "2026-10-21T11:56:44",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9708,
+    "ai_summary": "Wix's stock has recovered from a 2025 low of $40 to about $77, with analysts raising price targets. Base44's non-GAAP gross margin is projected to reach 60% by the second half of 2026, and Cantor and Oppenheimer both rate the stock Outperform.",
+    "word_count": 672,
+    "author": "",
+    "countries": [
+     "ISR",
+     "SWE"
+    ],
+    "industries": [
+     {
+      "name": "Equities Brokerage",
+      "code": "FSAEACAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004bod",
+      "name": "Oppenheimer & Co.",
+      "website": "https://oppenheimer.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000sma",
+      "name": "Base44",
+      "website": "https://base44.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "maor shlomo",
+      "deepak mathivanan",
+      "sergey vastchenok",
+      "avishai abrahami"
+     ],
+     "location": [
+      "israel",
+      "swedish",
+      "israeli"
+     ],
+     "product": [
+      "base44",
+      "base1",
+      "lovable",
+      "wix harmony",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14843647
+   },
+   {
+    "id": 41727573,
+    "title": "Data takes center stage as 1,000 tech professionals gather at Tel Aviv AI conference",
+    "url": "https://www.einnews.com/article/951213554/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-21T11:06:34",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Over 1,000 data professionals gathered in Tel Aviv for the sixth hayaData conference, organized by Riskified, to discuss AI and data infrastructure. JLL forecasts nearly $3 trillion in data center investment by 2030, and IDC data shows 90% of global data generated in the past two years.",
+    "word_count": 943,
+    "author": "Ynet Global",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Data Center Infrastructure Management (DCIM)",
+      "code": "HDABANAB",
+      "is_primary": true
+     },
+     {
+      "name": "AI Datacenter Power, Cooling & Racks (liquid cooling, power delivery)",
+      "code": "HDAAAAAH",
+      "is_primary": false
+     },
+     {
+      "name": "Data, Analytics & AI Consulting",
+      "code": "BPAHACAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000004a",
+      "name": "Databricks",
+      "website": "https://www.databricks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002f5",
+      "name": "HoneyBook",
+      "website": "http://www.honeybook.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b4d",
+      "name": "Riskified",
+      "website": "https://www.riskified.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "616",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "180",
+      "name": "Events"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "guy machlev",
+      "noa lubin",
+      "amit bendor",
+      "bendor"
+     ],
+     "location": [
+      "tel aviv",
+      "israel",
+      "david intercontinental hotel",
+      "space"
+     ],
+     "product": [
+      "trinity audio player"
+     ],
+     "event": [
+      "hayadata conference",
+      "tel aviv ai conference"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15167289
+   },
+   {
+    "id": 41713677,
+    "title": "No-Code Lost to Vibe Coding\u2014But Here\u2019s What You Should Use Instead",
+    "url": "https://www.inc.com/joe-procopio/no-code-lost-to-vibe-coding-but-heres-what-you-should-use-instead/91423021",
+    "publisher": "Inc.",
+    "published_date": "2026-10-21T10:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.016,
+    "ai_summary": "No-code platforms like Bubble and Webflow are losing ground to generative AI's vibe-coding approach, which lets users speak their app into existence. The author argues this is a faster, cheaper, and better way for low-tech founders to build production applications.",
+    "word_count": 479,
+    "author": "Joe Procopio",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000co",
+      "name": "Webflow",
+      "website": "http://www.webflow.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "bubble",
+      "airtable",
+      "cashmere",
+      "tahoma",
+      "lucida",
+      "webflow"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.937,
+    "group_id": 15155073
+   },
+   {
+    "id": 41727574,
+    "title": "The future of medicine: How AI could transform patient care",
+    "url": "https://www.einnews.com/article/951213540/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-21T09:46:45",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6147,
+    "ai_summary": "At the Rambam Tomorrow Innovation Conference, experts discussed AI's impact on healthcare, with predictions of AI flooding hospitals and transforming drug development. AI could enable disease prevention through DNA testing and robotic surgery, while Rambam MedTech holds over 80 patents. The conference emphasized AI supporting doctors rather than replacing them.",
+    "word_count": 743,
+    "author": "Ynet Global",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "SaMD \u2013 Imaging & Signal Analysis (AI/ML)",
+      "code": "HLACANAG",
+      "is_primary": true
+     },
+     {
+      "name": "AI/ML Platforms for Drug Discovery & Experiment Optimization",
+      "code": "HLAGAJAO",
+      "is_primary": false
+     },
+     {
+      "name": "Surgical Robotics & Computer-Assisted Surgery Platforms",
+      "code": "HLAHADAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004ia",
+      "name": "Philips",
+      "website": "https://www.philips.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000081h",
+      "name": "InSightec",
+      "website": "http://www.insightec.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007v93",
+      "name": "Rambam Health Care Campus",
+      "website": "https://www.rambam.org.il/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000esqw",
+      "name": "y/net",
+      "website": "http://www.ynet.co.il",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000sma",
+      "name": "Base44",
+      "website": "https://base44.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001354",
+      "name": "healthcare industry"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "michael kagan",
+      "dr. michal mekel",
+      "maor shlomo",
+      "alon gonen",
+      "lior bonfis",
+      "dr. eyal zadicario",
+      "dr. yona vaisbuch"
+     ],
+     "location": [
+      "israel"
+     ],
+     "product": [
+      "trinity audio player"
+     ],
+     "event": [
+      "rambam tomorrow innovation conference"
+     ]
+    },
+    "newsworthiness_score": 0.969,
+    "group_id": 15167250
+   },
+   {
+    "id": 41708378,
+    "title": "DeviantArt",
+    "url": "https://en.wikipedia.org/w/index.php?title=DeviantArt&diff=1381285803&oldid=1381285712",
+    "publisher": "Wikipedia",
+    "published_date": "2026-10-21T09:14:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6182,
+    "ai_summary": "DeviantArt was founded in 2000 by Scott Jarkoff and others, and was acquired by Wix in 2017 for $36 million. In 2025, the site reported over $23 million in creator sales, up from $14 million in 2024, and nearly 100 million new deviations were submitted.",
+    "word_count": 732,
+    "author": "",
+    "countries": [
+     "USA",
+     "ISR",
+     "SYR"
+    ],
+    "industries": [
+     {
+      "name": "Social Commerce & Marketplace Communities",
+      "code": "MPACAJAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Creator Commerce & Merch Platforms (Shops, Drops, Print-on-Demand)",
+      "code": "MPACABAG",
+      "is_primary": false
+     },
+     {
+      "name": "Creator Digital Goods & Downloads (Templates, Presets, Files)",
+      "code": "MPACAFAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     },
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007kz3",
+      "name": "Stability AI",
+      "website": "https://stability.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bx",
+      "name": "Midjourney",
+      "website": "https://midjourney.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006sl6",
+      "name": "DeviantArt",
+      "website": "http://deviantart.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000031",
+      "name": "visual arts"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "205",
+      "name": "Fine Art"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51621",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "matt stephens",
+      "scott jarkoff",
+      "angelo sotira",
+      "moti levy",
+      "mythiril"
+     ],
+     "location": [
+      "syria",
+      "us"
+     ],
+     "product": [
+      "dreamup",
+      "deviantart draw",
+      "deviantart muro",
+      "skinz.org",
+      "screenphuck.com",
+      "deskmod.com",
+      "ios",
+      "android",
+      "midjourney",
+      "winamp",
+      "stability ai",
+      "customize.org",
+      "deviant art"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15149769
+   },
+   {
+    "id": 41817224,
+    "title": "Alphabet Expands Gemini AI Into Small Business Ops Hub",
+    "url": "https://www.whalesbook.com/news/English/technology/Alphabet-Expands-Gemini-AI-Into-Small-Business-Ops-Hub/6ad87a9979a16deaeaf894af",
+    "publisher": "Whalesbook",
+    "published_date": "2026-10-21T08:40:57",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Alphabet is expanding Gemini AI into an operations hub for small businesses, integrating with platforms like Shopify and Xero. The update adds financial analytics and marketing tools, aiming to increase user retention for Google Workspace and cloud services amid enterprise AI competition.",
+    "word_count": 402,
+    "author": "Riya Kapoor",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Augmented Analytics & AI-Assisted BI (NLQ/NLG, Insights)",
+      "code": "HDAEAMAD",
+      "is_primary": false
+     },
+     {
+      "name": "SME Accounting, Bookkeeping & Close Automation",
+      "code": "FSAGAJAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003z3",
+      "name": "Xero",
+      "website": "http://xero.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000052s",
+      "name": "Alphabet",
+      "website": "https://abc.xyz",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ng4",
+      "name": "Shopify",
+      "website": "https://www.shopify.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "gemini ai",
+      "zoho",
+      "xero",
+      "shopify",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.981,
+    "group_id": 15038570
+   },
+   {
+    "id": 41546321,
+    "title": "Wix.com Ltd. (NASDAQ:WIX) Stock Rated \"Hold\" by Sell-Side Brokerages",
+    "url": "https://www.marketbeat.com/instant-alerts/consensus-wixcom-ltd-nasdaq-wix-stock-rated-hold-by-sell-side-brokerages-2026-10-20/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-20T10:29:30",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6429,
+    "ai_summary": "Wix.com received a consensus 'Hold' rating from 23 brokerages, with an average 12-month price target of $91.76. Insiders bought 2,622 shares over 90 days, and the company reported Q2 EPS of $1.39, beating estimates. Analysts forecast fiscal-year EPS of $0.24.",
+    "word_count": 1092,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Equities Brokerage",
+      "code": "FSAEACAH",
+      "is_primary": true
+     },
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000062",
+      "name": "HSBC",
+      "website": "http://www.hsbc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "005jgcy",
+      "name": "SG Americas Securities, LLC",
+      "website": "https://us.sgamericas.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006ucz",
+      "name": "Arrowstreet Capital, L.P.",
+      "website": "http://arrowstreetcapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000942",
+      "name": "Wedbush Securities",
+      "website": "https://www.wedbush.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000948",
+      "name": "Senvest Management",
+      "website": "https://www.senvest.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000589o",
+      "name": "Benchmark Company",
+      "website": "http://www.benchmarkcompany.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000179",
+      "name": "earnings forecast"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "lior shemesh",
+      "omer shai"
+     ],
+     "location": [],
+     "product": [
+      "wix",
+      "wix.com"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9309,
+    "group_id": 14843647
+   },
+   {
+    "id": 41382988,
+    "title": "Wix.com (NASDAQ:WIX) Given New $90.00 Price Target at Cantor Fitzgerald",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-wixcom-nasdaq-wix-given-new-9000-price-target-at-cantor-fitzgerald-2026-10-19/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-19T12:12:32",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Cantor Fitzgerald raised its Wix.com price target to $90 from $80, keeping an overweight rating. The stock opened at $75.01, with an average analyst price target of $91.76. Wix reported Q2 EPS of $1.39, beating estimates, with revenue up 14.9% year-over-year.",
+    "word_count": 1053,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002oj3",
+      "name": "Needham & Company LLC",
+      "website": "http://www.needhamco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007nu1",
+      "name": "Engineers Gate",
+      "website": "https://www.eglp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00sscc7",
+      "name": "Empowered Funds",
+      "website": "https://www.etfarchitect.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005np6",
+      "name": "Renaissance Technologies",
+      "website": "https://www.rentec.com/Home.action?index=true",
+      "is_primary": false
+     },
+     {
+      "uuid": "000589o",
+      "name": "Benchmark Company",
+      "website": "http://www.benchmarkcompany.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ar",
+      "name": "Morgan Stanley",
+      "website": "http://www.morganstanley.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000382",
+      "name": "prices"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "53",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "shelly b. meyer",
+      "lior shemesh"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "wix.com",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9724,
+    "group_id": 14843647
+   },
+   {
+    "id": 41497925,
+    "title": "Wix.com (NASDAQ:WIX) Stock Price Target Raised at Cantor Fitzgerald",
+    "url": "https://www.americanbankingnews.com/2026/10/19/wix-com-nasdaqwix-stock-price-target-raised-at-cantor-fitzgerald.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-19T07:12:45",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9901,
+    "ai_summary": "Cantor Fitzgerald raised its price target on Wix.com from $80 to $90, citing an overweight rating. The stock opened at $75.01, with a consensus rating of Hold and an average price target of $91.76. Wix reported Q2 EPS of $1.39, beating estimates, with revenue up 14.9% year-over-year.",
+    "word_count": 885,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qv",
+      "name": "Royal Bank of Canada",
+      "website": "https://www.rbc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ezin",
+      "name": "Ausbil Investment Management",
+      "website": "https://www.ausbil.com.au/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000589o",
+      "name": "Benchmark Company",
+      "website": "http://www.benchmarkcompany.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00027di",
+      "name": "Evercore",
+      "website": "https://www.evercore.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ki",
+      "name": "Farther",
+      "website": "https://www.farther.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006o58",
+      "name": "State of Alaska",
+      "website": "http://alaska.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "avishai abrahami",
+      "lior shemesh"
+     ],
+     "location": [],
+     "product": [
+      "wix.com",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14843647
+   },
+   {
+    "id": 40995198,
+    "title": "Wix, UiPath, SentinelOne, Amplitude, and Commvault Stocks Trade Down, What You Need To Know",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wix-uipath-sentinelone-amplitude-commvault-194739768.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-16T19:47:39",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0105,
+    "ai_summary": "AI funding fears and high interest rates drove a sector-wide sell-off, erasing over $1 trillion from semiconductor and AI stocks. Wix, UiPath, SentinelOne, Amplitude, and Commvault fell 5-9% in afternoon trading. Analysts warn that slowed AI investment could decelerate broader economic growth.",
+    "word_count": 425,
+    "author": "Kayode Omotosho",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     },
+     {
+      "name": "Compute & Acceleration ICs (CPU/GPU/AI/FPGA/ASIC)",
+      "code": "HDAHABAC",
+      "is_primary": false
+     },
+     {
+      "name": "AI Accelerators (GPUs/TPUs/NPUs/ASICs)",
+      "code": "HDAAAAAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008ji",
+      "name": "Amplitude",
+      "website": "http://amplitude.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000te",
+      "name": "SentinelOne",
+      "website": "http://www.sentinelone.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000446",
+      "name": "Commvault",
+      "website": "https://www.commvault.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000mv",
+      "name": "UiPath",
+      "website": "https://www.uipath.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000385",
+      "name": "market and exchange"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "80",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "uipath",
+      "commvault",
+      "sentinelone",
+      "amplitude",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14201838
+   },
+   {
+    "id": 40893469,
+    "title": "Symphony by Wix Integrates Link\u2019s Wallet for Agents, Built by Stripe, Enabling AI Agents to Make Payments on Behalf of Small Businesses",
+    "url": "https://globalfintechseries.com/digital-wallet/symphony-by-wix-integrates-links-wallet-for-agents-built-by-stripe-enabling-ai-agents-to-make-payments-on-behalf-of-small-businesses/",
+    "publisher": "Globalfintechseries",
+    "published_date": "2026-10-16T08:45:06",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Wix announced that Symphony, its multi-agent system for small businesses, now integrates Link, Stripe's digital wallet, allowing AI agents to make payments on behalf of owners. Each purchase requires owner approval within a 10-minute window, with payments made in US dollars. The integration is rolling out to Symphony users with US-based Link accounts.",
+    "word_count": 674,
+    "author": "Globenewswire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Embedded Payments (Pay-ins, Pay-outs, Wallets)",
+      "code": "FSAGALAB",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "jay shah",
+      "ronny elkayam",
+      "hugh cumming"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "symphony by wix",
+      "insight",
+      "link"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8555,
+    "group_id": 14295280
+   },
+   {
+    "id": 40825786,
+    "title": "Why Is Wix (WIX) Stock Rocketing Higher Today",
+    "url": "https://www.tradingview.com/news/stockstory:b46ddfe68094b:0-why-is-wix-wix-stock-rocketing-higher-today/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-15T18:30:42",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8635,
+    "ai_summary": "Wix shares rose 7.3% after announcing that its Symphony platform integrated Stripe's Link wallet, enabling AI agents to handle payments like paying invoices and ordering inventory. The stock is down 21.2% year-to-date and 45.3% below its 52-week high.",
+    "word_count": 408,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Digital Wallet Platforms (Consumer & Merchant)",
+      "code": "BPAMAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "In-App / Online Checkout Wallets",
+      "code": "FSAMAEAH",
+      "is_primary": false
+     },
+     {
+      "name": "Alternative Payment Methods (APM) Enablement (Wallets, A2A, Local Rails)",
+      "code": "FSAGABAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "earth"
+     ],
+     "product": [
+      "wix",
+      "godaddy",
+      "palantir"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14295280
+   },
+   {
+    "id": 40825166,
+    "title": "Why Is Wix (WIX) Stock Rocketing Higher Today",
+    "url": "https://www.financialcontent.com/article/stockstory-2026-10-15-why-is-wix-wix-stock-rocketing-higher-today",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-15T18:30:42",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9327,
+    "ai_summary": "Wix shares rose 7.3% after announcing that its Symphony platform integrates Stripe's Link wallet, enabling AI agents to handle payments for small businesses. The stock is down 21.2% year-to-date and trades 45.3% below its 52-week high.",
+    "word_count": 445,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Integration Builders",
+      "code": "BPAMAOAL",
+      "is_primary": true
+     },
+     {
+      "name": "Alternative Payment Methods (APM) Enablement (Wallets, A2A, Local Rails)",
+      "code": "FSAGABAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "earth"
+     ],
+     "product": [
+      "wix",
+      "godaddy",
+      "palantir"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14295280
+   },
+   {
+    "id": 40820807,
+    "title": "Law firm Crowell faces disqualification bid in AI lawsuit",
+    "url": "https://capital.com/en-int/news/law-firm-crowell-faces-disqualification-bid-in-ai-lawsuit",
+    "publisher": "The future of trading",
+    "published_date": "2026-10-15T16:48:32",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0105,
+    "ai_summary": "DeviantArt asked a federal judge to disqualify Crowell & Moring from representing Evox in an AI lawsuit, citing prior work on AI matters for Wix and DeviantArt. The firm argued the conflict is substantive, not merely technical, and that a pause in billable work does not convert a client into a former client.",
+    "word_count": 674,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Litigation & Dispute Resolution",
+      "code": "BPAHAAAB",
+      "is_primary": true
+     },
+     {
+      "name": "Intellectual Property (IP) Law",
+      "code": "BPAHAAAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006sl6",
+      "name": "DeviantArt",
+      "website": "http://deviantart.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00039dh",
+      "name": "Crowell & Moring",
+      "website": "http://www.crowell.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000ca5t",
+      "name": "eVox Productions",
+      "website": "https://www.evoximages.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwy",
+      "name": "DLA Piper",
+      "website": "https://www.dlapiper.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000282",
+      "name": "legal service"
+     },
+     {
+      "code": "20000121",
+      "name": "law"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "383",
+      "name": "Law"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5411",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541110",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "valerie goo",
+      "kent goss",
+      "edward mcintyre",
+      "rachel fertig",
+      "gina durham",
+      "mike scarcella",
+      "paul weiss"
+     ],
+     "location": [
+      "los angeles",
+      "central district of california"
+     ],
+     "product": [
+      "dreamup",
+      "hims",
+      "amzn"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14309415
+   },
+   {
+    "id": 40803789,
+    "title": "Symphony by Wix connects to Stripe's Link digital wallet",
+    "url": "https://www.finextra.com/pressarticle/111293/symphony-by-wix-connects-to-stripes-link-digital-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "publisher": "Finextra",
+    "published_date": "2026-10-15T14:38:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Wix announced that Symphony by Wix now connects to Stripe's Link digital wallet, enabling its AI agents to make payments on behalf of business owners. Each payment requires owner approval within a 10-minute window, with cards capped at approved amounts. The integration is rolling out to US-based Link account users.",
+    "word_count": 574,
+    "author": "Editorial Team",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "General-Purpose Digital Wallets (P2P + Merchant)",
+      "code": "FSAMAEAA",
+      "is_primary": true
+     },
+     {
+      "name": "Embedded Wallets (Platforms & Marketplaces)",
+      "code": "FSAMAEAM",
+      "is_primary": false
+     },
+     {
+      "name": "Alternative Payment Methods (APMs) Enablement (BNPL, wallets, local methods)",
+      "code": "FSAMACAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jay shah",
+      "ronny elkayam"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "symphony by wix",
+      "insight",
+      "link"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8523,
+    "group_id": 14295280
+   },
+   {
+    "id": 40802506,
+    "title": "Wix\u2019s Symphony by Wix Integrates Stripe\u2019s Link Wallet to Let AI Agents Make Approved Payments for Small Businesses | WIX Stock News",
+    "url": "https://www.quiverquant.com/news/Wix%E2%80%99s+Symphony+by+Wix+Integrates+Stripe%E2%80%99s+Link+Wallet+to+Let+AI+Agents+Make+Approved+Payments+for+Small+Businesses",
+    "publisher": "Quiver Quantitative",
+    "published_date": "2026-10-15T13:20:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6818,
+    "ai_summary": "Wix announced that its Symphony multi-agent system now integrates with Stripe's Link wallet, enabling AI agents to make payments on behalf of small business owners with owner approval. Each purchase requires approval within a 10-minute window via WhatsApp or SMS, and the integration is rolling out to US-based Link account users.",
+    "word_count": 1724,
+    "author": "None",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Embedded Payments (Pay-ins, Pay-outs, Wallets)",
+      "code": "FSAGALAB",
+      "is_primary": true
+     },
+     {
+      "name": "General-Purpose Digital Wallets (P2P + Merchant)",
+      "code": "FSAMAEAA",
+      "is_primary": false
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "nir zohar",
+      "ron gutler",
+      "omer shai",
+      "lior shemesh",
+      "avishai abrahami",
+      "yaniv even-haim",
+      "shelly b meyer",
+      "alexei gogolev",
+      "chris zhang",
+      "naved khan",
+      "alec brondolo",
+      "brad erickson",
+      "jamesmichael sherman-lewis",
+      "stefanos crist",
+      "jay shah",
+      "ronny elkayam"
+     ],
+     "location": [
+      "us-based",
+      "wall street",
+      "new york",
+      "us"
+     ],
+     "product": [
+      "symphony by wix",
+      "link",
+      "symphony",
+      "$wix",
+      "wix",
+      "insight"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9249,
+    "group_id": 14295280
+   },
+   {
+    "id": 40800510,
+    "title": "Wix integrates Stripe Link payments for Symphony AI agents",
+    "url": "https://www.stocktitan.net/news/WIX/symphony-by-wix-integrates-link-s-wallet-for-agents-built-by-stripe-vb033wjqxbng.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-15T13:15:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Wix announced that its Symphony AI agents now integrate with Stripe's Link wallet, enabling them to make payments on behalf of small businesses. Each purchase requires owner approval within a 10-minute window via WhatsApp or SMS, with payments made in US dollars. The integration is rolling out to Symphony users with a US-based Link account.",
+    "word_count": 750,
+    "author": "Wix.Com Ltd.",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Embedded Payments (Pay-ins, Pay-outs, Wallets)",
+      "code": "FSAGALAB",
+      "is_primary": true
+     },
+     {
+      "name": "General-Purpose Digital Wallets (P2P + Merchant)",
+      "code": "FSAMAEAA",
+      "is_primary": false
+     },
+     {
+      "name": "Alternative Payment Methods (APM) Enablement (Wallets, A2A, Local Rails)",
+      "code": "FSAGABAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jay shah",
+      "ronny elkayam"
+     ],
+     "location": [
+      "new york",
+      "us"
+     ],
+     "product": [
+      "symphony by wix",
+      "insight",
+      "link",
+      "stocktitan",
+      "symphony"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8984,
+    "group_id": 14295280
+   },
+   {
+    "id": 40799146,
+    "title": "Symphony by Wix Integrates Link\u2019s Wallet for Agents, Built by Stripe, Enabling AI Agents to Make Payments on Behalf of Small Businesses",
+    "url": "https://www.globenewswire.com/news-release/2026/10/15/3381745/0/en/symphony-by-wix-integrates-link-s-wallet-for-agents-built-by-stripe-enabling-ai-agents-to-make-payments-on-behalf-of-small-businesses.html",
+    "publisher": "GlobeNewswire",
+    "published_date": "2026-10-15T13:15:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Wix announced that Symphony, its multi-agent system for small businesses, now integrates with Link, Stripe's digital wallet, allowing AI agents to make payments on the owner's behalf. Each purchase requires owner approval, with payments made in US dollars to US-based Link accounts. The integration follows Symphony's August launch and expands its operational capabilities.",
+    "word_count": 689,
+    "author": "Wix com; Ltd",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Embedded Payments (Pay-ins, Pay-outs, Wallets)",
+      "code": "FSAGALAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "5223",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "jay shah",
+      "ronny elkayam"
+     ],
+     "location": [
+      "new york",
+      "us"
+     ],
+     "product": [
+      "symphony by wix",
+      "insight",
+      "link",
+      "base44",
+      "symphony's ai agents"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9097,
+    "group_id": 14295280
+   },
+   {
+    "id": 40798926,
+    "title": "Wix.com Ltd. (WIX) Integrates Stripe Link to Let Symphony AI Agents Execute Payments",
+    "url": "https://www.tradingview.com/news/tradingview:941826f3c4640:0-wix-com-ltd-wix-integrates-stripe-link-to-let-symphony-ai-agents-execute-payments/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-15T13:15:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8556,
+    "ai_summary": "Wix.com said Symphony now connects to Stripe's Link wallet, enabling its AI agents to make owner-approved payments. The rollout targets Symphony users with US-based Link accounts and USD transactions, using tokens or virtual cards to limit data exposure.",
+    "word_count": 231,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Wallet Connectivity & Session Protocols (WalletConnect, deep links, QR, auth sessions)",
+      "code": "FSAPACAF",
+      "is_primary": true
+     },
+     {
+      "name": "In-App / Online Checkout Wallets",
+      "code": "FSAMAEAH",
+      "is_primary": false
+     },
+     {
+      "name": "Payment Initiation & Account-to-Account (A2A) Payments (PIS, RTP initiation)",
+      "code": "FSAGACAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us",
+      "u.s."
+     ],
+     "product": [
+      "symphony"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8778,
+    "group_id": 14295280
+   },
+   {
+    "id": 41399151,
+    "title": "Trump Endorses Netanyahu. What Investors Need To Know About The Israeli Election.",
+    "url": "https://www.investors.com/news/israel-elections-trump-netanyahu-stocks/",
+    "publisher": "Investors",
+    "published_date": "2026-10-15T12:00:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5268,
+    "ai_summary": "Trump endorsed Netanyahu for Israel's Oct. 27 election, but experts expect minimal market impact. Polls show neither bloc has a Knesset majority, and analysts see no major policy shifts. A leadership change could shift the shekel by 2-3%.",
+    "word_count": 1114,
+    "author": "Paolo Confino",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Business, Financial & Trade News Publishers",
+      "code": "MPAJADAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000tfj",
+      "name": "Camtek",
+      "website": "https://www.camtek.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pbz",
+      "name": "Elbit Systems",
+      "website": "http://www.elbitsystems.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004u",
+      "name": "VanEck",
+      "website": "http://www.vaneck.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008ai",
+      "name": "Teva Pharmaceuticals",
+      "website": "https://www.tevapharm.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ns",
+      "name": "Tower Semiconductor",
+      "website": "https://towersemi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "11000000",
+      "name": "politics and government"
+     },
+     {
+      "code": "20001312",
+      "name": "political leadership"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "387",
+      "name": "Politics"
+     },
+     {
+      "code": "386",
+      "name": "Politics"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "benjamin netanyahu",
+      "gadi eisenkot",
+      "donald trump",
+      "michael ratney",
+      "netanhyahu",
+      "netanyahu",
+      "anatoliy shal",
+      "david makovsky",
+      "eisenkot"
+     ],
+     "location": [
+      "israel",
+      "gaza",
+      "iran",
+      "u.s.",
+      "china",
+      "canada",
+      "tel aviv",
+      "saudi arabia",
+      "west bank",
+      "strait of hormuz",
+      "united states"
+     ],
+     "product": [
+      "wix",
+      "mndy",
+      "ta-35"
+     ],
+     "event": [
+      "brazilian elections",
+      "iran war",
+      "israeli election",
+      "elections",
+      "oct. 7 massacre"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14857787
+   },
+   {
+    "id": 40795655,
+    "title": "Israeli Elections: What Investors Need To Know With These Stocks In Focus",
+    "url": "https://www.investors.com/news/israel-elections-netanyahu-stocks/",
+    "publisher": "Investors",
+    "published_date": "2026-10-15T12:00:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6863,
+    "ai_summary": "Israel's first election since Oct. 7, 2023, pits Netanyahu's coalition against Gadi Eisenkot's opposition. The TA-125 index is up 8% this year, with Tower Semiconductor up 80% and Elbit Systems up over 20%. JPMorgan sees no major market moves, though a leadership change could shift the shekel by 2-3%.",
+    "word_count": 906,
+    "author": "Paolo Confino",
+    "countries": [
+     "ISR",
+     "IRN",
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Market Indices Performance",
+      "code": "MD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000tfj",
+      "name": "Camtek",
+      "website": "https://www.camtek.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pbz",
+      "name": "Elbit Systems",
+      "website": "http://www.elbitsystems.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008ai",
+      "name": "Teva Pharmaceuticals",
+      "website": "https://www.tevapharm.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ns",
+      "name": "Tower Semiconductor",
+      "website": "https://towersemi.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000579",
+      "name": "national elections"
+     },
+     {
+      "code": "20000574",
+      "name": "election"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "387",
+      "name": "Politics"
+     },
+     {
+      "code": "388",
+      "name": "Politics"
+     },
+     {
+      "code": "386",
+      "name": "Politics"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gadi eisenkot",
+      "benjamin netanyahu",
+      "anatoliy shal",
+      "michael ratney",
+      "netanhyahu",
+      "netanyahu",
+      "david makovsky",
+      "shal"
+     ],
+     "location": [
+      "gaza",
+      "israel",
+      "iran",
+      "tel aviv",
+      "west bank",
+      "saudi arabia",
+      "u.s.",
+      "strait of hormuz",
+      "united states"
+     ],
+     "product": [
+      "wix"
+     ],
+     "event": [
+      "israeli elections",
+      "brazilian elections",
+      "iran war",
+      "hamas attacks",
+      "oct. 7 massacre"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14293653
+   },
+   {
+    "id": 40677310,
+    "title": "How AI Solopreneurs Run Businesses Without Staff",
+    "url": "https://www.forbes.com/sites/rahuldogra/2026/10/14/solopreneur-ai-tools-how-solo-founders-run-businesses-without-staff/",
+    "publisher": "Forbes",
+    "published_date": "2026-10-14T12:24:38",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.543,
+    "ai_summary": "Maor Shlomo built Base44, a vibe-coding startup, alone and sold it to Wix for $80 million in June 2025. Nonemployer businesses grew 2.7% annually from 2012-2023, accounting for 6.4% of U.S. GDP by 2023. The article argues AI tool stacks let solo founders run businesses without staff, but warns of decisional loneliness.",
+    "word_count": 1305,
+    "author": "Rahul Dogra",
+    "countries": [
+     "USA",
+     "IDN"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "003pq4w",
+      "name": "HeadshotPro",
+      "website": "https://www.headshotpro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000sma",
+      "name": "Base44",
+      "website": "https://base44.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001172",
+      "name": "small and medium enterprise"
+     },
+     {
+      "code": "20001206",
+      "name": "self-employment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "danny postma",
+      "maor shlomo",
+      "trump"
+     ],
+     "location": [
+      "bali",
+      "u.s."
+     ],
+     "product": [
+      "headshotpro",
+      "zapier",
+      "base44",
+      "canva",
+      "claude",
+      "gta 6",
+      "chatgpt",
+      "slow horses",
+      "make.com",
+      "ai subscriptions"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8128,
+    "group_id": 14206937
+   },
+   {
+    "id": 40699036,
+    "title": "Wix.com (WIX) Declines More Than Market: Some Information for Investors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-declines-more-210007811.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-13T21:00:07",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0268,
+    "ai_summary": "Wix.com stock fell 3.28% to $71.74, lagging the S&P 500's 0.02% loss. The stock has dropped 10.99% in a month, while analysts expect earnings of $1.32 per share, down 21.43% year-over-year. Wix holds a Zacks Rank #3 (Hold) with a forward P/E of 17.34.",
+    "word_count": 422,
+    "author": "Zacks Equity Research",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9439,
+    "group_id": 14226396
+   },
+   {
+    "id": 40402325,
+    "title": "Financial Review: Fusemachines (NASDAQ:FUSE) versus Wix.com (NASDAQ:WIX)",
+    "url": "https://www.americanbankingnews.com/2026/10/12/financial-review-fusemachines-nasdaqfuse-versus-wix-com-nasdaqwix.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-12T03:58:57",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8842,
+    "ai_summary": "Wix.com beats Fusemachines on 9 of 14 factors, including revenue, earnings, and analyst ratings. Wix has a consensus price target of $91.29, implying 19.23% upside, while Fusemachines has no buy ratings. Wix's institutional ownership is 81.5% versus 46.8% for Fusemachines.",
+    "word_count": 745,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000hac",
+      "name": "Fusemachines",
+      "website": "http://fusemachines.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "53",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "toronto, canada",
+      "new york",
+      "kathmandu, nepal",
+      "santo domingo, cuba",
+      "kochi, india",
+      "tel aviv",
+      "israel",
+      "toronto",
+      "kochi",
+      "kathmandu",
+      "india",
+      "nepal",
+      "canada"
+     ],
+     "product": [
+      "wix editor",
+      "wix owner app",
+      "wix adi",
+      "fuse anna",
+      "wix logo maker",
+      "wix app market",
+      "fusemachines academy",
+      "fuse prospector",
+      "payments by wix",
+      "wix marketplace",
+      "wix.com",
+      "fusemachines ai fellowship program"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14028241
+   },
+   {
+    "id": 40532006,
+    "title": "Framer vs Wix: Design Platform or Business Suite?",
+    "url": "https://www.framer.com/compare/framer-vs-wix",
+    "publisher": "Framer",
+    "published_date": "2026-10-12T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.525,
+    "ai_summary": "Framer and Wix both offer AI-assisted website creation with CMS and SEO, but Framer centers visual design and publishing while Wix bundles business tools like stores and bookings. Framer suits design-led marketing sites needing staging and branching, whereas Wix is better for small businesses requiring an integrated suite.",
+    "word_count": 831,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000cz",
+      "name": "Framer",
+      "website": "https://framer.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "2790",
+      "name": "SERVICE INDUSTRIES FOR THE PRINTING TRADE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "framer",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7058,
+    "group_id": 12192268
+   },
+   {
+    "id": 40330167,
+    "title": "The Best Protected Website Builder in 2027: Which Platform Keeps Your Site Truly Safe [Ranked & Scored]",
+    "url": "https://cybersecuritynews.com/best-protected-website-builder/",
+    "publisher": "Cyber Security News",
+    "published_date": "2026-10-11T03:35:31",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Wix is ranked the most secure website builder overall, with Shopify leading commerce due to PCI DSS Level 1. Squarespace, Webflow, Duda, WordPress.com, Hostinger, and GoDaddy follow, each with strengths like closed platform or compliance attestations. The article emphasizes that account security and app hygiene remain the user's responsibility.",
+    "word_count": 1692,
+    "author": "Kaaviya -",
+    "countries": [],
+    "industries": [
+     {
+      "name": "SaaS Security Posture Management (SSPM)",
+      "code": "HDABAHAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00vuz39",
+      "name": "WordPress.com",
+      "website": "https://wordpress.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000iwu",
+      "name": "Hostinger",
+      "website": "http://hostinger.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ng4",
+      "name": "Shopify",
+      "website": "https://www.shopify.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000275u",
+      "name": "Duda",
+      "website": "https://www.duda.co/success-stories/appfolio",
+      "is_primary": false
+     },
+     {
+      "uuid": "000094h",
+      "name": "GoDaddy",
+      "website": "https://srivarenya.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000co",
+      "name": "Webflow",
+      "website": "http://www.webflow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "wix",
+      "shopify",
+      "webflow",
+      "squarespace",
+      "hostinger builder",
+      "godaddy websites",
+      "duda",
+      "wordpress.com",
+      "website builder",
+      "hostinger",
+      "godaddy",
+      "table builder"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9652,
+    "group_id": 13938202
+   },
+   {
+    "id": 40136111,
+    "title": "How to create and design a website with AI, according to experts",
+    "url": "https://nwitimes.com/news/nation-world/business/article_29201387-2adf-5fed-acdd-13b9a62c8817.html",
+    "publisher": "nwitimes.com",
+    "published_date": "2026-10-08T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6799,
+    "ai_summary": "Wix's guide outlines five steps for building a website with AI, citing that average publishing time dropped 50% from eight to four days between 2025 and 2026. It notes 93% of web designers use AI, with half using it for design, and advises spending the final 20% on brand refinement.",
+    "word_count": 1458,
+    "author": "Allison Ko",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Multimodal Generation (Text-Image-Video-Audio) & Creative Toolchains",
+      "code": "HDAAACAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20000048",
+      "name": "online media outlet"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "629",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "624",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54143",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "oded nachshon",
+      "sapir ziv",
+      "ashley reckdenwald",
+      "yarin singolda"
+     ],
+     "location": [
+      "brooklyn",
+      "valparaiso",
+      "hammond",
+      "u.s.",
+      "los angeles",
+      "internet"
+     ],
+     "product": [
+      "ring lights",
+      "jack in the box"
+     ],
+     "event": [
+      "los angeles wildfires"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13725501
+   },
+   {
+    "id": 40078185,
+    "title": "Head to Head Comparison: Wix.com (NASDAQ:WIX) versus Fusemachines (NASDAQ:FUSE)",
+    "url": "https://www.themarketsdaily.com/2026/10/07/head-to-head-comparison-wix-com-nasdaqwix-versus-fusemachines-nasdaqfuse.html",
+    "publisher": "Markets Daily",
+    "published_date": "2026-10-07T20:14:55",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8223,
+    "ai_summary": "Wix.com beats Fusemachines on 9 of 14 factors, including higher revenue ($2.13B vs $7.71M) and a lower P/E ratio. Analysts rate Wix more favorably with a consensus target price of $91.29, implying 25.52% upside. Wix also has stronger institutional ownership at 81.5% versus Fusemachines' 46.8%.",
+    "word_count": 734,
+    "author": "Sarita Garza",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000hac",
+      "name": "Fusemachines",
+      "website": "http://fusemachines.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "toronto, canada",
+      "kathmandu, nepal",
+      "kochi, india",
+      "santo domingo, cuba",
+      "tel aviv, israel",
+      "new york"
+     ],
+     "product": [
+      "wix editor",
+      "wix owner app",
+      "fusemachines academy",
+      "fuse anna",
+      "wix adi",
+      "wix logo maker",
+      "wix app market",
+      "fuse prospector",
+      "payments by wix",
+      "wix marketplace",
+      "fusemachines ai fellowship program",
+      "wix.com",
+      "fusemachines"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9672,
+    "group_id": 14368301
+   },
+   {
+    "id": 40017348,
+    "title": "Q2 Earnings Roundup: Commerce (NASDAQ:CMRC) And The Rest Of The E-commerce Software Segment",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-commerce-nasdaq-163247965.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-07T16:32:47",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8508,
+    "ai_summary": "Commerce, Shopify, GoDaddy, and Wix reported Q2 results, with group revenues beating estimates by 1.3% but next-quarter guidance missing by 3%. Commerce's revenue was flat at $84.51 million, while Shopify led with 33.7% growth. The group's average stock price rose 14% since earnings.",
+    "word_count": 757,
+    "author": "Jabin Bastian",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketplace Enablement, Seller Tools & E-commerce Infrastructure",
+      "code": "BPAMAGAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000094h",
+      "name": "GoDaddy",
+      "website": "https://srivarenya.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lwcd6",
+      "name": "Commerce",
+      "website": "https://www.commerce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ng4",
+      "name": "Shopify",
+      "website": "https://www.shopify.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "114",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "518210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "5734",
+      "name": "RETAIL-COMPUTER & COMPUTER SOFTWARE STORES"
+     },
+     {
+      "code": "3571",
+      "name": "ELECTRONIC COMPUTERS"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "travis hess"
+     ],
+     "location": [
+      "iran",
+      "u.s."
+     ],
+     "product": [
+      "commerce",
+      "godaddy",
+      "shopify",
+      "e-commerce",
+      "software"
+     ],
+     "event": [
+      "super bowl"
+     ]
+    },
+    "newsworthiness_score": 0.9181,
+    "group_id": 13640866
+   },
+   {
+    "id": 39999872,
+    "title": "Wix.com Ltd. (WIX) is Attracting Investor Attention: Here is What You Should Know",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-ltd-wix-attracting-120004872.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-07T12:00:04",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5836,
+    "ai_summary": "Wix.com's shares rose 1.6% over the past month, outperforming the S&P 500's 1.4% but underperforming the IT services sector's 5% decline. Analysts' consensus EPS estimate for the current quarter is $1.32, down 21.4% year-over-year, and the stock carries a Zacks Rank #4 (Sell) rating.",
+    "word_count": 856,
+    "author": "Zacks Equity Research",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "627",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "wix.com",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8443,
+    "group_id": 13623104
+   },
+   {
+    "id": 39967120,
+    "title": "Reviewing Kyndryl (NYSE:KD) and Wix.com (NASDAQ:WIX)",
+    "url": "https://www.americanbankingnews.com/2026/10/07/reviewing-kyndryl-nysekd-and-wix-com-nasdaqwix.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-07T03:44:57",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8849,
+    "ai_summary": "Kyndryl and Wix.com are compared on institutional ownership, profitability, risk, analyst ratings, and valuation. Kyndryl beats Wix on 9 of 14 factors, with higher revenue and earnings, and a consensus price target of $16.50 versus $91.29 for Wix.",
+    "word_count": 678,
+    "author": "Abmn Staff",
+    "countries": [
+     "USA",
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Competitive Intelligence & Benchmarking",
+      "code": "BPAHALAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005qb",
+      "name": "Kyndryl",
+      "website": "https://www.kyndryl.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "israel",
+      "tel aviv",
+      "new york"
+     ],
+     "product": [
+      "wix editor",
+      "wix owner app",
+      "wix adi",
+      "wix logo maker",
+      "wix app market",
+      "kyndryl",
+      "payments by wix",
+      "wix.com",
+      "wix marketplace",
+      "digital workplace services"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9805,
+    "group_id": 13600213
+   },
+   {
+    "id": 39993271,
+    "title": "Givebutter Unveils Suite of AI Tools for Nonprofits and More New Features at The Spread",
+    "url": "https://www.prnewswire.com/news-releases/givebutter-unveils-suite-of-ai-tools-for-nonprofits-and-more-new-features-at-the-spread-302900913.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-10-07T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Givebutter unveiled a suite of AI tools and other features at The Spread, including Givebutter Magic for campaign creation and donor insights. The platform also introduced a rebuilt email editor, video messages, and reporting tools. A hackathon followed, with participants building practical solutions.",
+    "word_count": 1120,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Public Charities & Grantmaking Intermediaries",
+      "code": "BPAGAKAE",
+      "is_primary": true
+     },
+     {
+      "name": "Augmented Analytics & AI-Assisted BI (NLQ/NLG, Insights)",
+      "code": "HDAEAMAD",
+      "is_primary": false
+     },
+     {
+      "name": "Personalization, Testing & Conversion Rate Optimization (CRO)",
+      "code": "BPAFAFAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000041p",
+      "name": "Givebutter",
+      "website": "https://givebutter.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "003ayc9",
+      "name": "We Are For Good",
+      "website": "https://www.weareforgood.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000646",
+      "name": "non-governmental organisation (NGO)"
+     },
+     {
+      "code": "20000818",
+      "name": "charity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "108",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "81311",
+      "name": "Other Services (except Public Administration)"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8600",
+      "name": "SERVICES-MEMBERSHIP ORGANIZATIONS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "max friedman"
+     ],
+     "location": [
+      "new york",
+      "los angeles",
+      "seattle",
+      "denver",
+      "indianapolis"
+     ],
+     "product": [
+      "givebutter magic",
+      "email editor",
+      "gmail",
+      "givebuter plus",
+      "outlook",
+      "mobile",
+      "claude",
+      "givebutter"
+     ],
+     "event": [
+      "the spread hackathon",
+      "spread hackathon"
+     ]
+    },
+    "newsworthiness_score": 0.8505,
+    "group_id": 13617937
+   },
+   {
+    "id": 39735325,
+    "title": "Wix.com (WIX) \u2013 Analysts\u2019 Recent Ratings Updates",
+    "url": "https://www.americanbankingnews.com/2026/10/05/wix-com-wix-analysts-recent-ratings-updates.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-05T07:26:45",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.3729,
+    "ai_summary": "Analysts have recently updated their ratings on Wix.com, with Wall Street Zen downgrading it to hold and Needham raising its price target to $95. Insiders sold 5,718 shares at $85.42, while CMO Omer Shai bought 490 shares. The company is a cloud-based web development and digital services provider.",
+    "word_count": 462,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equities Brokerage",
+      "code": "FSAEACAH",
+      "is_primary": true
+     },
+     {
+      "name": "Custom Application Development (Web/Mobile/Desktop)",
+      "code": "BPAEAFAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002oj3",
+      "name": "Needham & Company LLC",
+      "website": "http://www.needhamco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000942",
+      "name": "Wedbush Securities",
+      "website": "https://www.wedbush.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000589o",
+      "name": "Benchmark Company",
+      "website": "http://www.benchmarkcompany.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "ron gutler",
+      "omer shai"
+     ],
+     "location": [],
+     "product": [
+      "wix.com",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9275,
+    "group_id": 14494940
+   },
+   {
+    "id": 39532034,
+    "title": "Head-To-Head Contrast: Wix.com (NASDAQ:WIX) vs. Kyndryl (NYSE:KD)",
+    "url": "https://www.tickerreport.com/banking-finance/13606954/head-to-head-contrast-wix-com-nasdaqwix-vs-kyndryl-nysekd.html",
+    "publisher": "Ticker Report",
+    "published_date": "2026-10-02T20:15:29",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8279,
+    "ai_summary": "Kyndryl outperforms Wix.com on 9 of 14 factors, including revenue and earnings. Kyndryl's higher upside potential (42.77% vs 25.68%) and lower P/E ratio make it the more favorable stock. Analysts rate Kyndryl more favorably than Wix.",
+    "word_count": 685,
+    "author": "Shane Hupp",
+    "countries": [
+     "ISR",
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005qb",
+      "name": "Kyndryl",
+      "website": "https://www.kyndryl.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "599",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "new york",
+      "israel",
+      "tel aviv"
+     ],
+     "product": [
+      "wix owner app",
+      "wix editor",
+      "wix adi",
+      "wix logo maker",
+      "wix app market",
+      "payments by wix",
+      "wix marketplace",
+      "digital workplace services",
+      "wix.com",
+      "network services",
+      "edge services"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9756,
+    "group_id": 13158164
+   },
+   {
+    "id": 39444622,
+    "title": "Startups de uma pessoa s\u00f3: o que est\u00e1 por tr\u00e1s das empresas bilion\u00e1rias com equipe m\u00ednima",
+    "url": "https://exame.com/inteligencia-artificial/startups-de-uma-pessoa-so-o-que-esta-por-tras-das-empresas-bilionarias-com-equipe-minima/",
+    "publisher": "Exame",
+    "published_date": "2026-10-01T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.71,
+    "ai_summary": "Solo-founder startups now represent over a third of new US companies, with AI agents enabling small teams to sustain large revenues. Stripe Atlas data shows solo founders accounted for 63% of new companies in Q2 2026, while Carta reports solo founders received 14.7% of priced investment rounds. AI leaders predict a billion-dollar solo-founder company by 2026.",
+    "word_count": 627,
+    "author": "Bianca Bezerra Pinto",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Early-Stage Venture Capital (Pre-Seed/Seed)",
+      "code": "FSANAAAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     },
+     {
+      "name": "Market-Structure Changes",
+      "code": "II05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "005a3q8",
+      "name": "Cursor",
+      "website": "https://cursor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pc",
+      "name": "Carta",
+      "website": "https://carta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bx",
+      "name": "Midjourney",
+      "website": "https://midjourney.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000sma",
+      "name": "Base44",
+      "website": "https://base44.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001172",
+      "name": "small and medium enterprise"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sam altman",
+      "dario amodei",
+      "maor shlomo"
+     ],
+     "location": [
+      "estados unidos"
+     ],
+     "product": [
+      "midjourney",
+      "cursor",
+      "base44"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9142,
+    "group_id": 13068768
+   },
+   {
+    "id": 39319852,
+    "title": "Only 6% of marketers say AI is paying off in a big way. Here's what the winners are doing.",
+    "url": "https://www.businessinsider.com/bain-research-marketers-not-seeing-ai-performance-impact-2026-9",
+    "publisher": "Business Insider",
+    "published_date": "2026-09-30T11:30:01",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0372,
+    "ai_summary": "Only 6% of marketing organizations say AI is delivering significant performance impact, despite 95% having adopted AI tools, per a Bain survey of 1,397 executives. Leaders with high revenue growth were twice as likely to credit AI for double-digit gains. Bain expects more value as restructurings take shape.",
+    "word_count": 683,
+    "author": "Lara O'Reilly",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Market Research & Consumer Insights",
+      "code": "BPAHALAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003n7o",
+      "name": "Dentsu Creative",
+      "website": "https://www.dentsucreative.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002f9e",
+      "name": "Bain & Company Inc.",
+      "website": "https://www.bain.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00025fu",
+      "name": "Indeed",
+      "website": "http://www.indeed.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003q8yc",
+      "name": "PwC Global",
+      "website": "https://www.pwc.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     },
+     {
+      "code": "20000283",
+      "name": "market research"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "103",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541910",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "laura beaudin",
+      "patricia mcdonald",
+      "james whitemore",
+      "omer shai"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12943750
+   },
+   {
+    "id": 39291544,
+    "title": "7 Best AI Logo Generators in 2026: Features, Pricing & Brand Kit Comparison",
+    "url": "https://techbullion.com/7-best-ai-logo-generators-in-2026-features-pricing-brand-kit-comparison/",
+    "publisher": "TechBullion",
+    "published_date": "2026-09-30T09:21:52",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8622,
+    "ai_summary": "Seven AI logo generators are compared, with LogoAI recommended for AI-generated concepts and a complete brand kit, and Looka for polished template-based logos. Pricing ranges from free to about $20\u2013$65 per logo package, with subscription plans from $12 to $25 per month. The review advises testing logos at small sizes and checking file formats.",
+    "word_count": 1569,
+    "author": "James Andrew",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Visual Identity & Brand Design Systems",
+      "code": "BPAFAEAC",
+      "is_primary": true
+     },
+     {
+      "name": "Multimodal Generation (Text-Image-Video-Audio) & Creative Toolchains",
+      "code": "HDAAACAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004if",
+      "name": "Recraft",
+      "website": "https://recraft.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000l1",
+      "name": "Canva",
+      "website": "http://www.canva.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "006bko4",
+      "name": "Design.com",
+      "website": "https://www.design.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000a68z",
+      "name": "LogoAi.com",
+      "website": "https://www.logoai.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "605",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54143",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541430",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "logoai",
+      "looka",
+      "canva",
+      "recraft",
+      "wix logo maker",
+      "adobe express",
+      "design.com",
+      "mori",
+      "brand kit"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7498,
+    "group_id": 12915579
+   },
+   {
+    "id": 39110008,
+    "title": "Wix's Base44 launches Base Code to take on Claude Code and Cursor",
+    "url": "https://www.calcalistech.com/ctechnews/article/28rupo2bt",
+    "publisher": "CTech",
+    "published_date": "2026-09-28T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Wix's Base44 launched Base Code, a standalone product connecting codebases to a collaborative cloud development environment. The AI agent learns the codebase, provisions infrastructure, and enables natural-language editing with pull requests. It targets teams facing bottlenecks from minor code changes requiring developer involvement.",
+    "word_count": 231,
+    "author": "Meir Orbach",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Developer Experience Platforms for Enterprise (IDEs, CI/CD, Dev Portals)",
+      "code": "HDAEAKAI",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "orel cohen",
+      "maor shlomo"
+     ],
+     "location": [],
+     "product": [
+      "base code",
+      "cursor",
+      "claude code"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9378,
+    "group_id": 12744843
+   },
+   {
+    "id": 39013350,
+    "title": "Wix.com (NASDAQ:WIX) Stock Rating Raised to Buy at Wall Street Zen",
+    "url": "https://www.tickerreport.com/banking-finance/13598259/wix-com-nasdaqwix-stock-rating-raised-to-buy-at-wall-street-zen.html",
+    "publisher": "Ticker Report",
+    "published_date": "2026-09-27T06:13:03",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Wall Street Zen upgraded Wix.com from hold to buy, citing strong earnings. Wix reported Q2 EPS of $1.39, beating estimates, with revenue of $563.06 million, up 14.9% year-over-year. The stock opened at $73.79, with a consensus price target of $91.29.",
+    "word_count": 907,
+    "author": "Max Byerly",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Blogging & CMS Content Platforms",
+      "code": "BPAMAJAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "005o1b2",
+      "name": "National Pension Service",
+      "website": "www.nps.or.kr",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000942",
+      "name": "Wedbush Securities",
+      "website": "https://www.wedbush.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006g3a",
+      "name": "Lombard Odier Investment Managers",
+      "website": "https://am.lombardodier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002oj3",
+      "name": "Needham & Company LLC",
+      "website": "http://www.needhamco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000aob8",
+      "name": "Raymond James Financial, Inc.",
+      "website": "https://raymondjames.com/gregsmith",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "shelly b. meyer",
+      "lior shemesh",
+      "giora kaplan",
+      "nadav abrahami",
+      "avishai abrahami"
+     ],
+     "location": [
+      "tel aviv",
+      "israel"
+     ],
+     "product": [
+      "wix.com",
+      "wix",
+      "wix studio"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9939,
+    "group_id": 11951511
+   },
+   {
+    "id": 39024455,
+    "title": "Is Wix.com (WIX) Undervalued Following Its Recent Pullback?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-undervalued-following-020844067.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-09-27T02:08:44",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1034,
+    "ai_summary": "Wix.com's stock fell 4.82% to $73.79, with short-term momentum fading. Analysts see fair value at $78.63, implying a 6% undervaluation, while revenue growth is assumed at 12.5% annually and margins improving to 11.1% in three years.",
+    "word_count": 412,
+    "author": "Simply Wall St",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Valuation & Fairness Opinions",
+      "code": "BPAHADAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "wix.com",
+      "wix"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9002,
+    "group_id": 11951511
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

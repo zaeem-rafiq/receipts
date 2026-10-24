@@ -1,0 +1,1328 @@
+{
+ "fetched_at": "2026-10-24T11:47:06",
+ "params": {
+  "company": "cloudflare.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00006rs",
+   "firmographic": {
+    "name": "Cloudflare",
+    "legal_name": "Cloudflare, Inc.",
+    "website": "cloudflare.com",
+    "company_type": {
+     "code": "public",
+     "label": "Public"
+    },
+    "ticker": "NYSE:NET",
+    "founded_year": 2009,
+    "company_description": "Cloudflare (NYSE:NET) is a public web infrastructure and cybersecurity company founded in 2009 and headquartered in San Francisco, operating a single proprietary anycast network spanning 335+ cities that reaches 95% of the world's Internet-connected population within 50ms. The platform sits in front of approximately 20% of all HTTP traffic and powers 42% of the Fortune 500, with operational scale evidenced by 234B daily cyber threats blocked. Products are sold in three integrated layers: Application Services (CDN, DNS, WAF, API Shield, DDoS Protection, Bot Management, Turnstile, Magic Transit), Cloudflare One SASE/Zero Trust (Access, Secure Web Gateway, DLP, Browser Isolation, Magic WAN, Email Security via the acquired Area 1), and a Developer Platform (Cloudflare Workers, Workers AI serving 70+ models, R2, D1, KV, Durable Objects, AI Gateway, Vectorize, AI Search, plus the VoidZero/Vite toolchain following the June 2026 acquisition).\\n\\nCloudflare makes money through a hybrid model: (i) tiered subscriptions (Free, Pro at $20/mo, Business at $200/mo, custom Enterprise contracts) for application services; (ii) per-seat SASE pricing ($7/user/month with the first 50 users free); and (iii) usage-based developer platform billing starting at $5/month. Distribution is a hybrid of self-serve PLG through the cloudflare.com storefront, direct enterprise field sales, the PowerUP Partner Program, and global system integrators. The company is a recognized leader in Forrester Wave WAF 2025 and is referenced by major media and Gartner as an authority on Internet traffic via Cloudflare Radar.\\n\\nThe business is at an inflection point: TTM revenue reached $2.33B at ~31.5% growth with FY2026 guidance of $2.81B (29.6% growth), but the company executed a ~20% workforce reduction in May 2026 explicitly tied to an AI-driven strategic shift. Recent moves include the acquisitions of Replicate (AI model deployment, Nov 2025), VoidZero/Vite (June 2026), and Ensemble AI talent (June 2026), the launch of Cloudflare Agents and Temporary Accounts for AI agents, the Cloudflare One Design Partner Program, and positioning as a foundational infrastructure layer for the agentic internet through partnerships with Anthropic, OpenAI, Mastercard (AP4M), Stripe, Coinbase (x402), and Okta. Post-quantum cryptography leadership (2029 PQC migration) and PACT (with Mozilla, Google, Microsoft, Shopify) extend the moat into emerging standards.",
+    "company_description_short": "Cloudflare operates a single global anycast network in 335+ cities that delivers application security, SASE/Zero Trust, serverless compute, and AI inference to ~20% of the Internet and 42% of the Fortune 500, monetized via subscriptions, per-seat SASE, and usage-based developer pricing.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "public",
+     "label": "Public"
+    },
+    "headcount_range": "5001-10000",
+    "logo_url": "https://files.akta.pro/logos/00/00/6r/571055e9-1e50-5e8d-a328-a0d9a867327e.png",
+    "akta_rank": 173
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    },
+    "valuation_estimate": {
+     "code": "over_25b",
+     "label": "$25B+"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "year": 2022
+      },
+      "business_focus": "Email security / anti-phishing technology",
+      "name": "Area 1 Security, LLC",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0000rvr"
+     },
+     {
+      "acquired_on": {
+       "month": 12,
+       "year": 2021
+      },
+      "business_focus": "Third-party script management / website speed optimization",
+      "name": "Zaraz",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "00038i2"
+     },
+     {
+      "acquired_on": {
+       "month": 4,
+       "year": 2024
+      },
+      "business_focus": "Real-time collaboration / developer tooling",
+      "name": "PartyKit, Inc.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0002ewp"
+     },
+     {
+      "acquired_on": {
+       "month": 10,
+       "year": 2024
+      },
+      "business_focus": "Cloud security, data protection and compliance",
+      "name": "Kivera",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0002ens"
+     },
+     {
+      "acquired_on": {
+       "month": 11,
+       "year": 2025
+      },
+      "business_focus": "AI model deployment platform",
+      "name": "Replicate, Inc.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "00006ad"
+     },
+     {
+      "acquired_on": {
+       "month": 6,
+       "year": 2026
+      },
+      "business_focus": "JavaScript tooling ecosystem (Vite, Vitest, Rolldown, Oxc)",
+      "name": "VoidZero, Inc.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0000uqu"
+     },
+     {
+      "acquired_on": {
+       "month": 6,
+       "year": 2026
+      },
+      "business_focus": "AI model compression and efficient inference",
+      "name": "Ensemble AI",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "02imipz"
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Cloudflare's anycast network runs security, connectivity, and compute in 335+ cities around the world.",
+      "source": [
+       "https://www.cloudflare.com/"
+      ],
+      "type": {
+       "code": "infrastructure_footprint",
+       "label": "Infrastructure Footprint"
+      },
+      "value": "335+ cities; 95% of world's Internet-connected population within 50ms"
+     },
+     {
+      "description": "Cloudflare blocks approximately 234 billion cyber threats daily across its network.",
+      "source": [
+       "https://www.cloudflare.com/"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "234B daily cyber threats blocked"
+     },
+     {
+      "description": "Cloudflare powers approximately 1 in 5 websites on the Internet and 20% of all HTTP traffic.",
+      "source": [
+       "https://www.cloudflare.com/"
+      ],
+      "type": {
+       "code": "market_share",
+       "label": "Market Share"
+      },
+      "value": "20% of the Internet"
+     },
+     {
+      "description": "Cloudflare powers 42% of the Fortune 500.",
+      "source": [
+       "https://www.cloudflare.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "42% of the Fortune 500"
+     },
+     {
+      "description": "Full-year revenue guidance of $2.81 billion (29.6% YoY growth); trailing twelve months revenue of $2.33 billion at 31.5\u201331.6% growth per multiple analyst reports.",
+      "source": [
+       "https://www.fool.com/investing/2026/06/23/is-cloudflare-overvalued/?source=iedfolrf0000001"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$2.81B FY2026 revenue guidance (29.6% YoY growth); TTM revenue $2.33B at 31.5\u201331.6% growth"
+     },
+     {
+      "description": "Cloudflare valued at approximately $80.77\u2013$83.5 billion in mid-2026; stock trading at $226.87 at $80.77B market cap.",
+      "source": [
+       "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-cloudflare-stock-rating-on-ai-security-demand-93CH-4735407"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$83.5B valuation (June 2026); market cap up to $81.64B; ~$80.77B valuation mid-June"
+     },
+     {
+      "description": "Reported Q1 2026 net operating loss of $62 million, equivalent to 9.7% of revenue; 73.3% gross profit margin TTM.",
+      "source": [
+       "https://www.fool.com/investing/2026/06/23/is-cloudflare-overvalued/?source=iedfolrf0000001"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "Q1 2026 net operating loss of $62M (9.7% of revenue)"
+     },
+     {
+      "description": "Management outlined a path to a 'Rule of 50' profile by 2027 with 30\u201335% long-term FCF margin target.",
+      "source": [
+       "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-cloudflare-stock-rating-on-ai-security-demand-93CH-4735407"
+      ],
+      "type": {
+       "code": "cost_economics",
+       "label": "Cost Economics"
+      },
+      "value": "Targeting 30\u201335% free cash flow margin by 2027; 'Rule of 50' profile"
+     },
+     {
+      "description": "Per Cloudflare Radar, agentic AI bots generate 57.4% of global web requests (42.6% human), with North America at 68.6%, US at 71.5%, and Gibraltar at 92\u201397% during peak hours \u2014 Cloudflare serves over 70 models at the edge.",
+      "source": [
+       "https://www.cnet.com/tech/services-and-software/bots-now-outnumber-humans-on-the-internet-heres-what-that-actually-means/"
+      ],
+      "type": {
+       "code": "data_scale",
+       "label": "Data Scale"
+      },
+      "value": "57.4% bot traffic share globally; 68.6% in North America; 71.5% in US"
+     },
+     {
+      "description": "Cloudflare's Project Galileo blocked 38.5 billion cyberattacks against civil society organizations over the past year, averaging 105 million attacks per day; DDoS floods accounted for 81.7% of malicious traffic.",
+      "source": [
+       "https://siliconangle.com/2026/06/18/cloudflare-blocked-38-5-billion-attacks-civil-society-groups-past-year/"
+      ],
+      "type": {
+       "code": "social_environmental_impact",
+       "label": "Social Environmental Impact"
+      },
+      "value": "38.5 billion cyberattacks blocked against civil society (Project Galileo)"
+     },
+     {
+      "description": "Cloudflare is a launch partner of Mastercard's AP4M (30+ partners) and Okta Cross App Access (25+ integrations including Asana, Atlassian, Cloudflare, Datadog, Slack, Zoom, Anthropic Claude).",
+      "source": [
+       "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-unveils-ai-agent-175945694.html"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "50+ global partners in Mastercard Agent Pay for Machines (AP4M); 30+ launch partners; 51 cybersecurity names held by CIBR ETF"
+     },
+     {
+      "description": "Cloudflare (with Google) committed to post-quantum cryptography migration by 2029, ahead of US government's 2035 national security target.",
+      "source": [
+       "https://www.techradar.com/pro/forget-ai-credit-rating-giant-feared-by-all-countries-just-issued-an-alarming-warning-as-google-and-cloudflare-make-crucial-moves-pqc-spending-will-compete-directly-with-ai-investment"
+      ],
+      "type": {
+       "code": "regulatory_milestones",
+       "label": "Regulatory Milestones"
+      },
+      "value": "120,000+ PQC migration target year (2029)"
+     },
+     {
+      "description": "Smart Placement moves Worker code closer to backend data, making Cloudflare 4.5x faster for 95% of round trips.",
+      "source": [
+       "https://www.cloudflare.com/"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "22 countries with offices; 4.5x faster Workers with Smart Placement"
+     },
+     {
+      "description": "Cloudflare secured a $42.5 million annual contract amid its pivot to an agentic AI-first operating model.",
+      "source": [
+       "https://247wallst.com/investing/2026/06/15/palantir-rises-5-cloudflare-pops-3-as-investors-pile-into-ai-security-plays/"
+      ],
+      "type": {
+       "code": "contract_wins",
+       "label": "Contract Wins"
+      },
+      "value": "$42.5M annual contract (cloud-native security)"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 25,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is a backer (alongside Cisco, Salesforce, Infoblox) of the Linux Foundation's Agent Name Service (ANS), an open-source identity framework for AI agents originally developed by GoDaddy, leveraging DNS infrastructure to verify AI agent identity, permissions, and operational safety.",
+      "name": "GoDaddy",
+      "source": [
+       "https://www.sdxcentral.com/news/l/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000094h"
+     },
+     {
+      "announced_on": {
+       "day": 25,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare and Cisco jointly back the Linux Foundation's Agent Name Service (ANS) for AI-agent identity verification via DNS; also joint partners in the Chainguard Athena coalition for open-source vulnerability remediation.",
+      "name": "Cisco",
+      "source": [
+       "https://www.sdxcentral.com/news/l/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000042k"
+     },
+     {
+      "announced_on": {
+       "day": 25,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare and Salesforce are industry backers of the Linux Foundation's Agent Name Service (ANS) for AI-agent identity.",
+      "name": "Salesforce",
+      "source": [
+       "https://www.sdxcentral.com/news/l/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00006ej"
+     },
+     {
+      "announced_on": {
+       "day": 25,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare and Infoblox are industry backers of the Linux Foundation's Agent Name Service (ANS) for AI-agent identity verification.",
+      "name": "Infoblox",
+      "source": [
+       "https://www.sdxcentral.com/news/l/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0003tzn"
+     },
+     {
+      "announced_on": {
+       "day": 22,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is co-developing PACT (Private Access Control Tokens) with Mozilla Firefox, Google Chrome, Microsoft Edge, and Shopify to replace CAPTCHAs with privacy-preserving tokens. Post-quantum cryptography work also ongoing with Google.",
+      "name": "Mozilla",
+      "source": [
+       "https://www.sdxcentral.com/news/cloudflare-forms-pact-with-browser-giants-to-protect-your-privacy-with-tokens/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00000h9"
+     },
+     {
+      "announced_on": {
+       "day": 22,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is co-developing PACT (Private Access Control Tokens) with Google Chrome and has joined Google's post-quantum cryptography initiative (2029 migration target). Cloudflare is also a launch partner for Okta Cross App Access.",
+      "name": "Google",
+      "source": [
+       "https://www.sdxcentral.com/news/cloudflare-forms-pact-with-browser-giants-to-protect-your-privacy-with-tokens/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00000r9"
+     },
+     {
+      "announced_on": {
+       "day": 22,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is co-developing PACT (Private Access Control Tokens) with Microsoft Edge; Cloudflare and Microsoft also collaborate in the Chainguard Athena coalition and OpenAI Daybreak Partner Program.",
+      "name": "Microsoft",
+      "source": [
+       "https://www.sdxcentral.com/news/cloudflare-forms-pact-with-browser-giants-to-protect-your-privacy-with-tokens/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000026e"
+     },
+     {
+      "announced_on": {
+       "day": 22,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare customer (Shopify quoted on homepage) and co-developer of PACT alongside Mozilla, Google, Microsoft. Also a Cloudflare customer via Duncan Davidson, VP of Developer Productivity.",
+      "name": "Shopify",
+      "source": [
+       "https://www.sdxcentral.com/news/cloudflare-forms-pact-with-browser-giants-to-protect-your-privacy-with-tokens/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000ng4"
+     },
+     {
+      "announced_on": {
+       "day": 10,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is a launch partner in Mastercard's Agent Pay for Machines (AP4M) for AI-agent payments and stablecoin/card settlement; Mastercard also partnered with Visa/Cloudflare on post-quantum cryptography.",
+      "name": "Mastercard",
+      "source": [
+       "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-unveils-ai-agent-175945694.html"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00004yg"
+     },
+     {
+      "announced_on": {
+       "day": 10,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare and Visa are jointly working on post-quantum cryptography (PQC migration by 2029); Visa is also a Cloudflare customer logo.",
+      "name": "Visa",
+      "source": [
+       "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-unveils-ai-agent-175945694.html"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00007cz"
+     },
+     {
+      "announced_on": {
+       "day": 23,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare and beehiiv launched an integration that gives newsletter publishers a dashboard toggle to block/allow AI crawlers accessing their content, built on Cloudflare's APIs and advancing the Pay Per Crawl marketplace model.",
+      "name": "beehiiv",
+      "source": [
+       "https://siliconangle.com/2026/06/23/beehiiv-adds-cloudflare-ai-crawl-control-writers-can-block-allow-bots/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "00002lo"
+     },
+     {
+      "announced_on": {
+       "day": 14,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Stripe launched the 'Projects' protocol with Cloudflare (plus Vercel and Netlify) as launch partners \u2014 enables AI agents to autonomously create cloud accounts, select plans, and provision infrastructure with a default $100/provider spending cap.",
+      "name": "Stripe",
+      "source": [
+       "https://letsdatascience.com/news/stripe-enables-ai-agents-to-buy-cloud-infrastructure-ad92ead3"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "announced_on": {
+       "day": 14,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Vercel is a launch partner of Stripe's 'Projects' protocol alongside Cloudflare and Netlify \u2014 enables AI agents to autonomously provision cloud infrastructure.",
+      "name": "Vercel",
+      "source": [
+       "https://letsdatascience.com/news/stripe-enables-ai-agents-to-buy-cloud-infrastructure-ad92ead3"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000009a"
+     },
+     {
+      "announced_on": {
+       "day": 14,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Netlify is a launch partner of Stripe's 'Projects' protocol alongside Cloudflare and Vercel \u2014 enables AI agents to autonomously provision cloud infrastructure.",
+      "name": "Netlify",
+      "source": [
+       "https://letsdatascience.com/news/stripe-enables-ai-agents-to-buy-cloud-infrastructure-ad92ead3"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00002d4"
+     },
+     {
+      "announced_on": {
+       "day": 24,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare was among ~50 partners given restricted access to Anthropic's Mythos-class AI model and used it to discover 2,000 bugs (incl. 400 high/critical). Also broader Claude Managed Agents collaboration via Cloudflare Environments.",
+      "name": "Anthropic",
+      "source": [
+       "https://www.techradar.com/pro/security/vulnerabilities-uncovered-in-secret-us-government-systems-and-software-during-testing-of-anthropic-mythos"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "announced_on": {
+       "day": 24,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Coinbase and Cloudflare have deployed x402 protocol in production for AI-agent payment rails; Coinbase is also a partner in Mastercard's AP4M program alongside Cloudflare.",
+      "name": "Coinbase",
+      "source": [
+       "https://www.ainvest.com/news/0x-liquidity-accessible-ai-agents-penny-real-crypto-infrastructure-2606/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000000y"
+     },
+     {
+      "announced_on": {
+       "day": 23,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is an early adopter of Okta's Cross App Access framework \u2014 an OAuth extension now an official authorization extension for the Model Context Protocol \u2014 for AI-agent identity controls.",
+      "name": "Okta",
+      "source": [
+       "https://siliconangle.com/2026/06/23/okta-expands-cross-app-access-ecosystem-secure-ai-agent-connections/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00002oi"
+     },
+     {
+      "announced_on": {
+       "day": 16,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Ping Identity extended its Runtime Identity capabilities through integrations with AWS, Google Cloud, and Cloudflare to enforce AI-agent identity, authorization and policy at cloud and edge.",
+      "name": "Ping Identity",
+      "source": [
+       "https://itbrief.in/story/okta-expands-ai-agent-access-controls-with-25-links"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000bgz"
+     },
+     {
+      "announced_on": {
+       "day": 16,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "AWS integrated with Ping Identity's Runtime Identity alongside Google Cloud and Cloudflare for AI-agent governance at the edge. Cloudflare also partners with Stripe and Coinbase on the x402 payment protocol.",
+      "name": "Amazon Web Services (AWS)",
+      "source": [
+       "https://itbrief.in/story/okta-expands-ai-agent-access-controls-with-25-links"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00008qf"
+     },
+     {
+      "announced_on": {
+       "day": 16,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Google Cloud integrated with Ping Identity's Runtime Identity alongside AWS and Cloudflare for AI-agent identity governance at cloud and edge.",
+      "name": "Google Cloud",
+      "source": [
+       "https://itbrief.in/story/okta-expands-ai-agent-access-controls-with-25-links"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000d34"
+     },
+     {
+      "announced_on": {
+       "day": 23,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is among the launch partners (alongside Cisco, CrowdStrike, IBM, Palo Alto Networks, Accenture, KPMG, PwC) in OpenAI's Daybreak Cyber Partner Program for GPT-5.5-Cyber and Codex Security.",
+      "name": "OpenAI",
+      "source": [
+       "https://securityboulevard.com/2026/06/openai-expands-daybreak-with-codex-security-and-gpt-5-5-cyber-updates/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "announced_on": {
+       "day": 23,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cisco is a launch partner alongside Cloudflare in OpenAI's Daybreak Cyber Partner Program (covering Cisco, Cloudflare, CrowdStrike, IBM, Palo Alto Networks, Proofpoint, SentinelOne, Wiz, Zscaler, Akamai, Accenture, KPMG, PwC, HackerOne, Trail of Bits).",
+      "name": "Cisco",
+      "source": [
+       "https://www.neowin.net/news/openais-new-gpt-55-cyber-tops-claude-mythos-5-in-vulnerability-benchmark/?utm_source=rss"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000042k"
+     },
+     {
+      "announced_on": {
+       "day": 15,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is a founding member of Chainguard's Athena coalition (with BNY, Cisco, Corridor, DepthFirst, Docker, JPMorganChase, Kyndryl, LTIMindtree, PwC) \u2014 20,000+ findings processed, 2,000 patches shipped across 500 open-source projects.",
+      "name": "Chainguard",
+      "source": [
+       "https://www.prnewswire.com/news-releases/chainguard-launches-athena-the-industry-coalition-to-fix-open-source-vulnerabilities-before-attackers-can-find-them-302799984.html"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000004o"
+     },
+     {
+      "announced_on": {
+       "day": 15,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is a founding member of the Chainguard Athena coalition alongside JPMorgan Chase and other financial/tech firms to fix open-source vulnerabilities before attackers exploit them.",
+      "name": "JPMorgan Chase",
+      "source": [
+       "https://www.prnewswire.com/news-releases/chainguard-launches-athena-the-industry-coalition-to-fix-open-source-vulnerabilities-before-attackers-can-find-them-302799984.html"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00000t5"
+     },
+     {
+      "announced_on": {
+       "day": 4,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare acquired VoidZero (the company behind Vite, Vitest, Rolldown, Oxc) for an undisclosed amount; committing $1M to a Vite ecosystem fund; team joins Cloudflare's Emerging Technology and Incubation org; all tools remain open-source under MIT.",
+      "name": "VoidZero (Evan You)",
+      "source": [
+       "https://pulse2.com/cloudflare-acquires-voidzero-to-build-the-future-of-the-ai-native-web/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000uqu"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 11,
+       "year": 2025
+      },
+      "description": "Cloudflare announced its agreement to acquire Replicate (a platform that simplifies AI model deployment with 50,000+ models including GPT-5.1); to be integrated into Cloudflare Workers to make it a leading platform for AI applications.",
+      "name": "Replicate",
+      "source": [
+       "https://www.siliconrepublic.com/business/cloudflare-acquires-replicate-ai-deployment-artificial-intelligence-2025"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00006ad"
+     },
+     {
+      "announced_on": {
+       "day": 8,
+       "month": 10,
+       "year": 2024
+      },
+      "description": "Cloudflare acquired Kivera (cloud security, data protection, compliance platform) for an undisclosed amount; integrated to enhance Cloudflare's SASE platform with preventive cloud security and shadow cloud reduction.",
+      "name": "Kivera",
+      "source": [
+       "https://www.finsmes.com/2024/10/cloudflare-acquires-kivera.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0002ens"
+     },
+     {
+      "announced_on": {
+       "day": 5,
+       "month": 4,
+       "year": 2024
+      },
+      "description": "Cloudflare acquired PartyKit (collaborative/multiplayer app platform) within a recent two-month period for an undisclosed amount.",
+      "name": "PartyKit",
+      "source": [
+       "https://in.marketscreener.com/quote/stock/CLOUDFLARE-INC-65956823/news/Cloudflare-Inc-acquired-PartyKit-Inc-46433539/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0002ewp"
+     },
+     {
+      "announced_on": {
+       "day": 23,
+       "month": 2,
+       "year": 2022
+      },
+      "description": "Cloudflare acquired Area 1 Security (phishing protection, email security) for approximately $162 million; deal closed in Q2 2022; integrated into Cloudflare's Zero Trust platform.",
+      "name": "Area 1 Security",
+      "source": [
+       "https://www.zdnet.com/article/cloudflare-acquires-area-1-security-for-162-million/#:~:text=Cloudflare%20announced%20on%20Wednesday%20that,programs%20to%20stop%20phishing%20attacks."
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000rvr"
+     },
+     {
+      "announced_on": {
+       "day": 9,
+       "month": 12,
+       "year": 2021
+      },
+      "description": "Cloudflare acquired Zaraz (Israeli startup specializing in website speed and privacy via third-party script management); deal terms undisclosed; integrated as standalone product leveraging Cloudflare's serverless technology.",
+      "name": "Zaraz",
+      "source": [
+       "https://rb.ru/news/cloudflare-zaraz-deal/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00038i2"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Arctiq is one of five inaugural Cloudflare One Design Partners (alongside Consortium, CMT, Presidio, Softcell, The Missing Link) \u2014 receives deep technical expertise, financial resources and access to Cloudflare One Stack framework for SASE/AI migrations.",
+      "name": "Arctiq",
+      "source": [
+       "https://cxotoday.com/media-coverage/cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "00061xz"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Consortium is an inaugural Cloudflare One Design Partner for SASE and AI security migrations; receives technical enablement and access to Cloudflare One Stack.",
+      "name": "Consortium",
+      "source": [
+       "https://cxotoday.com/media-coverage/cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "0026ikp"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "CMT is an inaugural Cloudflare One Design Partner for SASE and AI security deployments; receives Cloudflare One Stack framework access.",
+      "name": "CMT",
+      "source": [
+       "https://cxotoday.com/media-coverage/cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "003kpbq"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Presidio is an inaugural Cloudflare One Design Partner; reported that the relationship has driven significant growth over the past two years aligned with customer needs around AI security, platform consolidation and data governance.",
+      "name": "Presidio",
+      "source": [
+       "https://cxotoday.com/media-coverage/cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "0000f16"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Softcell is an inaugural Cloudflare One Design Partner for SASE and AI security migrations in select global markets.",
+      "name": "Softcell",
+      "source": [
+       "https://cxotoday.com/media-coverage/cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0008w9q"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "The Missing Link is an inaugural Cloudflare One Design Partner for SASE and AI security deployments; receives access to Cloudflare One Stack framework.",
+      "name": "The Missing Link",
+      "source": [
+       "https://cxotoday.com/media-coverage/cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "0006zwi"
+     },
+     {
+      "announced_on": {
+       "day": 17,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Experian partnered with Visa, Cloudflare and Skyfire to develop the Experian Agent Trust \u2014 enabling secure agentic payments within the Ascend platform.",
+      "name": "Experian",
+      "source": [
+       "https://fintechmagazine.com/news/money20-20-how-experian-is-scaling-ai-for-finances-future"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000qsl"
+     },
+     {
+      "announced_on": {
+       "day": 17,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Key members of Ensemble AI (SF-based AI startup founded 2023, model compression and efficient inference including NdLinear/NdLinear-LoRA) joined Cloudflare to accelerate AI infrastructure work and Workers AI serverless GPU platform.",
+      "name": "Ensemble AI",
+      "source": [
+       "https://pulse2.com/cloudflare-adds-ensemble-ai-talent-to-strengthen-ai-infrastructure-team/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "02imipz"
+     },
+     {
+      "announced_on": {
+       "day": 25,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is a foundational customer of Subco's SMAP (Sydney-Melbourne-Adelaide-Perth) submarine cable system delivering 400+ Tbit/s across 16 fiber pairs.",
+      "name": "Subco",
+      "source": [
+       "https://www.lightreading.com/cable-technology/subco-activates-smap-subsea-cable-in-australia"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000266o"
+     },
+     {
+      "announced_on": {
+       "day": 4,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "WP Engine expanded its Global Edge Security (GES) with bot management features powered by Cloudflare's infrastructure, including customizable traffic categorization and Instant Lockdown mode for active attacks.",
+      "name": "WP Engine",
+      "source": [
+       "https://www.techzine.eu/news/security/141841/wp-engine-expands-global-edge-security-with-bot-management/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000023q"
+     },
+     {
+      "announced_on": {
+       "day": 24,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare, Mozilla, Google, Microsoft, and Shopify jointly presented PACT \u2014 a protocol using anonymous tokens to replace CAPTCHAs, addressing the milestone where bots now account for 58% of global web traffic.",
+      "name": "Mozilla / Google / Microsoft / Shopify (PACT consortium)",
+      "source": [
+       "https://www.01net.com/actualites/les-captchas-vivent-leurs-dernieres-annees-une-alliance-inedite-les-enterre.html"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00000h9"
+     },
+     {
+      "announced_on": {
+       "day": 22,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare joined OpenAI's Patch the Planet initiative alongside Trail of Bits to secure critical open-source projects (cURL, Go, Python, Sigstore), addressing the fact that 94% of widely-used open-source projects are maintained by fewer than ten developers.",
+      "name": "OpenAI / Trail of Bits (Patch the Planet initiative)",
+      "source": [
+       "https://www.unite.ai/openais-daybreak-wants-to-own-the-patch-not-just-the-bug/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "announced_on": {
+       "day": 17,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare's PowerUP Partner Program with the new Design Partner Designation provides participating partners (Arctiq, Consortium, CMT, Presidio, The Missing Link) with expanded technical enablement, funded headcount, MDF incentives, and roadmap access for SASE/AI deployments.",
+      "name": "Cloudflare One Design Partner Designation \u2014 Cloudflare PowerUP Program",
+      "source": [
+       "https://www.crn.com/news/security/2026/cloudflare-aims-for-deeper-channel-push-on-sase-with-launch-of-new-partner-initiative"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "00006rs"
+     },
+     {
+      "announced_on": {
+       "day": 17,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudforce One is Cloudflare's own threat research and operations team \u2014 publishes reports on nation-state attacks, vulnerabilities, and botnets; referenced as a brand in /cloudforce-one/.",
+      "name": "Cloudforce One (Cloudflare's threat-research team)",
+      "source": [
+       "https://www.crn.com/news/security/2026/cloudflare-aims-for-deeper-channel-push-on-sase-with-launch-of-new-partner-initiative"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "others",
+       "label": "Others"
+      }
+     },
+     {
+      "announced_on": {
+       "day": 17,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Cloudflare is a sponsor/participant of the CIO 100 Awards & Conference (Aug 17\u201319, 2025 at Omni PGA resort, Frisco TX) alongside PwC, KPMG, IBM, HPE, Celonis, Unisys, Zoho, Moveworks and others.",
+      "name": "CIO 100 Awards 2026 sponsor ecosystem (PwC, KPMG, IBM, HPE, Celonis, Unisys, Zoho, Moveworks)",
+      "source": [
+       "https://in.investing.com/news/stock-market-news/cloudflare-launches-design-partner-program-for-security-suite-93CH-5459558"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      }
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Executed a ~20% workforce reduction (~1,100 layoffs) explicitly tied to an AI-driven pivot from 'measurers' to 'builders' and 'sellers,' with plans to re-hire agentic-AI-skilled talent in 2027.",
+      "source": [
+       "https://www.citybiz.co/article/856555/may-layoff-announcements-highlight-corporate-restructuring-and-ai-driven-workforce-shifts/"
+      ],
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "date": {
+       "day": 4,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Acquired VoidZero (Evan You) \u2014 Vite, Vitest, Rolldown, and Oxc JavaScript toolchain with 130M+ weekly downloads \u2014 committing $1M to an independent Vite ecosystem fund to enable one-click deployment of AI-generated code to Cloudflare Workers.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260604108073/en/Cloudflare-Acquires-VoidZero-to-Build-the-Future-of-the-AI-Native-Web"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 17,
+       "month": 11,
+       "year": 2025
+      },
+      "description": "Agreed to acquire Replicate, an AI model deployment platform with 50,000+ production-ready models including OpenAI's GPT-5.1, to integrate into Cloudflare Workers as a leading AI inference substrate.",
+      "source": [
+       "https://www.siliconrepublic.com/business/cloudflare-acquires-replicate-ai-deployment-artificial-intelligence-2025"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 17,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Acquired key members of Ensemble AI, bringing NdLinear/NdLinear-LoRA model compression techniques onto the Workers AI serverless GPU platform to lower LLM serving costs.",
+      "source": [
+       "https://pulse2.com/cloudflare-adds-ensemble-ai-talent-to-strengthen-ai-infrastructure-team/"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched the Cloudflare One Design Partner Designation with five inaugural SIs (Arctiq, Consortium, CMT, Presidio, The Missing Link) and the Cloudflare One Stack AI skills library, positioning channel partners as the primary growth engine for SASE and AI security migrations.",
+      "source": [
+       "https://cxotoday.com/media-coverage/cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cloudflare-launches-design-partner-designation-to-accelerate-secure-ai-and-seamless-sase-adoption"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched Cloudflare Temporary Accounts for AI Agents, a 60-minute ephemeral identity system letting AI agents deploy Workers, APIs and front-ends from CLI without human signup \u2014 a foundational primitive for agentic cloud procurement.",
+      "source": [
+       "https://www.webpronews.com/cloudflares-temporary-accounts-let-ai-agents-ship-code-without-human-friction/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 13,
+       "month": 6,
+       "year": 2025
+      },
+      "description": "Raised approximately $1.75 billion in a convertible note offering to fund AI infrastructure and developer platform expansion, complementing organic FCF generation.",
+      "source": [
+       "https://in.investing.com/news/stock-market-news/cloudflare-launches-design-partner-program-for-security-suite-93CH-5459558"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "Cloudflare cofounders publicly linked a 20% staff reduction to an AI-driven strategic shift, with the company pivoting toward agentic AI services and planning to hire talent familiar with agentic AI software in 2027.",
+      "source": [
+       "https://www.fastcompany.com/91560409/ceos-blame-ai-for-layoffs-workers-disagree"
+      ],
+      "title": "20% Workforce Reduction Tied to Agentic AI Pivot",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "description": "Cloudflare announced approximately 1,100 job cuts in May 2026 as part of broader AI-driven workforce reductions in the U.S. technology sector, with AI cited as the leading reason for the cuts.",
+      "source": [
+       "https://www.citybiz.co/article/856555/may-layoff-announcements-highlight-corporate-restructuring-and-ai-driven-workforce-shifts/"
+      ],
+      "title": "Cloudflare May 2026 Layoffs (~1,100 positions)",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "description": "Cloudflare's President of Revenue Mark Anderson announced his retirement at year-end, flagged by analysts as a new risk factor for the company following its analyst day event.",
+      "source": [
+       "https://in.investing.com/news/stock-market-news/guggenheim-reiterates-cloudflare-stock-sell-rating-after-analyst-day-93CH-5448342"
+      ],
+      "title": "Mark Anderson Retirement Announcement",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Cloudflare Agents, AI Gateway, Vectorize, AI Search, Workers AI, and 70+ edge-served models represent a full-stack AI inference and agent-orchestration platform launched in 2025-2026, materially expanding the addressable market beyond traditional CDN/security.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Deep integrations with Anthropic (Claude Managed Agents on Cloudflare Environments), OpenAI (Daybreak Cyber Partner Program, Patch the Planet), Mastercard (AP4M with 30+ partners), Stripe (Projects protocol), Coinbase (x402 in production), Okta (Cross App Access), and PACT with Mozilla/Google/Microsoft/Shopify build a multi-sided AI-agent identity, payment, and protocol ecosystem.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Seven acquisitions in 2024-2026 (BastionZero, Nefeli, PartyKit, Baselime, Kivera, Outerbase, Human Native AI, Astro, Replicate, VoidZero, Ensemble AI) signal an aggressive AI/developer-platform tuck-in strategy, with $1B+ 2025 convertible proceeds funding further deals.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "Cloudflare One Design Partner Designation (June 2026) introduces a funded-headcount, MDF-backed, roadmap-access tier within the PowerUP program aimed at converting the SASE/AI security migration opportunity through Global SIs and regional VADs.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Post-quantum cryptography leadership \u2014 2029 migration commitment with Google, PACT protocol submission for standardization across ~77% of browser market, and Visionary positioning in Moody's quantum-safe rankings \u2014 positions Cloudflare for 'harvest now, decrypt later' compliance budgets.",
+      "type": {
+       "code": "regulatory_pursuit",
+       "label": "Regulatory Pursuit"
+      }
+     },
+     {
+      "description": "CPU-time-based billing (not wall-clock) for Workers, the $7/user/month SASE price with 50 free users, and Pay Per Crawl marketplace for AI content monetization are pricing innovations designed to capture AI-agent and mid-market workloads that AWS/Lambda and Zscaler underserve.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "Investment in Subco's SMAP submarine cable (400+ Tbit/s across Sydney-Melbourne-Perth) and continued office buildout in Bangalore R&D, Seoul, Mexico City, and Dubai support expansion into APAC, EMEA, and Latin America enterprise markets.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

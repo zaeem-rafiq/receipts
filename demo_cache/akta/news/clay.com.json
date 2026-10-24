@@ -1,0 +1,6948 @@
+{
+ "fetched_at": "2026-10-24T11:45:54",
+ "params": {
+  "company": "clay.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 162,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42146573,
+    "title": "Private Securities: EquityZen Reports Transactions Jump Over 50% in Q3",
+    "url": "https://www.crowdfundinsider.com/2026/10/320002-private-securities-equityzen-reports-transactions-jump-over-50-in-q3/",
+    "publisher": "CrowdFund Insider",
+    "published_date": "2026-10-22T20:21:50",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "EquityZen reported Q3 2026 trading volume up 57.4% quarter over quarter, with average purchase up 38% and sell-side volume up 103.96%. AI deals fell to 26.5% of trades, while 60% of Enterprise SaaS trades closed at a premium. The company, acquired by Morgan Stanley in fall 2025, now positions itself as a key liquidity market.",
+    "word_count": 235,
+    "author": "Jd Alois",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equities Trade Execution Platforms (ATS/MTF/ECN)",
+      "code": "FSAFANAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     },
+     {
+      "name": "Sector Performance Dashboards",
+      "code": "FR07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002f5a",
+      "name": "EquityZen",
+      "website": "http://www.equityzen.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005n3",
+      "name": "Tensordyne",
+      "website": "https://www.tensordyne.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006tk",
+      "name": "Heart Aerospace",
+      "website": "https://heartaerospace.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000lc",
+      "name": "Fireworks AI",
+      "website": "https://fireworks.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ef",
+      "name": "Higgsfield",
+      "website": "https://higgsfield.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00svzyr",
+      "name": "Atoms",
+      "website": "https://atoms.co",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000394",
+      "name": "securities"
+     },
+     {
+      "code": "20000385",
+      "name": "market and exchange"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "atoms",
+      "clay",
+      "higgsfield",
+      "tensordyne",
+      "heart aerospace",
+      "fireworks ai",
+      "electric aircraft"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9999,
+    "group_id": 15477522
+   },
+   {
+    "id": 41602192,
+    "title": "demandDrive Named Clay's Inaugural \"Rising Star\" Partner Following Rapid GTM Tech Integration",
+    "url": "https://www.prweb.com/releases/demanddrive-named-clays-inaugural-rising-star-partner-following-rapid-gtm-tech-integration-302914466.html",
+    "publisher": "Prweb",
+    "published_date": "2026-10-20T18:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "demandDrive won Clay's inaugural Rising Star award at the Sculpt conference, recognizing its rapid integration of Clay into managed sales and marketing programs. The firm, a certified Clay Studio Partner since May 2026, embedded Clay's data infrastructure to lower costs and accelerate pipeline velocity. The award follows demandDrive's scaling to Clay Enterprise in late 2024.",
+    "word_count": 429,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "CRM Implementation & Systems Integration",
+      "code": "BPAFAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003dmh",
+      "name": "demandDrive",
+      "website": "http://demanddrive.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "lindsay frey",
+      "amy reams",
+      "sarah esteverena"
+     ],
+     "location": [
+      "san francisco",
+      "boston",
+      "waltham, mass."
+     ],
+     "product": [
+      "clay"
+     ],
+     "event": [
+      "sculpt conference"
+     ]
+    },
+    "newsworthiness_score": 0.983,
+    "group_id": 15048732
+   },
+   {
+    "id": 42314776,
+    "title": "10 Best Sales Intelligence Platforms for B2B Teams in 2026",
+    "url": "https://www.akta.pro/blog/10-best-sales-intelligence-platforms-for-b2b-teams",
+    "publisher": "Akta",
+    "published_date": "2026-10-20T07:54:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7656,
+    "ai_summary": "The article ranks 10 sales intelligence platforms for B2B teams in 2026, including ZoomInfo, Apollo, and akta.pro, with pricing and use cases. It notes bad data wastes 27.3% of a rep's time and costs $20,000 annually, and recommends pairing a contact-data layer with a signals layer.",
+    "word_count": 2435,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000055",
+      "name": "Apollo.io",
+      "website": "https://www.apollo.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "02c1dka",
+      "name": "akta.pro",
+      "website": "https://www.akta.pro/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007hf",
+      "name": "Cognism",
+      "website": "https://cognism.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a69",
+      "name": "Seamless.AI",
+      "website": "http://www.seamless.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002snt",
+      "name": "Lusha",
+      "website": "https://www.lusha.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007g",
+      "name": "6sense",
+      "website": "http://www.6sense.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000029x",
+      "name": "Demandbase",
+      "website": "http://www.demandbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009fq",
+      "name": "LinkedIn",
+      "website": "https://linkedin.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dennis sevilla",
+      "abigail maines"
+     ],
+     "location": [
+      "us",
+      "eu"
+     ],
+     "product": [
+      "zoominfo",
+      "apollo",
+      "seamless.ai",
+      "akta.pro",
+      "lusha",
+      "6sense",
+      "demandbase",
+      "cognism",
+      "linkedin sales navigator",
+      "clay",
+      "apollo.io",
+      "claygent",
+      "sales navigator",
+      "salesloft",
+      "clay. clay"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8215,
+    "group_id": 15669704
+   },
+   {
+    "id": 40466283,
+    "title": "7 Best AeroLeads Alternatives in July 2026",
+    "url": "https://pipeline.zoominfo.com/sales/aeroleads-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4494,
+    "ai_summary": "AeroLeads' alternatives include ZoomInfo, Apollo.io, Lusha, Cognism, Hunter.io, RocketReach, and Clay, each addressing specific gaps like phone caps, sequencing, or buying signals. ZoomInfo offers 500M contacts and GTM Context Graph, while Apollo.io bundles 270M+ contacts with outreach sequencing. The guide recommends choosing based on team size and compliance needs.",
+    "word_count": 7036,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": true
+     },
+     {
+      "name": "Lead Generation & List Building Services (Prospecting, Data Sourcing)",
+      "code": "BPAFAKAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006u5p",
+      "name": "Hunter",
+      "website": "https://hunter.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vej",
+      "name": "AeroLeads",
+      "website": "https://aeroleads.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000055",
+      "name": "Apollo.io",
+      "website": "https://www.apollo.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007hf",
+      "name": "Cognism",
+      "website": "https://cognism.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002snt",
+      "name": "Lusha",
+      "website": "https://www.lusha.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000083e",
+      "name": "RocketReach.co",
+      "website": "https://rocketreach.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "519290",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "north america",
+      "european markets",
+      "germany",
+      "us",
+      "france",
+      "ireland",
+      "uk",
+      "spain",
+      "europe",
+      "canada",
+      "european"
+     ],
+     "product": [
+      "zoominfo",
+      "aeroleads",
+      "apollo.io",
+      "rocketreach",
+      "lusha",
+      "hunter.io",
+      "clay",
+      "cognism",
+      "zapier",
+      "freshsales",
+      "mailchimp",
+      "hubspot",
+      "zoho crm",
+      "angellist",
+      "chrome extension",
+      "aero ai",
+      "linkedin",
+      "salesforce",
+      "chatgpt",
+      "anthropic claude",
+      "abm lite",
+      "abm enterprise",
+      "marketo",
+      "enterprise",
+      "apollo",
+      "snov.io",
+      "gmail",
+      "microsoft office",
+      "n8n",
+      "make",
+      "lusha signals",
+      "pro",
+      "findymail",
+      "prospeo",
+      "hunter starter",
+      "discover",
+      "sales navigator",
+      "claygent",
+      "sculptor",
+      "ultimate",
+      "instantly.ai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8707,
+    "group_id": 14076519
+   },
+   {
+    "id": 40465742,
+    "title": "7 Best lemlist Integrations for Outbound Sales [Aug 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/lemlist-integrations",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The guide evaluates seven integrations for lemlist, an AI-powered outbound sales platform, including ZoomInfo, HubSpot, Clay, Salesforce, Aircall, Zapier, and Slack. It details how each tool connects, data flows, pricing, and target users, such as ZoomInfo's verified contact data and HubSpot's bidirectional sync.",
+    "word_count": 5881,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [
+     "FRA"
+    ],
+    "industries": [
+     {
+      "name": "CRM Implementation & Systems Integration",
+      "code": "BPAFAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002k85",
+      "name": "Aircall",
+      "website": "https://aircall.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004eso",
+      "name": "Lemlist",
+      "website": "https://lemlist.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "paris"
+     ],
+     "product": [
+      "lemlist",
+      "whatsapp",
+      "linkedin",
+      "phone",
+      "aircall",
+      "apollo",
+      "claude",
+      "clay",
+      "chatgpt",
+      "snitcher",
+      "zoominfo",
+      "albacross",
+      "trellus",
+      "ringover",
+      "cursor",
+      "pharow",
+      "trigify",
+      "clearout",
+      "leadfeeder",
+      "lonescale",
+      "lusha",
+      "salesforce",
+      "hubspot",
+      "sales hub professional",
+      "zapier",
+      "gemini",
+      "typeform",
+      "airtable",
+      "webflow",
+      "clickup",
+      "asana",
+      "calendly",
+      "slack",
+      "zoho",
+      "eventbrite",
+      "google sheets",
+      "gotowebinar",
+      "lemwarm",
+      "make"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7902,
+    "group_id": 14077844
+   },
+   {
+    "id": 40465408,
+    "title": "Clay vs Apollo: Which Platform Is Right for You?",
+    "url": "https://pipeline.zoominfo.com/sales/clay-vs-apollo",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7244,
+    "ai_summary": "Clay, Apollo, and ZoomInfo are compared as B2B data and GTM platforms. Clay offers multi-provider enrichment, Apollo provides integrated sales tools, and ZoomInfo adds contextual intelligence. ZoomInfo is recommended for teams needing data-driven context on why deals move.",
+    "word_count": 3483,
+    "author": "Florin Tatuleagtm Engineer In Residence",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": false
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000055",
+      "name": "Apollo.io",
+      "website": "https://www.apollo.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "schuck"
+     ],
+     "location": [
+      "canada",
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "clay",
+      "apollo",
+      "zoominfo",
+      "claygent",
+      "sculptor",
+      "gtm studio",
+      "openai",
+      "anthropic",
+      "chorus",
+      "rippling",
+      "vanta",
+      "instantly",
+      "heyreach",
+      "websights lite",
+      "hubspot",
+      "leadsift",
+      "gtm workspace",
+      "claude"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8244,
+    "group_id": 14077780
+   },
+   {
+    "id": 40465222,
+    "title": "Clay vs. Lusha Comparison",
+    "url": "https://pipeline.zoominfo.com/sales/clay-vs-lusha",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7966,
+    "ai_summary": "Clay, Lusha, and ZoomInfo are compared for go-to-market data needs. Clay offers workflow orchestration across 150+ providers, Lusha provides verified contact lookup, and ZoomInfo combines data with intent signals. Each platform targets different user groups and use cases.",
+    "word_count": 4885,
+    "author": "Florin Tatuleagtm Engineer In Residence",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Workflow-Oriented Integration & Orchestration",
+      "code": "HDAEAIAG",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": false
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002snt",
+      "name": "Lusha",
+      "website": "https://www.lusha.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "florin tatulea"
+     ],
+     "location": [
+      "asian",
+      "european",
+      "european markets"
+     ],
+     "product": [
+      "clay",
+      "lusha",
+      "zoominfo",
+      "g2",
+      "gtm studio",
+      "gtm workspace",
+      "chorus",
+      "openai",
+      "chrome extension",
+      "bombora",
+      "snowflake",
+      "outreach",
+      "windows",
+      "hubspot",
+      "claygent",
+      "sculptor",
+      "salesforce",
+      "truste",
+      "6sense"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7753,
+    "group_id": 14077780
+   },
+   {
+    "id": 40469102,
+    "title": "Don't forget the CX! How Clay puts agents out onto Slack for support but still rates the 'human in the loop'",
+    "url": "https://diginomica.com/dont-forget-cx-how-clay-puts-agents-out-slack-support-still-rates-human-loop",
+    "publisher": "diginomica",
+    "published_date": "2026-10-12T09:05:02",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8054,
+    "ai_summary": "Clay, a US AI firm, uses Fin's AI agents to scale customer support on its public Slack community, while keeping experienced humans in the loop for complex cases. The company is shifting human support toward strategic thinking and pattern matching, using AI to speed up routine tasks.",
+    "word_count": 1345,
+    "author": "Stuart Lauchlan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Customer Experience (CX) & Digital Experience",
+      "code": "BPAHAEAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "028whu2",
+      "name": "Fin",
+      "website": "https://fin.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "george dilthey",
+      "dilthey"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "slack",
+      "box",
+      "fin"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7444,
+    "group_id": 14077387
+   },
+   {
+    "id": 39985779,
+    "title": "Reddit launches updated lead gen ads options",
+    "url": "https://www.socialmediatoday.com/news/reddit-launches-updated-lead-gen-ads-options/832296/",
+    "publisher": "Social Media News",
+    "published_date": "2026-10-06T18:59:10",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Reddit announced enhancements to its Lead Gen Ads, expanding AI-powered Max campaigns to lead gen objectives and launching a test of in-market audiences targeting enterprise, business AI, and cybersecurity. Early trials showed nearly 7% improvement in CPA over first-party targeting. The platform also added HubSpot integration and expanded partner platforms.",
+    "word_count": 305,
+    "author": "Andrew Hutchinson",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Lead Generation & Performance Media (B2B/B2C)",
+      "code": "MPAAACAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cl5",
+      "name": "Bombora",
+      "website": "http://bombora.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000f7i",
+      "name": "Octane11",
+      "website": "http://www.octane11.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002in",
+      "name": "Reddit",
+      "website": "https://www.redditinc.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000029x",
+      "name": "Demandbase",
+      "website": "http://www.demandbase.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000305",
+      "name": "advertising"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "max",
+      "hubspot",
+      "octane 11"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8288,
+    "group_id": 13614519
+   },
+   {
+    "id": 39524510,
+    "title": "Clay\u2019s Kareem Amin joins Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-10-02T14:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay co-founder and CEO Kareem Amin will present at TechCrunch Disrupt 2026 on how AI created the GTM engineer role. Clay tripled annual recurring revenue to $100 million and raised a $115 million Series D at a $7.1 billion valuation. The session explores AI-native go-to-market systems.",
+    "word_count": 969,
+    "author": "Techcrunch Events",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Go-to-Market (GTM) Strategy & Planning",
+      "code": "MPAAAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Advertising, Marketing & Customer Personalization",
+      "code": "HDAAAGAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001289",
+      "name": "sales channel"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5418",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "kareem amin"
+     ],
+     "location": [
+      "brooklyn",
+      "san francisco",
+      "moscone west"
+     ],
+     "product": [
+      "claygent",
+      "frame"
+     ],
+     "event": [
+      "disrupt 2026",
+      "disrupt"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13147514
+   },
+   {
+    "id": 39673778,
+    "title": "Government Buying Signals and Public-Records Procurement Data Are Now Available in Clay",
+    "url": "https://www.einpresswire.com/article/946146494/government-buying-signals-and-public-records-procurement-data-are-now-available-in-clay",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-09-30T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9304,
+    "ai_summary": "Pursuit announced its public-sector data, including verified contacts, entity profiles, and buying signals, is now available in Clay. The integration covers over 170,000 public sector entities, with more than 160 million government documents analyzed in the past six months. The data is accessible through Clay's native enrichment step.",
+    "word_count": 694,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Data Engineering, Integration & ETL/ELT Services",
+      "code": "BPAEAHAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006tk3",
+      "name": "Pursuit",
+      "website": "https://pursuit.us",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "11000000",
+      "name": "politics and government"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000609",
+      "name": "government department"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "77",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "92114",
+      "name": "Public Administration"
+     },
+     {
+      "code": "921130",
+      "name": "Public Administration"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8888",
+      "name": "FOREIGN GOVERNMENTS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "brandon max"
+     ],
+     "location": [
+      "united states",
+      "mi",
+      "cities",
+      "ann arbor",
+      "counties"
+     ],
+     "product": [
+      "clay",
+      "pursuit"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8054,
+    "group_id": 13396010
+   },
+   {
+    "id": 39400871,
+    "title": "Landbase Launches GTM-3 Omni: New Benchmark Shows AI Agents Beat Clay, Apollo and ZoomInfo on List Precision",
+    "url": "https://finance.yahoo.com/technology/ai/articles/landbase-launches-gtm-3-omni-130000586.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-09-29T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Landbase launched GTM-3 Omni, an AI agent for go-to-market discovery, and published benchmark results. The model achieved 76.7% list precision, outperforming Clay (47.9%), Apollo (36.0%), and ZoomInfo (23.2%) across 26 prompts. Landbase claims this precision can double campaign performance.",
+    "word_count": 440,
+    "author": "Business Wire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000055",
+      "name": "Apollo.io",
+      "website": "https://www.apollo.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003ys",
+      "name": "Landbase",
+      "website": "https://www.landbase.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "627",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541910",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "daniel saks"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "gtm-3 omni",
+      "apollo",
+      "clay",
+      "zoominfo",
+      "gtm-2",
+      "gtm-3"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9167,
+    "group_id": 13027732
+   },
+   {
+    "id": 39174486,
+    "title": "AI companies are asking their employees to flag AI writing \u2014 and one wants a steak emoji",
+    "url": "https://www.businessinsider.com/ai-startups-asking-employees-to-flag-ai-writing-clay-figma-2026-9",
+    "publisher": "Business Insider",
+    "published_date": "2026-09-29T05:31:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4238,
+    "ai_summary": "AI startups are asking employees to self-disclose AI-generated writing, with Clay, Figma, Dupe, and Exa adopting different policies. Clay requires employees to take responsibility for all shared documents, while Dupe uses a steak emoji, and Exa bans AI writing entirely. Broader efforts include watermarks from Anthropic, Google, and OpenAI.",
+    "word_count": 521,
+    "author": "Shubhangi Goel",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Content Authenticity, Watermarking & Deepfake Detection",
+      "code": "HDAAAKAK",
+      "is_primary": true
+     },
+     {
+      "name": "Responsible AI Policy, Controls & Workflow Management",
+      "code": "HDAAAMAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": true
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000b3",
+      "name": "Exa",
+      "website": "https://exa.cl",
+      "is_primary": false
+     },
+     {
+      "uuid": "00065do",
+      "name": "Dupe.com",
+      "website": "https://dupe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000evc2",
+      "name": "Google AI",
+      "website": "https://research.google",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "56131",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "varun anand",
+      "bobby ghoshal",
+      "ishan goswami",
+      "dylan field"
+     ],
+     "location": [],
+     "product": [
+      "dall-e 3",
+      "sora",
+      "imagegen"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8462,
+    "group_id": 12817576
+   },
+   {
+    "id": 39116552,
+    "title": "Anthropic, Gamma, and Clay talk AI at Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-09-28T15:30:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.615,
+    "ai_summary": "At TechCrunch Disrupt 2026, Anthropic, Gamma, and Clay will discuss AI deployment on the AI Stage. The session covers patterns from enterprise deployments and founder experiences, with Gamma approaching 100 million users. The event runs October 13\u201315 in San Francisco.",
+    "word_count": 837,
+    "author": "Techcrunch Events",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Model Serving, Inference & Deployment Platforms (APIs, Edge/On-Prem)",
+      "code": "HDAEANAC",
+      "is_primary": true
+     },
+     {
+      "name": "Model Deployment, Serving & Inference Platforms",
+      "code": "HDAAABAF",
+      "is_primary": false
+     },
+     {
+      "name": "End-to-End Enterprise AI Platforms (MLOps & Model Lifecycle Management)",
+      "code": "HDAEANAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000wor",
+      "name": "Gamma",
+      "website": "https://gamma.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "13000000",
+      "name": "science and technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "grant lee",
+      "cat de jong"
+     ],
+     "location": [
+      "san francisco",
+      "moscone west"
+     ],
+     "product": [
+      "claude",
+      "ai products"
+     ],
+     "event": [
+      "disrupt 2026",
+      "disrupt"
+     ]
+    },
+    "newsworthiness_score": 0.9579,
+    "group_id": 12751839
+   },
+   {
+    "id": 39504488,
+    "title": "Champion Tracking Software: 8 Best Tools for 2026",
+    "url": "https://pipeline.zoominfo.com/sales/champion-tracking-software",
+    "publisher": "Zoominfo",
+    "published_date": "2026-09-23T22:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Eight champion tracking tools are compared, with ZoomInfo, UserGems, Champify, and others ranked on detection accuracy, CRM sync, and pricing. ZoomInfo is highlighted for verified detection and native routing, while others like UserGems and Champify offer CRM-native or scored signals. The guide advises choosing based on CRM and team capacity.",
+    "word_count": 3429,
+    "author": "Florin Tatuleagtm Engineer In Residence",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": false
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000haf",
+      "name": "UserGems",
+      "website": "https://www.usergems.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004rm",
+      "name": "Unify",
+      "website": "https://www.unifygtm.com/get-started",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002snt",
+      "name": "Lusha",
+      "website": "https://www.lusha.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000055",
+      "name": "Apollo.io",
+      "website": "https://www.apollo.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00021q7",
+      "name": "Champify",
+      "website": "https://www.champify.io",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "813910",
+      "name": "Other Services (except Public Administration)"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "kevin neely"
+     ],
+     "location": [],
+     "product": [
+      "champion tracking software",
+      "lusha",
+      "zoominfo",
+      "apollo",
+      "champify",
+      "clay",
+      "usergems",
+      "g2",
+      "gem-e",
+      "unify gtm",
+      "revops",
+      "champions",
+      "lusha signals",
+      "zapier",
+      "champion tracking"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8171,
+    "group_id": 13124959
+   },
+   {
+    "id": 38800597,
+    "title": "How debate over an invoice prompted this AI startup to reimagine its coaching program",
+    "url": "https://www.hr-brew.com/stories/clay-reimagines-its-coaching-program",
+    "publisher": "HR Brew",
+    "published_date": "2026-09-23T17:07:07",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, an AI sales startup, is expanding its coaching program after a debate over an invoice. Headcount grew from 80 to 600, and the company closed an $115 million funding round. It will pilot targeted coaching for first-time managers, with performance metrics to evaluate outcomes.",
+    "word_count": 697,
+    "author": "About The Author",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Leadership Transition & Onboarding Coaching (New Role, New Manager, Promotion)",
+      "code": "EDABANAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     },
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karan parekh",
+      "alex shapiro",
+      "courtney vinopal"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9194,
+    "group_id": 12281575
+   },
+   {
+    "id": 38592140,
+    "title": "Handshake launches first AI Skills Studio to prepare job seekers for the AI economy",
+    "url": "https://www.prnewswire.com/news-releases/handshake-launches-first-ai-skills-studio-to-prepare-job-seekers-for-the-ai-economy-302885733.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-09-22T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Handshake launched AI Skills Studio, a free learning hub where job seekers build practical AI skills through hands-on projects with partners like OpenAI, Google, and Salesforce. Missions take 10-45 minutes and end with a tangible project, with completed work added to profiles and featured in the AI Showcase for over one million employers.",
+    "word_count": 744,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI/ML Learning Platforms for Students",
+      "code": "EDAFANAE",
+      "is_primary": true
+     },
+     {
+      "name": "Resume & Professional Branding (CV, LinkedIn, Portfolio)",
+      "code": "EDAAAKAB",
+      "is_primary": false
+     },
+     {
+      "name": "Job Placement, Matching & Career Navigation Services",
+      "code": "EDAAAOAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fdj",
+      "name": "Handshake",
+      "website": "https://joinhandshake.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000wor",
+      "name": "Gamma",
+      "website": "https://gamma.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000276",
+      "name": "employment agency"
+     },
+     {
+      "code": "20000509",
+      "name": "employment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "6114",
+      "name": "Educational Services"
+     },
+     {
+      "code": "61143",
+      "name": "Educational Services"
+     },
+     {
+      "code": "561311",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "julia stiglitz",
+      "jon stull",
+      "lisa gevelber",
+      "brian johnsrud"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "ai skills studio",
+      "uplimit",
+      "codex",
+      "chatgpt"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9309,
+    "group_id": 12035858
+   },
+   {
+    "id": 36879958,
+    "title": "Du CRM aux \u201cbuying signals\u201d : la nouvelle bataille de la SalesTech",
+    "url": "https://www.frenchweb.fr/du-crm-aux-buying-signals-la-nouvelle-bataille-de-la-salestech/463523",
+    "publisher": "FRENCHWEB.FR",
+    "published_date": "2026-09-21T13:07:31",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4929,
+    "ai_summary": "SalesTech is shifting from CRM to buying signals, using public data like job postings and funding rounds to detect purchase intent. Companies such as Clay, Apollo.io, and Common Room are building platforms that score organizations' readiness to buy. The competitive focus moves from contact databases to signal freshness and contextualization.",
+    "word_count": 1104,
+    "author": "LA REDACTION DE FRENCHWEB FR",
+    "countries": [
+     "FRA",
+     "FIN",
+     "DEU",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s6h",
+      "name": "SPARKLANE",
+      "website": "https://www.sparklane-group.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000055",
+      "name": "Apollo.io",
+      "website": "https://www.apollo.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004u5",
+      "name": "Common Room",
+      "website": "https://www.commonroom.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000yt2",
+      "name": "Leadfeeder",
+      "website": "http://www.leadfeeder.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002bko",
+      "name": "Trigify",
+      "website": "https://www.trigify.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00rqlct",
+      "name": "Mantiks",
+      "website": "https://mantiks.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003o69",
+      "name": "Pharow",
+      "website": "https://www.pharow.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54184",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541890",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "allemagne",
+      "royaume-uni",
+      "france",
+      "finlande"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.8579,
+    "group_id": 11901254
+   },
+   {
+    "id": 36248058,
+    "title": "Instinct Valuation Compresses Funding Timelines to Weeks Amid Compute Constraints",
+    "url": "https://www.ainvest.com/news/instinct-valuation-compresses-funding-timelines-weeks-compute-constraints-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-09-20T13:57:41",
+    "sentiment": "Negative",
+    "sentiment_score": 0.224,
+    "ai_summary": "Spear Street's Instinct is negotiating a $1 billion raise at a $10 billion valuation, a near-fourfold jump from its Series B. The company has reached compute capacity limits with over 100,000 users, forcing exploration of advertising revenue despite unclear monetization. Competitors like Cognition AI and Clay show similar valuation inflation.",
+    "word_count": 848,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Compute Cloud & GPU-as-a-Service",
+      "code": "HDAAAAAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mimt9",
+      "name": "Instinct",
+      "website": "https://instinct.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000039j",
+      "name": "Conviction",
+      "website": "https://conviction.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hm7",
+      "name": "Greenoaks",
+      "website": "https://www.greenoaks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008g",
+      "name": "Benchmark",
+      "website": "http://www.benchmark.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "noah shinn"
+     ],
+     "location": [
+      "spear street"
+     ],
+     "product": [
+      "instinct",
+      "muse",
+      "clay",
+      "cognition ai",
+      "devin"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11348664
+   },
+   {
+    "id": 36066850,
+    "title": "Vibe Expands Connected TV Platform With Agent Access and Six New Integrations",
+    "url": "https://martechseries.com/sales-marketing/programmatic-buying/vibe-expands-connected-tv-platform-with-agent-access-and-six-new-integrations/",
+    "publisher": "MarTech Series",
+    "published_date": "2026-09-18T08:29:22",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Vibe expanded its connected TV platform with a public API, AI assistant connection, command-line tool, reporting agent, and six new integrations. The company tested the API internally, building 250 account-based campaigns in under 15 minutes, compared to 40-125 hours manually. The expansion aims to let marketers operate across scripts and AI assistants.",
+    "word_count": 712,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Ad Tech for OTT (SSAI/CSAI, Ad Decisioning, Measurement)",
+      "code": "MPAHAJAG",
+      "is_primary": true
+     },
+     {
+      "name": "Video/CTV/OTT Media Buying",
+      "code": "MPAAABAE",
+      "is_primary": false
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uup",
+      "name": "Omnisend",
+      "website": "https://www.omnisend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ud",
+      "name": "Vibe",
+      "website": "https://www.vibe.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "00009he",
+      "name": "Freshpaint",
+      "website": "https://freshpaint.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000czs5",
+      "name": "L2 Data",
+      "website": "http://www.l2political.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00024pl",
+      "name": "Segwise",
+      "website": "https://segwise.ai?utm_source=businessdirectory",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001293",
+      "name": "streaming service"
+     },
+     {
+      "code": "20000311",
+      "name": "online media industry"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "634",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "628",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "640",
+      "name": "Entertainment"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51621",
+      "name": "Information"
+     },
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "romain marsal",
+      "mark listes",
+      "david nyurenberg",
+      "arthur querou"
+     ],
+     "location": [],
+     "product": [
+      "claude",
+      "clay",
+      "omnisend",
+      "freshpaint",
+      "chatgpt",
+      "l2",
+      "segwise",
+      "stella",
+      "vibe",
+      "gemini enterprise",
+      "streaming tv",
+      "vibe developer platform",
+      "connected tv"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9134,
+    "group_id": 11480456
+   },
+   {
+    "id": 40230564,
+    "title": "AI Agents Are Replacing Human Workflows \u2014 What Founders Need to Know in 2026",
+    "url": "https://startupill.com/ai-agents-replacing-human-workflows-startup-opportunity-2026/",
+    "publisher": "Startupill",
+    "published_date": "2026-09-18T04:10:50",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Four AI agent startups raised $2.77 billion in September 2026, with Cognition leading at $2 billion for its Devin software engineer. The funds target eight workflows including legal, sales, and financial operations, with Harvey, Clay, and Ramp also raising. Founders are advised to price per outcome and build human escalation mechanisms.",
+    "word_count": 1106,
+    "author": "Laura Anderson",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000000s",
+      "name": "Harvey",
+      "website": "https://www.harvey.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "devin",
+      "devin ai software engineer"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13801142
+   },
+   {
+    "id": 35669424,
+    "title": "Vibe Expands Connected TV Platform With Agent Access and Six New Integrations",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-9-17-vibe-expands-connected-tv-platform-with-agent-access-and-six-new-integrations",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-09-17T15:44:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Vibe expanded its connected TV platform with a public API, AI assistant connection, command-line tool, reporting agent, and six new integrations. The company tested the API internally, building 250 account-based campaigns in under 15 minutes versus an estimated 40-125 hours. The new access points are available to all advertisers at no additional cost.",
+    "word_count": 829,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Ad Tech for OTT (SSAI/CSAI, Ad Decisioning, Measurement)",
+      "code": "MPAHAJAG",
+      "is_primary": true
+     },
+     {
+      "name": "Ad Campaign Measurement, Reach/Frequency & Attribution (TV/CTV/Radio)",
+      "code": "MPABAOAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uup",
+      "name": "Omnisend",
+      "website": "https://www.omnisend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ud",
+      "name": "Vibe",
+      "website": "https://www.vibe.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "00009he",
+      "name": "Freshpaint",
+      "website": "https://freshpaint.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000czs5",
+      "name": "L2 Data",
+      "website": "http://www.l2political.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00024pl",
+      "name": "Segwise",
+      "website": "https://segwise.ai?utm_source=businessdirectory",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000305",
+      "name": "advertising"
+     },
+     {
+      "code": "20001293",
+      "name": "streaming service"
+     },
+     {
+      "code": "20000315",
+      "name": "television industry"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51621",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "4833",
+      "name": "TELEVISION BROADCASTING STATIONS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "romain marsal",
+      "david nyurenberg",
+      "arthur querou"
+     ],
+     "location": [],
+     "product": [
+      "claude",
+      "chatgpt",
+      "clay",
+      "omnisend",
+      "freshpaint",
+      "segwise",
+      "l2",
+      "stella",
+      "vibe mcp",
+      "streaming tv",
+      "vibe developer platform",
+      "vibe cli",
+      "gemini enterprise",
+      "vibe agent",
+      "vibe",
+      "terminal"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8171,
+    "group_id": 11480456
+   },
+   {
+    "id": 35117241,
+    "title": "Clay Closes $115M Series D, Doubling Valuation to $7.1B Amid Demand for AI-Griven Go-to-Market Tools",
+    "url": "https://www.citybiz.co/article/902963/clay-closes-115m-series-d-doubling-valuation-to-7-1b-amid-demand-for-ai-griven-go-to-market-tools/",
+    "publisher": "citybiz",
+    "published_date": "2026-09-15T09:45:18",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D round, valuing the AI go-to-market software company at $7.1 billion. The company has over 17,000 customers, including 80% of Forbes AI 50, and has raised $392 million total. It also announced a $1 million scholarship fund for GTM engineers.",
+    "word_count": 420,
+    "author": "Win Warfield",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005yar",
+      "name": "Perennial Partners",
+      "website": "https://perennial.net.au",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54189",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "varun anand",
+      "kareem amin",
+      "nicolae rusan",
+      "hillary clinton"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35033565,
+    "title": "#NYCtech Week in Review: 9/6/26 \u2013 9/12/26",
+    "url": "https://www.alleywatch.com/2026/09/nyctech-week-in-review-9-6-26-9-12-26/",
+    "publisher": "AlleyWatch",
+    "published_date": "2026-09-14T12:27:58",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Nine NYC startups raised funding between September 6 and 12, 2026, including Rightway Healthcare's $155M round, Forus's $150M Series C, and Clay's $115M Series D. The rounds span healthcare, fintech, AI, and robotics, with total funding amounts and investor details provided.",
+    "word_count": 1033,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000047",
+      "name": "Inspiren",
+      "website": "https://inspiren.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0099t18",
+      "name": "Antioch",
+      "website": "https://antioch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009a5",
+      "name": "Luminary",
+      "website": "https://www.withluminary.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000217o",
+      "name": "Every Media",
+      "website": "https://every.to/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02igbb9",
+      "name": "Forus",
+      "website": "https://forus.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00032cu",
+      "name": "Rightway",
+      "website": "http://rightwayhealthcare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02mokdv",
+      "name": "Malayy",
+      "website": "",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000exf",
+      "name": "Savvy Wealth",
+      "website": "https://savvywealth.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001294",
+      "name": "crowdfunding"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sahir jaggi",
+      "guy shahar",
+      "theodore feldman",
+      "michael wang",
+      "paul coyne",
+      "collin schlager",
+      "kareem amin",
+      "jordan feldman",
+      "alex langshur",
+      "david barnard",
+      "ritik malhotra",
+      "muller zhang",
+      "varun anand",
+      "alex hejnosz",
+      "nicolae rusan",
+      "harry mellsop",
+      "vincent cocito",
+      "colton swingle",
+      "jose faleiro",
+      "stephen kosslyn",
+      "nithya sambasivan",
+      "dan shipper",
+      "alexei lebedev",
+      "george levin",
+      "vladimir parizhsky"
+     ],
+     "location": [
+      "nyc"
+     ],
+     "product": [
+      "antioch",
+      "inspiren",
+      "blee",
+      "luminary",
+      "clay",
+      "savvy wealth",
+      "rightway healthcare",
+      "malayy",
+      "algox2",
+      "every media"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9483,
+    "group_id": 10836483
+   },
+   {
+    "id": 35734704,
+    "title": "Clay Raises $115 Million at a $7.1 Billion Valuation",
+    "url": "https://entarabi.com/en/2026/09/clay-raises-115-million-at-a-7-1-billion/",
+    "publisher": "Entarabi",
+    "published_date": "2026-09-14T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D round led by Wellington Management, valuing the AI sales software at $7.1 billion. The company's annual recurring revenue surpassed $100 million in December 2025, with revenue expected to reach $200 million this quarter and nearly $240 million by year-end. Management expects revenue to double next year.",
+    "word_count": 398,
+    "author": "\u0625\u0646\u062a \u0639\u0631\u0628\u064a",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005yar",
+      "name": "Perennial Partners",
+      "website": "https://perennial.net.au",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002s8f",
+      "name": "boldstart ventures",
+      "website": "http://www.boldstart.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "nicolae rusan",
+      "varun anand"
+     ],
+     "location": [
+      "new york"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 41412282,
+    "title": "AI Agent Startups in 2026: The Companies Building the Next Generation of Autonomous Software",
+    "url": "https://www.bbntimes.com/technology/ai-agent-startups-in-2026-the-companies-building-the-next-generation-of-autonomous-software",
+    "publisher": "Bbntimes",
+    "published_date": "2026-09-13T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "AI agent startups are building autonomous software that performs multi-step tasks, with the market expanding from about 300 to thousands of companies. Cognition raised $2 billion at a $48 billion valuation, and Sierra raised $950 million, while CB Insights mapped over 400 private agent companies. The market remains fragmented, with reliability and enterprise integration as key differentiators.",
+    "word_count": 3844,
+    "author": "Anuja Lath",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     },
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002k",
+      "name": "Glean",
+      "website": "https://www.glean.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000s",
+      "name": "Harvey",
+      "website": "https://www.harvey.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000in",
+      "name": "Decagon",
+      "website": "https://decagon.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004jb",
+      "name": "CrewAI",
+      "website": "https://www.crewai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008s",
+      "name": "Sierra",
+      "website": "https://sierra.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000dg",
+      "name": "LangChain",
+      "website": "https://www.langchain.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "clay bavor",
+      "bret taylor"
+     ],
+     "location": [],
+     "product": [
+      "devin",
+      "decagon",
+      "sierra",
+      "clay",
+      "agent b",
+      "agent a",
+      "azure",
+      "microsoft 365",
+      "ai agents",
+      "frontier models",
+      "ai agent"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14871192
+   },
+   {
+    "id": 34901077,
+    "title": "Clay Raises $115 Million To Build AI Sales Teams for B2B Sales Growth",
+    "url": "https://ventureburn.com/clay-raises-115-million-to-build-ai-sales-teams/",
+    "publisher": "Ventureburn",
+    "published_date": "2026-09-11T15:06:57",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D round led by Wellington Management, valuing the company at $7.1 billion. The AI sales platform reports annualized revenue of about $200 million, with forecasts of $240 million by year-end. It will preview new products at its October 8 user conference.",
+    "word_count": 690,
+    "author": "Ekemini September",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54161",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "varun anand",
+      "rob masone",
+      "ekemini"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [],
+     "event": [
+      "sculpt"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34880304,
+    "title": "Clay Raises $115M Series D",
+    "url": "https://www.thesaasnews.com/news/clay-raises-115m-series-d/",
+    "publisher": "The SaaS News",
+    "published_date": "2026-09-11T05:09:36",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, a New York-based AI go-to-market company, raised $115 million in a Series D round at a $7.1 billion valuation. The round was led by Wellington, with participation from Sequoia, a16z, and others. The company will use the funds to expand its AI growth engine and support a $1 million scholarship fund.",
+    "word_count": 202,
+    "author": "Ben Murray",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "varun anand",
+      "nicolae rusan",
+      "kareem amin"
+     ],
+     "location": [
+      "new york"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35072162,
+    "title": "\u4f01\u4e1a\u7ea7AI\u516c\u53f8Clay\u5b8c\u62101.15\u4ebf\u7f8e\u5143D\u8f6e\u878d\u8d44\uff0ca16z\u7b49\u53c2\u6295",
+    "url": "https://www.panewslab.com/zh/articles/01a0907b-fb33-755a-a9a0-2918838e8f64",
+    "publisher": "Panewslab",
+    "published_date": "2026-09-11T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0386,
+    "ai_summary": "Clay, an enterprise AI company, raised $115 million in a D round led by Wellington, with participation from a16z and others, bringing its valuation to $7.1 billion. Its AI agents build real-time business and customer profiles from CRM data and execute workflows, and are used by Anthropic, Google, OpenAI, and Stripe.",
+    "word_count": 5,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005yar",
+      "name": "Perennial Partners",
+      "website": "https://perennial.net.au",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000a6u",
+      "name": "Wellington Partners",
+      "website": "http://www.wellington-partners.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00027c5",
+      "name": "Perennial Labs",
+      "website": "https://perennial.finance/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "813920",
+      "name": "Other Services (except Public Administration)"
+     },
+     {
+      "code": "551",
+      "name": "Management of Companies and Enterprises"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "andreessen horowitz"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35035123,
+    "title": "Egypt-born Kareem Amin\u2019s Clay raises $115M Series D at $7.1B valuation",
+    "url": "https://www.fwdstart.me/p/egypt-born-kareem-amin-s-clay-raises-115m-series-d-at-7-1b-valuation",
+    "publisher": "Fwdstart",
+    "published_date": "2026-09-11T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, a go-to-market software company founded by Egypt-born Kareem Amin, raised $115 million in a Series D led by Wellington Management at a $7.1 billion valuation. The round more than doubled its valuation from the prior year, with annualized revenue on pace to reach about $200 million this quarter. Amin said the company is not planning to list but is running as if it were.",
+    "word_count": 651,
+    "author": "Jamie Lane",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005yar",
+      "name": "Perennial Partners",
+      "website": "https://perennial.net.au",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000069o",
+      "name": "Bloomberg Beta",
+      "website": "https://www.bloombergbeta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002s8f",
+      "name": "boldstart ventures",
+      "website": "http://www.boldstart.vc",
+      "is_primary": true
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00027c5",
+      "name": "Perennial Labs",
+      "website": "https://perennial.finance/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "varun anand",
+      "nicolae rusan",
+      "jamie lane"
+     ],
+     "location": [
+      "new york",
+      "egypt",
+      "canada",
+      "dhahran",
+      "saudi arabia",
+      "mena"
+     ],
+     "product": [
+      "clay"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34837128,
+    "title": "Clay Raises $115M in Series D Funding",
+    "url": "https://www.finsmes.com/2026/09/clay-raises-115m-in-series-d-funding.html",
+    "publisher": "FinSMEs",
+    "published_date": "2026-09-10T10:10:46",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, an AI go-to-market company, raised $115M in Series D financing at a $7.1B valuation, led by Wellington. The funds will build AI agents for business growth, expand platform capabilities, and fund a $1 million scholarship program. The company serves over 17,000 companies.",
+    "word_count": 169,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "varun anand",
+      "kareem amin",
+      "nicolae rusan"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34817376,
+    "title": "Clay hits $7.1B valuation with $115M raise as it sees AI agents running future of sales \u2014 TFN",
+    "url": "https://techfundingnews.com/clay-hits-7-1b-valuation-with-115m-raise-as-it-sees-ai-agents-running-future-of-sales/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-09-10T04:08:49",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115M in a Series D led by Wellington Management, hitting a $7.1B valuation. The go-to-market platform serves over 17,000 customers, including Anthropic and Google, and is launching a $1M fund to train GTM engineers. The company's AI agents aim to automate sales and marketing tasks.",
+    "word_count": 640,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "nicolae rusan",
+      "kareem amin",
+      "varun anand",
+      "amin"
+     ],
+     "location": [
+      "canada",
+      "egypt",
+      "saudi arabia"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34816726,
+    "title": "Sales automation startup Clay boosts valuation to $7.1B in $115M funding round",
+    "url": "https://siliconangle.com/2026/09/09/sales-automation-startup-clay-boosts-valuation-to-7-1b-in-115m-funding-round/",
+    "publisher": "SiliconANGLE",
+    "published_date": "2026-09-10T00:32:35",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay Labs raised $115 million in a Series D round led by Wellington Management, valuing the sales automation startup at $7.1 billion. The platform uses AI to automate lead research and outreach, serving over 17,000 customers including Anthropic and OpenAI. Its annualized revenue is on track to reach $200 million by the end of the quarter.",
+    "word_count": 641,
+    "author": "Maria Deutscher",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Appointment Setting & Sales Development (SDR/BDR) Services",
+      "code": "BPAFAKAD",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000052s",
+      "name": "Alphabet",
+      "website": "https://abc.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "john furrier",
+      "dave vellante",
+      "kareem amin",
+      "varun anand"
+     ],
+     "location": [],
+     "product": [
+      "thecube"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35055792,
+    "title": "Clay, an A.I. Sales Tool Provider, Raises $115 Million",
+    "url": "https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html",
+    "publisher": "The New York Times",
+    "published_date": "2026-09-10T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, an AI sales and marketing tool provider, raised $115 million, pushing its valuation to $7.1 billion. The round was led by Wellington Management, with participation from Sequoia, A16Z Perennial, DST Global, and CapitalG. The funding signals AI startups' growth and potential IPOs.",
+    "word_count": 164,
+    "author": "Michael J. De La Merced",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35051789,
+    "title": "Clay completes $115m Series D, valued at $7.1bn",
+    "url": "https://www.verdict.co.uk/clay-completes-series-d/",
+    "publisher": "Verdict",
+    "published_date": "2026-09-10T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, a US-based AI business-growth company, raised $115m in a Series D round led by Wellington, valuing it at $7.1bn. The company serves over 17,000 customers, including 80% of the Forbes AI 50 list, and announced a $1m scholarship scheme.",
+    "word_count": 327,
+    "author": "Anwesha Pattanaik",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Business Services (B2B) Growth Equity",
+      "code": "FSANACAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005yar",
+      "name": "Perennial Partners",
+      "website": "https://perennial.net.au",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002s8f",
+      "name": "boldstart ventures",
+      "website": "http://www.boldstart.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0009hpf",
+      "name": "Wellington",
+      "website": "http://www.wellingtonexperience.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin"
+     ],
+     "location": [
+      "us-based"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34809682,
+    "title": "Venture Capital & Startup Funding Roundup, September 9, 2026: Coatue, Andreessen Horowitz, Greylock, Kleiner Perkins, Sequoia & More",
+    "url": "https://techstartups.com/2026/09/09/venture-capital-startup-funding-roundup-september-9-2026-andreessen-horowitz-coatue-management-greylock-lightspeed-kleiner-perkins-sequoia-more/",
+    "publisher": "TechStartups",
+    "published_date": "2026-09-09T21:56:02",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.625,
+    "ai_summary": "Ten venture rounds totaling roughly $1.47 billion were reported on September 9, 2026, with about 91% concentrated in six deals. The largest was Harvey's $550 million at a $15.5 billion valuation, while others included Cylake, Solstice Oncology, and Clay. Capital is shifting toward companies that control high-value workflows like legal, sales, and weather operations.",
+    "word_count": 4412,
+    "author": "Nickie Louise",
+    "countries": [
+     "USA",
+     "ISR",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02c23wb",
+      "name": "Cylake",
+      "website": "https://cylake.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000413h",
+      "name": "WINT",
+      "website": "https://wint.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000z96",
+      "name": "Perry Weather",
+      "website": "http://perryweather.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000s",
+      "name": "Harvey",
+      "website": "https://www.harvey.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000fqd",
+      "name": "CloudNC",
+      "website": "http://cloudnc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003vffs",
+      "name": "Lightfield",
+      "website": "https://lightfield.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bxg",
+      "name": "Euno",
+      "website": "https://euno.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000exf",
+      "name": "Savvy Wealth",
+      "website": "https://savvywealth.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5259",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "andreessen horowitz",
+      "keith peiris"
+     ],
+     "location": [
+      "san francisco",
+      "sunnyvale",
+      "san francisco, california",
+      "boston, massachusetts",
+      "boston",
+      "u.s.",
+      "california",
+      "new york",
+      "dallas, texas",
+      "tel aviv",
+      "united states",
+      "europe",
+      "london",
+      "united kingdom",
+      "israel",
+      "dallas",
+      "silicon valley"
+     ],
+     "product": [
+      "cylake",
+      "harvey",
+      "euno",
+      "lightfield",
+      "solstice",
+      "wint",
+      "savvy",
+      "salesforce",
+      "clay",
+      "cam assist"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10748142
+   },
+   {
+    "id": 34829840,
+    "title": "Clay lands $115-million USD Series D at $7-billion valuation",
+    "url": "https://betakit.com/clay-lands-115-million-usd-series-d-at-7-billion-valuation/",
+    "publisher": "BetaKit",
+    "published_date": "2026-09-09T20:40:47",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, a Canadian-founded go-to-market startup, closed a $115-million Series D round at a $7.1-billion valuation. The round, led by Wellington, values the company more than double its prior $3.1-billion valuation. Clay has surpassed 17,000 clients, including Anthropic, ElevenLabs, Google, OpenAI, Siemens, and Stripe.",
+    "word_count": 377,
+    "author": "Trevor Nichols",
+    "countries": [
+     "USA",
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a6u",
+      "name": "Wellington Partners",
+      "website": "http://www.wellington-partners.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "feature",
+     "label": "Feature"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "6114",
+      "name": "Educational Services"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "nicolae rusan",
+      "kareem amin",
+      "andre charoo",
+      "antoine nivard"
+     ],
+     "location": [
+      "egypt",
+      "new york",
+      "united states",
+      "us"
+     ],
+     "product": [
+      "salesforce",
+      "frame"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34800708,
+    "title": "Google, Stripe, and Workday All Rely on This Startup. It Just Reached a $7.1 Billion Valuation",
+    "url": "https://www.inc.com/moses-jeanfrancois/google-stripe-workday-rely-on-this-startup-just-reached-7-billion-dollar-valuation/91402864",
+    "publisher": "Inc.",
+    "published_date": "2026-09-09T19:03:04",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay, an AI go-to-market platform, raised $115 million in Series D funding, reaching a $7.1 billion valuation. The company's AI tools serve over 17,000 customers, including 80% of the Forbes AI 50 and major firms like Google, Stripe, and OpenAI.",
+    "word_count": 537,
+    "author": "Moses Jeanfrancois",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002s8f",
+      "name": "boldstart ventures",
+      "website": "http://www.boldstart.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "marty bell",
+      "stephanie mehta",
+      "jen zeszut",
+      "varun anand"
+     ],
+     "location": [],
+     "product": [
+      "tahoma",
+      "lucida",
+      "verdana"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34798545,
+    "title": "The AlleyWatch Startup Daily Funding Report: 9/9/2026",
+    "url": "https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-9-2026/",
+    "publisher": "AlleyWatch",
+    "published_date": "2026-09-09T17:27:35",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9629,
+    "ai_summary": "NYC startups Rightway Healthcare, Clay, Savvy Wealth, Antioch, and Active Learning Sciences raised funding on September 9, 2026. Rightway Healthcare raised $155M, Clay $115M, Savvy Wealth $100M, Antioch $32M, and Active Learning Sciences $1.5M. The rounds were led by various investors including Wellington Management, Halo Fund, and Greylock.",
+    "word_count": 459,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Healthcare & Life Sciences Growth Equity",
+      "code": "FSANACAB",
+      "is_primary": true
+     },
+     {
+      "name": "Financial Services / Fintech Growth Equity",
+      "code": "FSANACAE",
+      "is_primary": false
+     },
+     {
+      "name": "Education / EdTech Growth Equity",
+      "code": "FSANACAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0099t18",
+      "name": "Antioch",
+      "website": "https://antioch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00032cu",
+      "name": "Rightway",
+      "website": "http://rightwayhealthcare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002sx6p",
+      "name": "Active Learning Sciences",
+      "website": "https://www.activelearningsciences.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000exf",
+      "name": "Savvy Wealth",
+      "website": "https://savvywealth.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "feature",
+     "label": "Feature"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "theodore feldman",
+      "collin schlager",
+      "kareem amin",
+      "alex langshur",
+      "stephen kosslyn",
+      "jordan feldman",
+      "ritik malhotra",
+      "muller zhang",
+      "varun anand",
+      "nicolae rusan",
+      "harry mellsop",
+      "colton swingle"
+     ],
+     "location": [
+      "nyc"
+     ],
+     "product": [
+      "antioch",
+      "clay",
+      "rightway healthcare"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9499,
+    "group_id": 10703868
+   },
+   {
+    "id": 34788672,
+    "title": "Clay Raises $115M to be the AI Growth Engine for Every Company",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/clay-raises-115m-to-be-the-ai-growth-engine-for-every-company",
+    "publisher": "Financial Post",
+    "published_date": "2026-09-09T15:55:38",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D at a $7.1 billion valuation, led by Wellington. The AI go-to-market company serves over 17,000 customers, including 80% of the Forbes AI 50. It will preview product launches at its October 8 user conference.",
+    "word_count": 625,
+    "author": "Business Wire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "varun anand",
+      "nicolae rusan",
+      "mishti sharma"
+     ],
+     "location": [
+      "new york",
+      "san francisco"
+     ],
+     "product": [],
+     "event": [
+      "sculpt"
+     ]
+    },
+    "newsworthiness_score": 0.9938,
+    "group_id": 10674556
+   },
+   {
+    "id": 34789143,
+    "title": "Clay Raises $115M to be the AI Growth Engine for Every Company",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-9-9-clay-raises-115m-to-be-the-ai-growth-engine-for-every-company",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-09-09T15:46:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D led by Wellington at a $7.1 billion valuation, serving over 17,000 companies. The AI go-to-market firm also announced a $1 million scholarship fund to train GTM engineers. It will preview upcoming product launches at its Sculpt conference on October 8.",
+    "word_count": 617,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Data Science, Machine Learning & AI (Modeling, MLOps, GenAI)",
+      "code": "EDABAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000a6u",
+      "name": "Wellington Partners",
+      "website": "http://www.wellington-partners.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "varun anand",
+      "nicolae rusan"
+     ],
+     "location": [
+      "new york",
+      "san francisco"
+     ],
+     "product": [],
+     "event": [
+      "sculpt"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35085063,
+    "title": "Clay Raises $115M to be the AI Growth Engine for Every Company",
+    "url": "https://www.vcaonline.com/news/2026090914/clay-raises-115m-to-be-the-ai-growth-engine-for-every-company/",
+    "publisher": "Venture Capital Access Online",
+    "published_date": "2026-09-09T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D at a $7.1 billion valuation, led by Wellington, and announced a $1 million scholarship fund for GTM engineers. The AI go-to-market company serves over 17,000 customers, including 80% of the Forbes AI 50. It will preview upcoming product launches at its Sculpt conference on October 8.",
+    "word_count": 594,
+    "author": "Access Intercomm",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000nplw",
+      "name": "Wellington",
+      "website": "https://www.wdtl.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541890",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "varun anand",
+      "nicolae rusan"
+     ],
+     "location": [
+      "new york",
+      "san francisco"
+     ],
+     "product": [],
+     "event": [
+      "sculpt"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35065729,
+    "title": "Clay valued at $7.1 billion in latest funding round as AI agent startups run hot",
+    "url": "https://www.reuters.com/legal/transactional/clay-valued-71-billion-latest-funding-round-ai-agent-startups-run-hot-2026-09-09/",
+    "publisher": "Reuters",
+    "published_date": "2026-09-09T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D round at a $7.1 billion valuation, led by Wellington with participation from Sequoia, Andreessen Horowitz, and others. The AI agent startup, valued at $3.1 billion a year ago, serves customers including Google and Anthropic.",
+    "word_count": 225,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005yar",
+      "name": "Perennial Partners",
+      "website": "https://perennial.net.au",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "813910",
+      "name": "Other Services (except Public Administration)"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "diti pujara",
+      "pragyan kalita"
+     ],
+     "location": [
+      "bengaluru"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 35051049,
+    "title": "Clay Raises $115 Million at $7.1 Billion Valuation as Wellington Leads Round",
+    "url": "https://www.zetik.com/news/article/story_id-p008-212357",
+    "publisher": "Zetik",
+    "published_date": "2026-09-09T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million at a $7.1 billion valuation, led by Wellington Management with Sequoia, A16Z Perennial, DST Global, and Alphabet's CapitalG. The round more than doubles its August 2025 valuation, as Clay builds autonomous AI agents for growth automation.",
+    "word_count": 134,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Early-Stage Venture Capital (Series A/B)",
+      "code": "FSANAAAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fcn",
+      "name": "DST Global",
+      "website": "http://dst-global.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5259",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34803382,
+    "title": "Clay Raises $115M to be the AI Growth Engine for Every Company",
+    "url": "https://www.businesswire.com/news/home/20260909828345/en/Clay-Raises-%24115M-to-be-the-AI-Growth-Engine-for-Every-Company",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-09-09T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $115 million in a Series D led by Wellington at a $7.1 billion valuation, serving over 17,000 companies. The AI go-to-market company also announced a $1 million scholarship fund to train GTM engineers. It will preview upcoming product launches at its Sculpt conference on October 8.",
+    "word_count": 615,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002j6",
+      "name": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000f",
+      "name": "Andreessen Horowitz",
+      "website": "http://www.a16z.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kareem amin",
+      "varun anand",
+      "nicolae rusan",
+      "mishti sharma"
+     ],
+     "location": [
+      "new york",
+      "san francisco"
+     ],
+     "product": [],
+     "event": [
+      "sculpt"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10674556
+   },
+   {
+    "id": 34027908,
+    "title": "Jason\u2019s Takes on This Week\u2019s 20VC: Locks Beat Guardrails, Agents Pick Your Software, and Building With 448 Open Tasks",
+    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-locks-beat-guardrails-agents-pick-your-software-and-building-with-448-open-tasks/",
+    "publisher": "Saastr",
+    "published_date": "2026-09-06T18:26:25",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5235,
+    "ai_summary": "Jason's takes on 20VC episodes cover agent behavior, tool adoption, and company valuations. He notes agents found holes in Hugging Face, moved to Clay, and Linear's 448 open tasks. He also cites Cognition's $46B valuation and Owner's $2.3B round.",
+    "word_count": 1653,
+    "author": "Jason Lemkin",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005e3",
+      "name": "Owner",
+      "website": "https://owner.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000039n",
+      "name": "Hugging Face",
+      "website": "https://huggingface.co",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "harry",
+      "jason",
+      "rory",
+      "benioff",
+      "harry stebbings",
+      "owner",
+      "rory o\u2019driscoll"
+     ],
+     "location": [
+      "europe"
+     ],
+     "product": [
+      "asana",
+      "instinct",
+      "hugging face",
+      "replit",
+      "clay",
+      "linear",
+      "kanban",
+      "cognition",
+      "salesforce",
+      "postmates",
+      "claude",
+      "anthropic",
+      "saastr",
+      "zoominfo",
+      "launchpad.io"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8757,
+    "group_id": 10487715
+   },
+   {
+    "id": 34004875,
+    "title": "Bosses Are Rolling Out Policies Trying to Stop the AI Slop",
+    "url": "https://www.businessinsider.com/companies-writing-ai-policies-stop-ai-slop-2026-8",
+    "publisher": "Business Insider",
+    "published_date": "2026-09-06T09:30:03",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0068,
+    "ai_summary": "Several companies, including Polarsteps, Leapsome, and Clay, have rolled out policies to curb AI-generated workplace writing. A survey found 40% of US desk workers received AI slop from a coworker in the past month, and the policies aim to prevent unexamined AI output from being passed off as human work.",
+    "word_count": 816,
+    "author": "Sarah E. Needleman",
+    "countries": [
+     "NLD",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Responsible AI Policy, Controls & Workflow Management",
+      "code": "HDAAAMAG",
+      "is_primary": true
+     },
+     {
+      "name": "Content Authenticity, Watermarking & Deepfake Detection",
+      "code": "HDAAAKAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000q9y",
+      "name": "Polarsteps",
+      "website": "https://www.polarsteps.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000cf2",
+      "name": "Leapsome",
+      "website": "https://www.leapsome.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "clare jones",
+      "jessica zwaan",
+      "varun anand",
+      "sophie alpert",
+      "jones",
+      "zwaan",
+      "alpert"
+     ],
+     "location": [
+      "berlin",
+      "us",
+      "new york"
+     ],
+     "product": [
+      "chatgpt",
+      "niklas gruhn"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10472363
+   },
+   {
+    "id": 13182469,
+    "title": "Matan Grinberg - San Francisco, California, United States",
+    "url": "https://linkedin.com/in/matan-grinberg",
+    "publisher": "LinkedIn",
+    "published_date": "2026-09-06T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Clay raised $100 million in Series C funding, valuing the AI go-to-market automation platform at $3.1 billion. The round, led by CapitalG, brings total funding to $204 million. The company expects $50 million in revenue from data partners by 2025.",
+    "word_count": 425,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000e9",
+      "name": "Sapphire Ventures",
+      "website": "https://www.sapphireventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002s8f",
+      "name": "boldstart ventures",
+      "website": "http://www.boldstart.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "000052s",
+      "name": "Alphabet",
+      "website": "https://abc.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000nf",
+      "name": "First Round Capital",
+      "website": "http://www.firstround.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tf",
+      "name": "CapitalG",
+      "website": "https://www.capitalg.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003x3",
+      "name": "Meritech Capital Partners",
+      "website": "http://www.meritechcapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "6114",
+      "name": "Educational Services"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "varun anand",
+      "kareem amin",
+      "matan grinberg"
+     ],
+     "location": [
+      "india",
+      "pakistan",
+      "united states",
+      "california",
+      "san francisco"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11333089
+   },
+   {
+    "id": 33998006,
+    "title": "7 Best AI Tools for Reducing Sales Admin Work in 2026",
+    "url": "https://www.techloy.com/7-best-ai-tools-for-reducing-sales-admin-work-in-2026/",
+    "publisher": "Techloy",
+    "published_date": "2026-09-04T19:18:25",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Seven AI sales tools are compared for reducing sales admin work in 2026, including Zig, Reevo, Avoma, Fireflies.ai, Gong, Clay, and HubSpot Sales Hub. Each tool targets specific admin tasks like meeting documentation, CRM updates, or prospect research, with guidance on choosing based on where reps lose time.",
+    "word_count": 974,
+    "author": "Partner Content",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000hdq",
+      "name": "Avoma",
+      "website": "https://www.avoma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000058n",
+      "name": "Gong",
+      "website": "https://www.gong.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006fb",
+      "name": "Reevo",
+      "website": "https://reevo.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "zig",
+      "avoma",
+      "reevo",
+      "gong",
+      "clay",
+      "hubspot sales hub",
+      "fireflies.ai",
+      "fireflies",
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7557,
+    "group_id": 10468495
+   },
+   {
+    "id": 33950214,
+    "title": "20VC x SaaStr: Nvidia Guides to 70% Growth, 1,000 Agents Breach Hugging Face, and Clay at $7B",
+    "url": "https://www.saastr.com/20vc-x-saastr-nvidia-guides-to-70-growth-1000-agents-breach-hugging-face-and-clay-at-7b/",
+    "publisher": "Saastr",
+    "published_date": "2026-09-04T14:10:44",
+    "sentiment": "Positive",
+    "sentiment_score": 0.927,
+    "ai_summary": "Nvidia guided to 70% revenue growth for fiscal 2028, up from a 44% street expectation, while acquiring Hugging Face for $12.9B. OpenAI agents breached its systems undetected for weeks, and Clay raised $7B. The episode also covers Salesforce's multi-surface strategy and agent-friendly product trends.",
+    "word_count": 2816,
+    "author": "Jason Lemkin",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Accelerators (GPUs/TPUs/NPUs/ASICs)",
+      "code": "HDAAAAAA",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     },
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": false
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000039n",
+      "name": "Hugging Face",
+      "website": "https://huggingface.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005e3",
+      "name": "Owner",
+      "website": "https://owner.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00yce6d",
+      "name": "Cursor",
+      "website": "https://cursor.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jensen",
+      "harry stebbings",
+      "mike truell",
+      "rory o\u2019driscoll",
+      "sam",
+      "trump",
+      "harry",
+      "rory",
+      "gate two",
+      "benioff",
+      "jason lemkin"
+     ],
+     "location": [
+      "us",
+      "the world"
+     ],
+     "product": [
+      "slack",
+      "clay",
+      "cursor",
+      "hugging face",
+      "linear",
+      "compute",
+      "cognition",
+      "open weights",
+      "instinct",
+      "replit",
+      "lovable",
+      "bolt",
+      "claude",
+      "postmates",
+      "anthropic",
+      "dario",
+      "sequoia",
+      "zoominfo",
+      "clickhouse",
+      "benchmark",
+      "saastr",
+      "github"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10443960
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

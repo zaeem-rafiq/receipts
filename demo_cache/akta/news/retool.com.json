@@ -1,0 +1,4315 @@
+{
+ "fetched_at": "2026-10-24T11:46:15",
+ "params": {
+  "company": "retool.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 29,
+  "limit": 50,
+  "offset": 0,
+  "count": 29,
+  "data": [
+   {
+    "id": 41594825,
+    "title": "CIO 100 Leadership Live Chicago: CIOs reassess AI economics, governance, and leadership",
+    "url": "https://www.einnews.com/article/951013761/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-20T18:15:03",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4816,
+    "ai_summary": "CIOs at CIO 100 Leadership Live Chicago on Oct. 13 discussed shifting AI economics and governance, noting that application development costs are falling while autonomous systems complicate traditional productivity measures. Panelists cited Aon's AI-assisted proposal development cutting work from 40-50 hours to four or five, and Brunswick Corp. generating $8-10 million in savings over 18 months.",
+    "word_count": 1468,
+    "author": "Lane Cooper",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Responsible AI Policy, Controls & Workflow Management",
+      "code": "HDAAAMAG",
+      "is_primary": true
+     },
+     {
+      "name": "FinOps for Platform & DevOps (cost governance/optimization)",
+      "code": "BPAEAKAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000042k",
+      "name": "Cisco",
+      "website": "http://www.cisco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005fn",
+      "name": "Aon",
+      "website": "http://www.aon.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00398yh",
+      "name": "Stack360",
+      "website": "https://stack360.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "000235k",
+      "name": "PwC",
+      "website": "https://www.de.pwc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00063ob",
+      "name": "DeVry University",
+      "website": "http://www.devry.edu",
+      "is_primary": false
+     },
+     {
+      "uuid": "00027wb",
+      "name": "Marsh",
+      "website": "https://www.marsh.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000dha",
+      "name": "Culligan International",
+      "website": "http://www.culligan.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059y",
+      "name": "Box",
+      "website": "http://www.box.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ukdo",
+      "name": "Elgin Community College",
+      "website": "http://www.elgin.edu/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000199",
+      "name": "business governance"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "laura walsh",
+      "jamie head",
+      "meghna shah",
+      "chris campbell",
+      "dan roberts",
+      "michael blank",
+      "prashant shanti kumar",
+      "andy xydakis",
+      "jon glick",
+      "scott behrens",
+      "heather ceylan",
+      "michael chahino",
+      "greg sylvester",
+      "ron guerrier",
+      "gale wilkinson",
+      "samir shah",
+      "deepak gangwaar",
+      "mike asem",
+      "darlene reina",
+      "woody evans",
+      "joan goodchild",
+      "shah"
+     ],
+     "location": [
+      "chicago"
+     ],
+     "product": [
+      "software"
+     ],
+     "event": [
+      "cio 100 leadership live chicago"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15039982
+   },
+   {
+    "id": 41952385,
+    "title": "CIO 100 Leadership Live Chicago: CIOs reassess AI economics, governance, and leadership",
+    "url": "https://www.cio.com/article/4237910/cio-100-leadership-live-chicago-cios-reassess-ai-economics-governance-and-leadership.html",
+    "publisher": "CIO",
+    "published_date": "2026-10-20T17:32:36",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4771,
+    "ai_summary": "CIOs at CIO 100 Leadership Live Chicago on Oct. 13 discussed shifting AI economics and governance, noting that application development costs are falling while autonomous systems complicate returns. Aon's Andy Xydakis cited AI-assisted proposal development cutting work from 40-50 hours to four or five, and Brunswick Corp. reported $8-10 million in savings over 18 months.",
+    "word_count": 1514,
+    "author": "Lane Cooper",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Responsible AI, AI Governance & Compliance Services",
+      "code": "BPAEAHAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Cloud FinOps & SaaS Spend Management",
+      "code": "BPAEAOAH",
+      "is_primary": false
+     },
+     {
+      "name": "Data, Analytics & AI Consulting",
+      "code": "BPAHACAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000042k",
+      "name": "Cisco",
+      "website": "http://www.cisco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005fn",
+      "name": "Aon",
+      "website": "http://www.aon.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00063ob",
+      "name": "DeVry University",
+      "website": "http://www.devry.edu",
+      "is_primary": false
+     },
+     {
+      "uuid": "003q8yc",
+      "name": "PwC Global",
+      "website": "https://www.pwc.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00027wb",
+      "name": "Marsh",
+      "website": "https://www.marsh.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000dha",
+      "name": "Culligan International",
+      "website": "http://www.culligan.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059y",
+      "name": "Box",
+      "website": "http://www.box.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ukdo",
+      "name": "Elgin Community College",
+      "website": "http://www.elgin.edu/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "180",
+      "name": "Events"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "laura walsh",
+      "jamie head",
+      "chris campbell",
+      "meghna shah",
+      "michael blank",
+      "dan roberts",
+      "prashant shanti kumar",
+      "andy xydakis",
+      "jon glick",
+      "scott behrens",
+      "heather ceylan",
+      "michael chahino",
+      "greg sylvester",
+      "ron guerrier",
+      "gale wilkinson",
+      "samir shah",
+      "deepak gangwaar",
+      "mike asem",
+      "darlene reina",
+      "woody evans",
+      "joan goodchild",
+      "shah"
+     ],
+     "location": [
+      "chicago"
+     ],
+     "product": [
+      "software"
+     ],
+     "event": [
+      "cio 100 leadership live chicago"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15039982
+   },
+   {
+    "id": 41402778,
+    "title": "Anyone can build apps with AI. But who owns them?",
+    "url": "https://venturebeat.com/security/anyone-can-build-apps-with-ai-but-who-owns-them",
+    "publisher": "VentureBeat",
+    "published_date": "2026-10-19T15:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0522,
+    "ai_summary": "A survey of 307 senior tech and security leaders found 44% lack a clear default for accountability when AI-generated tools cause production incidents. Most leaders see AI-driven building as a net productivity win, but governance remains uneven, with 78% describing it as manually maintained. The article argues for platform-level security controls to enforce accountability.",
+    "word_count": 859,
+    "author": "David Hsu",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Model Monitoring, Accountability & Incident Management",
+      "code": "HDAAAMAF",
+      "is_primary": true
+     },
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     },
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000199",
+      "name": "business governance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "pierre-yves calloc\u2019h",
+      "david hsu",
+      "pierre-yves"
+     ],
+     "location": [],
+     "product": [
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14860466
+   },
+   {
+    "id": 40692317,
+    "title": "Best AI app builders in 2026: Comparing 9 platforms by price and iteration cost \u2014 TFN",
+    "url": "https://techfundingnews.com/best-ai-app-builders-in-2026-comparing-9-platforms-by-price-and-iteration-cost/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-10-14T15:38:02",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Nine AI app builders are compared on iteration cost, with Softr ranked cheapest for running due to flat per-app-user pricing and credit-free editing. Other platforms charge credits or tokens per change, making them more expensive over time. Softr's MCP server lets users build from external AI agents without extra cost.",
+    "word_count": 3575,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002ue",
+      "name": "Emergent",
+      "website": "https://emergent.sh",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003ic9",
+      "name": "Softr",
+      "website": "https://www.softr.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000sma",
+      "name": "Base44",
+      "website": "https://base44.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00064hj",
+      "name": "Knack",
+      "website": "https://www.knack.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003z3f",
+      "name": "Bolt.new",
+      "website": "https://bolt.new",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "frankfurt",
+      "germany",
+      "us",
+      "european",
+      "united states"
+     ],
+     "product": [
+      "softr",
+      "bubble",
+      "base44",
+      "glide",
+      "lovable",
+      "bolt",
+      "knack",
+      "replit",
+      "retool",
+      "airtable",
+      "claude",
+      "hubspot",
+      "cursor",
+      "sql",
+      "codex",
+      "chatgpt",
+      "google sheets",
+      "wix",
+      "pro",
+      "starter",
+      "builder",
+      "elite",
+      "excel",
+      "emergent",
+      "vercel",
+      "v0",
+      "android",
+      "ios"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.782,
+    "group_id": 14217716
+   },
+   {
+    "id": 40250535,
+    "title": "Claude and GPT Now Share Price Tags. Your Bill Still Won\u2019t Match",
+    "url": "https://businessmodelanalyst.com/claude-gpt-price-war-parity-window/",
+    "publisher": "Business Model Analyst",
+    "published_date": "2026-10-09T13:13:03",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8491,
+    "ai_summary": "OpenAI and Anthropic now share identical list prices for their top AI models, closing a 69-day price gap. However, nearly half of Anthropic's 2025 revenue came through cloud marketplaces, which OpenRouter's data misses. The article notes that actual bills still differ due to cache pricing and token usage.",
+    "word_count": 2733,
+    "author": "Flavia Moura",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Competitive Intelligence & Benchmarking",
+      "code": "BPAHALAB",
+      "is_primary": true
+     },
+     {
+      "name": "Open-Source Model Ecosystems & Model Marketplaces",
+      "code": "HDAAACAM",
+      "is_primary": false
+     },
+     {
+      "name": "Model Hosting, Serving & Inference Platforms",
+      "code": "HDAAACAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006fb",
+      "name": "Reevo",
+      "website": "https://reevo.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029o",
+      "name": "OpenRouter",
+      "website": "https://openrouter.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "518210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "david hsu",
+      "david zhu",
+      "ara kharazian",
+      "angel au-yeung",
+      "peter walker",
+      "flavia moura"
+     ],
+     "location": [
+      "san francisco",
+      "wall street"
+     ],
+     "product": [
+      "claude",
+      "luna",
+      "haiku 4.5",
+      "gpt-5.6",
+      "sol",
+      "terra",
+      "fable 5",
+      "gpt",
+      "opus 5.5",
+      "fable 5.1",
+      "claude fable 5.1",
+      "gpt-6 astra",
+      "haiku 5.5",
+      "gpt-6 sol",
+      "claude sonnet 5.5",
+      "sonnet 5.5",
+      "opus 5",
+      "ramp",
+      "astra",
+      "openai",
+      "openrouter"
+     ],
+     "event": [
+      "ipo",
+      "ipo roadshow"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13641005
+   },
+   {
+    "id": 40139111,
+    "title": "Price War: OpenAI Wins Back Business Customers From Anthropic | Trending Topics",
+    "url": "https://www.trendingtopics.eu/openai-anthropic-openrouter-price-war/",
+    "publisher": "Trending Topics",
+    "published_date": "2026-10-08T18:08:38",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5402,
+    "ai_summary": "OpenAI has narrowed its spending gap with Anthropic among OpenRouter users, with the two rivals splitting costs almost evenly in September. OpenAI cut its smallest model's price by 80% and midsize by 20%, while Anthropic responded with its own price cuts. Both companies face pressure to show sustainable revenue ahead of their IPOs.",
+    "word_count": 529,
+    "author": "Jakob Steinschaden; Co-Produced By Ai",
+    "countries": [
+     "USA",
+     "CHN"
+    ],
+    "industries": [
+     {
+      "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+      "code": "HDAAACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Model Hosting, Serving & Inference Platforms",
+      "code": "HDAAACAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029o",
+      "name": "OpenRouter",
+      "website": "https://openrouter.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "fidji simo"
+     ],
+     "location": [],
+     "product": [
+      "luna",
+      "terra",
+      "sora",
+      "claude haiku 5.5",
+      "claude code"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13641005
+   },
+   {
+    "id": 40139112,
+    "title": "Preiskampf: OpenAI jagt Anthropic die Firmenkund:innen ab | Trending Topics",
+    "url": "https://www.trendingtopics.eu/openai-anthropic-openrouter-preiskampf/",
+    "publisher": "Trending Topics",
+    "published_date": "2026-10-08T18:08:36",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4925,
+    "ai_summary": "OpenAI has nearly caught up to Anthropic in firm customer spending on OpenRouter, with both providers sharing nearly half of 120,000 companies' expenses. OpenAI cut prices on its GPT-5.6 models, while Anthropic faces capacity issues and data-retention criticism. Both companies plan IPOs, with Anthropic targeting November.",
+    "word_count": 479,
+    "author": "Jakob Steinschaden; Co-Produced By Ai",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Model Hosting, Serving & Inference Platforms",
+      "code": "HDAAACAB",
+      "is_primary": true
+     },
+     {
+      "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+      "code": "HDAAACAA",
+      "is_primary": false
+     },
+     {
+      "name": "Pricing, Revenue Management & Promotion Optimization",
+      "code": "HDAAAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "IPOs & Follow-on Offerings",
+      "code": "CM05",
+      "is_primary": false
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     },
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029o",
+      "name": "OpenRouter",
+      "website": "https://openrouter.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "fidji simo"
+     ],
+     "location": [],
+     "product": [
+      "terra",
+      "sora",
+      "luna",
+      "claude haiku 5.5",
+      "gpt-5.6"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13641005
+   },
+   {
+    "id": 39770405,
+    "title": "Risotto: IT-Agent l\u00f6st bis zu 90 Prozent der Supporttickets automatisch",
+    "url": "https://www.ad-hoc-news.de/wissenschaft/risotto-it-agent-loest-bis-zu-90-prozent-der-supporttickets-automatisch/70237912",
+    "publisher": "AD HOC NEWS",
+    "published_date": "2026-10-06T00:06:49",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Risotto launched an AI-driven autonomous IT agent to handle Tier-2 support tickets, analyzing up to 90 days of historical data. The system automates up to 90% of tickets, with Gusto seeing 70% automated on day one and ThoughtSpot cutting resolution time from 31 to 6.5 hours. Risotto raised $10 million in seed funding to expand the agent.",
+    "word_count": 477,
+    "author": "Redaktion Ad-Hoc-News.De",
+    "countries": [],
+    "industries": [
+     {
+      "name": "ITSM Tooling Integration, Automation & Orchestration",
+      "code": "BPAEAJAD",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Observability, Monitoring & AIOps",
+      "code": "BPAEAKAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "005o845",
+      "name": "Ironclad",
+      "website": "https://ironclad.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008e",
+      "name": "Instacart",
+      "website": "https://www.instacart.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bp",
+      "name": "Docker",
+      "website": "https://www.docker.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002vs",
+      "name": "Jobber",
+      "website": "https://getjobber.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009xe",
+      "name": "Patreon",
+      "website": "http://www.patreon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002469",
+      "name": "Risotto",
+      "website": "https://www.tryrisotto.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000am",
+      "name": "ThoughtSpot",
+      "website": "https://www.thoughtspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bp3",
+      "name": "Vidyard",
+      "website": "http://vidyard.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "vidyard",
+      "it-agent",
+      "risotto",
+      "instacart",
+      "autonomous it engineer"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7736,
+    "group_id": 13419694
+   },
+   {
+    "id": 37301290,
+    "title": "From Dashboards To Decisions, AI Is Rewriting The SaaS Playbook",
+    "url": "https://www.forbes.com/sites/ronschmelzer/2026/09/21/from-dashboards-to-decisions-ai-is-rewriting-the-saas-playbook/",
+    "publisher": "Forbes",
+    "published_date": "2026-09-21T20:55:55",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "AI is reshaping enterprise software by enabling companies to build custom applications faster and cheaper, challenging traditional SaaS models. Executives from Lithuanian Railways, TransferGo, and Helmes use AI for financial analysis, customer service, and data insights, while GoDaddy tests AI-built replacements for smaller SaaS tools. This shift raises questions about whether companies still need to purchase existing software.",
+    "word_count": 1954,
+    "author": "Ron Schmelzer",
+    "countries": [
+     "LIT",
+     "ISL"
+    ],
+    "industries": [
+     {
+      "name": "Custom Application Development (Web/Mobile/Desktop)",
+      "code": "BPAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000ehbm",
+      "name": "Lithuanian Railways",
+      "website": "https://www.litrail.lt/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000094h",
+      "name": "GoDaddy",
+      "website": "https://srivarenya.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000a3ab",
+      "name": "Helmes",
+      "website": "https://www.helmes.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006hs",
+      "name": "TransferGo",
+      "website": "http://www.transfergo.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "irmantas ber\u017eauskas",
+      "byron schmelzer",
+      "ron schmelzer",
+      "daumantas dvilinskas",
+      "bart kappel",
+      "\u0161ar\u016bnas putrius",
+      "dvilinskas",
+      "ber\u017eauskas"
+     ],
+     "location": [
+      "lithuania",
+      "iceland"
+     ],
+     "product": [
+      "conversational",
+      "software",
+      "looker",
+      "claude",
+      "tableau",
+      "saas"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11938487
+   },
+   {
+    "id": 39692084,
+    "title": "Kilvin vs Retool",
+    "url": "https://www.kilvin.ai/compare/kilvin-vs-retool",
+    "publisher": "Kilvin",
+    "published_date": "2026-09-18T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5942,
+    "ai_summary": "Kilvin and Retool are compared as internal tool platforms, with Kilvin targeting non-technical teams and Retool targeting engineering teams. Kilvin offers a shared workspace with built-in databases and a flat $800/month Scale plan, while Retool prices by user type and requires developer skills. Kilvin's agent builds tools from descriptions, and migration from Retool is supported.",
+    "word_count": 1123,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02iy8vd",
+      "name": "Kilvin",
+      "website": "https://www.kilvin.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000516",
+      "name": "retraining"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "611",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "retool",
+      "kilvin"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6835,
+    "group_id": 13402293
+   },
+   {
+    "id": 33725278,
+    "title": "Top 10: Low-Code Platforms",
+    "url": "https://technologymagazine.com/news/top-10-low-code-platforms",
+    "publisher": "Technologymagazine",
+    "published_date": "2026-09-02T10:43:50",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The article profiles 10 low-code platforms, ranking Appian first for AI automation and process orchestration. It highlights Zoho Creator's 7 million applications and Softr's AI app builder for over one million builders. The platforms collectively enable faster, AI-driven software deployment for enterprises.",
+    "word_count": 1432,
+    "author": "Diya Joseph",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000cl1",
+      "name": "Appian",
+      "website": "http://www.appian.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003ic9",
+      "name": "Softr",
+      "website": "https://www.softr.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004ok",
+      "name": "Superblocks",
+      "website": "https://www.superblocks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000045k",
+      "name": "OutSystems",
+      "website": "https://www.outsystems.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005zv",
+      "name": "FlutterFlow",
+      "website": "https://flutterflow.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002pq4",
+      "name": "Mendix",
+      "website": "http://www.mendix.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "028w9bt",
+      "name": "Zoho Corporation Private Limited",
+      "website": "https://www.zohocorp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "clay magouyrk",
+      "mike sicilia",
+      "mariam hakobyan",
+      "brad menezes",
+      "david hsu",
+      "shailesh kumar davey",
+      "diya joseph",
+      "abel mengistu",
+      "raymond kok",
+      "matt calkins",
+      "satya nadella",
+      "woodson martin",
+      "shailesh davey"
+     ],
+     "location": [
+      "worldwide"
+     ],
+     "product": [
+      "zoho creator",
+      "oracle apex",
+      "superblocks",
+      "softr",
+      "retool",
+      "appian",
+      "databricks",
+      "codex",
+      "ff designer",
+      "flutterflow",
+      "ios",
+      "android",
+      "claude code",
+      "dataverse",
+      "microsoft 365",
+      "mendix",
+      "siemens",
+      "outsystems"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9936,
+    "group_id": 10280749
+   },
+   {
+    "id": 32817778,
+    "title": "How Much Does an MVP Cost to Build in 2026?",
+    "url": "https://www.startuphub.ai/ai-news/insights/2026/how-much-does-it-cost-to-build-an-mvp-in-2026",
+    "publisher": "StartupHub.ai",
+    "published_date": "2026-08-22T13:04:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4936,
+    "ai_summary": "The article analyzes the bifurcated cost of building Minimum Viable Products (MVPs) in 2026, outlining four development paths ranging from $0 for no-code solutions to over $200,000 for agency-led builds. It highlights that AI coding tools have lowered technical barriers while user expectations have raised the ceiling for credible products in competitive markets. The piece emphasizes that founders are increasingly expected to build working MVPs before seeking pre-seed funding, citing StartupHub data on global startup financing trends. ",
+    "word_count": 1390,
+    "author": "",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Data App Builders (Forms, Portals & Internal Tools)",
+      "code": "HDAEAKAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": false
+     },
+     {
+      "uuid": "000zdwz",
+      "name": "Claude Code",
+      "website": "https://claudecode.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000co",
+      "name": "Webflow",
+      "website": "http://www.webflow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003nno",
+      "name": "Toptal",
+      "website": "https://www.toptal.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02joy9l",
+      "name": "Cursor",
+      "website": "https://www.cursor.sh",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003y3b",
+      "name": "Make",
+      "website": "https://make.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "daniel singer"
+     ],
+     "location": [
+      "uk",
+      "us",
+      "eastern europe"
+     ],
+     "product": [
+      "retool",
+      "bubble",
+      "mvp",
+      "glide",
+      "webflow",
+      "cursor",
+      "mobile",
+      "claude code",
+      "web product",
+      "saas apps"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8668,
+    "group_id": 9280627
+   },
+   {
+    "id": 31865363,
+    "title": "A Product Twice as Good Feels Like a Downgrade \u2014 Author Libor Zezulka Releases a Diagnostic That Scores Products on Four Gates and Multiplies the Numbers Instead of Adding Them",
+    "url": "https://www.financialcontent.com/article/marketersmedia-2026-8-12-a-product-twice-as-good-feels-like-a-downgrade-author-libor-zezulka-releases-a-diagnostic-that-scores-products-on-four-gates-and-multiplies-the-numbers-instead-of-adding-them",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-08-12T14:57:56",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2381,
+    "ai_summary": "Libor Zezulka released the Minimum Viable Value Scorecard, a web-based diagnostic that evaluates products against four criteria using a multiplicative scoring model to assess market viability. The tool leverages data from Retool's 2026 report and developer surveys to highlight how AI-driven code generation has lowered barriers to software creation while shifting the primary constraint to customer acquisition. ",
+    "word_count": 995,
+    "author": "Czechia",
+    "countries": [
+     "CZE"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise Application Testing & QA Services",
+      "code": "BPAEAGAI",
+      "is_primary": true
+     },
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": false
+     },
+     {
+      "name": "Observability, Monitoring & AIOps",
+      "code": "BPAEAKAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003vvv",
+      "name": "ALL DAY",
+      "website": "http://allday.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "libor zezulka",
+      "eric ries",
+      "john gourville",
+      "zezulka"
+     ],
+     "location": [],
+     "product": [
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7819,
+    "group_id": 7736402
+   },
+   {
+    "id": 31674283,
+    "title": "8 Best AI App Builders for SaaS in 2026 (And the One Built for Embedding)",
+    "url": "https://www.totalum.app/blog/best-ai-app-builder-for-saas-2026",
+    "publisher": "Totalum",
+    "published_date": "2026-08-10T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.801,
+    "ai_summary": "The article reviews the top AI app builders for SaaS in 2026, highlighting Totalum as the leading option for creating a production-grade SaaS with full code ownership, embedded capabilities, and business primitives. It compares various builders based on criteria like code ownership, multi-tenancy, embedded API access, and production readiness, suggesting Totalum is suitable for SaaS companies with complex requirements. ",
+    "word_count": 6027,
+    "author": "Co-Founder At Totalum",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Integration Builders",
+      "code": "BPAMAOAL",
+      "is_primary": true
+     },
+     {
+      "name": "Embedded & OEM Analytics",
+      "code": "HDAEAMAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     },
+     {
+      "name": "Sustainability & ESG",
+      "code": "SD09",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003ic9",
+      "name": "Softr",
+      "website": "https://www.softr.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000sma",
+      "name": "Base44",
+      "website": "https://base44.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009nvh",
+      "name": "Zite",
+      "website": "http://zite.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003w3nw",
+      "name": "Totalum",
+      "website": "https://www.totalum.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "23831",
+      "name": "Construction"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "zite",
+      "forge",
+      "totalum",
+      "rocket",
+      "base44",
+      "bubble",
+      "blink",
+      "fabricate",
+      "emergent",
+      "lovable",
+      "projectcode",
+      "chatgpt",
+      "bolt.new",
+      "perplexity",
+      "retool",
+      "airtable",
+      "totalum.app",
+      "claude code",
+      "cursor at scale",
+      "stripe",
+      "saas products",
+      "vercel v0",
+      "softr",
+      "replit agent",
+      "replit",
+      "vercel",
+      "cursor",
+      "bolt",
+      "notion",
+      "v0",
+      "github",
+      "ai app builder",
+      "ai agent",
+      "aider",
+      "cline",
+      "figma"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8504,
+    "group_id": 6550533
+   },
+   {
+    "id": 29266390,
+    "title": "The Best Lovable Alternatives for Agencies (and How to Pick One)",
+    "url": "https://techbullion.com/the-best-lovable-alternatives-for-agencies-and-how-to-pick-one/",
+    "publisher": "TechBullion",
+    "published_date": "2026-07-21T14:02:55",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5892,
+    "ai_summary": "An industry consultant publishes a comparative guide ranking seven AI app-building platforms as alternatives to Lovable for agencies delivering production client work, recommending Zite as the strongest option due to its unlimited-user pricing, built-in database, and visually inspectable workflows that enable clean client handoffs. The article argues that the primary evaluation criterion for agency projects should be who maintains the app after delivery, not the speed of initial development, and includes detailed assessments of Bubble, Retool, Webflow, Bolt.new, v0, and Replit for specific use cases. The author predicts that within a year, the maintainability question will move to the forefront of agency tool purchasing decisions as more AI builders integrate real databases and readable logic generation.",
+    "word_count": 2066,
+    "author": "Noor Esa",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Integration-Centric Low-Code (Workflow + iPaaS)",
+      "code": "HDAEAKAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000co",
+      "name": "Webflow",
+      "website": "http://www.webflow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003z3f",
+      "name": "Bolt.new",
+      "website": "https://bolt.new",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000275",
+      "name": "consultancy"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "david ozowara"
+     ],
+     "location": [],
+     "product": [
+      "zite",
+      "lovable",
+      "client app",
+      "webflow",
+      "bubble",
+      "retool",
+      "replit",
+      "bolt.new",
+      "fillout",
+      "v0 by vercel",
+      "v0",
+      "cursor",
+      "github copilot",
+      "claude code",
+      "hirequotient",
+      "paylocity"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8371,
+    "group_id": 4231193
+   },
+   {
+    "id": 28195266,
+    "title": "10 Best Free Low-Code Development Platforms for Startups in 2026",
+    "url": "https://learn.g2.com/free-low-code-development-platforms",
+    "publisher": "Learn Hub",
+    "published_date": "2026-07-15T07:26:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9151,
+    "ai_summary": "This article is a comparative review of 10 free low-code development platforms for startups, evaluating Appian, Claris FileMaker, Jitterbit, Mendix, Microsoft Power Apps, OutSystems, Quickbase, Retool, Superblocks, and UiPath Agentic Automation based on their free tier capabilities, upgrade triggers, pricing structures, and suitability for different startup use cases.",
+    "word_count": 8461,
+    "author": "Shashank D Shastry",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000cl1",
+      "name": "Appian",
+      "website": "http://www.appian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004ok",
+      "name": "Superblocks",
+      "website": "https://www.superblocks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000036d",
+      "name": "Jitterbit",
+      "website": "http://www.jitterbit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000045k",
+      "name": "OutSystems",
+      "website": "https://www.outsystems.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000mv",
+      "name": "UiPath",
+      "website": "https://www.uipath.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002pq4",
+      "name": "Mendix",
+      "website": "http://www.mendix.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a54",
+      "name": "Quickbase",
+      "website": "http://quickbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "manuel yeison s",
+      "andrei c",
+      "manuel yeison",
+      "evan b",
+      "gabe p",
+      "jesse h",
+      "kendall s",
+      "jeet s",
+      "arley d",
+      "olena b",
+      "arley d.",
+      "daksh k.",
+      "tanu s.",
+      "rudi s.",
+      "daksh k",
+      "natanael g",
+      "april l",
+      "jan k",
+      "natasha r",
+      "nitesh r",
+      "balaji k",
+      "shashank d shastry"
+     ],
+     "location": [],
+     "product": [
+      "appian",
+      "jitterbit",
+      "quickbase",
+      "retool",
+      "mendix",
+      "superblocks",
+      "outsystems",
+      "claris filemaker",
+      "uipath agentic automation",
+      "microsoft power apps",
+      "microsoft 365",
+      "dev and test",
+      "filemaker go",
+      "shopify",
+      "app builder",
+      "harmony",
+      "cloud studio",
+      "office 365",
+      "dataverse",
+      "sharepoint",
+      "teams",
+      "excel",
+      "copilot",
+      "personal edition",
+      "ai mentor studio",
+      "clark ai app-building agent",
+      "power apps",
+      "uipath",
+      "outsystems odc"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7577,
+    "group_id": 3477040
+   },
+   {
+    "id": 31197786,
+    "title": "The 8 Best Enterprise App Builders in 2026 Compared",
+    "url": "https://bubble.io/blog/enterprise-app-builder/",
+    "publisher": "Bubble",
+    "published_date": "2026-07-09T15:48:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9835,
+    "ai_summary": "This article is a buyer\u2019s guide comparing eight enterprise app-building platforms for 2026: Bubble, Microsoft Power Apps, OutSystems, Mendix, Superblocks, ServiceNow App Engine, Salesforce Platform, and Retool. The comparison evaluates each platform across security features (SOC 2 Type II, SSO), deployment options (cloud, on-premises, hybrid), visual control and maintainability, enterprise integrations, cross-platform mobile capabilities, collaboration and governance tools, and pricing models. The article recommends that teams pilot two or three platforms over two weeks to compare development speed, logic clarity, and maintainability before committing.",
+    "word_count": 4215,
+    "author": "-Explore Authors",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Data App Builders (Forms, Portals & Internal Tools)",
+      "code": "HDAEAKAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ye",
+      "name": "ServiceNow",
+      "website": "http://www.servicenow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000045k",
+      "name": "OutSystems",
+      "website": "https://www.outsystems.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003wqf",
+      "name": "Superblocks",
+      "website": "https://superblocks.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002pq4",
+      "name": "Mendix",
+      "website": "http://www.mendix.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "android",
+      "enterprise app builders",
+      "enterprise app builder",
+      "ios",
+      "platforms",
+      "bubble",
+      "microsoft power apps",
+      "microsoft 365",
+      "dynamics 365",
+      "dataverse",
+      "copilot",
+      "xcode",
+      "power automate",
+      "app store",
+      "power apps",
+      "azure",
+      "mendix",
+      "outsystems",
+      "superblocks",
+      "maia",
+      "ai mentor studio",
+      "power platform",
+      "sharepoint",
+      "aws govcloud",
+      "odc analytics",
+      "teams",
+      "servicenow app engine",
+      "salesforce platform",
+      "agentforce",
+      "clark",
+      "agentexchange",
+      "salesforce flow",
+      "snowflake",
+      "postgresql",
+      "lightning app builder",
+      "mongodb",
+      "flow designer",
+      "mysql",
+      "app engine studio",
+      "process builder",
+      "ai agent orchestrator",
+      "retool",
+      "sap btp",
+      "servicenow",
+      "platform plus"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8371,
+    "group_id": 5937255
+   },
+   {
+    "id": 26463211,
+    "title": "Retool Unveils First Platform to Extend Enterprise Governance to All AI-Coded Apps",
+    "url": "https://aithority.com/security/retool-unveils-first-platform-to-extend-enterprise-governance-to-all-ai-coded-apps/",
+    "publisher": "AiThority",
+    "published_date": "2026-06-23T08:42:12",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0245,
+    "ai_summary": "Retool announced the launch of a new platform that extends enterprise governance\u2014including security, compliance, and audit trails\u2014to applications built with any AI coding tool, allowing teams to deploy to production while automatically enforcing organizational policies. The platform supports apps built in Retool's own AI-native builder as well as tools like Lovable, Replit, Cursor, Kiro, and Claude Code, with automatic inheritance of existing permissions and audit logs from the moment code lands in Retool. A survey of 307 CTOs, CISOs, and CIOs found that 93% are concerned about vibe-coded tools running in production, with only 8% describing their organization's governance as \"strong.\"",
+    "word_count": 624,
+    "author": "Ein Presswire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Enterprise AI Governance, Risk & Compliance Platforms (Model Risk, Audit, Policies)",
+      "code": "HDAEANAE",
+      "is_primary": true
+     },
+     {
+      "name": "Regulatory Readiness & Audit Automation (e.g., EU AI Act, NIST AI RMF, ISO/IEC 42001)",
+      "code": "HDAAAMAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david hsu",
+      "iraklis pappas",
+      "unmesh jagtap",
+      "matej bukovinski"
+     ],
+     "location": [],
+     "product": [
+      "kiro",
+      "snowflake",
+      "codex",
+      "lovable",
+      "replit",
+      "cursor",
+      "figma",
+      "app builder",
+      "software",
+      "autonomous coding agents",
+      "react"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2492439
+   },
+   {
+    "id": 26726013,
+    "title": "Retool unveils first platform to extend enterprise governance to all AI-coded apps",
+    "url": "https://www.azcentral.com/press-release/story/86068/retool-unveils-first-platform-to-extend-enterprise-governance-to-all-ai-coded-apps/",
+    "publisher": "azcentral",
+    "published_date": "2026-06-22T20:02:08",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0828,
+    "ai_summary": "Retool announced the launch of a new governed platform that extends enterprise governance to AI-coded applications, allowing teams to build with any AI coding tool while enforcing security, compliance, and auditability automatically upon deployment. The company released findings from a survey of 307 C-suite executives showing that 93% are concerned about vibe-coded tools running in production while only 8% describe their organization's AI governance as \"strong.\" The platform integrates with ecosystem partners including Snowflake and follows Retool's multi-year strategic collaboration agreement with AWS.",
+    "word_count": 843,
+    "author": "Distributed Ein Presswire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise AI Governance, Risk & Compliance Platforms (Model Risk, Audit, Policies)",
+      "code": "HDAEANAE",
+      "is_primary": true
+     },
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david hsu",
+      "iraklis pappas",
+      "unmesh jagtap"
+     ],
+     "location": [
+      "united states",
+      "ca",
+      "san francisco"
+     ],
+     "product": [
+      "kiro",
+      "codex",
+      "lovable",
+      "cursor",
+      "replit",
+      "figma",
+      "retool",
+      "react",
+      "snowflake",
+      "vibe coded apps"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 4970600
+   },
+   {
+    "id": 35251829,
+    "title": "Retool unveils first platform to extend enterprise governance to all AI-coded apps",
+    "url": "https://www.einpresswire.com/article/920529148/retool-unveils-first-platform-to-extend-enterprise-governance-to-all-ai-coded-apps",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-06-22T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0891,
+    "ai_summary": "Retool announced a platform that extends enterprise governance to AI-coded apps, letting teams build with any tool while enforcing security and compliance. A survey of 307 C-suite executives found 93% concerned about vibe-coded tools in production, with only 8% describing governance as strong. The platform is available now, with new Enterprise plan customers receiving up to $10,000 in AI credits by September 30, 2026.",
+    "word_count": 824,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise AI Governance, Risk & Compliance Platforms (Model Risk, Audit, Policies)",
+      "code": "HDAEANAE",
+      "is_primary": true
+     },
+     {
+      "name": "Data App Builders (Forms, Portals & Internal Tools)",
+      "code": "HDAEAKAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david hsu",
+      "iraklis pappas",
+      "unmesh jagtap"
+     ],
+     "location": [
+      "united states",
+      "ca",
+      "san francisco"
+     ],
+     "product": [
+      "kiro",
+      "codex",
+      "lovable",
+      "replit",
+      "figma",
+      "cursor",
+      "retool",
+      "react"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 4970600
+   },
+   {
+    "id": 26306805,
+    "title": "Retool Expands AI App Governance for Enterprise-Ready Vibe Coding",
+    "url": "https://www.aicerts.ai/news/retool-expands-ai-app-governance-for-enterprise-ready-vibe-coding/",
+    "publisher": "AI CERTs",
+    "published_date": "2026-06-18T11:36:22",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.549,
+    "ai_summary": "Retool expanded its AI App Governance capabilities for enterprise customers using its AppGen platform, which converts plain language prompts into full applications with built-in controls like SSO, RBAC, and audit logs. The company launched AppGen in October 2025 and announced a February 2026 integration with Kanopy Security to extend detection rules and remediation across Retool workspaces. The article discusses how enterprises must balance rapid AI-assisted development, which bypasses traditional peer review, against operational and security risks as regulators in the EU and US propose stricter accountability for automated decision systems.",
+    "word_count": 971,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Enterprise AI Governance, Risk & Compliance Platforms (Model Risk, Audit, Policies)",
+      "code": "HDAEANAE",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     },
+     {
+      "name": "Model Risk Management & AI Governance (validation, monitoring, explainability)",
+      "code": "FSAGAFAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561621",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bryan schreier"
+     ],
+     "location": [
+      "united states"
+     ],
+     "product": [
+      "retool",
+      "enterprise appgen",
+      "ai app",
+      "ai vibe coder\u2122"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2421753
+   },
+   {
+    "id": 26243734,
+    "title": "As Vibe Coding Tops C-suite\u2019s List of Concerns, Retool Unveils First Platform to Extend Enterprise Governance to All AI-Coded Apps",
+    "url": "https://www.businesswire.com/news/home/20260617017651/en/As-Vibe-Coding-Tops-C-suites-List-of-Concerns-Retool-Unveils-First-Platform-to-Extend-Enterprise-Governance-to-All-AI-Coded-Apps",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-06-17T14:00:47",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0784,
+    "ai_summary": "Retool announced the launch of a new platform that extends enterprise governance\u2014including security, compliance, and data connectivity\u2014to applications built with any AI coding tool, enabling teams to deploy to production while automatically enforcing organizational security standards. The company released findings from a survey of 307 CTOs, CISOs, and CIOs showing that 93% are concerned about vibe-coded tools running in production, with 38% calling it a top operational risk. Retool also disclosed partnerships with Snowflake and a multi-year strategic collaboration agreement with AWS to accelerate enterprise app generation at scale.",
+    "word_count": 1362,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Integration-Centric Low-Code (Workflow + iPaaS)",
+      "code": "HDAEAKAC",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     },
+     {
+      "name": "Workflow-Oriented Integration & Orchestration",
+      "code": "HDAEAIAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000756",
+      "name": "technology and engineering"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5182",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david hsu",
+      "iraklis pappas",
+      "unmesh jagtap"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "kiro",
+      "codex",
+      "lovable",
+      "cursor",
+      "figma",
+      "replit",
+      "ai-coded apps",
+      "react",
+      "app builder",
+      "software",
+      "retool",
+      "snowflake",
+      "saas"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2388629
+   },
+   {
+    "id": 27077734,
+    "title": "Build and Deploy Faster with Snowflake Apps",
+    "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-apps-build-deploy-faster",
+    "publisher": "Snowflake",
+    "published_date": "2026-06-16T16:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Snowflake announced new capabilities for its Snowflake Apps platform at Snowflake Summit 2026, including Snowflake App Runtime (public preview) for building full-stack web apps with Node.js and the Snowflake CoCo AI coding agent that handles the full app lifecycle from prompt to production. The company also introduced new partner integrations with Vercel, Superblocks, and Retool, and enhanced its Streamlit in Snowflake offering with features like Streamlit in Workspaces, Next-Gen Streamlit Runtime, and Business User Access. Snowflake Apps allow developers to build and deploy enterprise-ready applications directly within Snowflake's platform without infrastructure provisioning or separate security configurations.",
+    "word_count": 978,
+    "author": "Claire Peracchio",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004ok",
+      "name": "Superblocks",
+      "website": "https://www.superblocks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "claire peracchio"
+     ],
+     "location": [],
+     "product": [
+      "snowflake app runtime",
+      "vercel",
+      "snowflake apps",
+      "retool",
+      "snowflake coco",
+      "superblocks",
+      "streamlit",
+      "node.js",
+      "snowflake platform",
+      "snowflake horizon catalog",
+      "react",
+      "snowflake marketplace",
+      "coco desktop",
+      "coco",
+      "snowflake",
+      "v0"
+     ],
+     "event": [
+      "snowflake summit 2026"
+     ]
+    },
+    "newsworthiness_score": 0.7958,
+    "group_id": 2767558
+   },
+   {
+    "id": 33681323,
+    "title": "The Best MCP Gateways for Retool in 2026",
+    "url": "https://stackone.com/blog/best-mcp-gateway-for-retool/",
+    "publisher": "Stackone",
+    "published_date": "2026-06-10T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.729,
+    "ai_summary": "Retool's MCP gateway comparison evaluates StackOne, Zapier, Composio, Merge, and Workato for connecting agents to business systems. StackOne offers 500+ connectors with 31,000+ actions, while Zapier provides the largest catalog of 9,000+ apps. The comparison highlights credential and audit gaps in Retool's native MCP tooling.",
+    "word_count": 2343,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Managed File Transfer (MFT) & B2B Integration (EDI)",
+      "code": "HDAEAIAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000cmi",
+      "name": "StackOne",
+      "website": "https://stackone.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002em",
+      "name": "Composio",
+      "website": "https://composio.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007i",
+      "name": "Workato",
+      "website": "http://www.workato.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003fw",
+      "name": "Merge",
+      "website": "https://merge.dev",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "stackone",
+      "retool",
+      "composio",
+      "zapier",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "workato",
+      "zapier mcp",
+      "merge agent handler",
+      "workato enterprise mcp",
+      "mcp",
+      "workday",
+      "servicenow",
+      "mcp gateway",
+      "sap successfactors"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7316,
+    "group_id": 10245630
+   },
+   {
+    "id": 35595027,
+    "title": "Snowflake thinks it knows what\u2019s really slowing developers down",
+    "url": "https://thenewstack.io/snowflake-coco-coding-agent/",
+    "publisher": "The New Stack",
+    "published_date": "2026-06-04T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9753,
+    "ai_summary": "Snowflake announced new capabilities for its CoCo AI coding agent, including a desktop app, mobile app, and Slack integration, at its Summit. The company also introduced Snowflake Datastream, a managed Kafka-compatible streaming service. CoCo is model-agnostic and integrated with Snowflake's governed data platform.",
+    "word_count": 942,
+    "author": "Chris J. Preimesberger",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Data & Analytics Platforms (Data Warehousing, Lakes, Streaming)",
+      "code": "HDABAAAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004ok",
+      "name": "Superblocks",
+      "website": "https://www.superblocks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "611",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "606",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bala kasiviswanathan",
+      "sridhar ramaswamy",
+      "kasiviswanathan"
+     ],
+     "location": [],
+     "product": [
+      "snowflake datastream",
+      "snowflake coco",
+      "coco",
+      "apache polaris",
+      "apache iceberg",
+      "slack",
+      "vercel",
+      "clock code",
+      "retool",
+      "visual studio",
+      "vs code",
+      "superblocks",
+      "slack bot"
+     ],
+     "event": [
+      "snowflake summit",
+      "summit"
+     ]
+    },
+    "newsworthiness_score": 0.9891,
+    "group_id": 556982
+   },
+   {
+    "id": 35584295,
+    "title": "Say Hello to 169 New AWS Competency Partners Added in May",
+    "url": "https://aws.amazon.com/blogs/apn/say-hello-to-169-new-aws-competency-partners-added-in-may/?mkt_tok=MzAyLUNKSi03NDYAAAGifyyhYscwTa_iWAeYhgpZfgCd-sPgQUqAbWErPVXpGTTyJo9Qad2iFdqfl6WaFTexz17yDnBWndwdRnNZJ5QdwQeRxc6qeOShDk8lkta8uORR",
+    "publisher": "Amazon Web Services",
+    "published_date": "2026-06-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "AWS added 169 new Competency Partners in May, including Sigmoid, Celonis, and Retool, across regions and industries. The program validates partners' technical expertise and customer success. AWS plans to continue enhancing partner programs in 2026.",
+    "word_count": 869,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Cloud Strategy, Assessment & Roadmap",
+      "code": "BPAEACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000j99i",
+      "name": "Namer Solutions",
+      "website": "https://www.namersol.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008esq",
+      "name": "1cloudstar",
+      "website": "https://www.1cloudstar.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ck4",
+      "name": "Sigmoid",
+      "website": "http://www.sigmoid.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000l13",
+      "name": "Celonis",
+      "website": "https://www.celonis.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005pvg",
+      "name": "Cloudvests",
+      "website": "https://cloudvests.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0009vpo",
+      "name": "Hiberus",
+      "website": "http://www.hiberus.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00059uo",
+      "name": "Viadex",
+      "website": "https://www.viadex.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "nick paris"
+     ],
+     "location": [
+      "united states",
+      "china",
+      "latam"
+     ],
+     "product": [
+      "software defined vehicle",
+      "auth0",
+      "aws marketplace",
+      "consulting services"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7732,
+    "group_id": 11581601
+   },
+   {
+    "id": 27477625,
+    "title": "How to align sales and partnerships for Cloud GTM success: 7 best practices",
+    "url": "https://clazar.io/blog/7-tips-for-sales-partnership-alignment",
+    "publisher": "Clazar",
+    "published_date": "2026-05-12T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7275,
+    "ai_summary": "The article outlines seven best practices for aligning sales and partnership teams to optimize Go-To-Market strategies within cloud marketplaces, citing challenges such as tighter budgets and extended sales cycles. It emphasizes the need for shared incentives, CRM-native workflows via tools like Clazar, and comprehensive enablement to drive adoption among sales representatives. The guidance aims to transform cloud partnerships from a passive initiative into a scalable, predictable revenue channel. ",
+    "word_count": 2115,
+    "author": "Pete Goldbergdirector Of Alliances - Nsa",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Revenue Enablement & Cross-Functional Alignment (Sales/CS/Marketing)",
+      "code": "EDABABAK",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation, CRM & Lifecycle Messaging",
+      "code": "BPAMALAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d34",
+      "name": "Google Cloud",
+      "website": "https://cloud.google.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000gd1",
+      "name": "Clazar",
+      "website": "https://clazar.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m16eu",
+      "name": "Microsoft Azure",
+      "website": "",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "neeti gupta",
+      "nelson wang",
+      "eleanor dorfman",
+      "nima badiey",
+      "laura ripan",
+      "pete goldberg",
+      "trunal bhanse"
+     ],
+     "location": [],
+     "product": [
+      "clazar",
+      "software",
+      "cloud gtm",
+      "hubspot",
+      "aws",
+      "salesforce"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9206,
+    "group_id": 7839107
+   },
+   {
+    "id": 24506144,
+    "title": "Best Low-Code Platforms in 2026: Fastest Tools for AI-Powered App Development",
+    "url": "https://www.techtimes.com/articles/316354/20260507/best-low-code-platforms-2026-fastest-tools-ai-powered-app-development.htm",
+    "publisher": "Tech Times",
+    "published_date": "2026-05-07T08:33:56",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "This article provides an overview and comparison of leading low-code development platforms in 2026, including OutSystems, Mendix, Microsoft Power Apps, Appian, Salesforce Platform, Bubble, Retool, and Airtable. The platforms are evaluated across features such as AI integration, enterprise security, cloud compatibility, and visual development tools, with the analysis highlighting how low-code tools enable faster application delivery with minimal manual coding. The article examines the growing enterprise adoption of these platforms, their integration capabilities with legacy systems, and the role of AI in reshaping software development processes.",
+    "word_count": 984,
+    "author": "Glanze Patrick",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000cl1",
+      "name": "Appian",
+      "website": "http://www.appian.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000045k",
+      "name": "OutSystems",
+      "website": "https://www.outsystems.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002pq4",
+      "name": "Mendix",
+      "website": "http://www.mendix.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "airtable",
+      "retool",
+      "outsystems",
+      "mendix",
+      "appian",
+      "bubble",
+      "power apps",
+      "salesforce platform",
+      "business apps"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9165,
+    "group_id": 1575218
+   },
+   {
+    "id": 24491058,
+    "title": "Retool Review: The Fastest Way to Build Internal Apps?",
+    "url": "https://www.mobileappdaily.com/product-review/retool",
+    "publisher": "MobileAppAaily",
+    "published_date": "2026-04-28T15:22:01",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The author reviews Retool, a low-code platform for building internal tools and dashboards, finding it delivers significant time savings by combining drag-and-drop UI building with custom code flexibility. The review praises Retool's universal integrations, AI-powered app generation, enterprise-grade security, and support for developer workflows. However, it notes the platform requires technical knowledge (SQL, JavaScript), is not suitable for customer-facing products, and can become expensive as team size scales, ultimately giving it a 4.5/5 rating and 'MobileAppDaily Approved' status.",
+    "word_count": 1923,
+    "author": "Riya Turns Everyday Tech Into Effortless Choices",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Developer Experience (DevEx) Tooling & Productivity Engineering",
+      "code": "BPAEAKAM",
+      "is_primary": true
+     },
+     {
+      "name": "Prompt Engineering, Orchestration & LLMOps Tooling",
+      "code": "HDAAACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ke",
+      "name": "Retool",
+      "website": "https://retool.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "riya"
+     ],
+     "location": [],
+     "product": [
+      "retool",
+      "shopclues",
+      "promeai",
+      "visme",
+      "offlinetunes",
+      "posthog",
+      "iask ai",
+      "there\u2019s an ai for that"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8857,
+    "group_id": 730870
+   }
+  ],
+  "credits_consumed": 0.39
+ },
+ "mode": "LIVE"
+}

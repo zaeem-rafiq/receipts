@@ -1,0 +1,472 @@
+{
+ "fetched_at": "2026-10-24T11:46:18",
+ "params": {
+  "company": "attio.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000ff",
+   "firmographic": {
+    "name": "Attio",
+    "legal_name": "Attio Limited",
+    "website": "attio.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2019,
+    "company_description": "Attio is a London-based, privately held AI-native CRM company founded in 2019, serving startups, scale-ups, venture capital firms, and AI-native companies. The platform is built around a flexible, user-configurable data model that supports custom objects (Partnership, Project, Invoice, Fund, Workspace) alongside standard CRM entities, allowing customers in venture capital (Seedcamp, USV), generative AI (Lovable, Modal, Replicate, Granola), developer tools (Railway), fintech (Public.com), and consumer brands (Coca-Cola) to model their business shape without developer support. The company's core product surface spans a CRM platform, Ask Attio (natural-language AI assistant), Universal Context\u2122 (a proprietary AI context layer that compounds email, calendar, call, support, billing, and product signals), Workflows (orchestrating 13+ pre-built AI agents with a no-code builder), Call Intelligence (native recording, transcription, and analysis), Sequences, and Reporting, with native distribution via iOS, Android, macOS, Chrome, and Slack apps.\n\nUnderlying technology is API-first: Attio exposes a public REST API with OAuth 2.0, JavaScript/TypeScript SDKs, webhooks, an OpenAPI spec, a sandbox, an App SDK, and a hosted MCP server at mcp.attio.com/mcp that enables MCP-compatible AI clients to read and write records. The platform supports bring-your-own-key AI across Anthropic, OpenAI, and Google Gemini, and is certified to ISO/IEC 27001:2022 with GDPR, CCPA, and EU AI Act compliance. Attio does not train its own models on customer data.\n\nRevenue is generated primarily through per-seat SaaS subscriptions \u2014 Plus at $29/seat/month (annual) and Pro at $69/seat/month (annual), with Enterprise custom-priced \u2014 augmented by a Free tier (up to 3 seats) as a PLG acquisition funnel, usage-based Credits for enrichment and AI features, and Enterprise implementation/onboarding services. Distribution is hybrid: self-serve PLG plus sales-assisted Enterprise, supported by an App Marketplace, Hire-an-Expert directory, partner programs, and a referral scheme. As of August 2025 the company had raised $116M cumulatively across seed (Point Nine-led, $7.7M, 2021), Series A (Redpoint-led, $23.5M, 2023), a 2024 round ($33M), and a Series B (GV-led, $52M), with capital earmarked for AI R&D and engineering expansion. The company is led by co-founder and CEO Nicolas Sharp and co-founder and CTO Alexander Christie.",
+    "company_description_short": "Attio is a London-based AI-native CRM company serving startups, scale-ups, VC firms, and AI-native businesses with a flexible data model, a proprietary Universal Context AI layer, and a library of AI agents orchestrated through Workflows.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "101-250",
+    "logo_url": "https://files.akta.pro/logos/00/00/0f/665b73f6-2e6f-56f2-beef-f01a2b932562.png",
+    "akta_rank": 25159
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "10m_25m",
+     "label": "$10M-$25M"
+    },
+    "valuation_estimate": {
+     "code": "250m_500m",
+     "label": "$250M-$500M"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "business_focus": "US regional contracting and operations for the Attio CRM platform",
+      "name": "Attio Inc.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "regional_market_entity",
+       "label": "Regional Market Entity"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Stated in Attio's llms.txt; covers \"top startups, venture capital firms and companies.\"",
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "80,000+ startups trust Attio"
+     },
+     {
+      "description": "Stated at time of August 2025 Series B funding announcement.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/attio-raises-52m-series-b-to-scale-the-first-ai-native-crm-for-go-to-market-builders-302538357.html"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "5,000+ customers including AI-native companies (Lovable, Granola, Modal, Replicate)"
+     },
+     {
+      "description": "Led by GV (Google Ventures); bringing total raised to $116M.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/attio-raises-52m-series-b-to-scale-the-first-ai-native-crm-for-go-to-market-builders-302538357.html"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$52 million Series B (Aug 2025)"
+     },
+     {
+      "description": "Cumulative across seed, Series A, and Series B rounds (2021\u20132025).",
+      "source": [
+       "https://vcnewsdaily.com/attio/venture-capital-funding/mhwhcltndk"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$116 million total funding to date"
+     },
+     {
+      "description": "Stated as the addressable market Attio is targeting with its AI-native CRM positioning.",
+      "source": [
+       "https://www.linkedin.com/in/jasminechenwang/"
+      ],
+      "type": {
+       "code": "market_size",
+       "label": "Market Size"
+      },
+      "value": "$50B+ CRM market"
+     },
+     {
+      "description": "Attio reported results from Intercom's Fin AI customer agent deployment in sales context.",
+      "source": [
+       "https://siliconangle.com/2026/04/24/intercoms-customer-service-agent-takes-new-sales-role/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "1,600+ inbound conversations and 30 startup program enrollments from Intercom Fin deployment"
+     },
+     {
+      "description": "Stated scale of platform API traffic.",
+      "source": [
+       "https://attio.com/"
+      ],
+      "type": {
+       "code": "infrastructure_footprint",
+       "label": "Infrastructure Footprint"
+      },
+      "value": "100,000 API calls per week"
+     },
+     {
+      "description": "Stated scale of MCP (Model Context Protocol) traffic.",
+      "source": [
+       "https://attio.com/"
+      ],
+      "type": {
+       "code": "infrastructure_footprint",
+       "label": "Infrastructure Footprint"
+      },
+      "value": "100,000 MCP tool calls per month"
+     },
+     {
+      "description": "Stated concurrent AI agent executions on the platform.",
+      "source": [
+       "https://attio.com/"
+      ],
+      "type": {
+       "code": "infrastructure_footprint",
+       "label": "Infrastructure Footprint"
+      },
+      "value": "1,000+ agents running concurrently"
+     },
+     {
+      "description": "Per public status page (status.attio.com).",
+      "source": [
+       "https://status.attio.com/"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "100% uptime across Attio Cloud, Web Client, Background Tasks, Cloud Storage, and Helpdesk (Mar\u2013Jun 2026)"
+     },
+     {
+      "description": "Enterprise security and compliance posture.",
+      "source": [
+       "https://attio.com/"
+      ],
+      "type": {
+       "code": "regulatory_milestones",
+       "label": "Regulatory Milestones"
+      },
+      "value": "ISO 27001, GDPR, CCPA certified"
+     },
+     {
+      "description": "Performance claim tied to AI-agent workloads.",
+      "source": [
+       "https://attio.com/"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "Sub-50ms latency, millions of records support"
+     }
+    ],
+    "partnership": [
+     {
+      "description": "Intercom's Fin AI customer agent was extended beyond customer support into sales, and Attio was an early adopter deployment. Attio reported over 1,600 inbound conversations, 50+ sales-qualified leads, and 30 startup-program enrollments. Intercom Fin surpassed $100M ARR and grew 350% YoY.",
+      "name": "Intercom",
+      "source": [
+       "https://siliconangle.com/2026/04/24/intercoms-customer-service-agent-takes-new-sales-role/"
+      ],
+      "strategic_tier": "Core \u2014 Intercom'S Fin Ai Customer Service Agent Was Extended Into Sales And Adopted By Attio For Inbound Pipeline.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "02mkqle"
+     },
+     {
+      "description": "Anthropic is listed as a third-party AI model provider used by Attio to support and improve service functionality. Customer use of AI Features is subject to Anthropic's Usage Policy and Supported Regions Policy.",
+      "name": "Anthropic",
+      "source": [
+       "https://attio.com/help/reference/attio-ai/attio-ai-policy"
+      ],
+      "strategic_tier": "Core \u2014 Provider Of Third-Party Ai Models Used By Attio'S Ai Features.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "description": "OpenAI is listed as a third-party AI model provider used by Attio to support and improve service functionality. Customers must comply with OpenAI's Usage Policies and supported-country restrictions when using Attio's AI workflows.",
+      "name": "OpenAI",
+      "source": [
+       "https://attio.com/help/reference/attio-ai/attio-ai-policy"
+      ],
+      "strategic_tier": "Core \u2014 Provider Of Third-Party Ai Models Used By Attio'S Ai Features.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "description": "Google Gemini is listed as a third-party AI model provider used by Attio. Customer use of Gemini-powered features is subject to Google's Generative AI Prohibited Use Policy.",
+      "name": "Google (Gemini)",
+      "source": [
+       "https://attio.com/help/reference/attio-ai/attio-ai-policy"
+      ],
+      "strategic_tier": "Core \u2014 Provider Of Third-Party Ai Models Used By Attio'S Ai Features.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "02m7dsp"
+     },
+     {
+      "description": "Attio offers a native Slack integration and 'Attio for Slack' agent, distributed via the Slack app directory. The integration allows CRM data and signals to surface inside Slack channels.",
+      "name": "Slack",
+      "source": [
+       "https://attio.com/"
+      ],
+      "strategic_tier": "Core \u2014 Official Integration And 'Attio For Slack' Agent Distributed Via The Slack App Directory.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000bk2"
+     },
+     {
+      "description": "Attio supports 'Sign in with Google' and integrates with Gmail, Google Drive, and Google Calendar for email, file, and contact management. Per the Privacy Policy, Attio adheres to the Google API Services User Data Policy and processes connected Google data only as a processor, never for advertising, with humans-only-reading limited to security or legal cases.",
+      "name": "Google (Workspace / Gmail)",
+      "source": [
+       "https://attio.com/"
+      ],
+      "strategic_tier": "Core \u2014 Sign-In With Google, Gmail Integration, And Google Drive/Calendar Access.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "02m65do"
+     },
+     {
+      "description": "Attio integrates with Microsoft Outlook and OneDrive for email, calendar, and file syncing; profile data, name, and email are pulled from connected Microsoft accounts.",
+      "name": "Microsoft (Outlook / OneDrive)",
+      "source": [
+       "https://attio.com/"
+      ],
+      "strategic_tier": "Core \u2014 Outlook Integration And Onedrive Sync.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000026e"
+     },
+     {
+      "description": "Segment is a listed Attio integration and data source; the platform ingests Segment events to unify customer data alongside email and calendar events.",
+      "name": "Segment",
+      "source": [
+       "https://attio.com/"
+      ],
+      "strategic_tier": "Core \u2014 Segment Events Are A Primary Data Source For The Platform.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0002eck"
+     },
+     {
+      "name": "Typeform",
+      "source": [
+       "https://attio.com/"
+      ]
+     },
+     {
+      "description": "Zapier is listed as one of Attio's native integrations and is the primary no-code bridge for connecting Attio to thousands of third-party apps without custom code.",
+      "name": "Zapier",
+      "source": [
+       "https://attio.com/"
+      ],
+      "strategic_tier": "Core \u2014 No-Code Automation Bridge.",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0003noj"
+     },
+     {
+      "description": "EU-REP.Global GmbH acts as Attio's Article 27 GDPR representative in the European Union. Located at Hopfenstr. 1d, 24114 Kiel, Germany.",
+      "name": "EU-REP.Global GmbH",
+      "source": [
+       "https://attio.com/legal/disclosure-policy"
+      ],
+      "strategic_tier": "Core \u2014 Statutory Eu Representative For Gdpr Purposes.",
+      "type": {
+       "code": "others",
+       "label": "Others"
+      }
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 8,
+       "year": 2025
+      },
+      "description": "Closed $52M Series B led by GV (Google Ventures), bringing total funding to $116M, with capital earmarked to accelerate AI-native CRM R&D and expand engineering hires.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/attio-raises-52m-series-b-to-scale-the-first-ai-native-crm-for-go-to-market-builders-302538357.html"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 11,
+       "year": 2025
+      },
+      "description": "Established Attio Inc., a Delaware corporation, as the US contracting entity for American customers accepting the Services Agreement on or after 5 November 2025, formalizing US market presence.",
+      "source": [
+       "https://attio.com/legal/services-agreement"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "year": 2025
+      },
+      "description": "Launched Universal Context\u2122, a proprietary AI context layer that compounds every customer signal into a single substrate for AI agents and humans \u2014 the platform's core architectural differentiator.",
+      "source": [
+       "https://attio.com/platform/workflows"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2025
+      },
+      "description": "Launched Workflows, an AI agent orchestration layer shipping 13+ pre-built agents (Web, Scoring, Routing, Win/Loss, Onboarding, Coaching, Prospecting, Enrichment, Briefing, Follow-Up, Churn Risk, Expansion, Pipeline Review, Outbound) with no-code builder and MCP integration.",
+      "source": [
+       "https://attio.com/platform/workflows"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2025
+      },
+      "description": "Released hosted Attio MCP Server at mcp.attio.com/mcp with OAuth 2.0 authentication, allowing MCP-compatible AI clients (Claude Desktop, etc.) to read and write Attio records via the Model Context Protocol.",
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2025
+      },
+      "description": "Achieved ISO/IEC 27001:2022 certification covering all production infrastructure, alongside GDPR and CCPA compliance posture and EU AI Act alignment \u2014 gating enterprise procurement.",
+      "source": [
+       "https://attio.com/help/reference/attio-ai/attio-ai-policy"
+      ],
+      "type": {
+       "code": "regulatory_action",
+       "label": "Regulatory Action"
+      }
+     },
+     {
+      "date": {
+       "day": 5,
+       "month": 11,
+       "year": 2025
+      },
+      "description": "Attio established Attio Inc., a corporation incorporated under the laws of Delaware with its registered office at 8 The Green #13469, Dover, DE 19901, United States, to serve US-located customers accepting the Services Agreement on or after 5 November 2025.",
+      "source": [
+       "https://attio.com/legal/services-agreement"
+      ],
+      "title": "Attio Inc. US Entity Incorporation",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Incorporation of Attio Inc. (Delaware) on 5 November 2025 to serve US customers signals formal North American market commitment beyond the UK/EMEA base, with a registered US office in Dover, DE.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Workflows with 13+ pre-built AI agents and Universal Context (2025) shift Attio from a CRM product into an AI-agent orchestration platform, expanding the addressable surface from CRM seats to AI-driven revenue workflows.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Hosted MCP server at mcp.attio.com/mcp, App SDK, App Marketplace, Approved Developer Program, and partner programs for developers/creators/consultants signal deliberate platform ecosystem expansion.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "$52M Series B funding explicitly earmarked for engineering hires and AI R&D expansion, against a current 51\u2013100 employee base, implying significant headcount growth in 2026.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "Targeting the $50B+ CRM market with explicit positioning against Salesforce and HubSpot, plus the Enterprise tier launch with SSO/SAML, audit logs, and custom data residency, signals an offensive move upmarket from startups to enterprise.",
+      "type": {
+       "code": "new_customer_segment",
+       "label": "New Customer Segment"
+      }
+     },
+     {
+      "description": "GV (Google Ventures) leading the $52M Series B in August 2025 \u2014 a strategic investor that brings both capital and ecosystem credibility \u2014 supports expansion runway of approximately 24\u201336 months at current burn.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

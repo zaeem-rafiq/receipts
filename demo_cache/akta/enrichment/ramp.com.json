@@ -1,0 +1,578 @@
+{
+ "fetched_at": "2026-10-24T11:46:59",
+ "params": {
+  "company": "ramp.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000pp",
+   "firmographic": {
+    "name": "Ramp",
+    "legal_name": "Ramp",
+    "website": "ramp.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2019,
+    "company_description": "Ramp is a financial technology company that develops an all-in-one corporate spend management platform combining corporate cards, expense management, accounts payable, travel booking, procurement, and accounting automation into a single unified system. The platform is built around AI agents trained on transaction patterns from 70,000+ customer businesses \u2014 including a Policy Agent that reviews 100% of expenses, four AP agents handling auto-coding (99% OCR accuracy), fraud prevention, approval routing, and payment, and a procurement agent fleet for vendor sourcing and contract review. Native integrations with QuickBooks, Xero, NetSuite, Sage Intacct, Workday, and Oracle enable bidirectional ERP sync. Additional products include Ramp Banking (FDIC-insured), Ramp Investment Account (automated fixed-income via Moment), AI Token Spend Management, Stablecoin Accounts (USDC/USDT via Privy/Bridge/Stripe), and Ramp Stack \u2014 an AI operating system for accounting firms. The platform processes over $200 billion in annualized purchase volume.\n\nThe company operates a freemium model: a free tier monetized through interchange fees on card transactions (with up to 5% cashback), a Plus tier at $15/user/month with a 20% annual discount unlocking AI-driven expense reviews and advanced AP, and custom-priced Enterprise tier with Workday/Oracle integrations and local currency card issuance in 40+ countries. GTM combines product-led self-serve acquisition, direct enterprise sales, and channel distribution via TD SYNNEX. Customer segments span SMBs and mid-market (primary) up to large enterprises including Visa, Uber, Shopify, Figma, Notion, and Quora.\n\nRamp is headquartered in New York and was founded in 2019. The company employs 1,001-5,000 people, serves 70,000+ businesses across 180+ countries, reports over $1 billion in annualized revenue with positive free cash flow, and reached a $44 billion valuation in June 2026 following a $750 million Series F led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. The company has expanded internationally via its Billhop acquisition (London, Stockholm) and continues to release AI-native products targeting new verticals including accounting firms and AI-heavy enterprises.",
+    "company_description_short": "Ramp is a financial technology company that provides an AI-powered all-in-one corporate spend management platform combining cards, expenses, accounts payable, travel, procurement, and accounting automation. It serves 70,000+ businesses from SMBs to enterprises including Visa, Shopify, and Notion.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/0p/f5ec9938-1383-5e75-b8a1-0c7ed47fd157.png",
+    "akta_rank": 215
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    },
+    "valuation_estimate": {
+     "code": "over_25b",
+     "label": "$25B+"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "day": 16,
+       "month": 3,
+       "year": 2026
+      },
+      "business_focus": "B2B payments platform licensed in UK and Sweden, serving UK and EU markets",
+      "name": "Billhop",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0000zgh"
+     },
+     {
+      "acquired_on": {
+       "day": 16,
+       "month": 3,
+       "year": 2026
+      },
+      "business_focus": "Guest travel platform for non-employee travelers including candidates, contractors, and customers",
+      "name": "Juno",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      }
+     },
+     {
+      "acquired_on": {
+       "day": 7,
+       "month": 5,
+       "year": 2026
+      },
+      "business_focus": "Open-source business management platform with time tracking, invoicing, and financial insights",
+      "name": "Midday",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0049tpw"
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Valuation from $750M Series F funding round announced June 4, 2026, led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Nearly tripling valuation from approximately $16 billion a year ago and 38% increase from $32 billion valuation in November 2025.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$44 billion"
+     },
+     {
+      "description": "Total equity financing exceeds $3 billion since 2019 founding, including $750M Series F (2026), $300M Series D-2 (November 2025), $300M round (August 2023), $750M (March 2022), $300M Series C (August 2021).",
+      "source": [
+       "https://www.thesaasnews.com/news/ramp-raises-750m-series-f/"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$3+ billion"
+     },
+     {
+      "description": "Revenue crossed $1.5 billion ARR by early June 2026 per one source, while others cite $1 billion annualized revenue. Company reports positive free cash flow. Reached over $1B in annualized revenue in just 6 years (2019-2026).",
+      "source": [
+       "https://angelinvestorsnetwork.com/venture-capital/ramp-750m-funding-round-b2b-saas-investors"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$1+ billion annualized revenue"
+     },
+     {
+      "description": "Company achieved positive free cash flow alongside $1 billion+ annualized revenue as of June 2026.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "Positive free cash flow"
+     },
+     {
+      "description": "Ramp serves over 70,000 organizations including Notion, Shopify, Webflow, Eventbrite, Poshmark, Quora, Visa, Uber, and Figma. Customer count grew from 50,000+ reported in late 2025.",
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "70,000+ businesses"
+     },
+     {
+      "description": "Ramp processes over $200 billion in annualized purchase volume. Purchase volume grew ~170% year-over-year in March 2026, the highest growth rate in three years.",
+      "source": [
+       "https://angelinvestorsnetwork.com/venture-capital/ramp-750m-funding-round-b2b-saas-investors"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "$200 billion annualized purchase volume"
+     },
+     {
+      "description": "Nearly half of Ramp's customers already transact internationally across more than 180 countries weekly. Company expanding to UK and EU markets directly following Billhop acquisition.",
+      "source": [
+       "https://www.crowdfundinsider.com/2026/03/266670-ramp-acquires-paytech-billhop/"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "180+ countries"
+     },
+     {
+      "description": "Ramp customers have collectively saved 27M+ hours using the platform. Customers using the full Ramp suite saved more than double the dollars and hours compared to the prior year.",
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "27 million+ hours saved"
+     },
+     {
+      "description": "Ramp customers have saved more than $12 billion and 27 million hours using the platform. Median customer saves 5% and grows revenue by 16%.",
+      "source": [
+       "https://economictimes.indiatimes.com/tech/funding/fintech-firm-ramps-valuation-surges-to-44-billion-on-ai-driven-growth/articleshow/131507823.cms"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "$12 billion+ saved"
+     },
+     {
+      "description": "Customers close books 75% faster and run intake-to-pay 3x more efficiently with full implementation in 30 days or less.",
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "75% faster close, 3x intake-to-pay efficiency"
+     },
+     {
+      "description": "Enterprise customer base grew 133% year over year in 2025.",
+      "source": [
+       "https://www.pymnts.com/news/b2b-payments/2026/ramp-launches-ai-agents-to-automate-corporate-procurement/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "133% enterprise customer growth YoY"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 9,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Strategic partnership to bring institutional-grade cash management and fixed income portfolio access to finance teams directly within Ramp's platform. Combines Moment's fixed income infrastructure (powers trading for firms managing over $10 trillion in assets) with Ramp's financial operations tools. Enables automated treasury management that previously required weeks of onboarding to be completed in minutes. Partnership is live with over $1 billion in new deposits added to Ramp's Investment Account within the past three months. Both companies working toward fully automated treasury lifecycle where cash moves programmatically between operating and investment accounts without manual intervention.",
+      "name": "Moment",
+      "source": [
+       "https://www.prnewswire.com/news-releases/moment-and-ramp-partner-to-bring-institutional-cash-management-to-finance-teams-302795531.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00000ue"
+     },
+     {
+      "announced_on": {
+       "day": 26,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Strategic partnership making Ramp available through TD SYNNEX's authorized reseller network in the United States. TD SYNNEX becomes an authorized distributor of Ramp's all-in-one platform for corporate cards, expenses, bill payments, procurement, and accounting. Partnership expands Ramp's reach into one of the world's largest technology channels. Collaboration across partner enablement, demand generation, sales support, and customer success.",
+      "name": "TD SYNNEX",
+      "source": [
+       "https://www.prnewswire.com/news-releases/ramp-and-td-synnex-partner-to-bring-modern-financial-operations-to-the-global-technology-channel-302780818.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "00007dq"
+     },
+     {
+      "announced_on": {
+       "day": 5,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Partnership to help small businesses streamline operations by combining OnPay's payroll and HR services with Ramp's finance automation features. Mutual clients receive exclusive benefits including discounted payroll services and $500 bonus for switching platforms. Both companies exploring future collaborations including OnPay sponsoring Ramp's annual OnRamp conference.",
+      "name": "OnPay",
+      "source": [
+       "https://aijourn.com/onpay-and-ramp-announce-partnership-to-help-small-businesses-streamline-operations/"
+      ],
+      "strategic_tier": "Secondary",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "0000bxf"
+     },
+     {
+      "announced_on": {
+       "day": 24,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Accounting Seed launched a new integration with Ramp that automatically syncs card transactions, vendor payments, and employee reimbursements to the general ledger, eliminating manual reconciliation. Integration enables finance teams to close faster with pre-coded transactions, apply AI-based GL coding, and gain real-time spend visibility across North America, EMEA, and APAC regions. Integration is first of many planned integrations as Accounting Seed expands as an open, AI-native accounting platform.",
+      "name": "Accounting Seed",
+      "source": [
+       "https://aijourn.com/accounting-seed-launches-ramp-integration-to-enhance-spend-management-offering-and-unlock-zero-day-close/"
+      ],
+      "strategic_tier": "Secondary",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0004fs5"
+     },
+     {
+      "announced_on": {
+       "day": 4,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Deepened partnership with Visa for autonomous corporate payments. Partnership enables AI agents to execute autonomous corporate payments on Ramp's platform. Ramp is expanding Visa partnership for AI-powered corporate bill pay automation, positioning Ramp as financial infrastructure for AI agent commerce.",
+      "name": "Visa",
+      "source": [
+       "https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-4-2026/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00007cz"
+     },
+     {
+      "announced_on": {
+       "day": 27,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Strategic partnership to deliver AI-powered accounts payable automation and intelligent spend controls to mid-market clients through Consero's Fusion Lab innovation hub. Integrates Ramp's AP workflows with Consero's AI-native general ledger environment led by Rillet. Partnership enables automated invoice processing, smarter spend controls, and accelerated month-end close, helping finance teams shift from reactive reporting to real-time decision-making.",
+      "name": "Consero Global",
+      "source": [
+       "https://www.financialcontent.com/article/accwirecq-2026-4-27-consero-global-partners-with-ramp-to-deliver-ai-powered-accounts-payable-and-spend-automation-through-fusion-lab"
+      ],
+      "strategic_tier": "Secondary",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "00008qa"
+     },
+     {
+      "announced_on": {
+       "day": 7,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Boys & Girls Clubs of America expanding partnership with Ramp to more than 1,100 local Clubs across its network. Ramp provides centralized financial operations platform that centralizes spending information, reduces manual reconciliation, and gives teams real-time visibility into spending. Existing 80+ Clubs using platform have returned over 18,000 hours of administrative time.",
+      "name": "Boys & Girls Clubs of America",
+      "source": [
+       "https://www.businesswire.com/news/home/20260507380190/en/Boys-Girls-Clubs-of-America-Introduces-Ramp-to-1100-Local-Clubs"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "0000jsv"
+     },
+     {
+      "announced_on": {
+       "day": 27,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Multi-year partnership naming Ramp the official expense management partner of Stanford Athletics. Ramp will be implemented across 36 varsity programs supporting nearly 900 student-athletes. Partnership includes in-venue signage at Stanford Stadium and Maples Pavilion, digital integrations, and a content series focused on Stanford student-athletes.",
+      "name": "Stanford Athletics",
+      "source": [
+       "https://www.prnewswire.com/news-releases/stanford-athletics-selects-ramp-to-modernize-financial-operations-in-multi-year-partnership-302782735.html"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "003crkd"
+     },
+     {
+      "announced_on": {
+       "day": 29,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Strategic partnership announcement with Sacramento Kings. Nature and scope of partnership not specified in available source material.",
+      "name": "Sacramento Kings",
+      "source": [
+       "https://timesofindia.indiatimes.com/city/chandigarh/nalwa-bjp-mla-prostrates-before-rampal-during-visit-to-dhanana-ashram/articleshow/130614917.cms"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "0005u6s"
+     },
+     {
+      "announced_on": {
+       "day": 10,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Both Ramp and Stripe expanding AI commerce infrastructure. Stripe unveiled AI agent payment capabilities at its Sessions conference. Ramp and Stripe both addressing AI billing infrastructure and token-based payments.",
+      "name": "Stripe",
+      "source": [
+       "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-30-day-data-policy-exposes-enterprise-ai-governance-gaps/"
+      ],
+      "strategic_tier": "Secondary",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "announced_on": {
+       "day": 9,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "TD SYNNEX announced distribution agreement adding Ramp's spend-management platform to its channel, expanding access for U.S. resellers, managed service providers, and enterprise IT buyers. Partnership positions TD SYNNEX as broader one-stop hub for technology procurement and risk management.",
+      "name": "TD SYNNEX (Distribution Agreement)",
+      "source": [
+       "https://simplywall.st/stocks/us/tech/nyse-snx/td-synnex/news/how-td-synnexs-snx-fintech-and-cybersecurity-additions-have"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "00007dq"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 4,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Raised $750 million Series F at a $44 billion post-money valuation, led by ICONIQ, GIC, and Ontario Teachers' Pension Plan, bringing total equity raised above $3 billion.",
+      "source": [
+       "https://valueaddvc.com/blog/ramp-750m-series-f-44-billion-valuation-june-2026"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "day": 13,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Acquired Billhop, a Stockholm- and London-based B2B payments platform with UK and Swedish licenses, to enable direct onboarding of UK and EU businesses and open first international offices in London and Stockholm.",
+      "source": [
+       "https://fintech.global/2026/03/16/ramp-acquires-billhop-to-expand-into-uk-and-europe/"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched Ramp Stack, an AI operating system for accounting firms using editable 'Skills' SOPs, targeting the $150 billion accounting sector and addressing a structural shortage of 300,000+ accountants.",
+      "source": [
+       "https://letsdatascience.com/news/ramp-launches-stack-ai-operating-system-for-accounting-firms-929f7472"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 29,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Launched AI Procurement Agents handling employee intake, vendor sourcing, compliance checks, and contract renewals, with reported 16% annual vendor cost savings and 46 hours/month of manual work eliminated.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/ramp-launches-fleet-of-ai-agents-across-its-procurement-platform-302756657.html"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 15,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched Ramp Applied AI Solutions, a service unit that embeds engineers within customer organizations to build bespoke AI systems on Ramp's platform for large enterprise finance teams.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/ramp-launches-applied-ai-solutions-helping-enterprises-deploy-ai-agents-across-finance-operations-302796179.html"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 4,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Deepened strategic partnership with Visa to enable AI agents to execute autonomous corporate payments, positioning Ramp as financial infrastructure for AI agent commerce.",
+      "source": [
+       "https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-4-2026/"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "day": 13,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Ramp announced its acquisition of Billhop to expand into UK and European markets, opening its first international offices in London and Stockholm. The acquisition enables Ramp to onboard UK- and EU-based businesses directly beginning summer 2026.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/ramp-acquires-billhop-to-expand-access-for-uk-and-european-customers-302712928.html"
+      ],
+      "title": "UK and European Expansion",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Billhop acquisition (March 2026) opens first international offices in London and Stockholm with UK/Swedish payment licenses; company plans to double UK headcount within 12 months. Nearly half of existing customers already transact internationally across 180+ countries weekly, indicating latent demand being formalized.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Ramp Stack (June 2026) targets the $150 billion accounting sector with an AI operating system for accounting firms using editable Skills SOPs and an Advisor Console for human review. This opens a new vertical beyond spend management customers.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     },
+     {
+      "description": "TD SYNNEX authorized distribution agreement (May 2026) reaches U.S. resellers, solution providers, and managed service providers \u2014 a previously untapped channel for accessing enterprise IT buyers through existing procurement relationships.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Token Spend Management product (June 2026) creates a new product line addressing a category created by AI providers shifting from flat subscriptions to usage-based billing; AI token spend among customers rose 13-fold since January 2025.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Aggressive M&A cadence in 2026 \u2014 Billhop (UK/EU payments), Juno (guest travel for non-employees), Midday (open-source business management with 14,000+ GitHub stars), and prior Jolt AI and Venue acquisitions \u2014 signals consolidation of complementary capabilities into the platform.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "$750M Series F capital raise (June 2026) is explicitly designated for AI investment, UK/Europe expansion, and AI infrastructure development \u2014 providing the capital base to sustain aggressive growth investments.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     },
+     {
+      "description": "Applied AI Solutions (June 2026) embeds engineers within enterprise customer organizations to build bespoke AI workflows, signaling a shift from pure product sales to services-enabled enterprise deployment.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

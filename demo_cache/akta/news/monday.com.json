@@ -1,0 +1,6089 @@
+{
+ "fetched_at": "2026-10-24T11:45:39",
+ "params": {
+  "company": "monday.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 511,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42361561,
+    "title": "monday.com (NASDAQ:MNDY) Stock Gets Downgrade from Wall Street Zen",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-mondaycom-nasdaq-mndy-stock-gets-downgrade-from-wall-street-zen-2026-10-24/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-24T05:24:35",
+    "sentiment": "Negative",
+    "sentiment_score": 0.3452,
+    "ai_summary": "Wall Street Zen downgraded monday.com from buy to hold, while other firms varied. The company reported Q2 EPS of $1.48, beating estimates, with revenue up 21.9% year-over-year. Analysts now rate the stock hold with a $111.70 average price target.",
+    "word_count": 1218,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007w6",
+      "name": "BTIG",
+      "website": "https://www.btig.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005yq",
+      "name": "Capital One",
+      "website": "http://www.capitalone.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mv5qh",
+      "name": "TD Cowen",
+      "website": "https://www.tdsecurities.com/ca/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "aviad eyal",
+      "eyal aviad"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "monday.com",
+      "mndy",
+      "monday service",
+      "harmony",
+      "monday dev",
+      "monday crm"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14498905
+   },
+   {
+    "id": 42361393,
+    "title": "monday.com (NASDAQ:MNDY) Stock Rating Cut to Hold at Wall Street Zen",
+    "url": "https://www.americanbankingnews.com/2026/10/24/monday-com-nasdaqmndy-stock-rating-cut-to-hold-at-wall-street-zen-2.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-24T00:25:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.4952,
+    "ai_summary": "Wall Street Zen downgraded monday.com from Buy to Hold, while other analysts also issued mixed ratings. The stock opened at $106.53, with an average analyst target of $111.70. The company reported Q2 EPS of $1.48, beating estimates, and revenue rose 21.9% year over year.",
+    "word_count": 1168,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007w6",
+      "name": "BTIG",
+      "website": "https://www.btig.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004b9c",
+      "name": "EverSource Wealth Advisors",
+      "website": "http://eversourcewealthadvisors.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005yq",
+      "name": "Capital One",
+      "website": "http://www.capitalone.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003k6r4",
+      "name": "Quadrant Capital Management",
+      "website": "http://www.quadrantcm.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "aviad eyal",
+      "eyal aviad"
+     ],
+     "location": [
+      "wyoming"
+     ],
+     "product": [
+      "monday.com",
+      "mndy",
+      "monday service",
+      "harmony",
+      "monday dev",
+      "monday crm",
+      "monday work management"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9889,
+    "group_id": 14498905
+   },
+   {
+    "id": 42247760,
+    "title": "monday.com: Operating Leverage Creates Upside, But AI Margins Remain The Key Risk",
+    "url": "https://seekingalpha.com/article/4956819-mondaycom-operating-leverage-creates-upside-but-ai-margins-remain-the-key-risk?source=feed_all_articles",
+    "publisher": "Seeking Alpha",
+    "published_date": "2026-10-23T09:43:16",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The author rates monday.com a Buy at $90, with a probability-weighted intrinsic value of $113.5, implying 26% upside. The thesis hinges on operating leverage, with OPEX expected to fall from 86.5% to 74.5% of revenue by 2031. AI credits could lower gross margins, creating a bearish case.",
+    "word_count": 3471,
+    "author": "Investor Kees",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Strategy & Thematic Research",
+      "code": "FSACAGAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "eliran glazer"
+     ],
+     "location": [
+      "wall street",
+      "israel"
+     ],
+     "product": [
+      "seats",
+      "monday.com",
+      "ai arr",
+      "claude",
+      "chatgpt",
+      "adobe creative cloud",
+      "artcraft",
+      "google ai search"
+     ],
+     "event": [
+      "j.p. morgan tmc conference"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15617498
+   },
+   {
+    "id": 42157483,
+    "title": "monday.com (NASDAQ:MNDY) Shares Climb 7.9% - What's Next?",
+    "url": "https://www.marketbeat.com/instant-alerts/price-mondaycom-nasdaq-mndy-shares-climb-79-whats-next-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T22:00:45",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com shares rose 7.9% on Thursday, trading as high as $106.25. Analysts have an average \"Hold\" rating with a $111.70 target, and the company reported Q2 EPS of $1.48, beating estimates. Insider Aviad Eyal sold 2,000 shares.",
+    "word_count": 997,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002t2k",
+      "name": "Piper Sandler",
+      "website": "https://pipersandler.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a2m",
+      "name": "Wolfe Research",
+      "website": "http://www.wolferesearch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003jja",
+      "name": "Fulton Bank",
+      "website": "http://www.fult.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004b9c",
+      "name": "EverSource Wealth Advisors",
+      "website": "http://eversourcewealthadvisors.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005lfz",
+      "name": "Pictet Asset Management",
+      "website": "https://www.am.pictet/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "aviad eyal"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "monday.com",
+      "monday service",
+      "monday dev",
+      "monday crm",
+      "monday work management"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9744,
+    "group_id": 14310922
+   },
+   {
+    "id": 42151730,
+    "title": "monday.com (NASDAQ:MNDY) Stock: Insider Aviad Eyal Sells 2,000 Shares",
+    "url": "https://www.tickerreport.com/banking-finance/13631893/monday-com-nasdaqmndy-stock-insider-aviad-eyal-sells-2000-shares.html",
+    "publisher": "Ticker Report",
+    "published_date": "2026-10-22T21:09:12",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7585,
+    "ai_summary": "monday.com director Aviad Eyal sold 2,000 shares at $100.04 on October 20th, reducing his stake by 0.97%. The stock traded up 6.7% to $106.86, and the company reported Q2 EPS of $1.48, beating estimates.",
+    "word_count": 786,
+    "author": "Max Byerly",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "aviad eyal"
+     ],
+     "location": [
+      "ohio"
+     ],
+     "product": [
+      "monday.com",
+      "monday crm",
+      "mndy",
+      "monday work management",
+      "monday service",
+      "monday dev"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9014,
+    "group_id": 15484798
+   },
+   {
+    "id": 42150933,
+    "title": "monday.com (NASDAQ:MNDY) Stock: Insider Aviad Eyal Sells 2,000 Shares",
+    "url": "https://www.marketbeat.com/instant-alerts/insider-mondaycom-nasdaq-mndy-stock-insider-aviad-eyal-sells-2000-shares-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T21:08:21",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7146,
+    "ai_summary": "monday.com director Aviad Eyal sold 2,000 shares at $100.04 on October 20th, reducing his stake by 0.97%. The company reported Q2 EPS of $1.48, beating estimates, with revenue of $364.62 million, up 21.9% year-over-year.",
+    "word_count": 934,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     },
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "aviad eyal"
+     ],
+     "location": [
+      "ohio",
+      "wall street"
+     ],
+     "product": [
+      "monday.com",
+      "monday crm",
+      "mndy",
+      "monday work management",
+      "monday service",
+      "monday dev"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8903,
+    "group_id": 15484798
+   },
+   {
+    "id": 42058197,
+    "title": "Top Software Stocks to Watch Going Into Sept-Qtr Earnings, According to Jefferies",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/top-software-stocks-watch-going-073450676.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-22T07:34:50",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Jefferies updated its outlook on several U.S. software stocks ahead of the September quarter earnings season, maintaining or adjusting ratings and price targets. The firm highlighted Dynatrace, IBM, Atlassian, and Roper as buy opportunities, while holding Datadog and Palantir, citing valuation and competitive risks.",
+    "word_count": 752,
+    "author": "Investing com",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Equities Brokerage",
+      "code": "FSAEACAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000e3i",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00022lj",
+      "name": "Roper Technologies",
+      "website": "http://www.ropertech.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b58",
+      "name": "Procore",
+      "website": "https://www.procore.com/en-sg",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008l9",
+      "name": "Jefferies Financial Group",
+      "website": "https://www.jefferies.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ma",
+      "name": "Palantir Technologies",
+      "website": "http://www.palantir.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000337",
+      "name": "IBM",
+      "website": "http://www.ibm.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000gpd",
+      "name": "Dynatrace",
+      "website": "https://www.dynatrace.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "dynatrace",
+      "monday.com",
+      "procore",
+      "ibm",
+      "palantir",
+      "atlassian",
+      "neptune",
+      "deltek",
+      "roper",
+      "snowflake",
+      "datadog"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15342886
+   },
+   {
+    "id": 42053909,
+    "title": "AI Makes Employees More Productive, But Managers Find It Harder to Evaluate Teams",
+    "url": "https://cxotoday.com/ai/ai-makes-employees-more-productive-but-managers-find-it-harder-to-evaluate-teams/?utm_source=rss&utm_medium=rss&utm_campaign=ai-makes-employees-more-productive-but-managers-find-it-harder-to-evaluate-teams",
+    "publisher": "CXOToday.com",
+    "published_date": "2026-10-22T06:40:51",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4926,
+    "ai_summary": "A Nielsen survey of over 1,700 managers found that more than half find it harder to evaluate team members after AI adoption, as polished AI output obscures individual contribution. While 94% are excited about AI, 46% now use AI to inform decisions, and 58% expect to manage more AI agents than human employees within 12 months.",
+    "word_count": 729,
+    "author": "Cxotoday News Desk",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Performance Management & OKRs",
+      "code": "BPACAPAF",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     },
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005xb",
+      "name": "Nielsen",
+      "website": "https://www.nielsen.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "michal miller levi",
+      "millar levi"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.8658,
+    "group_id": 15205632
+   },
+   {
+    "id": 42007711,
+    "title": "Weekly Investment Analysts\u2019 Ratings Updates for monday.com (MNDY)",
+    "url": "https://www.tickerreport.com/banking-finance/13629606/weekly-investment-analysts-ratings-updates-for-monday-com-mndy.html",
+    "publisher": "Ticker Report",
+    "published_date": "2026-10-22T00:56:45",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4371,
+    "ai_summary": "Analysts have revised their ratings on monday.com, with upgrades and downgrades occurring between September and October 2026. Barclays, JPMorgan, and Wall Street Zen lowered price targets, while Weiss and Wall Street Zen raised theirs. The company provides a cloud-based Work OS for project and workflow management.",
+    "word_count": 276,
+    "author": "Shane Hupp",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Quant Research & Systematic Strategies",
+      "code": "FSACAGAF",
+      "is_primary": true
+     },
+     {
+      "name": "Compliance, GRC Workflow & Audit Automation Platforms",
+      "code": "HDAEAHAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "monday service",
+      "monday.com",
+      "monday dev",
+      "monday crm",
+      "monday work management",
+      "mndy"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9032,
+    "group_id": 15290247
+   },
+   {
+    "id": 42124974,
+    "title": "monday.com (MNDY): 3 Reasons We Love This Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/monday-com-mndy-3-reasons-183839970.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-21T18:38:39",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com's stock rose 47% to $99.78 over six months. The company reported $1.46 billion in annual recurring revenue for Q2, with year-on-year growth averaging 24.3% over four quarters. Its gross margin averaged 88.7% over the past year.",
+    "word_count": 376,
+    "author": "Radek Strnad",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Document Creation & Office Suites",
+      "code": "BPAMAMAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     },
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "mndy",
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9347,
+    "group_id": 15443973
+   },
+   {
+    "id": 41944666,
+    "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-10-21T14:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0363,
+    "ai_summary": "A Nielsen survey of 1,700 managers found that over half find it harder to evaluate employee work after AI adoption, as polished output obscures individual contributions. Nearly half spend more time reviewing and guiding teams, and 58% expect to oversee more AI agents than human employees within a year.",
+    "word_count": 915,
+    "author": "Ram Iyer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Performance Management & OKRs",
+      "code": "BPACAPAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "michal miller levi",
+      "levi"
+     ],
+     "location": [],
+     "product": [
+      "apps",
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15205632
+   },
+   {
+    "id": 41742263,
+    "title": "monday.com AI study: 29% report full AI integration",
+    "url": "https://www.stocktitan.net/news/MNDY/83-of-leaders-are-satisfied-with-their-ai-setup-but-7-in-10-say-su2v97xd03bn.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-21T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.926,
+    "ai_summary": "monday.com released a study of 1,701 senior leaders finding 29% report full AI integration, while 58% expect to manage more AI agents than people within a year. Leaders are satisfied with AI in their own workflows, but struggle with organization-wide integration and oversight.",
+    "word_count": 698,
+    "author": "Monday.Com Ltd.",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS",
+     "DEU",
+     "FRA",
+     "BRA",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise AI Governance, Risk & Compliance Platforms (Model Risk, Audit, Policies)",
+      "code": "HDAEANAE",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "michal miller levi",
+      "noam safier"
+     ],
+     "location": [
+      "uk",
+      "australia",
+      "brazil",
+      "singapore",
+      "germany",
+      "france",
+      "us",
+      "tel aviv",
+      "new york",
+      "israel"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9181,
+    "group_id": 15173500
+   },
+   {
+    "id": 41727573,
+    "title": "Data takes center stage as 1,000 tech professionals gather at Tel Aviv AI conference",
+    "url": "https://www.einnews.com/article/951213554/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-21T11:06:34",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Over 1,000 data professionals gathered in Tel Aviv for the sixth hayaData conference, organized by Riskified, to discuss AI and data infrastructure. JLL forecasts nearly $3 trillion in data center investment by 2030, and IDC data shows 90% of global data generated in the past two years.",
+    "word_count": 943,
+    "author": "Ynet Global",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Data Center Infrastructure Management (DCIM)",
+      "code": "HDABANAB",
+      "is_primary": true
+     },
+     {
+      "name": "AI Datacenter Power, Cooling & Racks (liquid cooling, power delivery)",
+      "code": "HDAAAAAH",
+      "is_primary": false
+     },
+     {
+      "name": "Data, Analytics & AI Consulting",
+      "code": "BPAHACAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b4d",
+      "name": "Riskified",
+      "website": "https://www.riskified.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002f5",
+      "name": "HoneyBook",
+      "website": "http://www.honeybook.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004a",
+      "name": "Databricks",
+      "website": "https://www.databricks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "616",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "180",
+      "name": "Events"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "guy machlev",
+      "noa lubin",
+      "amit bendor",
+      "bendor"
+     ],
+     "location": [
+      "tel aviv",
+      "israel",
+      "david intercontinental hotel",
+      "space"
+     ],
+     "product": [
+      "trinity audio player"
+     ],
+     "event": [
+      "hayadata conference",
+      "tel aviv ai conference"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15167289
+   },
+   {
+    "id": 41623274,
+    "title": "monday.com Gains as New Voice AI Launch Sparks Optimism | MNDY Stock News",
+    "url": "https://www.quiverquant.com/news/monday.com+Gains+as+New+Voice+AI+Launch+Sparks+Optimism",
+    "publisher": "Quiver Quantitative",
+    "published_date": "2026-10-20T21:20:10",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com shares rose 8% on Monday after the company launched Harmony voice AI, expanding its AI product into enterprise sales workflows. The move also drew renewed growth-stock interest, with 128 institutional investors adding shares in the most recent quarter. Analysts have set a median price target of $112.5.",
+    "word_count": 527,
+    "author": "Quiver PriceTracker",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+      "code": "HDAAAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "ivan feinseth",
+      "allan verkhovski",
+      "derrick wood",
+      "steven enders",
+      "raimo lenschow",
+      "david hynes",
+      "james case george",
+      "taylor mcginnis"
+     ],
+     "location": [],
+     "product": [
+      "mndy"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9616,
+    "group_id": 15073925
+   },
+   {
+    "id": 41622568,
+    "title": "Enterprise work management at Elevate - SiliconANGLE",
+    "url": "https://siliconangle.com/2026/10/20/enterprise-work-management-mondayelevate/",
+    "publisher": "SiliconANGLE",
+    "published_date": "2026-10-20T20:58:56",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com's Elevate conference on Oct. 28-29 will focus on AI agents executing business processes, with theCUBE providing coverage. TheCUBE cites 92% of organizations integrating AI into software delivery, up from 71% in early 2024, and 79% expecting widespread AI agent adoption within three years.",
+    "word_count": 1285,
+    "author": "Cheryl Knight",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004ya1",
+      "name": "theCUBE",
+      "website": "https://www.thecube.net/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "paul nashawaty",
+      "sam weston",
+      "krista case",
+      "john furrier",
+      "dave vellante"
+     ],
+     "location": [
+      "new york city",
+      "javits center"
+     ],
+     "product": [
+      "monday vibe",
+      "monday sidekick",
+      "agent factory",
+      "thecubeai.com",
+      "thecube",
+      "apple podcasts"
+     ],
+     "event": [
+      "elevate conference",
+      "elevate",
+      "elevate26",
+      "elevate event",
+      "elevate 2026",
+      "elevate agenda"
+     ]
+    },
+    "newsworthiness_score": 0.9784,
+    "group_id": 15073784
+   },
+   {
+    "id": 41603749,
+    "title": "Braze leads software sector higher, while chip stocks mostly hold steady",
+    "url": "https://www.tradingview.com/news/seekingalpha:79d114cdb094b:0-braze-leads-software-sector-higher-while-chip-stocks-mostly-hold-steady/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-20T19:13:05",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Braze shares rose over 50% after Salesforce agreed to buy the AI marketing platform for $5.66B in enterprise value. The software sector gained, with monday.com up 7.5%, while chip stocks mostly held steady, with Skyworks up 3% on its Qorvo acquisition.",
+    "word_count": 362,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00023dq",
+      "name": "Qorvo",
+      "website": "https://www.qorvo.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005noj",
+      "name": "Skyworks Solutions",
+      "website": "http://www.skyworksinc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000042q",
+      "name": "Accenture",
+      "website": "https://www.accenture.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cl1",
+      "name": "Appian",
+      "website": "http://www.appian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ye",
+      "name": "ServiceNow",
+      "website": "http://www.servicenow.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "334413",
+      "name": "Manufacturing"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "3674",
+      "name": "SEMICONDUCTORS & RELATED DEVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "south korea"
+     ],
+     "product": [
+      "workday wday",
+      "onsemi on",
+      "braze brze",
+      "micron mu",
+      "appian appn",
+      "servicenow now",
+      "accenture acn",
+      "analog devices adi",
+      "texas instruments txn",
+      "sk hynix skhy",
+      "seagate stx",
+      "intel intc",
+      "sandisk sndk",
+      "marvell mrvl",
+      "etf igv",
+      "qorvo",
+      "atlassian team",
+      "qualcomm qcom"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 41592950,
+    "title": "monday.com, Adobe, DocuSign, Intuit, and MongoDB Stocks Trade Up, What You Need To Know",
+    "url": "https://www.financialcontent.com/article/stockstory-2026-10-20-mondaycom-adobe-docusign-intuit-and-mongodb-stocks-trade-up-what-you-need-to-know",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-20T16:56:07",
+    "sentiment": "Positive",
+    "sentiment_score": 0.7542,
+    "ai_summary": "Software stocks, including monday.com, rose in the afternoon session as investors rotated out of semiconductors amid concerns over U.S. fiscal deficit and AI capital expenditure. monday.com shares fell 29.9% year-to-date, trading 51% below their 52-week high. The rebound reflects renewed confidence in software as earnings expectations and AI partnerships improved sentiment.",
+    "word_count": 632,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s."
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15038518
+   },
+   {
+    "id": 41582960,
+    "title": "monday.com (NASDAQ:MNDY) Shares Gap Up - What's Next?",
+    "url": "https://www.marketbeat.com/instant-alerts/price-mondaycom-nasdaq-mndy-shares-gap-up-whats-next-2026-10-20/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-20T15:40:33",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com shares gapped up to $97.00 on Tuesday after closing at $93.42. The stock's consensus rating is Hold with an average target of $111.70, and the company reported Q2 EPS of $1.48, beating estimates of $1.11. Revenue rose 21.9% year-over-year to $364.62 million.",
+    "word_count": 878,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000733v",
+      "name": "Swiss National Bank",
+      "website": "https://www.snb.ch",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cr",
+      "name": "Bank of America",
+      "website": "https://www.bankofamerica.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002t2k",
+      "name": "Piper Sandler",
+      "website": "https://pipersandler.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002u2f",
+      "name": "TD Cowen",
+      "website": "https://www.cowen.eu",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005np6",
+      "name": "Renaissance Technologies",
+      "website": "https://www.rentec.com/Home.action?index=true",
+      "is_primary": false
+     },
+     {
+      "uuid": "002fz9c",
+      "name": "RPD Fund Management",
+      "website": "https://www.rpdfund.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008l9",
+      "name": "Jefferies Financial Group",
+      "website": "https://www.jefferies.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000382",
+      "name": "prices"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "monday.com",
+      "monday service",
+      "mndy",
+      "monday dev",
+      "monday crm"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14310922
+   },
+   {
+    "id": 41529212,
+    "title": "monday.com launches Harmony voice AI agent",
+    "url": "https://www.finextra.com/pressarticle/111354/mondaycom-launches-harmony-voice-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "publisher": "Finextra",
+    "published_date": "2026-10-20T09:34:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com launched Harmony, a voice AI agent platform for enterprise sales teams, built on proprietary LLMs and OneAI voice technology. The platform aims to increase revenue by turning paid pipelines into closed deals faster, with a customer reporting a 9% increase in deals closed. Harmony is available in the US, UK, Australia, and Singapore, with more markets planned.",
+    "word_count": 540,
+    "author": "Editorial Team",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+      "code": "HDAAAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000sfw",
+      "name": "One AI",
+      "website": "https://www.oneai.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "vitali margolin",
+      "richard stubbs"
+     ],
+     "location": [
+      "australia",
+      "united kingdom",
+      "singapore",
+      "united states",
+      "uk"
+     ],
+     "product": [
+      "harmony"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9491,
+    "group_id": 14847935
+   },
+   {
+    "id": 41544956,
+    "title": "Top 3 Founder Led Stocks To Watch In October 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-191619201.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-19T19:16:19",
+    "sentiment": "Positive",
+    "sentiment_score": 0.866,
+    "ai_summary": "The article profiles three founder-led stocks for October 2026: monday.com, Palantir, and Figure Technology Solutions. It cites monday.com's $1.37B revenue and $3.8B market cap, Palantir's $3.21B government and $2.95B commercial revenue, and Figure's $619M US revenue. It notes Palantir's zero debt and cash balance.",
+    "word_count": 807,
+    "author": "Sasha Jovanovic",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     },
+     {
+      "name": "Enterprise Performance Management (EPM) & FP&A Platforms",
+      "code": "HDAEAEAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ma",
+      "name": "Palantir Technologies",
+      "website": "http://www.palantir.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000287",
+      "name": "Figure",
+      "website": "https://figure.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "alex karp"
+     ],
+     "location": [
+      "united states",
+      "the united kingdom"
+     ],
+     "product": [
+      "foundry",
+      "gotham",
+      "monday crm",
+      "mondaydb 3.0",
+      "monday.com",
+      "jpm coin",
+      "ethereum",
+      "monday work management",
+      "monday ai work platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14992934
+   },
+   {
+    "id": 41426158,
+    "title": "Proteger la inteligencia artificial podr\u00eda elevar entre 10 y 25% el gasto en ciberseguridad",
+    "url": "https://www.eleconomista.com.mx/tecnologia/proteger-inteligencia-artificial-elevar-10-25-gasto-ciberseguridad-20261019-839344.html",
+    "publisher": "Eleconomista",
+    "published_date": "2026-10-19T17:39:06",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0364,
+    "ai_summary": "Protecting AI systems could raise corporate cybersecurity spending by 10-25%, according to monday.com's Daniel Liber. He cited risks from AI agents accessing internal data and executing malicious instructions. IDC projects Mexico's cybersecurity market to reach $1,476 million in 2026.",
+    "word_count": 980,
+    "author": "Rodrigo Riquelme",
+    "countries": [
+     "MEX"
+    ],
+    "industries": [
+     {
+      "name": "Identity, Access & Secrets Management for AI Systems (IAM for agents/models)",
+      "code": "HDAAAKAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "daniel liber",
+      "owasp"
+     ],
+     "location": [
+      "francia"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14886660
+   },
+   {
+    "id": 41490270,
+    "title": "Monday.com launches Harmony, a voice AI platform for sales calls",
+    "url": "https://thenextweb.com/news/monday-harmony-voice-ai-sales",
+    "publisher": "The Next Web",
+    "published_date": "2026-10-19T17:01:35",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.761,
+    "ai_summary": "Monday.com launched Harmony, a voice AI platform that calls, qualifies, and follows up on sales leads, using small task-specific models. It is available in the US, UK, Australia, and Singapore, and an early user reported closing 9% more deals. The company did not disclose prices.",
+    "word_count": 375,
+    "author": "Cristian Dina",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+      "code": "HDAAAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000sfw",
+      "name": "One AI",
+      "website": "https://www.oneai.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mo837",
+      "name": "bright car finance",
+      "website": "https://brightcarfinance.co.uk",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000205",
+      "name": "new product or service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "vitali margolin"
+     ],
+     "location": [
+      "uk",
+      "australia",
+      "singapore",
+      "us"
+     ],
+     "product": [
+      "harmony",
+      "vapi",
+      "bland"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8902,
+    "group_id": 14847935
+   },
+   {
+    "id": 41561468,
+    "title": "monday.com Launches Harmony, Betting on Specialized Models for Voice AI Sales Agents",
+    "url": "https://www.unite.ai/monday-com-harmony-voice-ai-sales-agents/",
+    "publisher": "Unite.AI",
+    "published_date": "2026-10-19T13:00:58",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5935,
+    "ai_summary": "monday.com launched Harmony, a voice AI platform for sales teams, on October 19. It uses specialized models for call tasks, claiming 200ms latency and 70% contact rates. A Bright Car Finance testimonial reports a 9% increase in deals closed.",
+    "word_count": 1100,
+    "author": "Aiden Cross",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Contact Center Speech AI (agent assist, IVR automation)",
+      "code": "HDAAAFAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000sfw",
+      "name": "One AI",
+      "website": "https://www.oneai.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mo837",
+      "name": "bright car finance",
+      "website": "https://brightcarfinance.co.uk",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000205",
+      "name": "new product or service"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "vitali margolin",
+      "aiden cross",
+      "richard stubbs"
+     ],
+     "location": [
+      "australia",
+      "singapore",
+      "united kingdom",
+      "united states",
+      "uk"
+     ],
+     "product": [
+      "harmony",
+      "pipedrive",
+      "twilio"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8789,
+    "group_id": 14847935
+   },
+   {
+    "id": 41386936,
+    "title": "monday.com Launches Harmony Voice AI, ~200ms Response",
+    "url": "https://www.stocktitan.net/news/MNDY/voice-ai-platform-harmony-launches-to-convert-customer-conversations-itsm2wiyu7ir.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-19T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com launched Harmony, a voice AI agent platform for sales teams, with proprietary LLMs responding in about 200 milliseconds and a contact rate up to 70%. The platform handles live calls across the sales cycle and integrates with CRM platforms. It is available in the US, UK, Australia, and Singapore, with more markets to follow.",
+    "word_count": 714,
+    "author": "Monday.Com Ltd.",
+    "countries": [
+     "ISR",
+     "USA",
+     "GBR",
+     "AUS",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+      "code": "HDAAAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Contact Center Speech AI (agent assist, IVR automation)",
+      "code": "HDAAAFAL",
+      "is_primary": false
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000205",
+      "name": "new product or service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "vitali margolin",
+      "richard stubbs",
+      "allison grey"
+     ],
+     "location": [
+      "australia",
+      "singapore",
+      "united kingdom",
+      "israel",
+      "united states",
+      "new york",
+      "uk",
+      "tel aviv"
+     ],
+     "product": [
+      "harmony",
+      "stocktitan",
+      "twilio"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9922,
+    "group_id": 14847935
+   },
+   {
+    "id": 41375319,
+    "title": "monday.com Sets Third-Quarter Results Announcement",
+    "url": "https://capital.com/en-int/news/monday-com-sets-third-quarter-results-announcement",
+    "publisher": "The future of trading",
+    "published_date": "2026-10-19T11:00:52",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5172,
+    "ai_summary": "monday.com will report its third-quarter 2026 financial results on Monday, November 9, 2026. Management will host a conference call and webcast to discuss the results at 8:30 a.m. Eastern Time.",
+    "word_count": 334,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate & Financial Communications",
+      "code": "BPAFADAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "eastern time"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9433,
+    "group_id": 14834853
+   },
+   {
+    "id": 41491813,
+    "title": "monday.com to Announce Third Quarter 2026 Financial Results on Monday, November 9, 2026",
+    "url": "https://www.businesswire.com/news/home/20261019208616/en/monday.com-to-Announce-Third-Quarter-2026-Financial-Results-on-Monday-November-9-2026",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-10-19T11:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.636,
+    "ai_summary": "monday.com announced it will report its third-quarter 2026 financial results on November 9, 2026, with a conference call and webcast at 8:30 a.m. Eastern Time. The call will be accessible via telephone and an archived webcast will be available on the company's investor relations website.",
+    "word_count": 206,
+    "author": "",
+    "countries": [
+     "USA",
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Corporate & Financial Communications",
+      "code": "BPAFADAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "52",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "noam safier",
+      "byron stephen"
+     ],
+     "location": [
+      "new york",
+      "tel aviv",
+      "israel"
+     ],
+     "product": [],
+     "event": [
+      "conference call"
+     ]
+    },
+    "newsworthiness_score": 0.9302,
+    "group_id": 14834853
+   },
+   {
+    "id": 41372494,
+    "title": "monday.com to report Q3 2026 results Nov. 9",
+    "url": "https://www.stocktitan.net/news/MNDY/monday-com-to-announce-third-quarter-2026-financial-results-on-dmijmu4gb7qi.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-19T11:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6699,
+    "ai_summary": "monday.com will report its third-quarter 2026 financial results on November 9, 2026, and host a management discussion that morning. The company, which serves nearly 250,000 customers, will make results and a live webcast available on its investor relations website.",
+    "word_count": 250,
+    "author": "Monday.Com Ltd.",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "noam safier"
+     ],
+     "location": [
+      "tel aviv",
+      "new york",
+      "israel"
+     ],
+     "product": [
+      "stocktitan"
+     ],
+     "event": [
+      "conference call"
+     ]
+    },
+    "newsworthiness_score": 0.9308,
+    "group_id": 14834853
+   },
+   {
+    "id": 41351348,
+    "title": "Monday\u2019s AI makeover is pushing managers toward the exit",
+    "url": "https://www.calcalistech.com/ctechnews/article/2e65xnxbe",
+    "publisher": "CTech",
+    "published_date": "2026-10-19T06:01:13",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0196,
+    "ai_summary": "Five senior executives are leaving monday.com as the company reorganizes to cut management layers amid an AI strategy. The stock has fallen 37% since early 2026, and the company is encouraging voluntary departures. Financial results due in three weeks may reflect high development costs.",
+    "word_count": 881,
+    "author": "Sophie Shulman",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Turnaround, Restructuring & Crisis Management Consulting",
+      "code": "BPAHACAO",
+      "is_primary": true
+     },
+     {
+      "name": "Organization Design & Change Management Consulting",
+      "code": "BPAHACAD",
+      "is_primary": false
+     },
+     {
+      "name": "Open-Source Model Ecosystems & Model Marketplaces",
+      "code": "HDAAACAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Organisational Restructuring",
+      "code": "LG04",
+      "is_primary": true
+     },
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": false
+     },
+     {
+      "name": "C-Suite Appointments & Departures",
+      "code": "LG01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20001366",
+      "name": "business restructuring"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "seetvon amir",
+      "liron shtraichman",
+      "sergei liakhovetsky",
+      "lior zagury",
+      "orly stern izhaki",
+      "netanel tobias",
+      "eran zinman",
+      "roy mann"
+     ],
+     "location": [
+      "tel aviv",
+      "israel"
+     ],
+     "product": [],
+     "event": [
+      "2021 ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14584934
+   },
+   {
+    "id": 41120062,
+    "title": "4 Turnaround Stocks to Buy Before 2026 Is Over and Hold for a Decade",
+    "url": "https://www.fool.com/investing/2026/10/17/4-turnaround-stocks-to-buy-before-2026-is-over/",
+    "publisher": "The Motley Fool",
+    "published_date": "2026-10-17T20:23:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1902,
+    "ai_summary": "Four software stocks\u2014Duolingo, Monday.com, Unity, and GitLab\u2014are highlighted as turnaround candidates, each having grown revenue by at least 18% in the latest quarter. All have rallied at least 38% over six months, with Duolingo down 57% and Unity down 23% from their 52-week highs.",
+    "word_count": 1204,
+    "author": "Anders Bylund",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000h7",
+      "name": "Duolingo",
+      "website": "https://www.duolingo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000087x",
+      "name": "Unity",
+      "website": "https://unity.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000045",
+      "name": "GitLab",
+      "website": "http://about.gitlab.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matt bromberg",
+      "jim whitehurst",
+      "anders bylund"
+     ],
+     "location": [
+      "wall street",
+      "silver lake"
+     ],
+     "product": [
+      "duolingo",
+      "monday.com",
+      "unity software",
+      "duol",
+      "claude",
+      "mndy",
+      "gitlab",
+      "unity",
+      "zynga"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 0.9548,
+    "group_id": 14583114
+   },
+   {
+    "id": 41104594,
+    "title": "monday.com (NASDAQ:MNDY) Shares Up 6.8% \u2013 Should You Buy?",
+    "url": "https://www.themarketsdaily.com/2026/10/17/monday-com-nasdaqmndy-shares-up-6-8-should-you-buy.html",
+    "publisher": "Markets Daily",
+    "published_date": "2026-10-17T17:15:21",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7727,
+    "ai_summary": "monday.com shares rose 6.8% on Thursday, trading as high as $92.79. The stock closed at $93.4270, with a consensus rating of Hold and a price target of $111.70. Analysts have 12 Buy and 13 Hold ratings.",
+    "word_count": 681,
+    "author": "Tristan Rich",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Social Media Management, Scheduling & Community Tools",
+      "code": "BPAMALAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000733v",
+      "name": "Swiss National Bank",
+      "website": "https://www.snb.ch",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a2m",
+      "name": "Wolfe Research",
+      "website": "http://www.wolferesearch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00083g5",
+      "name": "Arkadios Capital",
+      "website": "https://arkadios.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00054vn",
+      "name": "SEB (Skandinaviska Enskilda Banken)",
+      "website": "http://sebgroup.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00sscc7",
+      "name": "Empowered Funds",
+      "website": "https://www.etfarchitect.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "monday service",
+      "monday.com",
+      "monday dev",
+      "monday crm",
+      "mndy",
+      "monday work management"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9963,
+    "group_id": 14310922
+   },
+   {
+    "id": 41098404,
+    "title": "monday.com (NASDAQ:MNDY) Cut to Hold at Zacks Research",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-mondaycom-nasdaq-mndy-cut-to-hold-at-zacks-research-2026-10-17/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-17T16:36:55",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1114,
+    "ai_summary": "Zacks Research downgraded monday.com from strong-buy to hold, while other analysts varied their ratings and price targets. The stock fell to $90.37, and the company reported Q2 EPS of $1.48, beating estimates, with revenue up 21.9% year-over-year. Analysts' consensus price target is $111.70.",
+    "word_count": 875,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007w6",
+      "name": "BTIG",
+      "website": "https://www.btig.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cr",
+      "name": "Bank of America",
+      "website": "https://www.bankofamerica.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007vbq",
+      "name": "WallStreetZen",
+      "website": "https://www.wallstreetzen.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005np6",
+      "name": "Renaissance Technologies",
+      "website": "https://www.rentec.com/Home.action?index=true",
+      "is_primary": false
+     },
+     {
+      "uuid": "002fz9c",
+      "name": "RPD Fund Management",
+      "website": "https://www.rpdfund.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008l9",
+      "name": "Jefferies Financial Group",
+      "website": "https://www.jefferies.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000382",
+      "name": "prices"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "monday.com",
+      "monday service",
+      "monday dev",
+      "monday crm",
+      "monday work management"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9709,
+    "group_id": 14563916
+   },
+   {
+    "id": 41111358,
+    "title": "Monday faces senior management exits amid AI restructuring",
+    "url": "https://www.calcalistech.com/ctechnews/article/2wsa7rgfb",
+    "publisher": "CTech",
+    "published_date": "2026-10-17T16:32:34",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0184,
+    "ai_summary": "Several senior executives at monday.com are expected to leave in the coming weeks amid a restructuring that cuts about 20% of its workforce. The company plans to shift toward an AI-powered work platform, with restructuring costs of $45-55 million and Q2 revenue up 22% to $364.6 million.",
+    "word_count": 639,
+    "author": "Meir Orbach",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Collaboration & Productivity Platforms (M365/Google Workspace, Email, Chat/Meetings)",
+      "code": "BPAEAIAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20001366",
+      "name": "business restructuring"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "seetvon amir",
+      "sergei liakhovetsky",
+      "liron shtraichman",
+      "orly stern izhaki",
+      "lior zagury"
+     ],
+     "location": [
+      "israel"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9506,
+    "group_id": 14584934
+   },
+   {
+    "id": 41089835,
+    "title": "Notable analyst calls: Salesforce, Walmart and Lockheed Martin gain analyst support as tech downgrades mount",
+    "url": "https://seekingalpha.com/news/4653700-notable-analyst-calls-salesforce-walmart-and-lockheed-martin-gain-analyst-support-as-tech-downgrades-mount",
+    "publisher": "Seeking Alpha",
+    "published_date": "2026-10-17T14:10:39",
+    "sentiment": "Negative",
+    "sentiment_score": 0.2925,
+    "ai_summary": "Analysts upgraded Salesforce, Walmart, and Lockheed Martin, citing AI-driven revenue acceleration and persistent inflation. Bank of America raised Salesforce's price target, Deutsche Bank sees Walmart's margin growth, and Barclays downgraded hardware makers and software firms.",
+    "word_count": 144,
+    "author": "Manshi Mamtora; CFA; SA News Editor",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003tv",
+      "name": "Walmart",
+      "website": "http://www.walmart.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005nk",
+      "name": "NetApp",
+      "website": "http://netapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002etx",
+      "name": "Dell",
+      "website": "https://www.dell.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000291",
+      "name": "Lockheed Martin",
+      "website": "https://www.lockheedmartin.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "manshi mamtora"
+     ],
+     "location": [],
+     "product": [
+      "netapp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14032382
+   },
+   {
+    "id": 41089300,
+    "title": "Notable analyst calls: Salesforce, Walmart and Lockheed Martin gain analyst support as tech downgrades mount",
+    "url": "https://www.tradingview.com/news/seekingalpha:da62eff75094b:0-notable-analyst-calls-salesforce-walmart-and-lockheed-martin-gain-analyst-support-as-tech-downgrades-mount/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-17T14:10:39",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4987,
+    "ai_summary": "Wall Street analysts issued a fresh round of upgrades and downgrades last week, with Salesforce, Walmart, and Lockheed Martin gaining support while Adobe and several tech hardware stocks faced downgrades. Salesforce was upgraded to Buy with a $285 price target, Walmart to Buy at $136, and Lockheed Martin to Buy at $600, while Adobe was downgraded to Underweight at $225.",
+    "word_count": 833,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003tv",
+      "name": "Walmart",
+      "website": "http://www.walmart.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005nk",
+      "name": "NetApp",
+      "website": "http://netapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000nn",
+      "name": "Dell Technologies",
+      "website": "https://www.delltechnologies.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003su",
+      "name": "MongoDB",
+      "website": "https://www.mongodb.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000094h",
+      "name": "GoDaddy",
+      "website": "https://srivarenya.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002d6",
+      "name": "Hewlett Packard Enterprise Development LP",
+      "website": "https://www.hpe.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20001140",
+      "name": "sell recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tim long",
+      "brad erickson",
+      "koji ikeda",
+      "michael turrin",
+      "mike cikos",
+      "krisztina katai",
+      "raimo lenschow",
+      "robert stallard"
+     ],
+     "location": [
+      "wall street",
+      "u.s."
+     ],
+     "product": [
+      "godaddy",
+      "netapp",
+      "mongodb",
+      "hubspot",
+      "walmart wmt",
+      "dell",
+      "hpe",
+      "adobe adbe",
+      "monday.com",
+      "mdb",
+      "tyler technologies",
+      "salesforce crm",
+      "mndy",
+      "figma",
+      "servicenow",
+      "crowdstrike"
+     ],
+     "event": [
+      "investor day"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14032382
+   },
+   {
+    "id": 41172906,
+    "title": "Head-To-Head Survey: Viant Technology (NASDAQ:DSP) vs. monday.com (NASDAQ:MNDY)",
+    "url": "https://www.americanbankingnews.com/2026/10/17/head-to-head-survey-viant-technology-nasdaqdsp-vs-monday-com-nasdaqmndy.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-17T03:01:09",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8715,
+    "ai_summary": "monday.com and Viant Technology are compared on profitability, risk, institutional ownership, valuation, and analyst recommendations. monday.com beats Viant on 10 of 15 factors, with higher revenue and earnings, but Viant has a stronger consensus rating and higher upside. monday.com is trading at a lower price-to-earnings ratio.",
+    "word_count": 822,
+    "author": "Abmn Staff",
+    "countries": [
+     "ISR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003l1",
+      "name": "Viant",
+      "website": "http://viantinc.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "europe",
+      "africa",
+      "the middle east",
+      "united states",
+      "the united kingdom",
+      "israel",
+      "tel aviv",
+      "irvine, california"
+     ],
+     "product": [
+      "workforms",
+      "workcanvas",
+      "viant data platform",
+      "monday work management",
+      "monday.com",
+      "monday dev",
+      "work os",
+      "holistic",
+      "monday sales crm",
+      "direct access",
+      "viant identity graph",
+      "viant technology",
+      "self-service platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8651,
+    "group_id": 14615790
+   },
+   {
+    "id": 40825844,
+    "title": "Commerce, monday.com, DigitalOcean, Sprinklr, and Fastly Shares Are Soaring and Falling, What You Need To Know",
+    "url": "https://www.tradingview.com/news/stockstory:b212b44d8094b:0-commerce-monday-com-digitalocean-sprinklr-and-fastly-shares-are-soaring-and-falling-what-you-need-to-know/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-15T18:35:46",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9714,
+    "ai_summary": "Software stocks traded in opposite directions after Treasury yields fell, with monday.com jumping 8% and DigitalOcean falling 4.3%. Barclays downgraded monday.com to Equalweight, citing AI monetization at only 1% of total ARR. The stock remains 54.3% below its 52-week high.",
+    "word_count": 651,
+    "author": "",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000358",
+      "name": "DigitalOcean",
+      "website": "http://www.digitalocean.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000098s",
+      "name": "Fastly",
+      "website": "http://www.fastly.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002u2",
+      "name": "Sprinklr",
+      "website": "http://www.sprinklr.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02lwcd6",
+      "name": "Commerce",
+      "website": "https://www.commerce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "raimo lenschow"
+     ],
+     "location": [
+      "earth"
+     ],
+     "product": [
+      "monday.com",
+      "sprinklr",
+      "commerce",
+      "fastly",
+      "digitalocean",
+      "palantir",
+      "fsly"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14053657
+   },
+   {
+    "id": 40825172,
+    "title": "Commerce, monday.com, DigitalOcean, Sprinklr, and Fastly Shares Are Soaring and Falling, What You Need To Know",
+    "url": "https://www.financialcontent.com/article/stockstory-2026-10-15-commerce-mondaycom-digitalocean-sprinklr-and-fastly-shares-are-soaring-and-falling-what-you-need-to-know",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-15T18:35:46",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8646,
+    "ai_summary": "Stocks rebounded in the afternoon session after AI-driven selling, as falling Treasury yields attracted buyers. monday.com shares fell 4.7% after a Barclays downgrade to Equalweight with a $100 price target, and the stock is down 34.7% year-to-date.",
+    "word_count": 554,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "002wnba",
+      "name": "Barclays Corporate & Investment Bank",
+      "website": "https://www.cib.barclays",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "raimo lenschow"
+     ],
+     "location": [
+      "earth"
+     ],
+     "product": [
+      "monday.com",
+      "fastly",
+      "sprinklr",
+      "digitalocean",
+      "palantir"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14053657
+   },
+   {
+    "id": 40822161,
+    "title": "monday.com (NASDAQ:MNDY) Stock Jumps 6.8% - Time to Buy?",
+    "url": "https://www.marketbeat.com/instant-alerts/price-mondaycom-nasdaq-mndy-stock-jumps-68-time-to-buy-2026-10-15/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-15T17:01:53",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "monday.com shares rose 6.8% to $93.43 on Thursday, with mid-day volume down 86% from average. Analysts rate the stock a Moderate Buy with a $111.70 consensus target, and the company beat Q2 earnings estimates with $1.48 EPS and 21.9% revenue growth.",
+    "word_count": 883,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000c53i",
+      "name": "Virginia Retirement System",
+      "website": "http://www.varetire.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007nu1",
+      "name": "Engineers Gate",
+      "website": "https://www.eglp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008l9",
+      "name": "Jefferies Financial Group",
+      "website": "https://www.jefferies.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00vpekh",
+      "name": "Sequoia Financial, LLC, A Registered Investment Advisory Firm",
+      "website": "https://sequoiainvesting.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000g13s",
+      "name": "Ohio Public Employees Retirement System(OPERS)",
+      "website": "https://www.opers.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "ohio",
+      "wall street"
+     ],
+     "product": [
+      "monday service",
+      "monday.com",
+      "monday dev",
+      "monday crm",
+      "monday work management",
+      "mndy"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9833,
+    "group_id": 14310922
+   },
+   {
+    "id": 41412287,
+    "title": "Monday.com and Evercore have been highlighted as Zacks Bull and Bear of the Day",
+    "url": "https://es.tradingview.com/news/zacks:89fc5cd47094b:0-monday-com-and-evercore-have-been-highlighted-as-zacks-bull-and-bear-of-the-day/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-15T12:12:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Zacks Equity Research named Monday.com the Bull of the Day and Evercore the Bear of the Day. Monday.com's AI revenue doubled sequentially in Q2, with revenue up 22% to $364.62 million, while Evercore's EPS estimates fell nearly 7% over a week. The article also covers Micron, Sandisk, and Seagate.",
+    "word_count": 2339,
+    "author": "",
+    "countries": [
+     "USA",
+     "KOR"
+    ],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003cx",
+      "name": "Micron Technology",
+      "website": "http://www.micron.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007xo",
+      "name": "Sandisk",
+      "website": "https://www.sandisk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008lg",
+      "name": "Seagate Technology",
+      "website": "http://www.seagate.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008zke",
+      "name": "Evercore Partners",
+      "website": "http://www.evercore.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000179",
+      "name": "earnings forecast"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sheraz mian"
+     ],
+     "location": [
+      "chicago, il",
+      "seoul",
+      "china",
+      "united states",
+      "wall street",
+      "singapore",
+      "japan",
+      "taiwan"
+     ],
+     "product": [
+      "mndy",
+      "cxmt",
+      "evr",
+      "humanoid robots",
+      "autonomous vehicles",
+      "mu",
+      "sndk",
+      "hbm",
+      "nand",
+      "nano-x imaging"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14871194
+   },
+   {
+    "id": 41399151,
+    "title": "Trump Endorses Netanyahu. What Investors Need To Know About The Israeli Election.",
+    "url": "https://www.investors.com/news/israel-elections-trump-netanyahu-stocks/",
+    "publisher": "Investors",
+    "published_date": "2026-10-15T12:00:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5268,
+    "ai_summary": "Trump endorsed Netanyahu for Israel's Oct. 27 election, but experts expect minimal market impact. Polls show neither bloc has a Knesset majority, and analysts see no major policy shifts. A leadership change could shift the shekel by 2-3%.",
+    "word_count": 1114,
+    "author": "Paolo Confino",
+    "countries": [
+     "ISR"
+    ],
+    "industries": [
+     {
+      "name": "Business, Financial & Trade News Publishers",
+      "code": "MPAJADAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008ai",
+      "name": "Teva Pharmaceuticals",
+      "website": "https://www.tevapharm.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ns",
+      "name": "Tower Semiconductor",
+      "website": "https://towersemi.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004u",
+      "name": "VanEck",
+      "website": "http://www.vaneck.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pbz",
+      "name": "Elbit Systems",
+      "website": "http://www.elbitsystems.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000tfj",
+      "name": "Camtek",
+      "website": "https://www.camtek.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "11000000",
+      "name": "politics and government"
+     },
+     {
+      "code": "20001312",
+      "name": "political leadership"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "387",
+      "name": "Politics"
+     },
+     {
+      "code": "386",
+      "name": "Politics"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "benjamin netanyahu",
+      "gadi eisenkot",
+      "donald trump",
+      "michael ratney",
+      "netanhyahu",
+      "netanyahu",
+      "anatoliy shal",
+      "david makovsky",
+      "eisenkot"
+     ],
+     "location": [
+      "israel",
+      "gaza",
+      "iran",
+      "u.s.",
+      "china",
+      "canada",
+      "tel aviv",
+      "saudi arabia",
+      "west bank",
+      "strait of hormuz",
+      "united states"
+     ],
+     "product": [
+      "wix",
+      "mndy",
+      "ta-35"
+     ],
+     "event": [
+      "brazilian elections",
+      "iran war",
+      "israeli election",
+      "elections",
+      "oct. 7 massacre"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14857787
+   },
+   {
+    "id": 40795655,
+    "title": "Israeli Elections: What Investors Need To Know With These Stocks In Focus",
+    "url": "https://www.investors.com/news/israel-elections-netanyahu-stocks/",
+    "publisher": "Investors",
+    "published_date": "2026-10-15T12:00:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6863,
+    "ai_summary": "Israel's first election since Oct. 7, 2023, pits Netanyahu's coalition against Gadi Eisenkot's opposition. The TA-125 index is up 8% this year, with Tower Semiconductor up 80% and Elbit Systems up over 20%. JPMorgan sees no major market moves, though a leadership change could shift the shekel by 2-3%.",
+    "word_count": 906,
+    "author": "Paolo Confino",
+    "countries": [
+     "ISR",
+     "IRN",
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Market Indices Performance",
+      "code": "MD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008ai",
+      "name": "Teva Pharmaceuticals",
+      "website": "https://www.tevapharm.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ns",
+      "name": "Tower Semiconductor",
+      "website": "https://towersemi.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pbz",
+      "name": "Elbit Systems",
+      "website": "http://www.elbitsystems.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000tfj",
+      "name": "Camtek",
+      "website": "https://www.camtek.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000579",
+      "name": "national elections"
+     },
+     {
+      "code": "20000574",
+      "name": "election"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "387",
+      "name": "Politics"
+     },
+     {
+      "code": "388",
+      "name": "Politics"
+     },
+     {
+      "code": "386",
+      "name": "Politics"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gadi eisenkot",
+      "benjamin netanyahu",
+      "anatoliy shal",
+      "michael ratney",
+      "netanhyahu",
+      "netanyahu",
+      "david makovsky",
+      "shal"
+     ],
+     "location": [
+      "gaza",
+      "israel",
+      "iran",
+      "tel aviv",
+      "west bank",
+      "saudi arabia",
+      "u.s.",
+      "strait of hormuz",
+      "united states"
+     ],
+     "product": [
+      "wix"
+     ],
+     "event": [
+      "israeli elections",
+      "brazilian elections",
+      "iran war",
+      "hamas attacks",
+      "oct. 7 massacre"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14293653
+   },
+   {
+    "id": 40568261,
+    "title": "How to Choose Project Management Software in 2026: 6 Checks Before Your Team Commits",
+    "url": "https://techbullion.com/how-to-choose-project-management-software-in-2026-6-checks-before-your-team-commits/",
+    "publisher": "TechBullion",
+    "published_date": "2026-10-13T13:56:29",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0167,
+    "ai_summary": "The article outlines six checks for selecting project management software, citing Capterra's 2025 survey that 59% of businesses regretted a software purchase. It advises matching tools to team patterns, testing dependency handling, and pricing real headcount, with a two-week pilot recommended.",
+    "word_count": 1358,
+    "author": "James Andrew",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Project & Task Management",
+      "code": "BPAMAMAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000a8sx",
+      "name": "Basecamp",
+      "website": "https://basecamp.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "teamwork.com",
+      "asana",
+      "project management software",
+      "project management tools",
+      "basecamp",
+      "monday.com",
+      "agile project management tools",
+      "clickup",
+      "basecamp pro",
+      "basecamp freelancer",
+      "slack",
+      "pro",
+      "microsoft teams",
+      "microsoft 365",
+      "microsoft planner planner plan 1",
+      "basic planner"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9962,
+    "group_id": 14127702
+   },
+   {
+    "id": 40568248,
+    "title": "Stocks making big moves yesterday: Bumble, monday.com, Reddit, Manhattan Associates, and Compass",
+    "url": "https://www.financialcontent.com/article/stockstory-2026-10-13-stocks-making-big-moves-yesterday-bumble-mondaycom-reddit-manhattan-associates-and-compass",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-13T13:00:42",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9476,
+    "ai_summary": "Bumble rose 47.8% on news of private deal talks with Ithaca Holdings at a $1 billion valuation, while monday.com fell 4.7% after a Barclays downgrade. Reddit dropped 3.6% on rising yields, Manhattan Associates gained 4% after a Morgan Stanley upgrade, and Compass fell 4.6% after a Wells Fargo price-target cut.",
+    "word_count": 291,
+    "author": "",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002o9",
+      "name": "Bumble",
+      "website": "http://bumble.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000422s",
+      "name": "Manhattan Associates",
+      "website": "http://www.manh.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000a8",
+      "name": "Compass",
+      "website": "http://www.compass.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002in",
+      "name": "Reddit",
+      "website": "https://www.redditinc.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "raimo lenschow",
+      "alec brondolo"
+     ],
+     "location": [],
+     "product": [
+      "bumble"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9892,
+    "group_id": 14127698
+   },
+   {
+    "id": 40564983,
+    "title": "Duplia Marketing Becomes a monday.com Authorized Partner to Help Manufacturers Close Marketing Gap",
+    "url": "https://www.prlog.org/13175250-duplia-marketing-becomes-mondaycom-authorized-partner-to-help-manufacturers-close-marketing-gap.html",
+    "publisher": "PRLog",
+    "published_date": "2026-10-13T12:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9703,
+    "ai_summary": "Duplia Marketing, a fractional CMO practice, has become a monday.com authorized partner. The partnership gives it direct access to monday.com's support, product knowledge, and certification to improve the systems it builds for industrial companies. The practice has run its marketing engine on monday.com from day one.",
+    "word_count": 47,
+    "author": "Duplia Marketing",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Customer Journey Orchestration & Campaign Management",
+      "code": "BPAFAFAF",
+      "is_primary": false
+     },
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5418",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.6628,
+    "group_id": 14125955
+   },
+   {
+    "id": 40488235,
+    "title": "3 US Growth Stocks Facing A New Interest Rate Test",
+    "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-syna/synaptics/news/3-us-growth-stocks-facing-a-new-interest-rate-test",
+    "publisher": "Simply Wall St",
+    "published_date": "2026-10-13T02:26:58",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5203,
+    "ai_summary": "Three US growth stocks\u2014Synaptics, monday.com, and Pagaya Technologies\u2014are profiled as sensitive to interest rate shifts. Synaptics generates $1.2B annually from edge AI chips, monday.com $1.4B from work software, and Pagaya $1.39B from credit underwriting. The article notes their AI-driven models could face margin pressure if funding costs rise.",
+    "word_count": 882,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Macro & Rates Research",
+      "code": "FSACAGAC",
+      "is_primary": true
+     },
+     {
+      "name": "On-Device/Edge Foundation Models (Mobile/Embedded LLMs)",
+      "code": "HDAAACAN",
+      "is_primary": false
+     },
+     {
+      "name": "AI/Neural Processing Units (NPUs) & ML Accelerators",
+      "code": "HDAHAJAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Profitability & Margins",
+      "code": "FR03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005ng",
+      "name": "Pagaya",
+      "website": "https://www.pagaya.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002nmr",
+      "name": "Synaptics",
+      "website": "https://www.synaptics.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "88",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "logan hammack"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "mondaydb 3.0",
+      "monday ai work platform",
+      "monday.com",
+      "connectivity chips",
+      "ai stock screener",
+      "cash generative ai platforms"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14094057
+   },
+   {
+    "id": 40495726,
+    "title": "monday.com Ltd. (NASDAQ:MNDY) Stock Has Average Price Target of $111.70",
+    "url": "https://www.marketbeat.com/instant-alerts/consensus-mondaycom-ltd-nasdaq-mndy-stock-has-average-price-target-of-11170-2026-10-13/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-13T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9805,
+    "ai_summary": "monday.com has a Moderate Buy rating from 25 analysts, with an average price target of $111.70. The company reported Q2 EPS of $1.48, beating estimates, and revenue of $364.62 million, up 21.9% year-over-year. Institutional investors hold 73.70% of the stock.",
+    "word_count": 832,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007w6",
+      "name": "BTIG",
+      "website": "https://www.btig.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0021d8d",
+      "name": "DGS Capital Management",
+      "website": "https://www.dgs.capital",
+      "is_primary": false
+     },
+     {
+      "uuid": "002nahq",
+      "name": "Avory & Co",
+      "website": "https://www.avory.xyz/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002t2k",
+      "name": "Piper Sandler",
+      "website": "https://pipersandler.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002h5a3",
+      "name": "Dutch Asset",
+      "website": "https://www.dutchasset.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004b9c",
+      "name": "EverSource Wealth Advisors",
+      "website": "http://eversourcewealthadvisors.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mv5qh",
+      "name": "TD Cowen",
+      "website": "https://www.tdsecurities.com/ca/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "monday service",
+      "monday dev",
+      "monday crm",
+      "monday work management",
+      "monday.com"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9149,
+    "group_id": 15661509
+   },
+   {
+    "id": 40447144,
+    "title": "Analysts\u2019 Downgrades for October 12th (AAMI, BWIN, CBNA, CHRW, GNLX, MNDY, NUE, OKTA, PNN, TVRD)",
+    "url": "https://www.tickerreport.com/banking-finance/13616136/analysts-downgrades-for-october-12th-aami-bwin-cbna-chrw-gnlx-mndy-nue-okta-pnn-tvrd.html",
+    "publisher": "Ticker Report",
+    "published_date": "2026-10-12T17:44:45",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0278,
+    "ai_summary": "Analysts downgraded multiple stocks on October 12th, including Acadian Asset Management, Baldwin Insurance Group, and Chain Bridge Bancorp. Price targets were adjusted, such as TD Cowen's $32.50 target for Baldwin Insurance Group and Deutsche Bank's GBX 380 for Pennon Group.",
+    "word_count": 338,
+    "author": "Max Byerly",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000sq1",
+      "name": "Tvardi Therapeutics",
+      "website": "https://www.tvarditherapeutics.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005e95",
+      "name": "Acadian Asset Management",
+      "website": "https://www.acadian-inc.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00075no",
+      "name": "Pennon Group",
+      "website": "http://www.pennon-group.co.uk",
+      "is_primary": false
+     },
+     {
+      "uuid": "003s5ur",
+      "name": "Baldwin Insurance Group LLC",
+      "website": "https://www.baldwininsgroup.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000388h",
+      "name": "Nucor Corporation",
+      "website": "http://www.nucor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ipf",
+      "name": "Chain Bridge Bancorp, Inc.",
+      "website": "http://chainbridgebank.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000kzt",
+      "name": "Genelux",
+      "website": "http://genelux.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003usz",
+      "name": "C.H. Robinson",
+      "website": "http://www.chrobinson.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14056652
+   },
+   {
+    "id": 40444841,
+    "title": "Why monday.com (MNDY) Shares Are Sliding Today",
+    "url": "https://www.financialcontent.com/article/stockstory-2026-10-12-why-mondaycom-mndy-shares-are-sliding-today",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-12T17:00:48",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0332,
+    "ai_summary": "monday.com shares fell 4.7% after Barclays analyst Raimo Lenschow downgraded the company from Overweight to Equalweight with a $100 price target. The analyst cited AI monetization as early and insufficient to offset decelerating core growth, with AI ARR representing only about 1% of total ARR.",
+    "word_count": 574,
+    "author": "",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "raimo lenschow",
+      "george kurtz",
+      "jay chaudhry"
+     ],
+     "location": [
+      "earth"
+     ],
+     "product": [
+      "palantir",
+      "monday.com",
+      "crowdstrike"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14053657
+   },
+   {
+    "id": 40427698,
+    "title": "Uvi gives AI agents enterprise context",
+    "url": "https://www.blocksandfiles.com/ai-ml/2026/10/12/uvi-gives-ai-agents-enterprise-context/5302514",
+    "publisher": "Blocksandfiles",
+    "published_date": "2026-10-12T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5242,
+    "ai_summary": "Uvi, an Israeli startup, provides a knowledge graph layer that gives AI agents enterprise context, reducing costs per answer to $0.10\u2013$0.16 versus $0.75\u2013$1.41 for DIY agents. The company raised a $7.5 million seed round led by CT Innovations to expand its U.S. team and product development.",
+    "word_count": 1002,
+    "author": "Chris Mellor",
+    "countries": [
+     "ISR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise AI Data & Knowledge Platforms (Vector Databases, Knowledge Graphs)",
+      "code": "HDAEANAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005f2f",
+      "name": "91 Ventures",
+      "website": "https://www.91vc.fund",
+      "is_primary": false
+     },
+     {
+      "uuid": "00028ib",
+      "name": "Lemonade",
+      "website": "https://www.lemonade.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cun",
+      "name": "Melio",
+      "website": "https://www.meliopayments.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008as",
+      "name": "Cardumen Capital",
+      "website": "https://www.cardumencapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "gilad salinger",
+      "dror wolmer",
+      "wolmer"
+     ],
+     "location": [
+      "tel-aviv",
+      "u.s."
+     ],
+     "product": [
+      "claude",
+      "gemini",
+      "gpt",
+      "naboo",
+      "fetchy",
+      "slack",
+      "jira",
+      "minio",
+      "hycu",
+      "jedify",
+      "github app"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8409,
+    "group_id": 14040242
+   },
+   {
+    "id": 40458073,
+    "title": "monday.com (NASDAQ:MNDY) Downgraded by Barclays to Equal Weight",
+    "url": "https://www.americanbankingnews.com/2026/10/12/monday-com-nasdaqmndy-downgraded-by-barclays-to-equal-weight.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-12T08:06:51",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0646,
+    "ai_summary": "Barclays downgraded monday.com from overweight to equal weight, setting a $100 price target. The stock fell 4.7% to $84.76, while the company beat Q2 earnings estimates with $1.48 EPS and $364.62M revenue. Analysts' consensus remains a Moderate Buy with a $111.70 target.",
+    "word_count": 734,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002u2f",
+      "name": "TD Cowen",
+      "website": "https://www.cowen.eu",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008l9",
+      "name": "Jefferies Financial Group",
+      "website": "https://www.jefferies.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005yq",
+      "name": "Capital One",
+      "website": "http://www.capitalone.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a2m",
+      "name": "Wolfe Research",
+      "website": "http://www.wolferesearch.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "mndy",
+      "monday.com",
+      "monday service",
+      "monday dev"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14038589
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

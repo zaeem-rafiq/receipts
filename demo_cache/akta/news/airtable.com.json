@@ -1,0 +1,6344 @@
+{
+ "fetched_at": "2026-10-24T11:47:51",
+ "params": {
+  "company": "airtable.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 200,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42159997,
+    "title": "Layoffs fueled spike in unemployment claims in three key Senate race states",
+    "url": "https://www.yahoo.com/news/politics/articles/layoffs-fueled-spike-unemployment-claims-213810393.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-22T21:38:10",
+    "sentiment": "Negative",
+    "sentiment_score": 0.228,
+    "ai_summary": "Layoffs drove increases in initial unemployment claims in Ohio, Texas, and Michigan for the week ending October 10, with Ohio's rise of 3,918 claims the largest. The increases are attributed to manufacturing cuts in Ohio and Michigan, and transportation/warehousing cuts in Texas, as these states face crucial Senate races. Experts say the data may influence independent and swing voters in the midterms.",
+    "word_count": 1358,
+    "author": "Suzanne Blake",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Unemployment Insurance & Employment Support Benefits",
+      "code": "BPAIAKAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Labor-Market Statistics",
+      "code": "MM06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007y",
+      "name": "Flock Safety",
+      "website": "https://www.flocksafety.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044i",
+      "name": "Netflix",
+      "website": "https://www.netflix.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004ri",
+      "name": "Kroger",
+      "website": "http://www.kroger.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000365",
+      "name": "employment statistics"
+     },
+     {
+      "code": "20000533",
+      "name": "unemployment"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20000534",
+      "name": "job layoffs"
+     },
+     {
+      "code": "20000585",
+      "name": "state elections"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "387",
+      "name": "Politics"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kevin thompson",
+      "alex beene",
+      "ken paxton",
+      "james talarico",
+      "michael ryan",
+      "thompson",
+      "abdul el-sayed",
+      "sherrod brown",
+      "jon husted",
+      "anna skinner",
+      "mike rogers",
+      "edward t. cummins"
+     ],
+     "location": [
+      "texas",
+      "ohio",
+      "michigan",
+      "pennsylvania",
+      "california",
+      "tennessee",
+      "america",
+      "springfield"
+     ],
+     "product": [
+      "martyn"
+     ],
+     "event": [
+      "midterm elections",
+      "midterms",
+      "2026 midterm elections"
+     ]
+    },
+    "newsworthiness_score": 0.9997,
+    "group_id": 15497315
+   },
+   {
+    "id": 42163952,
+    "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven\u2019t Raised Funding In Years",
+    "url": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
+    "publisher": "Crunchbase News",
+    "published_date": "2026-10-22T11:00:41",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4911,
+    "ai_summary": "Uber acquired ezCater for $2.3 billion, nearly five years after its last funding round. Other deals include Miro, Airtable, and Headspace, all at valuations far below their peaks. The analysis shows acquirers are buying well-funded startups that haven't raised equity in four or more years.",
+    "word_count": 691,
+    "author": "Joanna Glasner",
+    "countries": [
+     "USA",
+     "CHN"
+    ],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": false
+     },
+     {
+      "name": "Business Services (B2B) Growth Equity",
+      "code": "FSANACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000pkb",
+      "name": "Everlane",
+      "website": "https://www.everlane.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044c",
+      "name": "Shein",
+      "website": "https://www.shein.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002d7",
+      "name": "Uber",
+      "website": "http://www.uber.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002i2",
+      "name": "Sword Health",
+      "website": "https://sword.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000aip",
+      "name": "Headspace",
+      "website": "https://www.headspace.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005rh",
+      "name": "ezCater",
+      "website": "http://www.ezcater.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dom guzman"
+     ],
+     "location": [],
+     "product": [
+      "ezcater",
+      "headspace",
+      "everlane",
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9355,
+    "group_id": 15505101
+   },
+   {
+    "id": 41713677,
+    "title": "No-Code Lost to Vibe Coding\u2014But Here\u2019s What You Should Use Instead",
+    "url": "https://www.inc.com/joe-procopio/no-code-lost-to-vibe-coding-but-heres-what-you-should-use-instead/91423021",
+    "publisher": "Inc.",
+    "published_date": "2026-10-21T10:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.016,
+    "ai_summary": "No-code platforms like Bubble and Webflow are losing ground to generative AI's vibe-coding approach, which lets users speak their app into existence. The author argues this is a faster, cheaper, and better way for low-tech founders to build production applications.",
+    "word_count": 479,
+    "author": "Joe Procopio",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uru",
+      "name": "Bubble",
+      "website": "https://bubble.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000co",
+      "name": "Webflow",
+      "website": "http://www.webflow.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "bubble",
+      "airtable",
+      "cashmere",
+      "tahoma",
+      "lucida",
+      "webflow"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.937,
+    "group_id": 15155073
+   },
+   {
+    "id": 41081712,
+    "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+    "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+    "publisher": "CNBC",
+    "published_date": "2026-10-17T12:00:01",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Berkshire Hathaway invested over $900 million in Bending Spoons, including a $330 million stake, boosting the company's market cap to about $30 billion. Bending Spoons also acquired Airtable for $1.3 billion, with many of its pre-acquisition team leaving. The firm plans to use profits from its portfolio to fund future deals.",
+    "word_count": 1258,
+    "author": "CJ Haddad",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00028tq",
+      "name": "Evernote",
+      "website": "http://www.evernote.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iu",
+      "name": "Vimeo",
+      "website": "https://vimeo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000yxk",
+      "name": "Eventbrite",
+      "website": "http://www.eventbrite.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002hoq",
+      "name": "Brightcove",
+      "website": "https://www.brightcove.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ethan kurzweil",
+      "nick mehta",
+      "francesco patarnello",
+      "matteo danieli",
+      "luca ferrari",
+      "warren buffett",
+      "ferrari",
+      "lloyd walmsley",
+      "ari levy"
+     ],
+     "location": [
+      "italy",
+      "silicon valley",
+      "wall street"
+     ],
+     "product": [
+      "vimeo",
+      "evertale",
+      "aol",
+      "evernote",
+      "eventbrite",
+      "airtable",
+      "gainsight",
+      "miro",
+      "wetransfer",
+      "onenote",
+      "brightcove"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40967485,
+    "title": "Zoho\u2019s Sridhar Vembu calls SaaS layoffs \u2018normal\u2019, bets on reinvention by 2030 | Today News",
+    "url": "https://www.livemint.com/news/india/zohos-sridhar-vembu-calls-saas-layoffs-normal-bets-on-reinvention-by-2030-11792171115636.html",
+    "publisher": "Mint",
+    "published_date": "2026-10-16T17:40:41",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.553,
+    "ai_summary": "Zoho founder Sridhar Vembu said the company avoids mass layoffs, citing normal SaaS job cuts, and plans to retrain employees for AI-driven productivity. He noted rising AI costs and a 2030 reinvention target, while Zoho has not increased staff in 18 months.",
+    "word_count": 376,
+    "author": "Anjali Thakur",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Data, AI/ML & Analytics Staffing",
+      "code": "BPACADAB",
+      "is_primary": true
+     },
+     {
+      "name": "Data Science, Machine Learning & AI (Modeling, MLOps, GenAI)",
+      "code": "EDABAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sridhar vembu"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9983,
+    "group_id": 14056026
+   },
+   {
+    "id": 40807274,
+    "title": "5 Interesting Learnings from Bending Spoons at $2.8 Billion in Revenue: 126% Growth, 3% Organic Growth, and $1.08 Billion of ARR Bought in 37 Days",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-bending-spoons-at-2-8-billion-in-revenue-126-growth-3-organic-growth-and-1-08-billion-of-arr-bought-in-37-days/",
+    "publisher": "Saastr",
+    "published_date": "2026-10-15T14:10:23",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9565,
+    "ai_summary": "Bending Spoons reported Q2 revenue of $704M, up 126% year-over-year, with organic growth of 3%. The company acquired Airtable and Miro, adding $1.08B in ARR, and its stock fell 16% after the report. CEO Luca Ferrari said AI writes at least 90% of the company's code.",
+    "word_count": 2035,
+    "author": "Jason Lemkin",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     },
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iu",
+      "name": "Vimeo",
+      "website": "https://vimeo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005xiw",
+      "name": "Harvest",
+      "website": "http://www.getharvest.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m9uwr",
+      "name": "remini ai",
+      "website": "https://app.remini.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000yxk",
+      "name": "Eventbrite",
+      "website": "http://www.eventbrite.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006jzy",
+      "name": "MileIQ",
+      "website": "http://www.mileiq.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007sx",
+      "name": "Tractive",
+      "website": "http://www.tractive.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "ferrari",
+      "federico simionato"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "miro",
+      "vimeo",
+      "splice",
+      "datadog",
+      "remini",
+      "hubspot",
+      "aol",
+      "evernote",
+      "eventbrite",
+      "tractive",
+      "bending spoons",
+      "alt-spooner"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9168,
+    "group_id": 14298564
+   },
+   {
+    "id": 40864325,
+    "title": "\u2018What we have refused to do\u2019: Zoho\u2019s Sridhar Vembu responds to rival\u2019s layoffs",
+    "url": "https://www.storyboard18.com/brand-marketing/what-we-have-refused-to-do-zohos-sridhar-vembu-responds-to-rivals-layoffs-112629.htm",
+    "publisher": "Storyboard18",
+    "published_date": "2026-10-15T10:31:02",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0249,
+    "ai_summary": "Zoho founder Sridhar Vembu defended the company's decision to retain and retrain employees rather than cut jobs, responding to Airtable's layoffs. He said AI productivity enables smaller teams, and Zoho will withhold salary increases this year due to rising data centre and AI costs.",
+    "word_count": 406,
+    "author": "October",
+    "countries": [],
+    "industries": [
+     {
+      "name": "People Analytics & Workforce Planning",
+      "code": "BPACAPAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     },
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20000534",
+      "name": "job layoffs"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sridhar vembu",
+      "federico simionato"
+     ],
+     "location": [],
+     "product": [
+      "omni",
+      "airtable canvas",
+      "x"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14056026
+   },
+   {
+    "id": 40756456,
+    "title": "Zoho's Sridhar Vembu says won\u2019t follow SaaS layoff route: 'We retrain people'- Moneycontrol.com",
+    "url": "https://www.moneycontrol.com/artificial-intelligence/zoho-s-sridhar-vembu-says-won-t-follow-saas-layoff-route-we-retrain-people-article-14052730.html",
+    "publisher": "Business News Today",
+    "published_date": "2026-10-15T06:02:46",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0526,
+    "ai_summary": "Zoho founder Sridhar Vembu said the company will not follow SaaS layoffs, instead retraining employees. He cited rising AI and data center costs, and Zoho has paused salary hikes and cut marketing spend. He expects to see results by 2030.",
+    "word_count": 401,
+    "author": "Moneycontrol News",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Digital Outplacement Platforms & Virtual Career Transition",
+      "code": "BPACAOAL",
+      "is_primary": true
+     },
+     {
+      "name": "AI Compute Cloud & GPU-as-a-Service",
+      "code": "HDAAAAAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     },
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": false
+     },
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sridhar vembu"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14056026
+   },
+   {
+    "id": 40747384,
+    "title": "Zoho founder Sridhar Vembu responds to layoff post from top exec of rival software company BendingSpoons; says Zoho has refused to do this, 'and we will see in ...'",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-responds-to-layoff-post-from-top-exec-of-rival-software-company-bendingspoons-says-zoho-has-refused-to-do-this-and-we-will-see-in-/articleshow/134957471.cms",
+    "publisher": "The Times of India",
+    "published_date": "2026-10-15T04:37:32",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0871,
+    "ai_summary": "Zoho founder Sridhar Vembu responded to Airtable's layoffs, saying Zoho has refused to cut jobs despite AI-driven productivity gains. He said employees are retrained for new products, though data center and AI costs pressure Zoho. He challenged the industry's approach, saying the outcome will be clearer by 2030.",
+    "word_count": 566,
+    "author": "TOI Tech Desk",
+    "countries": [],
+    "industries": [
+     {
+      "name": "People Analytics & Workforce Planning",
+      "code": "BPACAPAK",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     },
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "sridhar vembu",
+      "federico simionato"
+     ],
+     "location": [],
+     "product": [
+      "omni",
+      "airtable canvas"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9895,
+    "group_id": 14056026
+   },
+   {
+    "id": 40700004,
+    "title": "California tech giant plots massive layoffs as industry sheds 14,000 jobs",
+    "url": "https://nypost.com/2026/10/14/business/california-tech-giant-to-cut-large-part-of-workforce-as-industry-sheds-14000-jobs/",
+    "publisher": "New York Post",
+    "published_date": "2026-10-14T17:41:53",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0208,
+    "ai_summary": "Bending Spoons, owner of Airtable, announced layoffs, citing a belief that small teams ship better. The company acquired Airtable for $1.28 billion in August, and the exact number of workers affected was not disclosed. The cuts follow industry-wide layoffs, with Bay Area tech cuts exceeding 14,000 in 2026.",
+    "word_count": 437,
+    "author": "Titus Wu",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20000534",
+      "name": "job layoffs"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "federico simionato"
+     ],
+     "location": [
+      "pleasanton",
+      "california",
+      "san francisco",
+      "silicon valley",
+      "bay area"
+     ],
+     "product": [
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9543,
+    "group_id": 14068463
+   },
+   {
+    "id": 40688926,
+    "title": "Bending Spoons stock gets Berkshire backing, Mizuho holds target",
+    "url": "https://in.investing.com/news/stock-market-news/bending-spoons-stock-gets-berkshire-backing-mizuho-holds-target-93CH-5633460",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-14T15:34:08",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Berkshire Hathaway invested $930 million in Bending Spoons, acquiring about 4% ownership. Mizuho reiterated an Outperform rating with a $72 price target, while BofA lowered its target to $36. The company plans to raise $1 billion for its Miro acquisition, aiming for $4 billion pro forma revenue by 2026.",
+    "word_count": 419,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004l3l",
+      "name": "Mizuho Securities",
+      "website": "http://www.mizuho-sc.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008fs",
+      "name": "Moody's",
+      "website": "https://www.moodys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e4r",
+      "name": "StoneX",
+      "website": "https://www.stonex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000478u",
+      "name": "BofA Securities",
+      "website": "http://www.bofaml.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "lloyd walmsley"
+     ],
+     "location": [],
+     "product": [
+      "bending spoons",
+      "muse",
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40596263,
+    "title": "S.F. software company was sold for $1.3 billion. Now it's cutting \u2018large portion' of its workers",
+    "url": "https://www.yahoo.com/news/articles/f-software-company-sold-1-212904697.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-13T21:29:04",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0188,
+    "ai_summary": "Airtable is laying off a large portion of its pre-acquisition workforce, weeks after Bending Spoons bought it for $1.3 billion. The cuts follow a reorganization into smaller teams, with no change to customer plans or prices. The company plans AI upgrades and new product features.",
+    "word_count": 449,
+    "author": "Aidin Vaziri",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Integration-Centric Low-Code (Workflow + iPaaS)",
+      "code": "HDAEAKAC",
+      "is_primary": true
+     },
+     {
+      "name": "AutoML & Low-Code ML Platform Operations",
+      "code": "HDAAABAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "alessandro savarese",
+      "akshar patel"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "omni",
+      "airtable canvas"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14068463
+   },
+   {
+    "id": 40590601,
+    "title": "Airtable announces big layoffs after Bending Spoons acquisition",
+    "url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/13/airtable-bending-spoons-layoffs-acquisition.html?ana=brss_6222",
+    "publisher": "American City Business Journals",
+    "published_date": "2026-10-13T19:06:57",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0556,
+    "ai_summary": "Airtable announced layoffs following its acquisition of Bending Spoons, with staff informed Monday they would leave by week's end. The cuts mirror the Italian company's pattern at Eventbrite and AOL.",
+    "word_count": 66,
+    "author": "Josh Marcus",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise PaaS (App Runtime & Managed Application Platforms)",
+      "code": "HDAEAKAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "italian"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14068463
+   },
+   {
+    "id": 40584947,
+    "title": "Airtable layoffs: Bending Spoons cuts large part of team after $1.28bn acquisition deal",
+    "url": "https://www.financialexpress.com/world-news/us-news/airtable-layoffs-bending-spoons-cuts-large-part-of-team-after-1-28bn-acquisition-deal/4360575/",
+    "publisher": "Financial Express",
+    "published_date": "2026-10-13T17:00:57",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.3712,
+    "ai_summary": "Bending Spoons laid off a large part of the Airtable team, citing a belief that smaller teams ship faster. The company agreed to acquire Airtable for $1.285 billion in enterprise value, with Airtable reporting $480 million in annual recurring revenue as of June 2026.",
+    "word_count": 834,
+    "author": "Anjana PV",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Data App Builders (Forms, Portals & Internal Tools)",
+      "code": "HDAEAKAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "federico simionato",
+      "howie liu",
+      "luca ferrari"
+     ],
+     "location": [],
+     "product": [
+      "omni",
+      "airtable",
+      "airtable canvas",
+      "vimeo",
+      "harvest",
+      "wetransfer",
+      "remini",
+      "aol",
+      "komoot",
+      "streamyard",
+      "evernote",
+      "eventbrite",
+      "brightcove"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14068463
+   },
+   {
+    "id": 40514342,
+    "title": "Month after acquiring Airtable for $1.28 billion, Bending Spoons lays off large part of company - CNBC TV18",
+    "url": "https://www.cnbctv18.com/business/companies/month-after-acquiring-airtable-for-1-28-billion-bending-spoons-lays-off-large-part-of-company-20010811.htm",
+    "publisher": "CNBCTV18",
+    "published_date": "2026-10-13T09:55:43",
+    "sentiment": "Negative",
+    "sentiment_score": 0.004,
+    "ai_summary": "Bending Spoons laid off a large portion of the Airtable team one month after acquiring the company for $1.28 billion. The cuts stem from a belief that smaller teams work faster, though the number of employees affected was not disclosed. The company plans to upgrade features and increase limits.",
+    "word_count": 670,
+    "author": "CNBCTV",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Enterprise Work Management & Collaborative Workflow Platforms",
+      "code": "HDAEAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "55",
+      "name": "Management of Companies and Enterprises"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "federico simionato",
+      "jonathan berthold",
+      "alessandro savarese"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "omni"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14068463
+   },
+   {
+    "id": 40456716,
+    "title": "Airtable's new owner is laying off a 'large part' of its team",
+    "url": "https://www.businessinsider.com/airtable-layoffs-job-cuts-bending-spoons-2026-10",
+    "publisher": "Business Insider",
+    "published_date": "2026-10-12T21:10:16",
+    "sentiment": "Negative",
+    "sentiment_score": 0.2216,
+    "ai_summary": "Bending Spoons, Airtable's new owner, announced layoffs of a large part of the company's team to reshape it around smaller teams and AI features. The cuts follow the $1.28 billion acquisition in August, with employees leaving by the end of the week on substantial separation packages.",
+    "word_count": 256,
+    "author": "Natalie Musumeci",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20000534",
+      "name": "job layoffs"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "federico simionato",
+      "alessandro savarese",
+      "mridul singhai"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14068463
+   },
+   {
+    "id": 40218530,
+    "title": "Bending Spoons CEO Luca Ferrari hunting software deals amid AI slump",
+    "url": "https://qz.com/bending-spoons-ceo-software-acquisitions-ai-saaspocalypse-100926",
+    "publisher": "Quartz",
+    "published_date": "2026-10-09T13:00:26",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1259,
+    "ai_summary": "Bending Spoons CEO Luca Ferrari said falling software valuations create acquisition opportunities, citing AI's role in code writing and business improvements. The company closed an all-cash Airtable deal at $1.285 billion and agreed to buy Miro at $1.36 billion. Ferrari noted AI covers at least 90% of the company's code writing.",
+    "word_count": 351,
+    "author": "",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     },
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "5734",
+      "name": "RETAIL-COMPUTER & COMPUTER SOFTWARE STORES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "luca ferrari"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13775883
+   },
+   {
+    "id": 39246509,
+    "title": "ChatGPT \u8d26\u53f7\u53ef\u4e00\u952e\u767b\u5f55\u5176\u4ed6\u7f51\u7ad9\uff0cNotion / GitLab \u7387\u5148\u63a5\u5165- DoNews",
+    "url": "https://www.donews.com/news/detail/1/6727939.html",
+    "publisher": "DoNews",
+    "published_date": "2026-09-29T23:27:12",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9729,
+    "ai_summary": "OpenAI launched Sign in with ChatGPT at its 2026 Developer Day, letting users log into external apps with their ChatGPT account. The feature is open to all verified users, sharing only name, email, and profile picture, and is rolling out to partners including Notion, GitLab, and Airtable.",
+    "word_count": 26,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Developer Tooling & SDK Platforms",
+      "code": "BPAMAOAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000045",
+      "name": "GitLab",
+      "website": "http://about.gitlab.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002sr",
+      "name": "Supabase",
+      "website": "https://supabase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "609",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "518210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "chatgpt"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8377,
+    "group_id": 12876601
+   },
+   {
+    "id": 39192254,
+    "title": "Stock Market News - Investing.com Canada",
+    "url": "https://ca.investing.com/news/stock-market-news/bofa-cuts-bending-spoons-stock-price-target-on-valuation-concerns-93CH-4857416",
+    "publisher": "Investing.com",
+    "published_date": "2026-09-29T10:35:17",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1623,
+    "ai_summary": "BofA Securities lowered its price target on Bending Spoons to $36 from $39, citing AI risk and high leverage. The stock trades at $33.56 with a P/E of 197.5, and the company plans a $1 billion term loan to fund its Miro acquisition.",
+    "word_count": 456,
+    "author": "",
+    "countries": [
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     },
+     {
+      "name": "Technology, Software & IT Services",
+      "code": "FSABACAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004l3l",
+      "name": "Mizuho Securities",
+      "website": "http://www.mizuho-sc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e4r",
+      "name": "StoneX",
+      "website": "https://www.stonex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008fs",
+      "name": "Moody's",
+      "website": "https://www.moodys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003z4e1",
+      "name": "Bernstein",
+      "website": "https://bernsteinsg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000478u",
+      "name": "BofA Securities",
+      "website": "http://www.bofaml.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000382",
+      "name": "prices"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "canada"
+     ],
+     "product": [
+      "bending spoons",
+      "miro",
+      "airtable",
+      "muse"
+     ],
+     "event": [
+      "jackson hole speech"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12447225
+   },
+   {
+    "id": 39667099,
+    "title": "OpenAI\u63a8\u51fa\u2018\u4f7f\u7528ChatGPT\u767b\u5f55\u2019\u529f\u80fd- DoNews\u5feb\u8baf",
+    "url": "https://www.donews.com/news/detail/8/6727862.html",
+    "publisher": "DoNews",
+    "published_date": "2026-09-29T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "OpenAI launched a ChatGPT login feature at its 2026 Developer Day, allowing authenticated users to sign into partner apps like Airtable, GitLab, and Notion. The feature shares only name, email, and avatar, excluding conversation history and billing data. It is available on OpenAI Academy and the ChatGPT website, with enterprise adoption subject to admin policies.",
+    "word_count": 2,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000045",
+      "name": "GitLab",
+      "website": "http://about.gitlab.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002sr",
+      "name": "Supabase",
+      "website": "https://supabase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "518210",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.7943,
+    "group_id": 12876601
+   },
+   {
+    "id": 38849949,
+    "title": "Google Gemini gets new connected apps: Airtable, Adobe, Peloton added - CNBC TV18",
+    "url": "https://www.cnbctv18.com/technology/google-gemini-gets-new-connected-apps-airtable-adobe-peloton-added-19997662.htm",
+    "publisher": "CNBCTV18",
+    "published_date": "2026-09-24T19:26:09",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google announced on September 23 that Gemini now supports connected apps from Airtable, Adobe, Peloton, and others. The additions let users access third-party services directly in Gemini conversations, covering productivity, creativity, and lifestyle categories.",
+    "word_count": 453,
+    "author": "CNBCTV",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sudarsanan mani"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "linear",
+      "zoho",
+      "gemini",
+      "picsart",
+      "webflow",
+      "pandadoc",
+      "peloton",
+      "adobe",
+      "wispr ai",
+      "squarespace",
+      "monday.com",
+      "experian",
+      "apartments.com",
+      "seatgeek"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9155,
+    "group_id": 12219351
+   },
+   {
+    "id": 38800723,
+    "title": "Gemini\u2019s latest upgrade makes it much more useful at work",
+    "url": "https://www.androidpolice.com/gemini-latest-upgrade-makes-it-much-more-useful-at-work/",
+    "publisher": "Android Police",
+    "published_date": "2026-09-24T04:29:36",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google expanded Gemini's third-party app integrations, adding Airtable, Linear, Adobe, and others. The integrations let users pull data directly into Gemini, but the author argues that opening Model Context Protocol (MCP) support would be more scalable. Google's current MCP access is limited to eligible US personal accounts.",
+    "word_count": 386,
+    "author": "Rajesh Pandey",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": false
+     },
+     {
+      "name": "System Integration & Connectors",
+      "code": "BPAMAOAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "518210",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "picsart",
+      "airtable",
+      "gemini",
+      "pandadoc",
+      "claude",
+      "linear",
+      "chatgpt",
+      "squarespace",
+      "zoho",
+      "wispr ai",
+      "granola",
+      "seatgeek",
+      "ticketmaster",
+      "webflow",
+      "experian",
+      "peloton",
+      "wix",
+      "adobe",
+      "apartments.com",
+      "otter.ai",
+      "wispr flow",
+      "notetaker",
+      "monday.com",
+      "ai assistant"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8398,
+    "group_id": 12281856
+   },
+   {
+    "id": 38805717,
+    "title": "Gemini Adds Adobe, Peloton to Connected Apps Ecosystem",
+    "url": "https://blockchain.news/news/gemini-connected-apps-update-2026",
+    "publisher": "Blockchain News",
+    "published_date": "2026-09-24T01:20:18",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google's Gemini app expanded its Connected Apps feature on September 23, 2026, adding Adobe, Airtable, Linear, and Peloton. The integrations span productivity, creativity, and lifestyle, letting users manage tasks without switching apps. Google says users retain control over connections, though disconnecting only stops data flow.",
+    "word_count": 368,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Data/Apps Connectivity & Adapters (Connectors, Drivers, SDKs)",
+      "code": "HDAEAIAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fg1",
+      "name": "Peloton",
+      "website": "http://www.onepeloton.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004abj",
+      "name": "Apartments.com",
+      "website": "https://www.apartments.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ne",
+      "name": "SeatGeek",
+      "website": "https://seatgeek.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "628",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "felix pinkston"
+     ],
+     "location": [],
+     "product": [
+      "peloton",
+      "airtable",
+      "linear",
+      "gemini",
+      "adobe",
+      "picsart",
+      "gmail",
+      "apartments.com",
+      "drive",
+      "monday.com",
+      "squarespace",
+      "seatgeek",
+      "google workspace tools"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9795,
+    "group_id": 12219351
+   },
+   {
+    "id": 38790945,
+    "title": "Gemini\u3001\u5916\u90e8\u30a2\u30d7\u30ea\u9023\u643a\u300cConnected Apps\u300d\u3092\u62e1\u5145\u2014\u2014Adobe\u3001Airtable\u3001Peloton\u306a\u306914\u30b5\u30fc\u30d3\u30b9\u3092\u8ffd\u52a0",
+    "url": "https://thebridge.jp/2026/09/gemini-connected-apps-adobe-airtable-peloton",
+    "publisher": "Thebridge",
+    "published_date": "2026-09-24T00:36:59",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9479,
+    "ai_summary": "Google announced on the 23rd that it is expanding Gemini's Connected Apps feature, adding 14 services including Adobe, Airtable, and Peloton. The services span productivity, creative, and lifestyle categories, and users can connect them via settings or chat. The feature is unavailable if Keep Activity is turned off.",
+    "word_count": 40,
+    "author": "BRIDGE \u7de8\u96c6\u90e8",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "gemini",
+      "airtable",
+      "pandadoc",
+      "zoho",
+      "adobe",
+      "picsart",
+      "peloton",
+      "webflow",
+      "linear",
+      "wispr ai",
+      "apartments.com",
+      "squarespace",
+      "experian",
+      "seatgeek",
+      "monday.com"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7538,
+    "group_id": 12219351
+   },
+   {
+    "id": 38789096,
+    "title": "Gemini just got a big upgrade with new connected apps for work, creativity, and life",
+    "url": "https://www.androidauthority.com/new-gemini-connected-apps-3714714/",
+    "publisher": "Android Authority",
+    "published_date": "2026-09-23T19:16:53",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google is rolling out new connected apps for Gemini, including Airtable, Adobe, Peloton, and SeatGeek, starting today. The apps span productivity, creativity, and lifestyle categories, and users can connect them via settings, @ mention, or direct chatbot requests.",
+    "word_count": 312,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "System Integration & Connectors",
+      "code": "BPAMAOAC",
+      "is_primary": false
+     },
+     {
+      "name": "Personal Care & Wellness Booking Platforms (Beauty, Fitness, Spa)",
+      "code": "BPAMAHAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fg1",
+      "name": "Peloton",
+      "website": "http://www.onepeloton.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ne",
+      "name": "SeatGeek",
+      "website": "https://seatgeek.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "ryan mcneal",
+      "shimul sood"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "adobe",
+      "picsart",
+      "peloton",
+      "seatgeek",
+      "linear",
+      "zoho",
+      "webflow",
+      "squarespace",
+      "pandadoc",
+      "monday.com",
+      "gemini",
+      "apartments.com",
+      "iheartradio",
+      "experian",
+      "ticketmaster",
+      "zocdoc",
+      "wispr ai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7673,
+    "group_id": 12219351
+   },
+   {
+    "id": 38803241,
+    "title": "Google Brings Adobe, Airtable and Peloton Connected Apps to Gemini",
+    "url": "https://www.unite.ai/google-brings-adobe-airtable-and-peloton-connected-apps-to-gemini/",
+    "publisher": "Unite.AI",
+    "published_date": "2026-09-23T16:18:01",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9967,
+    "ai_summary": "Google began rolling out third-party Connected Apps for the Gemini app on September 23, 2026, adding productivity, creativity, and lifestyle services. The additions include Airtable, Adobe, Peloton, and others, with users managing tasks through these connections. Availability varies by device, location, and account type.",
+    "word_count": 838,
+    "author": "Jonas Reeve",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonas reeve",
+      "mai lowe"
+     ],
+     "location": [
+      "230 countries"
+     ],
+     "product": [
+      "pandadoc",
+      "zoho",
+      "airtable",
+      "gemini app",
+      "canva",
+      "seatgeek",
+      "instacart",
+      "webflow",
+      "picsart",
+      "linear",
+      "peloton",
+      "experian",
+      "spotify",
+      "apartments.com",
+      "wispr ai",
+      "opentable",
+      "squarespace",
+      "youtube music",
+      "monday.com",
+      "adobe",
+      "youtube",
+      "gemini",
+      "whatsapp",
+      "google home",
+      "gmail",
+      "gemini spark",
+      "google calendar",
+      "google maps",
+      "android",
+      "google search",
+      "ios",
+      "google flights"
+     ],
+     "event": [
+      "google i/o"
+     ]
+    },
+    "newsworthiness_score": 0.8985,
+    "group_id": 12219351
+   },
+   {
+    "id": 38764585,
+    "title": "A new wave of Connected Apps is rolling out to Gemini.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+    "publisher": "blog.google",
+    "published_date": "2026-09-23T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Gemini is rolling out new app integrations across productivity, creativity, and lifestyle categories. The tools include Airtable, Linear, monday.com, Adobe, Picsart, Squarespace, and others. Users can connect them via settings or by mentioning them in chat.",
+    "word_count": 159,
+    "author": "Mai Lowe",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": false
+     },
+     {
+      "name": "Document Creation & Office Suites",
+      "code": "BPAMAMAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000co",
+      "name": "Webflow",
+      "website": "http://www.webflow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "605",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "picsart",
+      "airtable",
+      "zoho",
+      "squarespace",
+      "peloton",
+      "adobe",
+      "linear",
+      "pandadoc",
+      "wispr ai",
+      "webflow",
+      "apartments.com",
+      "monday.com",
+      "experian",
+      "gemini",
+      "seatgeek"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6568,
+    "group_id": 12219351
+   },
+   {
+    "id": 39692000,
+    "title": "ICYMI: How Bending Spoons Works",
+    "url": "https://www.sourcery.vc/p/icymi-how-bending-spoons-works",
+    "publisher": "Sourcery",
+    "published_date": "2026-09-20T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9653,
+    "ai_summary": "Bending Spoons, a tech acquisition company, has bought over 50 companies and none, with AOL, Airtable, and Vimeo among its portfolio. CEO Luca Ferrari says the company hires fewer than 300 people from 800,000 applications, focusing on smart and caring talent. The model relies on small teams and A/B testing to drive innovation.",
+    "word_count": 2277,
+    "author": "Molly O Shea",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Operator-Led / CEO-in-Residence ETA",
+      "code": "FSANALAI",
+      "is_primary": true
+     },
+     {
+      "name": "Talent Acquisition (Recruiting) & Applicant Tracking (ATS)",
+      "code": "BPACAPAD",
+      "is_primary": false
+     },
+     {
+      "name": "Traditional Search Funds (2-year model)",
+      "code": "FSANALAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00028tq",
+      "name": "Evernote",
+      "website": "http://www.evernote.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iu",
+      "name": "Vimeo",
+      "website": "https://vimeo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m9uwr",
+      "name": "remini ai",
+      "website": "https://app.remini.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000yxk",
+      "name": "Eventbrite",
+      "website": "http://www.eventbrite.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002nqk",
+      "name": "WeTransfer",
+      "website": "http://www.wetransfer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002hoq",
+      "name": "Brightcove",
+      "website": "https://www.brightcove.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "55111",
+      "name": "Management of Companies and Enterprises"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "francesco patarnello",
+      "valentina jerusalmi",
+      "luca ferrari",
+      "matteo danieli",
+      "danieli",
+      "patarnello",
+      "ferrari",
+      "lorenzo",
+      "jerusalmi",
+      "francesco mancone",
+      "molly o\u2019shea"
+     ],
+     "location": [
+      "italy",
+      "milan"
+     ],
+     "product": [
+      "airtable",
+      "wetransfer",
+      "streamyard",
+      "vimeo",
+      "harvest",
+      "remini",
+      "komoot",
+      "meetup",
+      "evernote",
+      "deel",
+      "brightcove",
+      "mosaic",
+      "bending spoons",
+      "generated assets",
+      "vcx"
+     ],
+     "event": [
+      "ipo roadshow",
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 0.9318,
+    "group_id": 11923285
+   },
+   {
+    "id": 35262774,
+    "title": "AI Won\u2019t Replace Your Team. Here\u2019s How It Will Expose Weak Hires.",
+    "url": "https://www.entrepreneur.com/building-a-business/ai-wont-replace-your-team-heres-how-it-will-expose-weak-hires",
+    "publisher": "Entrepreneur",
+    "published_date": "2026-09-16T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5206,
+    "ai_summary": "AI is shifting hiring focus from roles to capabilities, with 80% of CEOs ready to rebuild workflows. LinkedIn's report shows 70% of job skills will shift by 2030, and junior tech hiring in Europe fell 73.4% in one year. Startups should hire for ownership, critical thinking, adaptability, AI literacy, cross-functionality, and empathy.",
+    "word_count": 1135,
+    "author": "Slava Bogdan",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Workforce Analytics & HR Metrics Advisory",
+      "code": "BPACAJAK",
+      "is_primary": true
+     },
+     {
+      "name": "People Analytics & Workforce Planning",
+      "code": "BPACAPAK",
+      "is_primary": false
+     },
+     {
+      "name": "AI & Emerging Technology Literacy",
+      "code": "EDAAAIAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00vqmh9",
+      "name": "Udora",
+      "website": "https://udora.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000g8zq",
+      "name": "The Ritz-Carlton Hotel Company LLC",
+      "website": "http://www.ritzcarlton.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004yg",
+      "name": "Mastercard",
+      "website": "http://www.mastercard.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pc",
+      "name": "Carta",
+      "website": "https://carta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000022t",
+      "name": "Ford Motor",
+      "website": "https://www.ford.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20000365",
+      "name": "employment statistics"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "123",
+      "name": "Careers"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "56131",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "561312",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "howie liu",
+      "liu"
+     ],
+     "location": [
+      "europe",
+      "u.s."
+     ],
+     "product": [
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9823,
+    "group_id": 11381571
+   },
+   {
+    "id": 39688144,
+    "title": "BREAKING: Inside Bending Spoons ($BSP)",
+    "url": "https://www.sourcery.vc/p/breaking-inside-bending-spoons-bsp",
+    "publisher": "Sourcery",
+    "published_date": "2026-09-14T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons, a Milan-based acquirer, listed on Nasdaq on July 1, 2026 at $29 a share, raising about $1.68B. The company has completed over 50 acquisitions, including Airtable and AOL, and has a pipeline of roughly 1,000 targets. It recently closed Airtable and agreed to acquire Miro.",
+    "word_count": 4175,
+    "author": "Molly O Shea",
+    "countries": [
+     "ITA",
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "IPOs & Follow-on Offerings",
+      "code": "CM05",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00028tq",
+      "name": "Evernote",
+      "website": "http://www.evernote.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iu",
+      "name": "Vimeo",
+      "website": "https://vimeo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004676",
+      "name": "Meetup",
+      "website": "http://www.meetup.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000si",
+      "name": "Nasdaq",
+      "website": "https://www.nasdaq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002hoq",
+      "name": "Brightcove",
+      "website": "https://www.brightcove.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00061ve",
+      "name": "StreamYard",
+      "website": "https://streamyard.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000yxk",
+      "name": "Eventbrite",
+      "website": "http://www.eventbrite.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002nqk",
+      "name": "WeTransfer",
+      "website": "http://www.wetransfer.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007sx",
+      "name": "Tractive",
+      "website": "http://www.tractive.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "matteo danieli",
+      "valentina jerusalmi",
+      "francesco patarnello",
+      "vally",
+      "patarnello",
+      "danieli",
+      "lorenzo",
+      "laura",
+      "ferrari",
+      "jerusalmi",
+      "baillie gifford",
+      "molly o\u2019shea"
+     ],
+     "location": [
+      "italy",
+      "milan",
+      "silicon valley",
+      "london",
+      "tokyo",
+      "madrid",
+      "copenhagen",
+      "warsaw",
+      "us",
+      "times square",
+      "italian"
+     ],
+     "product": [
+      "airtable",
+      "vimeo",
+      "evernote",
+      "wetransfer",
+      "eventbrite",
+      "streamyard",
+      "meetup",
+      "miro",
+      "tractive",
+      "aol",
+      "brightcove",
+      "harvest",
+      "remini",
+      "komoot",
+      "deel",
+      "grindr",
+      "x",
+      "youtube",
+      "spotify",
+      "mosaic",
+      "news portal",
+      "bending spoons"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10950367
+   },
+   {
+    "id": 34929700,
+    "title": "One Thing Miro + Airtable Show: Getting Cash Flow Positive Isn\u2019t Magical",
+    "url": "https://www.saastr.com/one-thing-miro-airtable-show-getting-cash-flow-positive-isnt-magical/",
+    "publisher": "Saastr",
+    "published_date": "2026-09-11T14:10:28",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8268,
+    "ai_summary": "Bending Spoons acquired Miro at $1.355 billion enterprise value, closing in Q4, and Airtable at $1.285 billion five weeks earlier. Both deals included significant cash from the sellers' balance sheets, with Miro's ARR priced at 2.3x and Airtable's at 2.7x. The author argues that cash flow positive status is a milestone, not a destination, and growth rate matters more.",
+    "word_count": 2396,
+    "author": "Jason Lemkin",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Business Services (B2B) Growth Equity",
+      "code": "FSANACAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Cash Flow & Capital Expenditure",
+      "code": "FR04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "david azose",
+      "howie liu",
+      "matteo danieli",
+      "luca ferrari",
+      "saastr",
+      "jason"
+     ],
+     "location": [
+      "europe",
+      "chile",
+      "us"
+     ],
+     "product": [
+      "airtable",
+      "miro",
+      "superagent",
+      "omni",
+      "chatgpt",
+      "wetransfer",
+      "evernote",
+      "bending spoons",
+      "echosign",
+      "paypal"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34893907,
+    "title": "BSP: Bending Spoons Bought the Airtable Deal. Now It Needs $18 Billion More to Justify Its Own Stock Price.",
+    "url": "https://www.ainvest.com/news/bsp-bending-spoons-bought-airtable-deal-18-billion-justify-stock-price-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-09-11T12:46:18",
+    "sentiment": "Negative",
+    "sentiment_score": 0.4127,
+    "ai_summary": "Bending Spoons shares fell 33% from their IPO peak to about $39.70, down 19% over 20 days. Bank of America's model requires $18 billion in future acquisitions to justify the stock price, but the company has only $7 billion in debt capacity. The stock now trades near its 50-day moving average, a key support level.",
+    "word_count": 1032,
+    "author": "Ainvest Technical Radarfollow",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Equity Capital Markets Advisory (Equity Issuance Strategy & Readiness)",
+      "code": "FSACAAAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "omar dessouky"
+     ],
+     "location": [
+      "silicon valley"
+     ],
+     "product": [
+      "airtable",
+      "splice",
+      "evernote",
+      "vimeo",
+      "aol",
+      "wetransfer",
+      "remini",
+      "eventbrite",
+      "machine"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10960759
+   },
+   {
+    "id": 35082689,
+    "title": "Bending Spoons to buy visual collaboration firm Miro for $1.3bn",
+    "url": "https://www.verdict.co.uk/news/bending-spoons-miro-acquisition/",
+    "publisher": "Verdict",
+    "published_date": "2026-09-11T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Miro, a visual collaboration software firm, at an enterprise value of $1.35bn, implying an equity value of about $1.79bn. The cash deal, expected to close in Q4 2026, will see Miro's shareholders reinvest $295m into new equity. Miro has nearly 4 million paying users and $600m in annual recurring revenue.",
+    "word_count": 389,
+    "author": "Anwesha Pattanaik",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "san francisco, california"
+     ],
+     "product": [
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 35067453,
+    "title": "St\u0159et s realitou, kter\u00fd \u010dek\u00e1 \u0159adu firem. P\u0159ed \u010dty\u0159mi lety m\u011bli hodnotu 365 miliard, te\u010f se prodali za 28",
+    "url": "https://cc.cz/stret-s-realitou-ktery-ceka-radu-firem-pred-ctyrmi-lety-meli-hodnotu-365-miliard-ted-se-prodali-za-28/",
+    "publisher": "CzechCrunch",
+    "published_date": "2026-09-11T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6294,
+    "ai_summary": "Bending Spoons agreed to acquire Miro for $1.355 billion, with a final price of $1.79 billion including cash. The deal reflects a 92% valuation drop since 2021, as Miro's ARR is $600 million but it faces competition from Canva, Figma, and Microsoft.",
+    "word_count": 568,
+    "author": "Peter Brej\u010d\u00e1k",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004su1",
+      "name": "Around",
+      "website": "https://www.around.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6159",
+      "name": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "dominika zana",
+      "pavla serbajla",
+      "matta zakutneho"
+     ],
+     "location": [
+      "\u010desku"
+     ],
+     "product": [
+      "miro",
+      "airtable",
+      "bending spoons",
+      "snyk",
+      "eventbrite",
+      "aol",
+      "mira",
+      "wetransfer",
+      "vimeo",
+      "saas",
+      "evernote",
+      "luca ferrari",
+      "canva"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9788,
+    "group_id": 10798946
+   },
+   {
+    "id": 34867260,
+    "title": "Bending Spoons Buys Miro At 90% Discount As SaaS Unicorns Sell For Scraps",
+    "url": "https://www.forbes.com/sites/josipamajic/2026/09/10/bending-spoons-buys-miro-at-90-discount-as-saas-unicorns-sell-for-scraps/",
+    "publisher": "Forbes",
+    "published_date": "2026-09-10T20:50:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4687,
+    "ai_summary": "Bending Spoons agreed to buy Miro for $1.355 billion in enterprise value, roughly 2.3 times its annual recurring revenue. The deal follows Bending Spoons' acquisition of Airtable for $1.285 billion, both priced between 2.3 and 2.7 times revenue. The buyer plans to reorganize teams and cut staff, with layoffs often reaching 70% of headcount.",
+    "word_count": 856,
+    "author": "Josipa Majic Predin",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "deedy das"
+     ],
+     "location": [
+      "milan",
+      "italy",
+      "san francisco, california"
+     ],
+     "product": [
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9981,
+    "group_id": 10798946
+   },
+   {
+    "id": 34079580,
+    "title": "Bending Spoons Completes the Acquisition of Airtable",
+    "url": "https://martechseries.com/analytics/data-management-platforms/bending-spoons-completes-the-acquisition-of-airtable/",
+    "publisher": "MarTech Series",
+    "published_date": "2026-09-07T13:39:26",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons completed its acquisition of Airtable, an all-cash deal for 100% of the company. The platform is used by over 500,000 organizations. Bending Spoons expects to incorporate Airtable into its financial outlook in its next report.",
+    "word_count": 333,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Data App Builders (Forms, Portals & Internal Tools)",
+      "code": "HDAEAKAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000fyj",
+      "name": "Latham & Watkins",
+      "website": "http://www.lw.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006qr8",
+      "name": "Goldman Sachs Bank Europe",
+      "website": "",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m62en",
+      "name": "ey advisory spa",
+      "website": "https://www.ey.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003foq",
+      "name": "Willkie Farr & Gallagher LLP",
+      "website": "http://www.willkie.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0057l73",
+      "name": "AXOM Partners",
+      "website": "https://axompartners.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "howie liu",
+      "luca ferrari",
+      "mark listes"
+     ],
+     "location": [],
+     "product": [
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10431945
+   },
+   {
+    "id": 34027910,
+    "title": "Beyond the SaaSpocalypse: The Winners and Losers of 2026 (So Far)",
+    "url": "https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/",
+    "publisher": "Saastr",
+    "published_date": "2026-09-06T14:10:46",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9664,
+    "ai_summary": "SaaS stocks recovered from an AI-driven sell-off, with the iShares Expanded Tech-Software ETF up about 40% from its April low. CrowdStrike, Twilio, and Snowflake gained over 70%, while HubSpot and monday.com fell over 33%. The spread between best and worst performers is 117 points, driven by consumption vs. seat pricing and entry multiples.",
+    "word_count": 2194,
+    "author": "Jason Lemkin",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Market Indices Performance",
+      "code": "MD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e3i",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "george kurtz",
+      "yamini rangan",
+      "marc benioff",
+      "saastr"
+     ],
+     "location": [],
+     "product": [
+      "hubspot",
+      "airtable",
+      "twilio",
+      "crowdstrike",
+      "monday.com",
+      "salesforce",
+      "snowflake",
+      "falcon flex",
+      "datadog",
+      "xsw software etf",
+      "ishares expanded tech-software etf",
+      "figma",
+      "slackbot",
+      "atlassian",
+      "informatica",
+      "cloud",
+      "workday",
+      "bending spoons",
+      "zylo"
+     ],
+     "event": [
+      "labor day",
+      "2019 ipo",
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10487717
+   },
+   {
+    "id": 33962483,
+    "title": "Bending Spoons Completes Acquisition Of Airtable",
+    "url": "https://pulse2.com/bending-spoons-completes-acquisition-of-airtable/",
+    "publisher": "Pulse 2.0",
+    "published_date": "2026-09-05T13:09:25",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons completed its all-cash acquisition of Airtable, the workplace data and workflow platform, taking 100% of its shares. The deal did not disclose a purchase price, and Bending Spoons plans to invest in Airtable's product, customer support, and go-to-market capabilities. The acquisition marks Bending Spoons' first since its Nasdaq listing on July 1, 2026.",
+    "word_count": 340,
+    "author": "Amit Chowdhry",
+    "countries": [],
+    "industries": [
+     {
+      "name": "iBPMS (Intelligent BPM Suites) & Process Automation Suites",
+      "code": "HDAEAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006qr8",
+      "name": "Goldman Sachs Bank Europe",
+      "website": "",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fyj",
+      "name": "Latham & Watkins",
+      "website": "http://www.lw.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003foq",
+      "name": "Willkie Farr & Gallagher LLP",
+      "website": "http://www.willkie.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0057l73",
+      "name": "AXOM Partners",
+      "website": "https://axompartners.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "howie liu",
+      "luca ferrari"
+     ],
+     "location": [
+      "europe"
+     ],
+     "product": [
+      "airtable",
+      "wetransfer",
+      "vimeo",
+      "pulse 2.0",
+      "tractive"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10452162
+   },
+   {
+    "id": 33953788,
+    "title": "Airtable Kind of Paid for Its Own Acquisition",
+    "url": "https://www.ainvest.com/news/airtable-kind-paid-acquisition-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-09-05T08:54:51",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4885,
+    "ai_summary": "Bending Spoons completed its all-cash purchase of Airtable for $1.3 billion, but Airtable's $965 million cash offsetted the price, leaving an enterprise value of $1.285 billion. The deal represents a $9 billion markdown from Airtable's 2021 $11 billion valuation, with Bending Spoons carrying $4.4 billion in debt.",
+    "word_count": 1265,
+    "author": "Dominic Reidfollow",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dominic reid"
+     ],
+     "location": [
+      "italian",
+      "u.s."
+     ],
+     "product": [
+      "airtable",
+      "evernote",
+      "vimeo",
+      "wetransfer",
+      "brightcove",
+      "meetup",
+      "eventbrite",
+      "bending spoons",
+      "aol"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10446298
+   },
+   {
+    "id": 41608747,
+    "title": "Best Project Management Software for Creative Agencies and Teams: 8 Tools Compared (2026)",
+    "url": "https://www.krea.ai/blog/best-project-management-software-for-creative-agencies-and-teams-8-tools-compared",
+    "publisher": "Krea",
+    "published_date": "2026-09-05T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9745,
+    "ai_summary": "Eight project management tools for creative teams are compared, with pricing and features. ClickUp Business offers the lowest-priced native proofing at $12 per user monthly, while Ziflow starts at $199 per month for 15 users. Krea is recommended for teams that also generate assets.",
+    "word_count": 2695,
+    "author": "The Krea Team",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Project & Task Management",
+      "code": "BPAMAMAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000thn",
+      "name": "Ziflow",
+      "website": "https://www.ziflow.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000g84",
+      "name": "Wrike",
+      "website": "http://www.wrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007yd",
+      "name": "Krea",
+      "website": "https://www.krea.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "ziflow",
+      "clickup",
+      "asana",
+      "notion",
+      "krea",
+      "wrike",
+      "airtable",
+      "project management software",
+      "seedream 5",
+      "kling 3.0",
+      "flux",
+      "veo 3.1",
+      "seedance 2.5",
+      "nano banana 2",
+      "krea 2",
+      "pro",
+      "basic",
+      "standard",
+      "starter plan",
+      "adobe creative cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8012,
+    "group_id": 14037984
+   },
+   {
+    "id": 40422775,
+    "title": "Best Project Management Software for Creative Agencies and Teams: 8 Tools Compared (2026)",
+    "url": "https://www.krea.ai/blog/best-project-management-software-for-creative-agencies-and-teams-8-tools-compared",
+    "publisher": "Krea",
+    "published_date": "2026-09-05T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Eight project management tools for creative agencies are compared, with pricing and features. ClickUp Business offers the lowest-priced native proofing at $12 per user monthly, while Ziflow starts at $199 per month for 15 users. The article advises choosing based on approval volume and asset workflow.",
+    "word_count": 3027,
+    "author": "The Krea Team",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Project & Task Management",
+      "code": "BPAMAMAF",
+      "is_primary": true
+     },
+     {
+      "name": "Remote Review, Approval & Dailies (screening, annotations, version compare)",
+      "code": "MPAHANAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000thn",
+      "name": "Ziflow",
+      "website": "https://www.ziflow.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000g84",
+      "name": "Wrike",
+      "website": "http://www.wrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007yd",
+      "name": "Krea",
+      "website": "https://www.krea.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "ziflow",
+      "asana",
+      "clickup",
+      "notion",
+      "krea",
+      "wrike business",
+      "project management software",
+      "wrike",
+      "seedream 5",
+      "kling 3.0",
+      "flux",
+      "veo 3.1",
+      "airtable",
+      "seedance 2.5",
+      "nano banana 2",
+      "pro",
+      "adobe creative cloud",
+      "clickup business"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8033,
+    "group_id": 14037984
+   },
+   {
+    "id": 33936728,
+    "title": "BSP Plunges 5.76% on Valuation Shock: The Airtable Acquisition Gamble Hits a Speed Bump",
+    "url": "https://www.ainvest.com/news/american-strategic-income-portfolio-ii-bsp-plunges-5-56-sudden-shockwave-asset-management-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-09-04T19:31:54",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0059,
+    "ai_summary": "BSP shares fell 5.76% to $39.29, with a trailing P/E of 1042.25x and a GF Score of 19/100. The Airtable acquisition failed to offset the extreme valuation, and Microsoft's decline added sector pressure. Investors are advised to wait for a reversal above $40.80 or a breakdown below $39.10.",
+    "word_count": 1167,
+    "author": "Tickersnipe Provides Professional Intraday Stock Analysis Using Technical Tools To Help You Understand Market Trends",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "53",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "aime"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "msft",
+      "airtable",
+      "bsp",
+      "bsp20261016p30",
+      "bsp20261016c55"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10435067
+   },
+   {
+    "id": 33927073,
+    "title": "Bending Spoons S.p.A. completed the acquisition of Formagrid, Inc.",
+    "url": "https://www.marketscreener.com/news/bending-spoons-s-p-a-completed-the-acquisition-of-formagrid-inc-ce785bdbd988f62c",
+    "publisher": "MarketScreener",
+    "published_date": "2026-09-04T15:50:49",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons S.p.A. completed the acquisition of Formagrid, Inc. on September 4, 2026, for $2.3 billion. The deal includes an all-cash purchase of Airtable valued at $1.285 billion enterprise value, with closing expected later this year.",
+    "word_count": 296,
+    "author": "S P Capital Iq",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000fyj",
+      "name": "Latham & Watkins",
+      "website": "http://www.lw.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006qr8",
+      "name": "Goldman Sachs Bank Europe",
+      "website": "",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m62en",
+      "name": "ey advisory spa",
+      "website": "https://www.ey.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003foq",
+      "name": "Willkie Farr & Gallagher LLP",
+      "website": "http://www.willkie.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0057l73",
+      "name": "AXOM Partners",
+      "website": "https://axompartners.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sean parish",
+      "thomas mark",
+      "rick kline",
+      "ian nussbaum",
+      "philipp studt",
+      "john mcgaraghan",
+      "eugene chang",
+      "james metz",
+      "katherine rocco",
+      "emily johnson",
+      "sarah axtell",
+      "kevin chambers",
+      "anna martini g. pereira",
+      "ruchi gill",
+      "jennifer howes",
+      "paul rosen",
+      "anthemis economou",
+      "scott thompson",
+      "nineveh alkhas",
+      "katharine moir",
+      "isaac silverstein",
+      "usman arain"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "marketscreener"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10425524
+   },
+   {
+    "id": 33900176,
+    "title": "The Airtable deal has two price tags \u2014 and the billion-dollar gap is the story",
+    "url": "https://www.ainvest.com/news/airtable-deal-price-tags-billion-dollar-gap-story-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-09-04T13:21:45",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5252,
+    "ai_summary": "Bending Spoons agreed to buy Airtable for an enterprise value of $1.285 billion, but the equity value is about $2.25 billion after adding Airtable's $965 million in net cash. The deal is priced at 2.7 times Airtable's $480 million annual recurring revenue, a discount from its 2021 valuation. The outcome depends on whether Airtable maintains its 20% growth.",
+    "word_count": 811,
+    "author": "Dominic Reidfollow",
+    "countries": [],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     },
+     {
+      "name": "Business Valuation (Private Company & Enterprise)",
+      "code": "FSAEAHAA",
+      "is_primary": false
+     },
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "551",
+      "name": "Management of Companies and Enterprises"
+     },
+     {
+      "code": "5511",
+      "name": "Management of Companies and Enterprises"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "airtable",
+      "evernote",
+      "wetransfer",
+      "komoot",
+      "meetup",
+      "vimeo",
+      "brightcove",
+      "aol"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9972,
+    "group_id": 10396806
+   },
+   {
+    "id": 33910042,
+    "title": "Bending Spoons completes the acquisition of Airtable",
+    "url": "https://www.gurufocus.com/news/9068443/bending-spoons-completes-the-acquisition-of-airtable",
+    "publisher": "Gurufocus",
+    "published_date": "2026-09-04T13:00:08",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons completed its acquisition of Airtable, an all-cash deal for 100% of the company's shares. The deal marks Bending Spoons' first acquisition since its Nasdaq listing on July 1, 2026. Bending Spoons expects to incorporate Airtable into its financial outlook when it next reports results.",
+    "word_count": 789,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Database-as-a-Service (DBaaS) Platforms",
+      "code": "HDAEAAAN",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "howie liu",
+      "luca ferrari"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "wetransfer",
+      "vimeo",
+      "tractive",
+      "evernote",
+      "aol",
+      "eventbrite",
+      "brightcove",
+      "bending spoons"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10402883
+   },
+   {
+    "id": 33931956,
+    "title": "Bending Spoons completes the acquisition of Airtable",
+    "url": "https://www.businesswire.com/news/home/20260904994587/en/Bending-Spoons-completes-the-acquisition-of-Airtable",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-09-04T12:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons completed its all-cash acquisition of Airtable, the platform used by over 500,000 organizations. The deal marks Bending Spoons' first acquisition since its Nasdaq listing on July 1, 2026, and the company expects to incorporate Airtable into its financial outlook when it next reports results.",
+    "word_count": 785,
+    "author": "",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "howie liu",
+      "luca ferrari"
+     ],
+     "location": [
+      "milan"
+     ],
+     "product": [
+      "airtable",
+      "wetransfer",
+      "vimeo",
+      "tractive",
+      "evernote",
+      "aol",
+      "eventbrite",
+      "brightcove"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10431945
+   },
+   {
+    "id": 33894609,
+    "title": "Bending Spoons Completes Airtable Acquisition",
+    "url": "https://www.stocktitan.net/news/BSP/bending-spoons-completes-the-acquisition-of-s9a0tyer611r.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-09-04T12:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons completed its acquisition of Airtable, an all-cash deal for 100% of the company. The acquisition adds Airtable's user base to Bending Spoons' portfolio, and the company expects to incorporate Airtable into its financial outlook in future results.",
+    "word_count": 832,
+    "author": "Stock Titan",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Data App Builders (Forms, Portals & Internal Tools)",
+      "code": "HDAEAKAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "howie liu",
+      "luca ferrari"
+     ],
+     "location": [
+      "milan"
+     ],
+     "product": [
+      "airtable",
+      "wetransfer",
+      "vimeo",
+      "tractive",
+      "evernote",
+      "aol",
+      "eventbrite",
+      "brightcove",
+      "bending spoons"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10394024
+   },
+   {
+    "id": 33445831,
+    "title": "Airtable Introduces Newly Redesigned iOS App to Make Database Creation Available to Anyone With an iPhone",
+    "url": "http://www.acnnewswire.com/press-release/japanese/27044/airtable-introduces-newly-redesigned-ios-app-to-make-database-creation-available-to-anyone-with-an-iphone",
+    "publisher": "ACN Newswire",
+    "published_date": "2026-09-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Airtable announced its redesigned iOS app, version 2.0, which lets anyone build a database-powered app directly from a phone. The app requires no technical skills or desktop intervention, and the company has raised over $10 million in funding.",
+    "word_count": 355,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Integration-Centric Low-Code (Workflow + iPaaS)",
+      "code": "HDAEAKAC",
+      "is_primary": true
+     },
+     {
+      "name": "Multi-Model Databases",
+      "code": "HDAEAAAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     },
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "611",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "michael birch",
+      "joshua reeves",
+      "othman laraki",
+      "aaron harris",
+      "kevin mahaffey",
+      "eric wu",
+      "ben ling",
+      "andrew ofstad",
+      "howie liu",
+      "villi iltchev",
+      "ashton kutcher",
+      "michelle faulkner",
+      "zoelle egner",
+      "brennan o'donnell"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "iphone",
+      "ios app",
+      "ios application",
+      "airtable",
+      "mobile phone"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9897,
+    "group_id": 10026914
+   },
+   {
+    "id": 33445149,
+    "title": "Low-Code Giant Airtable Gets Another $735M, Hits $11B Valuation",
+    "url": "http://ow.ly/1Zfe50H9Ws4",
+    "publisher": "Ow.ly Link Shortener",
+    "published_date": "2026-08-31T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Airtable raised $735 million in funding, bringing its pre-money valuation to $11 billion. The round was led by XN, and the company will use the funds to invest in product development and scale its team and infrastructure. It is also hiring nearly 100 tech positions.",
+    "word_count": 404,
+    "author": "Ellen Glover",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Video Conferencing & Webinars",
+      "code": "BPAMAMAB",
+      "is_primary": true
+     },
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": false
+     },
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002roi",
+      "name": "XN",
+      "website": "https://www.xnventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "howie liu",
+      "gaurav kapadia"
+     ],
+     "location": [
+      "austin",
+      "bay area",
+      "sf"
+     ],
+     "product": [
+      "airtable",
+      "bubble",
+      "netflix",
+      "unqork"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10025974
+   },
+   {
+    "id": 33444273,
+    "title": "Bending Spoons: Growth Depends on the Next Deal and the Next Refinancing",
+    "url": "https://www.ainvest.com/news/bending-spoons-growth-depends-deal-refinancing-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-08-31T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8074,
+    "ai_summary": "Bending Spoons went public in July at $29 a share, closing up 39.7% on day one. Its interest expense jumped to $93.2 million in Q1 2026, nearly two-thirds of the prior year's $142.6 million, while adjusted net income was $375.6 million. The company's growth depends on deal flow, retention, and refinancing terms.",
+    "word_count": 970,
+    "author": "Interactive Market Research Teamfollow",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Equity Underwriting & Stabilization (Greenshoe/Price Support)",
+      "code": "FSACAAAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000qcsq",
+      "name": "SACE",
+      "website": "https://www.sace.it",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007bn",
+      "name": "Silver Point Capital, L.P.",
+      "website": "http://www.silverpointcapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000062",
+      "name": "HSBC",
+      "website": "http://www.hsbc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000179",
+      "name": "earnings forecast"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "vimeo",
+      "aol",
+      "eventbrite",
+      "evernote",
+      "airtable",
+      "bending spoons"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 0.9913,
+    "group_id": 10024616
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

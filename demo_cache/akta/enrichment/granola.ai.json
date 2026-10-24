@@ -1,0 +1,595 @@
+{
+ "fetched_at": "2026-10-24T11:46:38",
+ "params": {
+  "company": "granola.ai",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "000024b",
+   "firmographic": {
+    "name": "Granola",
+    "legal_name": "Granola, Inc.",
+    "website": "granola.ai",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2023,
+    "company_description": "Granola is an AI-powered notepad application founded in 2023 and headquartered in London, designed to transcribe, summarize, and organize conversations into structured notes. The product differentiates itself through a \"botless\" meeting transcription approach that captures computer audio locally rather than joining meetings as a participant, addressing privacy concerns, eliminating the awkwardness of additional meeting attendees, and reducing \"bot fatigue\" in customer interactions.\n\nThe platform integrates with multiple foundation models\u2014Claude, GPT, and Gemini\u2014to power its Granola Chat feature, which combines real-time work context with AI capabilities. Granola offers tiered SaaS pricing from a free Basic plan to a Business plan at $14/user/month and an Enterprise plan at $35/user/month, suggesting a B2B go-to-market targeting both individual professionals and larger organizations. Product features include Spaces for team organization, Recipes for customizable prompt shortcuts, Briefs for pre-meeting preparation, and a Granola MCP Connector for integration with downstream workflows.\n\nThe available source material is limited and does not include specific revenue figures, funding history, customer counts, growth metrics, or detailed financial information. References to other technology companies (Vanta, Cursor, Linear, Intercom, Replit) appear in what is described as a \"logo wall\" but specific customer relationships, revenue contributions, and market positioning cannot be definitively assessed. Based on the 2023 founding year and 11-50 employee count, Granola appears to be an early-stage startup, and most requested analytical dimensions cannot be reliably determined from the available evidence.",
+    "company_description_short": "Granola is a London-based AI notepad, founded in 2023, that transcribes, summarizes, and organizes conversations into structured notes through a botless architecture integrating Claude, GPT, and Gemini foundation models.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "11-50",
+    "logo_url": "https://files.akta.pro/logos/00/00/24/8f97ea0f-d629-5e48-b3bf-60f359e9b954.png",
+    "akta_rank": 31264
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "pre_revenue",
+     "label": "Pre-revenue"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Series C valuation in March 2026, a sixfold increase from the $250M valuation in May 2025",
+      "source": [
+       "https://pulse2.com/granola-125-million-at-1-5-billion-valuation-raised-for-ai-meeting-context-platform/"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$1.5B"
+     },
+     {
+      "description": "Series C funding raised in March 2026 led by Index Ventures with participation from Kleiner Perkins, Lightspeed, Spark, and NFDG",
+      "source": [
+       "https://pulse2.com/granola-125-million-at-1-5-billion-valuation-raised-for-ai-meeting-context-platform/"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$125M"
+     },
+     {
+      "description": "Approximate total funding raised across Series A ($20M in Oct 2024), Series B ($43M in May 2025), and Series C ($125M in March 2026) since the 2023 launch",
+      "source": [
+       "https://tech.eu/2026/03/25/granola-raises-125m-at-1-5bn-valuation"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "~$188M"
+     },
+     {
+      "description": "Revenue grew 250% in the quarter leading up to the Series C announcement",
+      "source": [
+       "https://siliconangle.com/2026/03/25/granola-raises-125m-1-5b-valuation-ai-note-taking-app/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "250%"
+     },
+     {
+      "description": "Revenue grew 2.5x since January 2026, as reported around the Series C announcement",
+      "source": [
+       "https://economictimes.indiatimes.com/tech/funding/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding/articleshow/129803368.cms"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "2.5x"
+     },
+     {
+      "description": "Hours saved annually per user at Vanta, according to the enterprise page",
+      "source": [
+       "https://www.granola.ai/enterprise"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "260+ hours"
+     },
+     {
+      "description": "Enterprise-wide adoption rate of Granola within 6 months of rollout, per Granola's enterprise page",
+      "source": [
+       "https://www.granola.ai/enterprise"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "69%"
+     },
+     {
+      "description": "Increase in meeting visibility with Granola reported on the enterprise page",
+      "source": [
+       "https://www.granola.ai/enterprise"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "61%"
+     },
+     {
+      "description": "Weekly users grew 6x since Granola launched in May 2024, with half of users still active after 10 weeks (Series A blog post)",
+      "source": [
+       "https://www.granola.ai/blog/series-a"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "6x"
+     },
+     {
+      "description": "CEO Chris Pedregal has framed current AI interfaces as still in an early 'lever era' before a broader paradigm shift, situating Granola in a large emerging AI productivity market (Fast Company profile)",
+      "source": [
+       "https://www.fastcompany.com/91497900/granola-chris-pedregal-interview"
+      ],
+      "type": {
+       "code": "market_size",
+       "label": "Market Size"
+      },
+      "value": "~$100B"
+     },
+     {
+      "description": "Plans to use Series C funding to expand user base globally, including beyond initial UK base in London",
+      "source": [
+       "https://www.bwdisrupt.com/article/ai-notetaker-granola-hits-1-5-bn-valuation-with-125-mn-funding-new-599311"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "Global"
+     },
+     {
+      "description": "Headcount of about 55 employees as of March 2026, growing from 35 in February 2025 and 4 in early 2024",
+      "source": [
+       "https://economictimes.indiatimes.com/tech/funding/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding/articleshow/129803368.cms"
+      ],
+      "type": {
+       "code": "headcount",
+       "label": "Headcount"
+      },
+      "value": "~55"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Anthropic's Claude is one of the AI models powering Granola Chat in Spaces. Granola is an official connector in Claude and Claude Code, and Anthropic is a launch partner for MCP Enterprise-Managed Authorization (EMA), supporting zero-touch SSO via ID-JAG for enterprise customers.",
+      "name": "Anthropic (Claude)",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Flagship Ai Model Partner",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "announced_on": {
+       "month": 3,
+       "year": 2026
+      },
+      "description": "OpenAI's GPT powers Granola Chat in Spaces alongside Claude and Gemini. Granola is an official connector in ChatGPT, and OpenAI is one of Granola's underlying AI providers for summarization (with Anthropic).",
+      "name": "OpenAI (ChatGPT)",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Flagship Ai Model Partner",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "announced_on": {
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Google's Gemini is one of the AI models powering Granola Chat in Spaces alongside Claude and GPT. Granola also integrates with Google Workspace login and Google Calendar.",
+      "name": "Google (Gemini)",
+      "source": [
+       "https://www.granola.ai/chat"
+      ],
+      "strategic_tier": "Flagship Ai Model Partner",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000r9"
+     },
+     {
+      "description": "Deepgram is one of Granola's 'best-in-class' transcription providers listed on Granola's security page, used to power real-time and after-meeting meeting transcription.",
+      "name": "Deepgram",
+      "source": [
+       "https://www.granola.ai/security"
+      ],
+      "strategic_tier": "Core Infrastructure Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000s2"
+     },
+     {
+      "description": "Assembly AI is one of Granola's 'best-in-class' transcription providers listed on Granola's security page, used alongside Deepgram to transcribe meeting audio.",
+      "name": "Assembly AI",
+      "source": [
+       "https://www.granola.ai/security"
+      ],
+      "strategic_tier": "Core Infrastructure Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0002jkp"
+     },
+     {
+      "description": "Granola stores user notes in its US-hosted AWS Virtual Private Cloud. Notes are encrypted at rest and in transit, backed up daily, and managed within industry-standard encrypted infrastructure.",
+      "name": "Amazon Web Services (AWS)",
+      "source": [
+       "https://www.granola.ai/security"
+      ],
+      "strategic_tier": "Core Infrastructure Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00008qf"
+     },
+     {
+      "description": "Granola contributes 1.5% of every subscription to remove CO2 from the atmosphere through Stripe Climate, as disclosed on the pricing page.",
+      "name": "Stripe Climate",
+      "source": [
+       "https://www.granola.ai/pricing"
+      ],
+      "strategic_tier": "Minor Sustainability Partner",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "announced_on": {
+       "month": 5,
+       "year": 2025
+      },
+      "description": "HubSpot is a native CRM integration on the Granola Business tier. Granola can automatically update HubSpot contacts and deals with meeting notes, enriching CRM records the moment a call ends.",
+      "name": "HubSpot",
+      "source": [
+       "https://www.granola.ai/pricing"
+      ],
+      "strategic_tier": "Flagship Crm Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000izw"
+     },
+     {
+      "description": "Attio is a native CRM integration on the Granola Business tier, allowing sales teams to push call notes directly into Attio customer records.",
+      "name": "Attio",
+      "source": [
+       "https://www.granola.ai/use-cases/sales"
+      ],
+      "strategic_tier": "Major Crm Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000ff"
+     },
+     {
+      "description": "Affinity is a native CRM integration on the Granola Business tier and is highlighted as a key use case for venture capital teams adopting Granola.",
+      "name": "Affinity",
+      "source": [
+       "https://www.granola.ai/use-cases/sales"
+      ],
+      "strategic_tier": "Major Crm Integration (Especially For Vc)",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00003ew"
+     },
+     {
+      "description": "Slack is a native integration on the Business tier and an MCP partner. Granola can post meeting summaries and follow-ups into Slack channels. The MCP Enterprise-Managed Authorization launch lists Slack among launch MCP servers.",
+      "name": "Slack",
+      "source": [
+       "https://www.granola.ai/chat"
+      ],
+      "strategic_tier": "Major Comms Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000bk2"
+     },
+     {
+      "description": "Notion is a native integration on the Business tier. Granola can create Notion pages from meeting notes and share summaries to Notion workspaces.",
+      "name": "Notion",
+      "source": [
+       "https://www.granola.ai/pricing"
+      ],
+      "strategic_tier": "Major Knowledge-Base Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00002k7"
+     },
+     {
+      "description": "Linear is a primary destination for Granola notes. Granola can push action items and decisions into Linear issues, and the MCP EMA launch lists Linear as a launch MCP server.",
+      "name": "Linear",
+      "source": [
+       "https://www.granola.ai/use-cases/product"
+      ],
+      "strategic_tier": "Major Project Management Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00007nj"
+     },
+     {
+      "description": "Jira is a project management integration supported by Granola, enabling product teams to push action items and meeting decisions into Jira tickets.",
+      "name": "Jira",
+      "source": [
+       "https://www.granola.ai/use-cases/product"
+      ],
+      "strategic_tier": "Project Management Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000af3b"
+     },
+     {
+      "description": "Asana is a project management integration supported by Granola. Asana is also a Granola customer, providing product, engineering, and ops use cases.",
+      "name": "Asana",
+      "source": [
+       "https://www.granola.ai/use-cases/product"
+      ],
+      "strategic_tier": "Project Management Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00004v4"
+     },
+     {
+      "description": "Zapier is a native integration on the Business tier, used to route Granola notes into CRMs (including Salesforce), team communication tools, and downstream workflows that lack direct integrations.",
+      "name": "Zapier",
+      "source": [
+       "https://www.granola.ai/pricing"
+      ],
+      "strategic_tier": "Major Workflow Integration And Routing Layer",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0003noj"
+     },
+     {
+      "description": "Cursor is one of the official Granola MCP connectors, allowing developers to access their meeting notes directly from the Cursor AI code editor.",
+      "name": "Cursor",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Flagship Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "005a3q8"
+     },
+     {
+      "description": "Lovable is an official Granola MCP connector, letting users pull meeting context into Lovable's AI app builder.",
+      "name": "Lovable",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Flagship Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000002d"
+     },
+     {
+      "description": "Replit is an official Granola MCP connector, allowing meeting context to flow into the Replit AI development environment.",
+      "name": "Replit",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Flagship Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000007"
+     },
+     {
+      "description": "Figma Make is an official Granola MCP connector, bringing meeting context into the Figma design workflow.",
+      "name": "Figma Make",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000im"
+     },
+     {
+      "description": "Manus is an official Granola MCP connector listed in the Series C blog post.",
+      "name": "Manus",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00045av"
+     },
+     {
+      "description": "v0 by Vercel is an official Granola MCP connector, allowing meeting notes to feed into Vercel's v0 generative UI tool.",
+      "name": "v0",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0005ko6"
+     },
+     {
+      "description": "Bolt.new is an official Granola MCP connector listed in the Series C announcement.",
+      "name": "Bolt.new",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0003z3f"
+     },
+     {
+      "description": "Duckbill is an official Granola MCP connector listed in the Series C blog post.",
+      "name": "Duckbill",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0008sry"
+     },
+     {
+      "description": "Dreamer is an official Granola MCP connector listed in the Series C announcement.",
+      "name": "Dreamer",
+      "source": [
+       "https://www.granola.ai/blog/series-c"
+      ],
+      "strategic_tier": "Ai Tool Connector",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000b8d"
+     },
+     {
+      "description": "Zoom is supported as a meeting platform that Granola can transcribe. Granola uses computer audio to capture Zoom meetings without joining as a bot.",
+      "name": "Zoom",
+      "source": [
+       "https://www.granola.ai/use-cases/sales"
+      ],
+      "strategic_tier": "Core Meeting Platform Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000fvm"
+     },
+     {
+      "description": "Google Meet is supported as a meeting platform that Granola can transcribe via computer audio. Granola also integrates with Google Workspace login and Google Calendar.",
+      "name": "Google Meet",
+      "source": [
+       "https://www.granola.ai/"
+      ],
+      "strategic_tier": "Core Meeting Platform Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000r9"
+     },
+     {
+      "description": "Microsoft Teams is supported as a meeting platform that Granola can transcribe. Granola integrates with Microsoft login for authentication.",
+      "name": "Microsoft Teams",
+      "source": [
+       "https://www.granola.ai/"
+      ],
+      "strategic_tier": "Core Meeting Platform Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "005fi2w"
+     },
+     {
+      "description": "Okta is among the SSO/SAML identity providers supported by Granola's Enterprise tier and is the first supported identity provider for the Model Context Protocol (MCP) Enterprise-Managed Authorization (EMA) extension, implementing Cross App Access (XAA) for zero-touch SSO.",
+      "name": "Okta",
+      "source": [
+       "https://www.granola.ai/enterprise"
+      ],
+      "strategic_tier": "Enterprise Sso Provider",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00002oi"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Granola opened a San Francisco office; the company's Careers page lists multiple San Francisco-based roles, and a blog post by Ursula Wild dated April 27 documents shipping the San Francisco office in a 14-day trip.",
+      "source": [
+       "https://www.granola.ai/blog"
+      ],
+      "title": "Expansion to San Francisco office",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

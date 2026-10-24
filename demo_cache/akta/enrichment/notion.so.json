@@ -1,0 +1,239 @@
+{
+ "fetched_at": "2026-10-24T11:47:27",
+ "params": {
+  "company": "notion.so",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "02lrozh",
+   "firmographic": {
+    "name": "Notion Labs Japan",
+    "legal_name": "Notion Labs, Inc.",
+    "website": "notion.so",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2013,
+    "company_description": "Notion Labs Japan provides the Notion AI-powered workspace platform to Japanese users and enterprises as the Japan-facing presence of Notion Labs, Inc., the US-domiciled parent that has operated the Notion platform since its 2013 founding. The product is a unified workspace that combines notes, wikis, documents, and project management with three native AI capability pillars: Capture (centralizing knowledge into a single system of record), Find (AI Answers that return instant responses with citations), and Automate (custom AI agents that operate continuously to triage product feedback, resolve support tickets, respond to security alerts, and automate reporting). The platform integrates directly with GitHub, Slack, HubSpot, Gmail/Google Workspace, and Apple platforms, and exposes a developer API (developers.notion.com) for building custom agent workflows.\n\nThe business operates a freemium subscription model with tiered paid plans (Plus, Business, Enterprise) and an enterprise tier that is quote-based and typically contracted on multi-year terms. Distribution is hybrid: a self-serve product-led growth motion through web, desktop (Mac/Windows), and mobile (iOS/Android) apps, paired with an enterprise field sales motion surfaced through 'Request a demo' and 'Contact sales' CTAs. The customer base is intentionally horizontal, spanning engineering and product teams, design, marketing, IT, startups, small businesses, large enterprises, education, and individual users, with named customers including Cursor, Faire, and Ramp. Supporting products include Notion Calendar and Notion Web Clipper, vertical-specific solutions, and an Academy plus a certified consultants network. The platform is available in 20+ languages including Japanese, and the company is reported as trusted by 98% of the Forbes Cloud 100.",
+    "company_description_short": "Notion Labs Japan provides the Notion AI-powered workspace platform to Japanese users and enterprises. The platform unifies notes, docs, wikis, and projects with AI capture, cited answers, and custom agents for engineering, design, marketing, and IT teams.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "501-1000",
+    "logo_url": "https://files.akta.pro/logos/02/lr/oz/821e27fe-9965-506c-a7aa-fc3de2a18d0f.png",
+    "akta_rank": 76966
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "250m_500m",
+     "label": "$250M-$500M"
+    },
+    "valuation_estimate": {
+     "code": "10b_25b",
+     "label": "$10B-$25B"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Trusted by leading cloud companies in the Forbes Cloud 100 list, indicating strong adoption among high-growth technology companies",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "98% of the Forbes Cloud 100"
+     }
+    ],
+    "partnership": [
+     {
+      "description": "GitHub integration with Notion AI agents. Enables developers to connect code repositories with Notion workspace, automate code-related workflows, and keep development documentation in sync.",
+      "name": "GitHub",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000c6o"
+     },
+     {
+      "description": "Slack integration enabling Notion agents to resolve support tickets directly in Slack, send notifications, and automate team communications. Deep integration with Notion's automation workflows.",
+      "name": "Slack",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000bk2"
+     },
+     {
+      "description": "HubSpot CRM integration with Notion agents for customer relationship management automation, sales pipeline tracking, and marketing workflow integration.",
+      "name": "HubSpot",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000izw"
+     },
+     {
+      "description": "Email agent integration allowing Notion to send, receive, and manage email communications directly from the workspace. Part of Notion's productivity agent ecosystem.",
+      "name": "Gmail/Google Workspace",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "004i43f"
+     },
+     {
+      "description": "Native iOS and macOS application development for seamless Apple platform integration. Notion apps available for iPhone, iPad, and Mac with native Apple design language.",
+      "name": "Apple (iOS/macOS)",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00004h1"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Launched Notion AI Agents as a native product capability spanning Capture, Find (AI Answers with citations), and Automate, repositioning the platform as an AI workspace rather than a documentation tool.",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Introduced Notion Custom Agents that integrate with GitHub, Slack, HubSpot, Gmail, and custom workflows, enabling enterprise customers to build proprietary AI tools inside their Notion environment.",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Established deep ecosystem partnerships with GitHub, Slack, HubSpot, and Gmail/Google Workspace to anchor AI agent execution across the dominant productivity, code, CRM, and communications platforms.",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Expanded into the enterprise segment with a dedicated Notion Enterprise tier, advanced security and compliance controls, custom agent development, and a field sales motion supplementing PLG.",
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "source": [
+       "https://www.notion.com/"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Platform localized into 20+ languages including Japanese, Korean, Simplified/Traditional Chinese, Arabic, Hebrew, and Vietnamese, indicating active non-English market expansion beyond a US-centric base.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Dedicated solution templates for Engineering & Product, Design, Marketing, IT, and Education signal a verticalized go-to-market motion layered on top of the horizontal core platform.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     },
+     {
+      "description": "Launch of Notion Calendar, Notion Web Clipper, and a developer portal with custom agent tooling extends the product surface from a single workspace into a broader productivity suite and platform.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Release of a developer API (developers.notion.com), a Notion Academy, a certified consultants directory, and a Connections integrations marketplace signals deliberate platformization around third-party builders and partners.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Addition of an enterprise field sales motion alongside the self-serve PLG channel, evidenced by dedicated 'Request a demo' and 'Contact sales' CTAs and an Enterprise tier with quote-based pricing.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Firmographic data indicates 501-1,000 employees, consistent with a scaling sales, engineering, and customer success organization required to support a global enterprise rollout.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

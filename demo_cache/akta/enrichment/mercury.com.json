@@ -1,0 +1,537 @@
+{
+ "fetched_at": "2026-10-24T11:45:42",
+ "params": {
+  "company": "mercury.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000v7",
+   "firmographic": {
+    "name": "Mercury",
+    "legal_name": "Mercury Technologies, Inc.",
+    "website": "mercury.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2017,
+    "company_description": "Mercury Technologies, Inc. is a San Francisco-based, privately held fintech founded in 2017 by Immad Akhund that provides a software-first digital banking and financial operations platform targeted primarily at startups, small businesses, and ecommerce brands. Its core offering is a free business checking and savings account with no monthly fees, $0 ACH and domestic/USD international wires, debit cards, and up to $5M of FDIC insurance delivered through a sweep network of partner banks (Choice Financial Group, Column N.A., Evolve Bank & Trust). The platform extends modularly into treasury management (Mercury Treasury via JPM and Morgan Stanley funds, up to 3.61% net yield), lending (Mercury IO Mastercard via Patriot Bank; Mercury Venture Debt and Mercury Working Capital Loans originated by Mercury Lending, LLC), payments and invoicing, expense management, and accounting automations synced to QuickBooks, Xero, and NetSuite. A developer-facing Mercury API plus open-source CLI and Mercury MCP server extend programmatic banking to AI agents and integrations.\n\nMercury's business model blends float-related revenue, subscriptions, and transaction fees. Treasury yield spread on idle cash (0.15%\u20130.60% monthly fee on Treasury balances), subscription revenue from Mercury Plus ($29.90/mo) and Mercury Pro ($299/mo), and Mercury Personal ($240/yr, waived for eligible business users) anchor recurring income, while card interchange, Mercury Lending interest and origination fees, FX fees (1% on non-USD wires), 1099 filing fees, and Mercury Invest advisory fees (0.10% AUM) contribute transactional revenue. Distribution is product-led and self-serve via mercury.com with a ~10-minute online onboarding, complemented by an inside-sales motion for Pro and $10M+ accounts, high-touch Treasury Solutions for $25M+ balances via Morgan Stanley, and a developer/AI-agent channel through the public API, CLI, and MCP server.\n\nThe company reached $650M in annualized revenue as of Q3 2025 (up from $500M at end-2024) on a customer base exceeding 300,000 \u2014 approximately one in three U.S. startups \u2014 with four consecutive years of GAAP and EBITDA profitability. Mercury received conditional OCC approval in April 2026 to establish Mercury Bank, N.A. in Utah, completed a $200M Series D led by TCV at a $5.2B valuation in May 2026, and launched Mercury Command, an AI conversational financial operator, in June 2026. Strategic acquisitions of Teal (accounting infrastructure, 2024) and Central (AI-native payroll, 2026) extend the platform into adjacent workflows, while Mercury Personal and Mercury MCP indicate expansion into consumer banking and AI-agent-native banking infrastructure.",
+    "company_description_short": "Mercury (Mercury Technologies, Inc.) is a San Francisco-based fintech that provides software-first digital banking, treasury, lending, payments, and AI-driven financial workflows to more than 300,000 startups and small businesses, roughly one in three U.S. startups, with $650M in annualized revenue and a pending national bank charter.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/0v/e7f3a767-7e4d-5b98-b7a4-95939499d9f1.png",
+    "akta_rank": 2431
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "500m_1b",
+     "label": "$500M-$1B"
+    },
+    "valuation_estimate": {
+     "code": "5b_10b",
+     "label": "$5B-$10B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "business_focus": "Origination of venture debt and working capital loans",
+      "name": "Mercury Lending, LLC",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "core_operating_subsidiary",
+       "label": "Core Operating Subsidiary"
+      }
+     },
+     {
+      "business_focus": "Servicing of venture debt and working capital loans",
+      "name": "Mercury Servicing, LLC",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "shared_services_entity",
+       "label": "Shared Services Entity"
+      }
+     },
+     {
+      "business_focus": "SEC-registered investment adviser offering Mercury Treasury and Mercury Invest",
+      "name": "Mercury Advisory, LLC",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "core_operating_subsidiary",
+       "label": "Core Operating Subsidiary"
+      }
+     },
+     {
+      "acquired_on": {
+       "month": 4,
+       "year": 2026
+      },
+      "business_focus": "Proposed national bank to deliver Zelle, lending products, and payments infrastructure",
+      "name": "Mercury Bank, N.A.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "core_operating_subsidiary",
+       "label": "Core Operating Subsidiary"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Post-money valuation from the May 2026 Series D round led by TCV, a 49% increase from the $3.5 billion Series C valuation in March 2025.",
+      "source": [
+       "https://news.crunchbase.com/venture/fintech-funding-digital-banking-startup-mercury-lands-200m/"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$5.2 billion"
+     },
+     {
+      "description": "Series D round led by TCV in May 2026, with participation from Andreessen Horowitz, Coatue, CRV, Sapphire Ventures, Sequoia Capital, and Spark Capital. Total primary and secondary funding approximately $700M since inception.",
+      "source": [
+       "https://www.americanbanker.com/news/mercury-raises-200-million-after-occ-bank-charter-approval"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$200 million Series D"
+     },
+     {
+      "description": "Annualized revenue run-rate as of Q3 2025, up from $500 million at end of 2024.",
+      "source": [
+       "https://www.americanbanker.com/news/mercury-raises-200-million-after-occ-bank-charter-approval"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$650 million annualized revenue (Q3 2025)"
+     },
+     {
+      "description": "As of the May 2026 Series D announcement; profitable on both GAAP net income and EBITDA basis since 2022.",
+      "source": [
+       "https://www.americanbanker.com/news/mercury-raises-200-million-after-occ-bank-charter-approval"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "Four consecutive years of GAAP and EBITDA profitability"
+     },
+     {
+      "description": "Mercury serves over 300,000 businesses and individuals, including approximately one in three U.S. startups.",
+      "source": [
+       "https://mercury.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "300,000+"
+     },
+     {
+      "description": "Approximately one in three U.S. startups choose Mercury; 73% of new customers come from outside the AI/tech startup category, indicating expansion into non-tech SMBs.",
+      "source": [
+       "https://www.citybiz.co/article/849716/mercury-raises-200m-series-d-to-push-boundaries-of-banking/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "1 in 3 U.S. startups"
+     },
+     {
+      "description": "Mercury processes more than $20 billion in monthly transaction volume across its customer base.",
+      "source": [
+       "https://mercury.com/"
+      ],
+      "type": {
+       "code": "infrastructure_footprint",
+       "label": "Infrastructure Footprint"
+      },
+      "value": "$20B+ monthly transaction volume"
+     },
+     {
+      "description": "Received conditional approval from the Office of the Comptroller of the Currency on April 27, 2026 to establish Mercury Bank, N.A. as a national bank headquartered in Utah; pending FDIC and Federal Reserve approvals.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260427949683/en/Mercury-Receives-OCC-Conditional-Approval-to-Establish-Mercury-Bank-N.A."
+      ],
+      "type": {
+       "code": "regulatory_milestones",
+       "label": "Regulatory Milestones"
+      },
+      "value": "Conditional OCC approval for Mercury Bank, N.A."
+     },
+     {
+      "description": "Domestic payment delivery performance for payments sent on Mercury in 2025.",
+      "source": [
+       "https://mercury.com/business-payments"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "99.6% of domestic payments arrived in \u2264 1 business day"
+     },
+     {
+      "description": "Application volume increase driven by AI tools lowering the cost of starting a business, per CEO Immad Akhund.",
+      "source": [
+       "https://www.americanbanker.com/news/mercury-raises-200-million-after-occ-bank-charter-approval"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "2.5x year-over-year growth in new onboarding applications"
+     },
+     {
+      "description": "Mobile app rating displayed on Mercury homepage.",
+      "source": [
+       "https://mercury.com/"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "4.9 Apple App Store rating"
+     },
+     {
+      "description": "Andreessen Horowitz analyzed Mercury's database of 200,000+ startup customers (June\u2013August 2025) to publish its AI Application Spending Report identifying top 50 AI-native application layer companies.",
+      "source": [
+       "https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/"
+      ],
+      "type": {
+       "code": "data_scale",
+       "label": "Data Scale"
+      },
+      "value": "Over 200,000 startups analyzed in a16z AI Application Spending Report"
+     },
+     {
+      "description": "Acquired Central, an AI-native payroll platform founded in 2023, in April 2026; Central serves nearly 500 startup customers and had processed over $175 million in payroll.",
+      "source": [
+       "https://mercury.com/blog/mercury-acquires-centralhq"
+      ],
+      "type": {
+       "code": "contract_wins",
+       "label": "Contract Wins"
+      },
+      "value": "Central acquisition ($175M payroll processed, ~500 customers)"
+     }
+    ],
+    "partnership": [
+     {
+      "description": "Manages the Morgan Stanley Ultra-Short Income Portfolio (MULSX) used by Mercury Treasury for 1-2 day liquidity. Also powers Mercury Treasury Solutions by Morgan Stanley for premium customers with $25M+ Mercury balances, offering personalized portfolio management and dedicated white-glove service.",
+      "name": "Morgan Stanley",
+      "source": [
+       "https://mercury.com/treasury"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00000ar"
+     },
+     {
+      "description": "License partner for Mercury's debit cards (issued by Choice Financial Group and Column N.A.) and IO Mastercard credit card (issued by Patriot Bank, N.A.); Mastercard Zero Liability and Fraud Protection apply.",
+      "name": "Mastercard",
+      "source": [
+       "https://mercury.com/credit"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00004yg"
+     },
+     {
+      "description": "Direct accounting integration; Mercury syncs bills, card transactions, expense reimbursements, wires, ACH transfers, checks, and internal transfers with GL codes; QuickBooks enriched automations are free.",
+      "name": "QuickBooks (Intuit)",
+      "source": [
+       "https://mercury.com/accounting-automations"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000tgj"
+     },
+     {
+      "description": "Direct accounting integration with GL code assignment and enriched automations (free). Plus subscribers receive 6 months free Xero.",
+      "name": "Xero",
+      "source": [
+       "https://mercury.com/accounting-automations"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00003z3"
+     },
+     {
+      "description": "Direct accounting integration with GL codes; NetSuite enriched categorizations require a paid Mercury plan.",
+      "name": "NetSuite (Oracle)",
+      "source": [
+       "https://mercury.com/accounting-automations"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0003hpn"
+     },
+     {
+      "description": "Processes credit card, Apple Pay, and Google Pay payments for Mercury Invoicing; Stripe charges a processing fee of typically 2.9% + $0.30 per transaction.",
+      "name": "Stripe",
+      "source": [
+       "https://mercury.com/invoicing"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "description": "AI-native payroll platform acquired by Mercury in April 2026 to integrate payroll capabilities into Mercury's financial ecosystem; Central had served nearly 500 startup customers and processed over $175 million in payroll at the time of acquisition.",
+      "name": "Central",
+      "source": [
+       "https://mercury.com/blog/mercury-acquires-centralhq"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0008hkq"
+     },
+     {
+      "description": "Vancouver-based seed-stage startup acquired by Mercury in September 2024 to integrate accounting infrastructure into Mercury's platform; Teal had raised $8M led by Torch Capital prior to acquisition.",
+      "name": "Teal",
+      "source": [
+       "https://techcouver.com/2024/09/09/mercury-acquires-vancouver-fintech-teal/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000ii2"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Received conditional OCC approval to establish Mercury Bank, N.A. as a nationally chartered bank in Utah, a strategic shift from the partner-bank model toward owning payment rails and unlocking Zelle, expanded lending, and direct federal supervision (pending FDIC and Federal Reserve approvals).",
+      "source": [
+       "https://www.businesswire.com/news/home/20260427949683/en/Mercury-Receives-OCC-Conditional-Approval-to-Establish-Mercury-Bank-N.A."
+      ],
+      "type": {
+       "code": "regulatory_action",
+       "label": "Regulatory Action"
+      }
+     },
+     {
+      "date": {
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Closed a $200M Series D led by TCV at a $5.2B post-money valuation (~49% step-up over the March 2025 Series C), with participation from a16z, Coatue, CRV, Sapphire Ventures, Sequoia, and Spark Capital to fund the bank charter push and AI product development.",
+      "source": [
+       "https://fintech.global/2026/05/21/mercury-raises-200m-series-d-as-ai-fuels-startup-surge/"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched Mercury Command, an AI conversational financial operator embedded in Mercury accounts that executes multi-step tasks (payments, invoicing, card management, transaction categorization, auto-transfer rules) via natural language with explicit user approval.",
+      "source": [
+       "https://mercury.com/command"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Acquired Central, an AI-native payroll platform serving nearly 500 customers and processing over $175M in payroll, extending the platform into payroll and consolidating adjacent workflows for startups.",
+      "source": [
+       "https://mercury.com/blog/mercury-acquires-centralhq"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Launched Mercury Personal, a premium consumer banking product ($240/year, waived for eligible business users) with 3.25% APY savings, Mercury Invest ETF portfolios, and Mercury Command for personal accounts, expanding into a new customer segment adjacent to the business core.",
+      "source": [
+       "https://www.businesswire.com/news/home/20251211260682/en/Mercury-Launches-Premium-Consumer-Banking-for-Builders-and-Founders"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 9,
+       "year": 2024
+      },
+      "description": "Acquired Teal, a Vancouver-based seed-stage accounting infrastructure startup ($8M raised led by Torch Capital), to deepen in-product accounting capabilities and vertical-software integration.",
+      "source": [
+       "https://mercury.com/blog/mercury-acquires-teal"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Mercury Technologies Inc. applied for a national bank charter with the OCC and deposit insurance with the FDIC, with Mercury Bank N.A. proposed as a wholly owned subsidiary headquartered in Utah. The move shifts Mercury from a partner-bank model toward operating as a fully chartered national bank.",
+      "source": [
+       "https://www.bloomberg.com/news/articles/2025-12-19/fintech-firm-mercury-applies-for-national-bank-charter"
+      ],
+      "title": "Establishment of Mercury Bank, N.A.",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "day": 11,
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Mercury announced the launch of Mercury Personal, a premium consumer banking product targeting U.S. residents, offering features such as shared accounts, high-yield savings, and integrated investing. The product expansion marks Mercury's move into consumer banking alongside its existing business banking offerings.",
+      "source": [
+       "https://www.businesswire.com/news/home/20251211260682/en/Mercury-Launches-Premium-Consumer-Banking-for-Builders-and-Founders"
+      ],
+      "title": "Launch of Mercury Personal consumer banking",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "Jon Auxier, previously CFO at SoFi Bank, was named CEO of the planned Mercury Bank, N.A., a nationally chartered bank to be headquartered in Utah, following conditional OCC approval of Mercury's charter application.",
+      "source": [
+       "https://www.fintechfutures.com/regulatory-actions/mercury-lands-conditional-approval-for-us-national-bank-charter"
+      ],
+      "title": "Appointment of Jon Auxier as CEO of Mercury Bank",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Conditional OCC approval (April 2026) for Mercury Bank, N.A. and the appointment of Jon Auxier (formerly CFO of SoFi Bank) as the subsidiary's CEO indicate a structural shift from a BaaS/partner-bank model to direct ownership of payment rails, unlocking Zelle, expanded lending, and direct Fed/OCC supervision.",
+      "type": {
+       "code": "regulatory_pursuit",
+       "label": "Regulatory Pursuit"
+      }
+     },
+     {
+      "description": "Launch of Mercury Personal in December 2025 introduces a new consumer-banking segment ($240/year subscription, waived for eligible business users), extending the customer base from businesses to founders and individuals and creating a self-serve upsell path.",
+      "type": {
+       "code": "new_customer_segment",
+       "label": "New Customer Segment"
+      }
+     },
+     {
+      "description": "Acquisition of Central (AI-native payroll, April 2026) and Teal (accounting infrastructure, September 2024) signal continued in-house buildout of payroll and accounting product lines adjacent to core banking, reducing reliance on third-party integrations.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Mercury MCP server (AI-agent-ready Model Context Protocol), open-source CLI on GitHub, and full banking API/SDK with sandbox reflect expansion into a developer- and AI-agent-facing distribution channel, targeting programmable banking as a distinct go-to-market surface.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Reported expansion beyond AI/tech startups into ecommerce, agencies, VC funds, crypto, accounting firms, LLCs, life science, climate, real estate and construction, and healthcare services \u2014 with 73% of new customers coming from outside the AI/tech category \u2014 indicates active vertical broadening beyond the original ICP.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     },
+     {
+      "description": "$200M Series D in May 2026 at a $5.2B valuation, with TCV leading and broad participation from existing top-tier investors, signals continued investor confidence and capital availability to fund the bank charter, AI development, and product expansion.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     },
+     {
+      "description": "TrevorWorks-style dedicated inside-sales motion for Pro subscribers and accounts with $10M+ balance, plus high-touch Treasury Solutions via Morgan Stanley for $25M+ balances, signal mid-market and enterprise upmarket expansion.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

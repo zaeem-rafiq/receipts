@@ -1,0 +1,339 @@
+{
+ "fetched_at": "2026-10-24T11:46:25",
+ "params": {
+  "company": "cal.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "0000c8z",
+   "firmographic": {
+    "name": "Cal.com",
+    "legal_name": "Cal.com, Inc.",
+    "website": "cal.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2021,
+    "company_description": "Cal.com, founded in 2021 and headquartered in San Francisco (operating as a fully distributed team), sells scheduling infrastructure SaaS to individuals, teams, organizations, and regulated enterprises. The product eliminates meeting back-and-forth through shareable booking links, native calendar synchronization across Google Calendar, Outlook, and 100+ providers via the Unified Calendar API, automated SMS/email reminders via Twilio, embedded scheduling widgets (Cal Atoms and Cal.com Embed), and built-in video conferencing (Cal Video, powered by Daily.co). Compliance posture spans SOC 2 Type II, ISO 27001, HIPAA, GDPR, and CCPA, supporting healthcare and other regulated buyers; the platform supports 65+ languages and is offered both as a multi-tenant SaaS at app.cal.com and historically as a self-hostable deployment via GitHub.\n\nThe company monetizes through a freemium model: a free individual tier, a $16/user/month Teams tier, a $37/user/month Organizations tier, and custom-priced Enterprise contracts with dedicated databases, priority support, and higher SLAs. GTM is product-led growth with no-credit-card self-serve signup layered with enterprise direct sales via cal.com/talk-to-sales. Distribution extends to iOS, Android, Chrome, Safari, Edge, Firefox, macOS, Windows, and Linux apps and an affiliate/partner channel. Notable deployments include Deel (1,200+ users), Vercel, Supabase, Navi (HIPAA-regulated), Mintlify, and Kent C. Dodds / EpicWeb.dev. The platform reports over 1 million users, 4+ million bookings processed, and 150k+ calendar authorizations.\n\nCal.com is privately held and has raised $32.4 million in disclosed venture funding \u2014 a $7.4M seed led by OSS Capital in December 2021 and a $25M Series A led by Seven Seven Six in April 2022 \u2014 to expand its open-source scheduling infrastructure and build the 'App Store for Time' developer ecosystem. Leadership comprises co-founder/CEO Bailey Pumfleet and co-founder/Chairman Peer Richelsen (also serving as the company's EU GDPR representative). In March 2026 the company released Cal.com Agents (v6.3) extending Cal.ai into conversational scheduling across Slack, Telegram, email, CLI, and voice, and in April 2026 it transitioned the production codebase from AGPL-3.0 to closed source \u2014 citing AI-powered security threats \u2014 while launching Cal.diy, an MIT-licensed open-source community version, to retain hobbyists and self-hosting users.",
+    "company_description_short": "Cal.com is a scheduling infrastructure SaaS platform, founded in 2021, that provides online booking, calendar synchronization, and AI-powered meeting coordination for individuals, teams, mid-market organizations, and healthcare enterprises across 65+ languages.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "11-50",
+    "logo_url": "https://files.akta.pro/logos/00/00/c8/c61bfc6d-1b26-569d-9def-848040b1c87b.png",
+    "akta_rank": 210424
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1m_5m",
+     "label": "$1M-$5M"
+    },
+    "valuation_estimate": {
+     "code": "100m_250m",
+     "label": "$100M-$250M"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "day": 14,
+       "month": 4,
+       "year": 2026
+      },
+      "business_focus": "Open-source self-hostable scheduling platform for hobbyists and developers",
+      "name": "Cal.diy",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Series A: $25 million (April 2022) led by Seven Seven Six; Seed: $7.4 million (December 2021) led by OSS Capital",
+      "source": [
+       "https://www.vcaonline.com/news/news.asp?ID=2022041501"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$32.4 million total"
+     },
+     {
+      "description": "Cal.com is used by over a million people to eliminate booking back-and-forth",
+      "source": [
+       "https://cal.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "Over 1 million users"
+     },
+     {
+      "description": "Over 150k users have authorized their calendar and trust Cal.com with more than 4M bookings",
+      "source": [
+       "https://cal.com/unified"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "4+ million bookings"
+     },
+     {
+      "description": "Global scheduling apps market size estimated at USD 663.1 million in 2025, projected to reach USD 1,813.1 million by 2033 with 13.46% CAGR",
+      "source": [
+       "https://www.grandviewresearch.com/industry-analysis/scheduling-apps-market-report"
+      ],
+      "type": {
+       "code": "market_size",
+       "label": "Market Size"
+      },
+      "value": "USD 663.1 million (2025)"
+     },
+     {
+      "description": "North America holding the largest regional market share in the scheduling apps market in 2025",
+      "source": [
+       "https://www.grandviewresearch.com/industry-analysis/scheduling-apps-market-report"
+      ],
+      "type": {
+       "code": "market_share",
+       "label": "Market Share"
+      },
+      "value": "45.96% (2025)"
+     },
+     {
+      "description": "Over 150k users have authorized their calendar through the Unified Calendar API",
+      "source": [
+       "https://cal.com/unified"
+      ],
+      "type": {
+       "code": "data_scale",
+       "label": "Data Scale"
+      },
+      "value": "150k+ calendar authorizations"
+     },
+     {
+      "description": "Support for 65+ languages enabling global scheduling",
+      "source": [
+       "https://cal.com/"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "65+"
+     }
+    ],
+    "partnership": [
+     {
+      "description": "Vercel provides the deployment platform for Cal.com's website and preview deployments. The Cal.com codebase uses Vercel for CI/CD with environment variables and database credentials managed through Vercel.",
+      "name": "Vercel",
+      "source": [
+       "https://cal.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000009a"
+     },
+     {
+      "description": "Daily.co provides the white-label video service powering Cal Video, Cal.com's built-in video conferencing platform. This integration enables users to conduct video meetings without external tools.",
+      "name": "Daily.co",
+      "source": [
+       "https://cal.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00007vk"
+     },
+     {
+      "description": "Stripe integration allows users to accept payments for bookings through Cal.com. PCI-DSS compliant payment processing.",
+      "name": "Stripe",
+      "source": [
+       "https://cal.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "description": "Twilio powers SMS and email reminders for Cal.com bookings, enabling automated meeting notifications to users.",
+      "name": "Twilio",
+      "source": [
+       "https://cal.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000p8t"
+     },
+     {
+      "description": "Cal.com uses Deel's contract templates for standardizing salaries and employment arrangements. Deel is also a customer with 1,200+ team members using Cal.com.",
+      "name": "Deel",
+      "source": [
+       "https://cal.com/blog/open-startup"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "others",
+       "label": "Others"
+      },
+      "uuid": "00003e2"
+     },
+     {
+      "description": "GitHub hosts the Cal.com codebase (calcom/cal.diy for open-source version) and is used for development workflows, issue tracking, and code review.",
+      "name": "GitHub",
+      "source": [
+       "https://cal.com/blog/open-startup"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000c6o"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 14,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Transitioned the production codebase from AGPL-3.0 open source to closed source, citing AI-powered security threats against transparent open code as the justification.",
+      "source": [
+       "https://cal.com/blog/cal-com-goes-closed-source-why"
+      ],
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Launched Cal.diy, an MIT-licensed open-source self-hostable version of the platform, to retain hobbyists and developers after the closed-source pivot.",
+      "source": [
+       "https://cal.com/blog/cal-com-goes-closed-source-why"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Released Cal.com Agents (v6.3) extending Cal.ai into conversational scheduling across Slack, Telegram, email, CLI, and voice channels, alongside new OAuth scopes and custom-domain/SMTP controls.",
+      "source": [
+       "https://cal.com/blog/calcom-v6-3"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2022
+      },
+      "description": "Closed a $25 million Series A led by Seven Seven Six to expand scheduling infrastructure and launch the 'App Store for Time' developer ecosystem.",
+      "source": [
+       "https://www.vcaonline.com/news/news.asp?ID=2022041501"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 12,
+       "year": 2021
+      },
+      "description": "Raised a $7.4 million seed round led by OSS Capital to build extensible open-source scheduling infrastructure.",
+      "source": [
+       "https://cal.com/blog/seed"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "HIPAA, SOC 2 Type II, and ISO 27001 certifications plus dedicated healthcare and telehealth landing pages signal a deliberate push into regulated clinical workflows. Navi is already deployed in this segment.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     },
+     {
+      "description": "Cal.ai (voice + conversational agents) and the March 2026 Cal.com Agents release extend the platform beyond scheduling UI into AI-mediated meeting coordination, opening an agentic AI TAM adjacent to calendaring.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "65+ language support, GDPR and CCPA compliance, and an appointed EU Representative indicate infrastructure built for international rollout, with North America the prioritized region (45.96% regional market share).",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "The 'App Store for Time' initiative (announced April 2022) plus the public REST API v2, OAuth scopes, Cal Atoms embeddables, and webhooks collectively pursue a developer-platform strategy that compounds distribution beyond direct sales.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Addition of multi-year enterprise contracts, dedicated databases, and priority support indicates a maturing upmarket GTM motion layered on top of the freemium PLG base, suggesting pricing-tier differentiation efforts to capture larger ACVs.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

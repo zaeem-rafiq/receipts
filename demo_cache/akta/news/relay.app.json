@@ -1,0 +1,2748 @@
+{
+ "fetched_at": "2026-10-24T11:46:49",
+ "params": {
+  "company": "relay.app",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 19,
+  "limit": 50,
+  "offset": 0,
+  "count": 19,
+  "data": [
+   {
+    "id": 35147264,
+    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-09-15T19:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0245,
+    "ai_summary": "The article compiles a list of AI projects and startups that have shut down, including Relay, OpenAI's Sora, and Humane AI Pin. It notes that about 42% of AI initiatives are abandoned by corporate parents, citing reasons like insufficient funding and competition. The list also covers failures from Apple, Microsoft, and others.",
+    "word_count": 1211,
+    "author": "Lauren Forristal",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+      "code": "HDAAACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Financial Distress & Restructuring",
+      "code": "RK07",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000jf",
+      "name": "Humane",
+      "website": "https://humane.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002kd",
+      "name": "rabbit",
+      "website": "https://rabbit.tech",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004h1",
+      "name": "Apple",
+      "website": "https://www.apple.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000avu",
+      "name": "Yupp",
+      "website": "https://yupp.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003t9",
+      "name": "HP",
+      "website": "http://www.hp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000xxa",
+      "name": "Huxe",
+      "website": "https://www.huxe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "artur widak",
+      "seongjoon cho",
+      "brian heater"
+     ],
+     "location": [],
+     "product": [
+      "relay",
+      "chatgpt",
+      "iphone 16",
+      "recall",
+      "operator",
+      "sora",
+      "zapier",
+      "siri",
+      "siri ai",
+      "apple intelligence",
+      "ios 27",
+      "dall-e",
+      "notion mail",
+      "yupp",
+      "figgs ai",
+      "huxe",
+      "humane ai pin",
+      "rabbit r1",
+      "notebooklm",
+      "ai pin",
+      "project cyberdeck"
+     ],
+     "event": [
+      "build developer conference",
+      "ces"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11333679
+   },
+   {
+    "id": 32821250,
+    "title": "AI Workflow Startup Relay Shuts Down as Founder Joins Google\u2019s Chrome Team",
+    "url": "https://theaiinsider.tech/2026/08/18/ai-workflow-startup-relay-shuts-down-as-founder-joins-googles-chrome-team/",
+    "publisher": "AI Insider",
+    "published_date": "2026-08-18T18:37:53",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0509,
+    "ai_summary": "AI workflow automation startup Relay is shutting down, with founder and CEO Jacob Bank leaving to join Google as VP of Product for its Chrome team. The company ceased operations in August and September after signaling closure in July, marking the end of its attempt to compete with Zapier. This move aligns with Google's broader strategy to integrate AI capabilities into its core products, including the recently popularized Gemini app. ",
+    "word_count": 255,
+    "author": "James Dargan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Workflow Automation & No-Code Collaboration",
+      "code": "BPAMAMAK",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "C-Suite Appointments & Departures",
+      "code": "LG01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jacob bank"
+     ],
+     "location": [],
+     "product": [
+      "chrome",
+      "gemini",
+      "gmail",
+      "zapier",
+      "google chat",
+      "timeful",
+      "google calendar"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7776814
+   },
+   {
+    "id": 41819993,
+    "title": "Relay shuts up shop, CEO heads to AI-ify Chrome",
+    "url": "https://www.thestack.technology/relay-shuts-up-shop-as-ceo-heads-to-ai-ify-chrome/",
+    "publisher": "The Stack",
+    "published_date": "2026-08-18T10:37:25",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4843,
+    "ai_summary": "Google re-hired Jacob Bank, founder and CEO of Relay, as VP of Product for Chrome, bringing several colleagues. Relay, an AI workflow app, closed to free users on 15 August and will cease operations on 14 September 2026. Bank said he will bring his AI-building experience to Chrome.",
+    "word_count": 179,
+    "author": "Noah Bovenizer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Browser & Web Navigation Utilities (toolbars, new-tab, bookmarks)",
+      "code": "BPAMAAAH",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "C-Suite Appointments & Departures",
+      "code": "LG01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "609",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jacob bank"
+     ],
+     "location": [],
+     "product": [
+      "relay",
+      "google chrome"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7776814
+   },
+   {
+    "id": 32399686,
+    "title": "Relay's Shutdown Is the Headline. Google Is Turning Chrome Into the AI Automation Layer.",
+    "url": "https://www.ainvest.com/news/relay-shutdown-headline-google-turning-chrome-ai-automation-layer-2608/",
+    "publisher": "AInvest",
+    "published_date": "2026-08-18T00:50:05",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.357,
+    "ai_summary": "Following the shutdown of automation platform Relay in August 2024, co-founder Jacob Bank and part of its team joined Google's Chrome division to develop browser-native automation capabilities. Google is integrating these expertise with its Gemini AI infrastructure to position Chrome as a central control layer for web workflows and agent-based task execution. This strategic shift aims to leverage Chrome's massive user base to advance agentic automation, potentially challenging standalone workflow tools. ",
+    "word_count": 869,
+    "author": "Adrian Savafollow",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "iPaaS & Workflow Automation",
+      "code": "BPAMAOAB",
+      "is_primary": false
+     },
+     {
+      "name": "Process Mining & Task Mining Platforms",
+      "code": "HDAEAHAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Research, Development & Innovation",
+      "code": "SD08",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "003gke7",
+      "name": "Chrome Systems Corporation",
+      "website": "https://www.google.com/chrome/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "609",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jacob bank",
+      "adrian sava"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "chrome",
+      "relay",
+      "gemini"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7427495
+   },
+   {
+    "id": 32426940,
+    "title": "Relay shuts down as team joins Google Chrome in acqui-hire",
+    "url": "https://www.techbuzz.ai/articles/relay-shuts-down-as-team-joins-google-chrome-in-acqui-hire",
+    "publisher": "Techbuzz",
+    "published_date": "2026-08-17T21:43:18",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0414,
+    "ai_summary": "Workflow automation startup Relay is shutting down operations next month after its CEO and key staff were acquired by Google to join the Chrome team. This acqui-hire reflects a broader trend in the competitive AI market where large tech companies absorb promising talent rather than facing them as independent competitors. Existing customers must migrate their workflows to alternative platforms before the shutdown.",
+    "word_count": 502,
+    "author": "The Tech Buzz Team",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Workflow-Oriented Integration & Orchestration",
+      "code": "HDAEAIAG",
+      "is_primary": true
+     },
+     {
+      "name": "On-Device/Edge Foundation Models (Mobile/Embedded LLMs)",
+      "code": "HDAAACAN",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Research, Development & Innovation",
+      "code": "SD08",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "003gke7",
+      "name": "Chrome Systems Corporation",
+      "website": "https://www.google.com/chrome/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ceo"
+     ],
+     "location": [],
+     "product": [
+      "chrome",
+      "zapier",
+      "gemini ai",
+      "workspace",
+      "relay"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7776814
+   },
+   {
+    "id": 32400986,
+    "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-08-17T21:27:05",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2847,
+    "ai_summary": "AI automation startup Relay is shutting down its services, with founder and CEO Jacob Bank rejoining Google to lead the Chrome product team. The closure affects paying customers by September 14, following earlier access loss for free users, as staff transition to Google's Chrome division. This move aligns with Google's broader strategy to integrate AI capabilities, such as Gemini, directly into user experiences like the browser. ",
+    "word_count": 417,
+    "author": "Lucas Ropek",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": true
+     },
+     {
+      "name": "Research, Development & Innovation",
+      "code": "SD08",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "003m3e6",
+      "name": "Timeful",
+      "website": "http://www.timeful.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jacob bank"
+     ],
+     "location": [],
+     "product": [
+      "timeful",
+      "gmail",
+      "gemini",
+      "chrome",
+      "zapier",
+      "google chat",
+      "relay",
+      "google calendar"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7776814
+   },
+   {
+    "id": 32388933,
+    "title": "Google hires former Gmail lead to be Chrome\u2019s new VP of Product",
+    "url": "https://9to5google.com/2026/08/17/chrome-new-vp-product/",
+    "publisher": "9to5Google",
+    "published_date": "2026-08-17T19:12:17",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google has appointed Jacob Bank as the new Vice President of Product for Chrome, bringing him back to the company after he previously led product management for Gmail and Calendar. Bank will leverage his experience from founding Relay.app to integrate ambitious AI capabilities into the browser, which Google positions as a primary productivity workspace. Several employees from Bank's former startup are also joining the Chrome team to support these initiatives. ",
+    "word_count": 267,
+    "author": "Abner Li",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Collaboration & Productivity Platforms (M365/Google Workspace, Email, Chat/Meetings)",
+      "code": "BPAEAIAD",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "C-Suite Appointments & Departures",
+      "code": "LG01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jacob bank",
+      "parisa tabriz"
+     ],
+     "location": [],
+     "product": [
+      "chrome",
+      "gmail",
+      "relay.app",
+      "gemini",
+      "timeful",
+      "spark",
+      "google calendar",
+      "chat"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9574,
+    "group_id": 9084521
+   },
+   {
+    "id": 32817746,
+    "title": "Best AI Agent Builders: Top Platforms and Pricing Insights 2026",
+    "url": "https://en.cryptonomist.ch/2026/08/11/best-ai-agent-builders-2026/",
+    "publisher": "The Cryptonomist",
+    "published_date": "2026-08-11T07:40:55",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1734,
+    "ai_summary": "A 2026 market analysis of AI agent builder platforms highlights a significant gap between vendor marketing claims and actual functionality, with Gartner estimating that over 40% of current projects will be abandoned by 2027. The report identifies Zapier and MindStudio as the primary no-code options for operational staff, while n8n remains the leading self-hosted solution for technical teams requiring infrastructure control. Key risks include inconsistent pricing models across vendors and the potential loss of work due to platform shutdowns, exemplified by Relay.app's closure. ",
+    "word_count": 1598,
+    "author": "Francesco Antonio Russo",
+    "countries": [
+     "DEU"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000t5h",
+      "name": "Gartner",
+      "website": "http://www.gartner.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "005o6r2",
+      "name": "Accel Partners",
+      "website": "https://accel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004sg",
+      "name": "Dust",
+      "website": "https://dust.tt",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005ea",
+      "name": "Lindy",
+      "website": "https://www.lindy.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0078mgv",
+      "name": "MindStudio",
+      "website": "https://www.mindstudio.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000vxv",
+      "name": "McKinsey & Company",
+      "website": "http://www.mckinsey.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cw",
+      "name": "Gumloop",
+      "website": "https://www.gumloop.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "zapier",
+      "botpress",
+      "n8n",
+      "relay.app",
+      "lindy",
+      "mindstudio",
+      "relevance ai",
+      "dust",
+      "gumloop",
+      "agentkit",
+      "gmail",
+      "copilot studio",
+      "calendar",
+      "gemini enterprise",
+      "zapier agents",
+      "copilot subscription"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9611,
+    "group_id": 9280604
+   },
+   {
+    "id": 32128328,
+    "title": "Produtividade e Integra\u00e7\u00e3o de Ferramentas",
+    "url": "https://pluga.co/blog/financeiro/como-fazer-contabilidade-de-uma-empresa/",
+    "publisher": "Pluga",
+    "published_date": "2026-07-01T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.3599,
+    "ai_summary": "Relay.app announced the closure of its services for August and September 2026, requiring users to migrate their automation workflows before data is permanently deleted. The article provides guidance on exporting these workflows and demonstrates how to recreate them using Pluga to ensure business continuity. ",
+    "word_count": 65,
+    "author": "",
+    "countries": [
+     "BRA"
+    ],
+    "industries": [
+     {
+      "name": "Digital Process Automation (DPA) & Orchestration Suites",
+      "code": "HDAEAHAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005aoc",
+      "name": "Pluga",
+      "website": "https://pluga.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "615",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "relay.app"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7622,
+    "group_id": 6911520
+   },
+   {
+    "id": 29602849,
+    "title": "The 11 best AI workflow automation tools for data-minded businesses (2026)",
+    "url": "https://supermetrics.com/blog/ai-workflow-automation",
+    "publisher": "Supermetrics",
+    "published_date": "2026-07-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "This article is a buyer's guide ranking and reviewing 11 AI workflow automation tools for businesses, with Supermetrics ranked #1, followed by Zapier, Make, and others serving different use cases from no-code marketing teams to enterprise orchestration. The piece highlights a gap between AI adoption pressure \u2014 80% of marketers face moderate or significant pressure to adopt AI \u2014 and actual implementation, with fewer than 6% of organizations having fully embedded AI workflows. It provides pricing, key features, and best-use guidance for each tool, along with criteria for selecting the right platform based on team technical ability, integration needs, and pricing models.",
+    "word_count": 5581,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Workflow-Oriented Integration & Orchestration",
+      "code": "HDAEAIAG",
+      "is_primary": true
+     },
+     {
+      "name": "Workflow Automation & No-Code Collaboration",
+      "code": "BPAMAMAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000mv",
+      "name": "UiPath",
+      "website": "https://www.uipath.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007i",
+      "name": "Workato",
+      "website": "http://www.workato.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000d6b",
+      "name": "Supermetrics",
+      "website": "http://supermetrics.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005ea",
+      "name": "Lindy",
+      "website": "https://www.lindy.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ags",
+      "name": "Vellum",
+      "website": "https://www.vellum.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cw",
+      "name": "Gumloop",
+      "website": "https://www.gumloop.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003y3b",
+      "name": "Make",
+      "website": "https://make.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000756",
+      "name": "technology and engineering"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "zach bricker",
+      "anssi rusi",
+      "outi karppanen",
+      "andrea linehan"
+     ],
+     "location": [],
+     "product": [
+      "zapier",
+      "supermetrics",
+      "make",
+      "relay.app",
+      "lindy ai",
+      "n8n",
+      "vellum ai",
+      "gumloop",
+      "ai insights agent",
+      "snowflake",
+      "redshift",
+      "bigquery",
+      "looker studio",
+      "gemini",
+      "ai content extractor",
+      "uipath",
+      "workato",
+      "maestro",
+      "notion",
+      "gmail",
+      "hubspot",
+      "slack",
+      "lindy",
+      "calendar",
+      "email",
+      "crm",
+      "salesforce",
+      "stackai",
+      "openai",
+      "mistral",
+      "google drive",
+      "sharepoint",
+      "chatgpt"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8646,
+    "group_id": 4384623
+   },
+   {
+    "id": 26290309,
+    "title": "LinkedIn\u2019s Connected Apps Let Workers Prove Real Tool Proficiency",
+    "url": "https://www.webpronews.com/linkedins-connected-apps-let-workers-prove-real-tool-proficiency/",
+    "publisher": "WebProNews",
+    "published_date": "2026-06-19T19:12:06",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8389,
+    "ai_summary": "LinkedIn launched a Connected Apps feature on June 18, 2026, that automatically pulls usage data from partner tools\u2014including Descript, Duolingo, Lovable, Relay.app, and Replit\u2014to generate verifiable skill summaries on user profiles, replacing self-reported skills with objective activity-based evidence. The feature addresses employer concerns about inflated resumes in a platform of 1.3 billion members experiencing 12 percent year-over-year revenue growth, with Adobe Express, Adobe Firefly, and GitHub slated to join soon. The timing aligns with a surge in daily AI tool usage among U.S. employees and growing employer difficulty distinguishing real proficiency from keyword-stuffed profiles.",
+    "word_count": 1071,
+    "author": "Ava Callegari",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Professional & Career Networks",
+      "code": "BPAMABAB",
+      "is_primary": true
+     },
+     {
+      "name": "Identity Verification, Candidate Authentication & Biometrics for Testing",
+      "code": "EDAFADAH",
+      "is_primary": false
+     },
+     {
+      "name": "Identity Verification (ID, SSN Trace, KYC-lite)",
+      "code": "BPACALAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009fq",
+      "name": "LinkedIn",
+      "website": "https://linkedin.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005sv",
+      "name": "Descript",
+      "website": "https://www.descript.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000h7",
+      "name": "Duolingo",
+      "website": "https://www.duolingo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     },
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "123",
+      "name": "Careers"
+     },
+     {
+      "code": "127",
+      "name": "Careers"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51929",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "dan shapero"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "adobe firefly",
+      "zapier",
+      "relay.app",
+      "gamma",
+      "adobe express",
+      "lovable",
+      "descript",
+      "duolingo",
+      "replit",
+      "express",
+      "firefly",
+      "adobe"
+     ],
+     "event": [
+      "microsoft ai skills fest"
+     ]
+    },
+    "newsworthiness_score": 0.9104,
+    "group_id": 510939
+   },
+   {
+    "id": 27905892,
+    "title": "LinkedIn will tell others how you really use Adobe\u2019s apps",
+    "url": "https://www.theverge.com/tech/951291/linkedin-connected-apps-ai-summary-verification",
+    "publisher": "The Verge",
+    "published_date": "2026-06-17T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9829,
+    "ai_summary": "LinkedIn launched a new \"connected apps\" feature on June 17, 2026, that allows users to link supported third-party applications to their profiles, with each app automatically generating specific descriptions of how the user actually utilizes it. The feature initially supports 19 apps, expanding to include 14 new integrations such as Buffer, Fiverr, HubSpot, Adobe Express, Adobe Firefly, Github Copilot, and Zapier, with more promised \"coming soon.\" The generated statements are uneditable by users and update in real time based on actual app usage, though LinkedIn plans to add notifications to alert users when their statements change.",
+    "word_count": 3396,
+    "author": "Jess Weatherbed",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "In-app Social Shops (Native Checkout)",
+      "code": "CRAFANAA",
+      "is_primary": true
+     },
+     {
+      "name": "Technical SEO (Audits, Crawl/Indexing, Site Architecture)",
+      "code": "BPAFAJAA",
+      "is_primary": false
+     },
+     {
+      "name": "On-Device/Edge Foundation Models (Mobile/Embedded LLMs)",
+      "code": "HDAAACAN",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008mba",
+      "name": "Buffer",
+      "website": "https://buffer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000h7",
+      "name": "Duolingo",
+      "website": "https://www.duolingo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009fq",
+      "name": "LinkedIn",
+      "website": "https://linkedin.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007sr",
+      "name": "Fiverr",
+      "website": "https://www.fiverr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005sv",
+      "name": "Descript",
+      "website": "https://www.descript.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jess weatherbed",
+      "trump",
+      "kelly tong"
+     ],
+     "location": [
+      "europe",
+      "us"
+     ],
+     "product": [
+      "hubspot",
+      "playstation",
+      "nintendo",
+      "xbox",
+      "gong",
+      "buffer",
+      "zapier",
+      "speakers",
+      "scooters",
+      "tvs",
+      "laptops",
+      "netflix",
+      "fiverr",
+      "sprinklr",
+      "autonomous cars",
+      "riverside",
+      "opusclip",
+      "webflow",
+      "headphones",
+      "github copilot",
+      "adobe express",
+      "phones",
+      "electric cars",
+      "tablet",
+      "adobe firefly",
+      "wearables",
+      "decoder",
+      "youtube",
+      "hbo",
+      "duolingo",
+      "relay.app",
+      "movies",
+      "replit",
+      "samsung",
+      "lovable",
+      "phone",
+      "headphone",
+      "descript",
+      "audio",
+      "tiktok",
+      "smart home",
+      "instagram",
+      "tv shows",
+      "ride-sharing",
+      "fullcast/copy.ai",
+      "oled ipad mini",
+      "gemini notebook",
+      "ps6",
+      "cds",
+      "notebooklm",
+      "god of war tv series",
+      "deebot x11",
+      "ecovacs",
+      "website",
+      "switch",
+      "switch label",
+      "loyalty card"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7992,
+    "group_id": 3285085
+   },
+   {
+    "id": 35629110,
+    "title": "LinkedIn adds more digital skills visibility",
+    "url": "https://www.socialmediatoday.com/news/linkedin-adds-more-digital-skills-visibility/823219/",
+    "publisher": "Social Media News",
+    "published_date": "2026-06-17T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "LinkedIn expanded its profile skills display to include verifiable skills from apps like Hubspot, Buffer, and Fiverr, with dynamic descriptions based on real activity. The feature aims to showcase technical skills, and demand for AI skills has more than doubled year over year.",
+    "word_count": 341,
+    "author": "Andrew Hutchinson",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Professional & Career Networks",
+      "code": "BPAMABAB",
+      "is_primary": true
+     },
+     {
+      "name": "AI & Emerging Technology Literacy",
+      "code": "EDAAAIAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008mba",
+      "name": "Buffer",
+      "website": "https://buffer.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000sma",
+      "name": "Base44",
+      "website": "https://base44.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004hjv",
+      "name": "JetBrains",
+      "website": "https://www.jetbrains.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002jb",
+      "name": "HeyGen",
+      "website": "https://www.heygen.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003p2n",
+      "name": "Pictory",
+      "website": "https://pictory.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000wor",
+      "name": "Gamma",
+      "website": "https://gamma.app",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000h7",
+      "name": "Duolingo",
+      "website": "https://www.duolingo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007sr",
+      "name": "Fiverr",
+      "website": "https://www.fiverr.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00009fq",
+      "name": "LinkedIn",
+      "website": "https://linkedin.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pnw",
+      "name": "Wispr Flow",
+      "website": "https://wisprflow.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003wu",
+      "name": "Air",
+      "website": "https://air.inc",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004ywb",
+      "name": "Magic Patterns",
+      "website": "https://www.magicpatterns.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000kf",
+      "name": "Profound",
+      "website": "https://www.tryprofound.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005sv",
+      "name": "Descript",
+      "website": "https://www.descript.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "6114",
+      "name": "Educational Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "hubspot",
+      "air",
+      "gong",
+      "heygen",
+      "opusclip",
+      "base44",
+      "zapier",
+      "buffer",
+      "magic patterns",
+      "gamma",
+      "fiverr",
+      "fullcast",
+      "beehiv",
+      "wispr flow",
+      "profound",
+      "sprinklr",
+      "riverside",
+      "webflow",
+      "mirage/captions",
+      "pictory ai",
+      "jetbrains",
+      "relay.app",
+      "replit",
+      "adobe",
+      "github copilot",
+      "duolingo",
+      "lovable",
+      "descript"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.823,
+    "group_id": 510939
+   },
+   {
+    "id": 25436258,
+    "title": "Jacob Bank",
+    "url": "https://www.fillout.com/blog/jacob-bank",
+    "publisher": "Fillout",
+    "published_date": "2026-06-01T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5024,
+    "ai_summary": "Jacob Bank is the founder and CEO of Relay.app. He previously held a position at Google and founded Timeful. ",
+    "word_count": 32,
+    "author": "Homepricingsearchmake A Formopen Main Menuhomepricingmake A Formgo To Homehomeauthorsjacob Bankjacob Bankjacob Bank Is The Founder",
+    "countries": [],
+    "industries": [
+     {
+      "name": "BaaS Platforms & Sponsor Bank Enablement",
+      "code": "FSAGALAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [],
+    "company_mentions": [
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jacob bank"
+     ],
+     "location": [],
+     "product": [
+      "timeful",
+      "relay.app"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6141,
+    "group_id": 564510
+   },
+   {
+    "id": 25249957,
+    "title": "Relay: AI-Powered Automation That Works for You.",
+    "url": "https://quasa.io/video/relay-ai-powered-automation-that-works-for-you",
+    "publisher": "Quasa is a metaverse that unites people",
+    "published_date": "2026-05-28T04:45:12",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Relay is an AI-powered automation platform that integrates workflows, AI agents, and app connections to enable complex automation without coding. It is designed for various business departments and emphasizes ease of use, AI intelligence, and operational efficiency. ",
+    "word_count": 488,
+    "author": "",
+    "countries": [
+     "AUS",
+     "USA",
+     "EU"
+    ],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Integration-Centric Low-Code (Workflow + iPaaS)",
+      "code": "HDAEAKAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5182",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "usa",
+      "au"
+     ],
+     "product": [
+      "relay",
+      "zapier",
+      "make",
+      "lead"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7786,
+    "group_id": 593509
+   },
+   {
+    "id": 25277976,
+    "title": "Sales Process Automation Software: 25 New Tools to Try in 2026",
+    "url": "https://www.flowla.com/blog/sales-process-automation-software",
+    "publisher": "Flowla",
+    "published_date": "2026-05-22T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "This article is a curated buyer's guide listing 25 sales process automation tools across six categories \u2014 lead generation, AI sales assistants, CRM, CRM add-ons, workflow automation, and no-code integrations \u2014 aimed at helping revenue teams improve efficiency heading into 2026. The guide highlights how AI-native features are now standard across most tools, with the line between traditional automation and AI agents blurring rapidly. Featured tools include Flowla, Clay, UpLead, Artisan AI, Regie.ai, Attio, Lindy.ai, and others, with pricing, key features, and target customer segments detailed for each.",
+    "word_count": 4358,
+    "author": "Byelen Udovichenkomarch",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Operations for Demand Gen (Email/CRM Workflows)",
+      "code": "BPAFAKAM",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [],
+    "company_mentions": [
+     {
+      "uuid": "0000efr",
+      "name": "Default",
+      "website": "https://www.default.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006q2",
+      "name": "Regie.ai",
+      "website": "https://www.regie.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002ap3",
+      "name": "Cargo",
+      "website": "https://getcargo.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000273",
+      "name": "Relevance AI",
+      "website": "https://relevanceai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007zw",
+      "name": "Attention",
+      "website": "https://www.attention.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uky",
+      "name": "Flowla",
+      "website": "https://www.flowla.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003r",
+      "name": "Momentum",
+      "website": "https://www.momentum.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000kab",
+      "name": "Day AI",
+      "website": "https://day.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000gil",
+      "name": "Coefficient",
+      "website": "https://www.coefficient.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008j4h",
+      "name": "Capsule",
+      "website": "https://capsulecrm.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004u5",
+      "name": "Common Room",
+      "website": "https://www.commonroom.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005pb",
+      "name": "Artisan AI",
+      "website": "https://www.artisan.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002pzh",
+      "name": "Bella",
+      "website": "https://bellasales.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005ea",
+      "name": "Lindy",
+      "website": "https://www.lindy.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007vx",
+      "name": "Lantern",
+      "website": "https://www.withlantern.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000035s",
+      "name": "Sybill AI",
+      "website": "https://www.sybill.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004rm",
+      "name": "Unify",
+      "website": "https://www.unifygtm.com/get-started",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "flowla",
+      "hubspot",
+      "clay",
+      "cargo",
+      "uplead",
+      "lindy.ai",
+      "outreach",
+      "clearbit",
+      "artisan ai",
+      "jason ai",
+      "6sense",
+      "bella ai sales assistant",
+      "reply.io",
+      "salesforce",
+      "growth day.ai crm",
+      "flowla 2.0",
+      "smb jason ai",
+      "smb artisan ai",
+      "enterprise lantern workflow automation",
+      "enterprise cargo workflow automation",
+      "enterprise attention ai sales assistant",
+      "enterprise bella ai sales assistant",
+      "enterprise relay.app",
+      "enterprise attio crm",
+      "lindy.ai workflow automation",
+      "enterprise default workflow automation",
+      "entperise",
+      "smb winn.ai crm add-on",
+      "mid-market capsule crm",
+      "enterprise sellestial crm add-on",
+      "enterprise sybill crm add-on",
+      "enterprise relevance ai",
+      "enterprise momentum crm add-on",
+      "enterprise n8n no-code integrations",
+      "common room",
+      "unify",
+      "zapier",
+      "apollo",
+      "roomieai\u2122",
+      "zoominfo",
+      "person360\u2122",
+      "attio",
+      "attention",
+      "relevance ai",
+      "regie.ai",
+      "regieone",
+      "bella",
+      "ai sales assistant",
+      "google meet",
+      "zoom",
+      "anthropic",
+      "openai",
+      "momentum",
+      "winn.ai",
+      "sybill",
+      "day.ai",
+      "sellestial",
+      "capsule crm",
+      "troops.ai",
+      "slack",
+      "gmail",
+      "linkedin",
+      "default",
+      "coefficient",
+      "relay.app",
+      "n8n",
+      "lantern",
+      "make.com",
+      "flowla autopilot",
+      "google sheets",
+      "champion chaser",
+      "intent chaser",
+      "excel",
+      "lindy store"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7767,
+    "group_id": 2355052
+   },
+   {
+    "id": 40493135,
+    "title": "11 Gumloop Alternatives for AI Workflow Automation in 2026",
+    "url": "https://composio.dev/content/gumloop-alternatives",
+    "publisher": "Composio",
+    "published_date": "2026-05-05T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6556,
+    "ai_summary": "The article compares 11 Gumloop alternatives for AI workflow automation, including Composio Connect, Zapier, Make, n8n, and Workato. It evaluates each tool on integration depth, custom code, self-hosting, and governance, recommending Composio for integration issues and Zapier for reliable workflows. Selection depends on the specific constraint the workflow faces.",
+    "word_count": 3583,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Workflow-Oriented Integration & Orchestration",
+      "code": "HDAEAIAG",
+      "is_primary": false
+     },
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000akn",
+      "name": "Pipedream",
+      "website": "https://pipedream.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pso",
+      "name": "Activepieces",
+      "website": "https://www.activepieces.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002em",
+      "name": "Composio",
+      "website": "https://composio.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005ea",
+      "name": "Lindy",
+      "website": "https://www.lindy.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ags",
+      "name": "Vellum",
+      "website": "https://www.vellum.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cw",
+      "name": "Gumloop",
+      "website": "https://www.gumloop.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003y3b",
+      "name": "Make",
+      "website": "https://make.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "gumloop",
+      "zapier",
+      "workato",
+      "activepieces",
+      "vellum",
+      "composio connect",
+      "relay.app",
+      "codex",
+      "lindy ai",
+      "pipedream",
+      "openclaw",
+      "claude code",
+      "hermes",
+      "slack",
+      "gmail",
+      "github",
+      "n8n",
+      "crms",
+      "claude",
+      "oasis",
+      "make",
+      "chatgpt",
+      "connect mcp",
+      "relay",
+      "zoom",
+      "hubspot",
+      "outlook",
+      "salesforce",
+      "composio",
+      "workday",
+      "servicenow",
+      "netsuite"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.732,
+    "group_id": 14099024
+   },
+   {
+    "id": 24771728,
+    "title": "State of AI Agent Builders 2026: What 770 Verified G2 Reviews and 7 Leading Vendors Reveal",
+    "url": "https://learn.g2.com/state-of-ai-agent-builders-2026",
+    "publisher": "Learn Hub",
+    "published_date": "2026-04-30T22:18:47",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The report discusses the current state of AI agent builders in 2026 based on 770 verified reviews, highlighting the importance of orchestration layers, API integration, and continuous monitoring for successful deployment. Buyers value intelligent integration, ease of use, and automation, with orchestration being critical for scaling multi-agent systems. The report indicates real benefits such as hour savings and improved customer support, emphasizing strategic investment in system architecture.",
+    "word_count": 2090,
+    "author": "Adam Crivello",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006y1g",
+      "name": "YourGPT",
+      "website": "https://yourgpt.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "000045k",
+      "name": "OutSystems",
+      "website": "https://www.outsystems.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a39",
+      "name": "Botpress",
+      "website": "https://botpress.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ms3c",
+      "name": "AutoHive",
+      "website": "https://www.autohive.shop/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000y8",
+      "name": "SnapLogic",
+      "website": "http://www.snaplogic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "zheng li",
+      "chris ward",
+      "nora nguyen",
+      "jacob bank",
+      "andres suarez",
+      "nuno borges",
+      "adam crivello",
+      "hardik jain"
+     ],
+     "location": [],
+     "product": [
+      "ai agent builders",
+      "yourgpt ai",
+      "ai agent builder",
+      "zapier",
+      "asana",
+      "notion",
+      "uipath",
+      "workato"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8687,
+    "group_id": 2264723
+   },
+   {
+    "id": 24182732,
+    "title": "State of AI Agent Builders 2026: What 770 Verified G2 Reviews and 7 Leading Vendors Reveal",
+    "url": "https://learn.g2.com/state-of-ai-agent-builders-2026?hsLang=en",
+    "publisher": "Learn Hub",
+    "published_date": "2026-04-30T22:18:47",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "G2 published its 2026 State of AI Agent Builders Report analyzing 770 verified reviews and surveying seven vendors to assess buyer sentiment, vendor priorities, and market positioning in the AI agent builder category. The report found 91% of reviews are positive-leaning with an average 4.5/5 star rating, while vendors converged on orchestration as the central technical priority and identified API integration failures as the leading cause of workflow failures. The G2 Grid reveals the market remains unconsolidated with over 20 vendors competing in the high performers cluster, and the next 12 to 18 months will determine whether leadership consolidates or fragments further.",
+    "word_count": 2103,
+    "author": "Adam Crivello",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005e2n",
+      "name": "Bots",
+      "website": "https://www.bots-inc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000y8",
+      "name": "SnapLogic",
+      "website": "http://www.snaplogic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006y1g",
+      "name": "YourGPT",
+      "website": "https://yourgpt.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000045k",
+      "name": "OutSystems",
+      "website": "https://www.outsystems.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ms3c",
+      "name": "AutoHive",
+      "website": "https://www.autohive.shop/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "adam crivello",
+      "chris ward",
+      "nora nguyen",
+      "andres suarez",
+      "hardik jain"
+     ],
+     "location": [],
+     "product": [
+      "ai agent builders",
+      "yourgpt ai",
+      "zapier",
+      "asana",
+      "notion",
+      "uipath",
+      "workato",
+      "ai agent builder"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8905,
+    "group_id": 778438
+   }
+  ],
+  "credits_consumed": 0.29
+ },
+ "mode": "LIVE"
+}

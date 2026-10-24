@@ -1,0 +1,7441 @@
+{
+ "fetched_at": "2026-10-24T11:46:22",
+ "params": {
+  "company": "attio.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 44,
+  "limit": 50,
+  "offset": 0,
+  "count": 44,
+  "data": [
+   {
+    "id": 41091685,
+    "title": "Going Headless: Claudeforce vs. Replit vs. Lovable, Agents Picking Our Vendors, and Two of Our Agents Built Their Own Inbox to Talk Behind Our Back: The Agents #016",
+    "url": "https://www.saastr.com/going-headless-claudeforce-vs-replit-vs-lovable-agents-picking-our-vendors-and-two-of-our-agents-built-their-own-inbox-to-talk-behind-our-back-the-agents-016/",
+    "publisher": "Saastr",
+    "published_date": "2026-10-16T16:24:58",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A podcast episode compared three headless Salesforce tools\u2014Claudeforce, Replit, and Lovable\u2014on the same data, finding they gave identical factual answers but different setup costs and action plans. The episode also covered agents picking vendors, with one agent recommending Render and another advising to stay on Salesforce.",
+    "word_count": 3883,
+    "author": "Jason Lemkin",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002e18",
+      "name": "SaaStr",
+      "website": "http://www.saastr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ou",
+      "name": "Railway",
+      "website": "https://railway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c9m",
+      "name": "Render",
+      "website": "https://render.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001369",
+      "name": "podcast"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "amelia",
+      "david",
+      "sam blond",
+      "jasper",
+      "anton",
+      "amjad",
+      "jason",
+      "claude",
+      "kody",
+      "amjad masad"
+     ],
+     "location": [
+      "monaco"
+     ],
+     "product": [
+      "lovable",
+      "claudeforce",
+      "replit",
+      "10k",
+      "opus",
+      "claude",
+      "frontier",
+      "salesforce",
+      "google cloud",
+      "ledger",
+      "agentforce",
+      "artisan",
+      "saastr aiconnect",
+      "quickbooks",
+      "bill.com",
+      "render",
+      "vercel",
+      "resend",
+      "saastr.ai",
+      "railway",
+      "hubspot",
+      "clerk",
+      "sendgrid",
+      "attio",
+      "saastr ai",
+      "x",
+      "affinity",
+      "chatgpt",
+      "connect",
+      "muse",
+      "peec",
+      "aeo",
+      "calendly",
+      "replit v3"
+     ],
+     "event": [
+      "dreamforce",
+      "saastr ai",
+      "sf tech week"
+     ]
+    },
+    "newsworthiness_score": 0.7015,
+    "group_id": 14547566
+   },
+   {
+    "id": 40465750,
+    "title": "6 Best Attio Integrations for GTM Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/attio-integrations",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Attio's six best integrations for GTM teams are detailed, covering Slack, Segment, Stripe, Outreach, Zapier, and Linear. Each integration's capabilities, pricing, and target users are described, with Stripe syncing billing data and Segment streaming product behavior into CRM records.",
+    "word_count": 5608,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Journey Orchestration & Campaign Management",
+      "code": "BPAFAFAF",
+      "is_primary": true
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     },
+     {
+      "name": "Real-Time / Streaming Data Integration (CDC & Event Streaming)",
+      "code": "HDAEACAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003bk",
+      "name": "Outreach",
+      "website": "https://www.outreach.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002eck",
+      "name": "Segment",
+      "website": "http://segment.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "attio",
+      "gmail",
+      "outlook",
+      "google calendar sync",
+      "slack",
+      "zapier",
+      "linear",
+      "mixmax",
+      "airtable",
+      "notion",
+      "lemlist",
+      "pipedream",
+      "microsoft teams",
+      "make",
+      "google calendar",
+      "segment",
+      "outreach",
+      "stripe invoicing",
+      "stripe subscriptions",
+      "amplify core",
+      "amplify pro",
+      "amplify plus",
+      "plus",
+      "google sheets",
+      "hubspot",
+      "typeform",
+      "salesforce",
+      "stripe",
+      "calendly",
+      "zoominfo",
+      "mailchimp",
+      "zoominfo lite",
+      "excel",
+      "import2",
+      "pipedrive",
+      "zoho"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.805,
+    "group_id": 14076104
+   },
+   {
+    "id": 40464396,
+    "title": "7 Best Attio Alternatives for Teams [July 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/attio-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9027,
+    "ai_summary": "The article compares seven CRM alternatives to Attio, including ZoomInfo, Salesforce, HubSpot, Pipedrive, folk, Copper, and Twenty, each targeting specific gaps like data scale, AI agents, or marketing automation. It details features, pricing, and use cases for each, noting ZoomInfo's 500M contacts and Salesforce's Agentforce.",
+    "word_count": 6753,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000l5o",
+      "name": "folk",
+      "website": "https://www.folk.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000abq",
+      "name": "Copper",
+      "website": "http://www.copper.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "chelsea kenyon"
+     ],
+     "location": [
+      "london"
+     ],
+     "product": [
+      "attio",
+      "zoominfo",
+      "pipedrive",
+      "hubspot",
+      "copper",
+      "folk",
+      "twenty",
+      "salesforce",
+      "gmail",
+      "linkedin",
+      "appexchange",
+      "claude",
+      "cursor",
+      "agentforce",
+      "lusha",
+      "apollo.io",
+      "gtm studio",
+      "anthropic claude",
+      "gtm workspace",
+      "chatgpt",
+      "mcp",
+      "tableau",
+      "apis",
+      "microsoft dynamics 365",
+      "tableau next",
+      "demandbase",
+      "agentexchange",
+      "linkedin sales navigator",
+      "outreach",
+      "data pro",
+      "gong",
+      "marketo",
+      "anypoint",
+      "starter suite",
+      "workday",
+      "data concierge",
+      "docusign",
+      "data inspector",
+      "slack enterprise+",
+      "pro suite",
+      "freshsales",
+      "lemlist",
+      "marketing hub professional",
+      "apollo",
+      "sales hub professional",
+      "mobile crm",
+      "crm",
+      "dropcontact",
+      "folkx chrome extension",
+      "justcall",
+      "ringcentral",
+      "whatsapp",
+      "aircall",
+      "prospeo",
+      "pulse",
+      "close",
+      "clearbit",
+      "google meet",
+      "leadbooster",
+      "sales navigator",
+      "datagma",
+      "zapier",
+      "streak",
+      "folkx",
+      "capsule crm",
+      "facebook",
+      "asana",
+      "instagram",
+      "perplexity",
+      "monday.com",
+      "linear",
+      "capsule",
+      "itattio",
+      "espocrm",
+      "suitecrm",
+      "cloud pro",
+      "google calendar",
+      "caldav",
+      "self-hosted",
+      "cloud organization"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7511,
+    "group_id": 14076123
+   },
+   {
+    "id": 40464226,
+    "title": "7 Best Freshsales Alternatives for Sales Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/freshsales-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The article compares seven CRM alternatives to Freshsales, including ZoomInfo, Salesforce, HubSpot, Pipedrive, Close, Zoho, and Attio. It highlights ZoomInfo's 500M contacts and buyer intent signals, Salesforce's 7,000+ app ecosystem, and HubSpot's free tier with 2,000+ integrations. The guide aims to help teams choose the right fit as their business grows.",
+    "word_count": 6685,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000efod",
+      "name": "Freshsales",
+      "website": "https://www.freshworks.com/freshsales-crm/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004vi1",
+      "name": "Close",
+      "website": "https://www.close.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "cfo"
+     ],
+     "location": [],
+     "product": [
+      "freshsales",
+      "pipedrive",
+      "zoominfo",
+      "zoho crm",
+      "attio",
+      "close",
+      "salesforce sales cloud",
+      "hubspot sales hub",
+      "freddy ai",
+      "freshmarketer",
+      "freshdesk",
+      "email",
+      "gtm studio",
+      "agentforce sales",
+      "chorus",
+      "appexchange marketplace",
+      "hubspot",
+      "agentforce ai agents",
+      "gtm workspace",
+      "microsoft dynamics 365",
+      "oracle sales cloud",
+      "agentforce 1 sales",
+      "agentforce",
+      "appexchange",
+      "breeze ai",
+      "agentexchange access enterprise",
+      "tableau",
+      "slack",
+      "atlas",
+      "pro suite",
+      "brevo",
+      "engagebay",
+      "nutshell",
+      "monday crm",
+      "salesloft",
+      "outreach",
+      "smart docs",
+      "leadbooster",
+      "bitrix24",
+      "solo",
+      "zoho desk",
+      "essentials",
+      "twilio",
+      "zia ai",
+      "sandbox",
+      "growth",
+      "campaigns",
+      "folk",
+      "clay",
+      "blueprint"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.793,
+    "group_id": 14076123
+   },
+   {
+    "id": 40463436,
+    "title": "7 Best Maximizer CRM Alternatives [July 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/maximizer-crm-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5494,
+    "ai_summary": "Seven CRM alternatives to Maximizer are evaluated, including ZoomInfo, Salesforce, HubSpot, Pipedrive, Zoho, Redtail, and Attio. Each addresses specific gaps like B2B data, enterprise customization, or free tiers. Pricing and use cases are detailed for each tool.",
+    "word_count": 6870,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [
+     "CAN",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008dgj",
+      "name": "Maximizer CRM",
+      "website": "https://www.Maximizer.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000zpik",
+      "name": "Redtail Technology",
+      "website": "http://corporate.redtailtechnology.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8880",
+      "name": "AMERICAN DEPOSITARY RECEIPTS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "william kenimer",
+      "dominik facher",
+      "jerry wilson"
+     ],
+     "location": [
+      "us",
+      "vancouver, canada",
+      "canadian",
+      "north america",
+      "canada",
+      "ios",
+      "us-based"
+     ],
+     "product": [
+      "pipedrive",
+      "hubspot crm",
+      "redtail crm",
+      "zoho crm",
+      "zoominfo",
+      "maximizer crm",
+      "attio",
+      "salesforce sales cloud",
+      "outlook",
+      "microsoft 365",
+      "maximizer",
+      "apollo.io",
+      "gtm studio",
+      "gtm workspace",
+      "chat",
+      "chorus",
+      "appexchange",
+      "agentforce sales",
+      "abm lite",
+      "hubspot",
+      "agentforce ai agents",
+      "abm enterprise",
+      "agentforce",
+      "slack",
+      "tableau next",
+      "activecampaign",
+      "dynamics 365",
+      "mailchimp",
+      "salesforce spiff",
+      "enterprise",
+      "ios",
+      "android",
+      "pro suite",
+      "power platform",
+      "freshsales",
+      "copper crm",
+      "breeze assistant",
+      "monday crm",
+      "salessignals",
+      "lite",
+      "zoho one",
+      "whatsapp business",
+      "salesforce financial services cloud",
+      "redtail speak",
+      "monday.com",
+      "wealthbox crm",
+      "emoney advisor",
+      "tamarac",
+      "moneyguidepro",
+      "orion",
+      "wealthbox",
+      "black diamond",
+      "zoho",
+      "rightcapital",
+      "redtail",
+      "affinity crm",
+      "folk crm",
+      "emoney",
+      "google calendar",
+      "office 365"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7686,
+    "group_id": 14076192
+   },
+   {
+    "id": 40463434,
+    "title": "7 Best Salesforce Alternatives for Revenue Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/salesforce-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8907,
+    "ai_summary": "Seven Salesforce alternatives for revenue teams are profiled, including ZoomInfo, HubSpot, Microsoft Dynamics 365, Zoho CRM, Pipedrive, Bitrix24, and Attio. ZoomInfo's GTM Context Graph and B2B data are highlighted, with case studies citing 39% of pipeline attributed to its signals. Pricing and use cases for each tool are provided.",
+    "word_count": 7624,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02mom49",
+      "name": "Bitrix24",
+      "website": "https://bitrix24.by",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "004xh7a",
+      "name": "Microsoft Dynamics 365",
+      "website": "https://www.msd365.in/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "rep"
+     ],
+     "location": [
+      "179 countries"
+     ],
+     "product": [
+      "bitrix24",
+      "pipedrive",
+      "zoominfo",
+      "hubspot",
+      "attio",
+      "zoho crm",
+      "microsoft dynamics 365",
+      "agentforce",
+      "microsoft 365",
+      "slack",
+      "salesforce",
+      "data 360",
+      "customer 360",
+      "appexchange",
+      "data cloud",
+      "marketing cloud",
+      "gtm studio",
+      "service cloud",
+      "gtm workspace",
+      "zoominfo lite",
+      "abm lite",
+      "websights lite",
+      "sap crm",
+      "oracle cx cloud",
+      "chorus",
+      "mcp",
+      "reachout chrome extension",
+      "abm enterprise tiers",
+      "chat",
+      "apis",
+      "freshsales",
+      "breeze ai",
+      "breeze ai writing assistant",
+      "service hub",
+      "starter customer platform",
+      "marketing hub",
+      "sales hub",
+      "mulesoft",
+      "salesforce shield",
+      "sales premium",
+      "outlook",
+      "dynamics 365",
+      "sharepoint",
+      "insightly",
+      "zoho one",
+      "zoho analytics",
+      "zoho desk",
+      "zoho campaigns",
+      "zoho books",
+      "business central essentials",
+      "customer service professional",
+      "blueprint",
+      "copper crm",
+      "gmail",
+      "google meet",
+      "zia",
+      "zoom",
+      "streak",
+      "zoho",
+      "leadbooster",
+      "teams",
+      "kanban",
+      "scrum",
+      "google drive",
+      "reevo",
+      "twenty",
+      "microsoft dynamics"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9685,
+    "group_id": 14076191
+   },
+   {
+    "id": 40463343,
+    "title": "7 Best Salesmate Alternatives in July 2026",
+    "url": "https://pipeline.zoominfo.com/sales/salesmate-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9067,
+    "ai_summary": "The article evaluates seven CRM alternatives to Salesmate, including ZoomInfo, HubSpot, Pipedrive, Freshsales, Close, Zoho, and Attio, each targeting specific needs like B2B data, enterprise governance, or pipeline visibility. ZoomInfo offers 500M contacts and buyer intent signals, while HubSpot provides unified cross-functional data. Pricing and use cases are detailed for each tool.",
+    "word_count": 6540,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007evv",
+      "name": "Salesmate",
+      "website": "https://www.salesmate.io/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000efod",
+      "name": "Freshsales",
+      "website": "https://www.freshworks.com/freshsales-crm/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "cfo",
+      "vp of finance",
+      "vp of engineering"
+     ],
+     "location": [
+      "north america"
+     ],
+     "product": [
+      "salesmate",
+      "freshsales",
+      "pipedrive",
+      "zoominfo",
+      "attio",
+      "zoho crm",
+      "hubspot sales hub",
+      "close",
+      "zapier",
+      "slack",
+      "slas",
+      "gtm workspace",
+      "chorus",
+      "lusha",
+      "apollo.io",
+      "anthropic claude",
+      "chat",
+      "breeze",
+      "make",
+      "abm lite",
+      "abm enterprise",
+      "microsoft dynamics 365",
+      "salesforce sales cloud",
+      "sales hub",
+      "hubspot",
+      "ios",
+      "android",
+      "activecampaign",
+      "copper",
+      "lite",
+      "ultimate",
+      "freddy ai",
+      "dropbox",
+      "keap",
+      "orum",
+      "kixie",
+      "freshmarketer",
+      "capsule crm",
+      "freshdesk",
+      "freddy",
+      "threshold",
+      "chloe ai sales agent",
+      "chloe ai",
+      "bitrix24",
+      "hubspot crm",
+      "zoho one",
+      "chloe",
+      "breakcold",
+      "folk crm",
+      "canvas design studio",
+      "hightouch",
+      "blueprint",
+      "zoho"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7834,
+    "group_id": 14076123
+   },
+   {
+    "id": 40463196,
+    "title": "7 Best Pipedrive Alternatives for Revenue Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/pipedrive-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6465,
+    "ai_summary": "This guide presents seven CRM alternatives to Pipedrive tailored for different revenue team needs, including ZoomInfo for B2B intelligence, Salesforce for enterprise automation, and HubSpot for unified marketing and sales. Each option addresses specific limitations of Pipedrive's pipeline-first design, such as the need for deeper data enrichment, autonomous AI agents, or built-in telephony. The article provides detailed comparisons of features, pricing structures, and ideal use cases to help businesses select the most appropriate platform for their growth stage.",
+    "word_count": 8197,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000efod",
+      "name": "Freshsales",
+      "website": "https://www.freshworks.com/freshsales-crm/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000abq",
+      "name": "Copper",
+      "website": "http://www.copper.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "ashley wade",
+      "dominik facher",
+      "ian brodie"
+     ],
+     "location": [
+      "estonia"
+     ],
+     "product": [
+      "pipedrive",
+      "zoominfo",
+      "freshsales",
+      "zoho crm",
+      "attio",
+      "copper crm",
+      "hubspot crm",
+      "salesforce sales cloud",
+      "gmail",
+      "apollo.io",
+      "lusha",
+      "agentforce sales",
+      "gtm studio",
+      "gtm workspace",
+      "hubspot",
+      "websights lite",
+      "microsoft dynamics 365",
+      "agentforce 1 sales",
+      "microsoft 365",
+      "appexchange",
+      "agentforce for sales",
+      "pro suite",
+      "slack",
+      "activecampaign",
+      "monday crm",
+      "agentforce",
+      "breeze ai",
+      "twilio",
+      "justcall",
+      "aircall",
+      "freshchat",
+      "freshdesk",
+      "freddy ai",
+      "zoho bigin",
+      "close crm",
+      "freddy",
+      "google calendar",
+      "enterprise",
+      "pro tier",
+      "chrome extension",
+      "copper",
+      "nethunt crm",
+      "asana",
+      "coppergpt",
+      "trello",
+      "whatsapp business",
+      "meet",
+      "zia ai",
+      "zia ai assistant",
+      "crm",
+      "email",
+      "affinity",
+      "folk crm",
+      "blueprint",
+      "zia",
+      "zoom",
+      "google meet",
+      "pulse",
+      "whatsapp",
+      "hightouch",
+      "snowflake",
+      "segment",
+      "redshift",
+      "polytomic",
+      "plus",
+      "allclients",
+      "drive"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.727,
+    "group_id": 14076123
+   },
+   {
+    "id": 39520552,
+    "title": "Google Cloud launches Spanner queues to give AI agents transactional messaging",
+    "url": "https://cryptobriefing.com/google-cloud-spanner-queues-ai-agents/",
+    "publisher": "Crypto Briefing",
+    "published_date": "2026-10-02T16:25:57",
+    "sentiment": "Positive",
+    "sentiment_score": 0.974,
+    "ai_summary": "Google Cloud announced Spanner queues are generally available, enabling atomic enqueue of messages within Spanner transactions. The feature provides exactly-once processing, scheduled delivery, and SQL-based pull consumption, targeting AI agent workflows. Attio endorsed the feature, and it follows recent AI-oriented Spanner additions.",
+    "word_count": 624,
+    "author": "Diego Almada Lopez",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Database-as-a-Service (DBaaS) Platforms",
+      "code": "HDAEAAAN",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000d34",
+      "name": "Google Cloud",
+      "website": "https://cloud.google.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "diego almada lopez"
+     ],
+     "location": [],
+     "product": [
+      "spanner",
+      "gemini",
+      "langchain"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.927,
+    "group_id": 13141751
+   },
+   {
+    "id": 36196457,
+    "title": "Ramp enters UK market with regulated payments | The Paypers",
+    "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/ramp-launches-uk-operations-after-billhop-deal",
+    "publisher": "The Paypers",
+    "published_date": "2026-09-18T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9752,
+    "ai_summary": "Ramp, a US-based corporate finance platform, launched its expense management and payment services in the UK, its first expansion outside North America. The entry relies on its March 2026 acquisition of Billhop, which granted regulated payments authorization in the UK and EU. UK companies including ElevenLabs and Attio have already onboarded, and Ramp is working with Visa to support its corporate card offering.",
+    "word_count": 455,
+    "author": "Claudia Pincovski",
+    "countries": [
+     "GBR",
+     "SWE"
+    ],
+    "industries": [
+     {
+      "name": "Expense Management & Employee Reimbursements",
+      "code": "FSAGAJAE",
+      "is_primary": true
+     },
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000zgh",
+      "name": "Billhop",
+      "website": "https://billhop.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jacob wallenberg"
+     ],
+     "location": [
+      "london",
+      "sweden",
+      "stockholm",
+      "canada",
+      "uk",
+      "north america"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11315250
+   },
+   {
+    "id": 36064992,
+    "title": "Ramp Launches UK Platform for Smarter Business Spend",
+    "url": "https://fintechmagazine.com/news/ramp-launches-uk-platform-for-smarter-business-spend",
+    "publisher": "of FinTech & Banking News",
+    "published_date": "2026-09-17T15:13:15",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp launched its corporate finance platform in the UK, its first major expansion outside North America, with regulated payments and AI token spend management. The platform targets AI-led businesses, with early adopters including ElevenLabs and Attio. Ramp's UK cards are issued by Stripe Payments UK, and the company has over 70,000 global customers.",
+    "word_count": 882,
+    "author": "Maya Derrick",
+    "countries": [
+     "GBR",
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Tokenization Platforms (RWA, Securities, Funds)",
+      "code": "FSAGAMAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000zgh",
+      "name": "Billhop",
+      "website": "https://billhop.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jacob wallenberg",
+      "roberto restrepo",
+      "maciej mylik",
+      "maya derrick"
+     ],
+     "location": [
+      "canada",
+      "uk",
+      "london",
+      "stockholm",
+      "europe",
+      "north america",
+      "european union",
+      "britain",
+      "eu"
+     ],
+     "product": [
+      "router",
+      "ramp stack",
+      "shopify",
+      "ramp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9984,
+    "group_id": 11315250
+   },
+   {
+    "id": 35120487,
+    "title": "Ramp Launches in the UK",
+    "url": "https://finance.yahoo.com/small-business/articles/ramp-launches-uk-100000069.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-09-15T10:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp launched its corporate finance platform in the UK, making it available to UK-based businesses. The company reports over 70,000 customers, with median savings of 5% on expenses and 16% revenue growth. It partnered with Visa to support corporate card offerings.",
+    "word_count": 689,
+    "author": "PR Newswire",
+    "countries": [
+     "GBR",
+     "SWE"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Expense Management & Employee Reimbursements",
+      "code": "FSAGAJAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000zgh",
+      "name": "Billhop",
+      "website": "https://billhop.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jacob wallenberg",
+      "roberto restrepo",
+      "maciej mylik",
+      "lucy demery"
+     ],
+     "location": [
+      "stockholm",
+      "london",
+      "uk",
+      "canada",
+      "europe",
+      "north america"
+     ],
+     "product": [
+      "ramp",
+      "billhop"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9975,
+    "group_id": 11315250
+   },
+   {
+    "id": 35115732,
+    "title": "Ramp Launches in the UK",
+    "url": "https://www.prnewswire.com/news-releases/ramp-launches-in-the-uk-302878539.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-09-15T10:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp launched its corporate finance platform in the UK, making it available to UK-based businesses. The company, which serves over 70,000 companies, reports that the median customer saves 5% on expenses and grows revenue 16% in the first year. Ramp also acquired Billhop in March 2026 to gain regulated payments authorization in the UK and EU.",
+    "word_count": 837,
+    "author": "",
+    "countries": [
+     "GBR",
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Card Issuing Platforms (Issuer Processing)",
+      "code": "FSAGABAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000zgh",
+      "name": "Billhop",
+      "website": "https://billhop.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jacob wallenberg",
+      "roberto restrepo",
+      "maciej mylik",
+      "lucy demery"
+     ],
+     "location": [
+      "stockholm",
+      "london",
+      "uk",
+      "canada",
+      "europe",
+      "north america"
+     ],
+     "product": [
+      "router",
+      "stablecoin payments",
+      "ramp stack",
+      "ramp",
+      "billhop",
+      "token spend management"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9939,
+    "group_id": 11315250
+   },
+   {
+    "id": 39695008,
+    "title": "Ramp launches in UK, trumpets AI token spend platform",
+    "url": "https://tech.eu/2026/09/15/ramp-launches-in-uk-nabs-elevenlabs-as-a-client-trumpets-financial-control-ai-token-platform/",
+    "publisher": "Tech.eu",
+    "published_date": "2026-09-15T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp launched in the UK, its first non-North American market, after acquiring Billhop for EU and UK payments authorization. It added ElevenLabs as a client and promotes AI token spend tools, citing 21x growth in AI spending since June 2025. The company targets UK startups, with over 70,000 customers including Visa and Uber.",
+    "word_count": 381,
+    "author": "Cate Lawrence",
+    "countries": [
+     "GBR",
+     "SWE",
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Expense Management & Employee Reimbursements",
+      "code": "FSAGAJAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000zgh",
+      "name": "Billhop",
+      "website": "https://billhop.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5162",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jacob wallenberg"
+     ],
+     "location": [
+      "london",
+      "canada",
+      "uk",
+      "europe",
+      "north america",
+      "sweden",
+      "us"
+     ],
+     "product": [
+      "figma",
+      "corporate card",
+      "ai token spend platform",
+      "bill pay"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11315250
+   },
+   {
+    "id": 11850574,
+    "title": "LinkedIn",
+    "url": "https://linkedin.com/company/attio",
+    "publisher": "LinkedIn",
+    "published_date": "2026-08-30T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Attio is hiring a Director of Security & Trust to lead its security function, including product security, corporate security, and incident response. The role requires experience with vulnerability management, supply chain security, and securing SaaS platforms, and the candidate will build and lead the security team.",
+    "word_count": 285,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Cybersecurity Staffing",
+      "code": "BPACADAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     },
+     {
+      "code": "20001361",
+      "name": "cyber warfare"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "608",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561621",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56162",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.7784,
+    "group_id": 11341004
+   },
+   {
+    "id": 32552200,
+    "title": "Attio API Review [August 2026]: Limits & ZoomInfo",
+    "url": "https://pipeline.zoominfo.com/sales/attio-api",
+    "publisher": "Zoominfo",
+    "published_date": "2026-08-20T10:43:35",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5308,
+    "ai_summary": "A technical review compares the Attio API, which focuses on CRM record management and workflow automation, with the ZoomInfo Enterprise API, which provides B2B data intelligence and enrichment capabilities. The analysis highlights that while Attio offers robust internal data handling and webhook systems, it lacks external search and enrichment endpoints, necessitating integration with ZoomInfo for comprehensive go-to-market workflows.",
+    "word_count": 4202,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Webhooks, Eventing & Message Streaming",
+      "code": "BPAMAOAE",
+      "is_primary": true
+     },
+     {
+      "name": "API Observability, Testing & Monitoring",
+      "code": "BPAMAOAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "https",
+      "canada"
+     ],
+     "product": [
+      "attio api",
+      "attio's api",
+      "people",
+      "chatgpt",
+      "cursor",
+      "claude desktop",
+      "claude.ai",
+      "scim 2.0",
+      "scim",
+      "postman",
+      "claude",
+      "attio"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7093,
+    "group_id": 8728288
+   },
+   {
+    "id": 32552139,
+    "title": "6 Best Attio Integrations for GTM Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/attio-integrations",
+    "publisher": "Zoominfo",
+    "published_date": "2026-08-20T10:43:35",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Attio, an AI-native CRM, has seen significant adoption among startups and growth teams, accumulating 5,000 paying customers and investment backing from firms like GV, Redpoint Ventures, and Balderton Capital. The article outlines the six best integrations for Attio that enhance its functionality, including connections with platforms like Slack, Stripe, and Zapier to streamline customer relationship management and sales engagement. Attio's strategic positioning as an adaptable CRM tool is further highlighted through its integration ecosystem, which aims to enhance go-to-market efficiency. ",
+    "word_count": 5607,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003bk",
+      "name": "Outreach",
+      "website": "https://www.outreach.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "4513",
+      "name": "AIR COURIER SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "attio",
+      "gmail",
+      "outlook",
+      "google calendar sync",
+      "slack",
+      "zapier",
+      "linear",
+      "mixmax",
+      "airtable",
+      "notion",
+      "lemlist",
+      "pipedream",
+      "microsoft teams",
+      "make",
+      "google calendar",
+      "segment",
+      "outreach",
+      "stripe invoicing",
+      "stripe subscriptions",
+      "amplify core",
+      "amplify pro",
+      "amplify plus",
+      "plus",
+      "google sheets",
+      "hubspot",
+      "typeform",
+      "salesforce",
+      "stripe",
+      "calendly",
+      "zoominfo",
+      "mailchimp",
+      "zoominfo lite",
+      "excel",
+      "import2",
+      "pipedrive",
+      "zoho",
+      "mcp server"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8051,
+    "group_id": 8728230
+   },
+   {
+    "id": 32806381,
+    "title": "Tech Tuesday: Best CRMs in 2026",
+    "url": "https://dynamicbusiness.com/featured/tech-tuesday/tech-tuesday-best-crms-in-2026.html",
+    "publisher": "Dynamic Business",
+    "published_date": "2026-08-18T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9952,
+    "ai_summary": "The article reviews 27 CRM platforms available in 2026, analyzing market shifts driven by AI integration, the bifurcation between all-in-one and specialist tools, and industry-specific vertical positioning. It categorizes solutions into six buyer profiles, highlighting Salesforce as the enterprise benchmark, HubSpot for scaling companies, and specialized tools like Close for inside sales or Copper for Google Workspace users. The guide emphasizes that there is no single best CRM, advising organizations to select platforms based on team size, sales motion, and specific operational requirements. ",
+    "word_count": 11623,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004vi1",
+      "name": "Close",
+      "website": "https://www.close.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003ew",
+      "name": "Affinity",
+      "website": "https://affinity.co/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002kr1",
+      "name": "Salesflare",
+      "website": "https://salesflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002f5",
+      "name": "HoneyBook",
+      "website": "http://www.honeybook.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "mazi"
+     ],
+     "location": [
+      "european",
+      "eu",
+      "australia"
+     ],
+     "product": [
+      "salesflare",
+      "close",
+      "copper",
+      "pipedrive",
+      "affinity",
+      "attio",
+      "honeybook",
+      "salesforce sales cloud",
+      "zendesk sell",
+      "apollo.io",
+      "einstein gpt",
+      "hubspot",
+      "appexchange",
+      "agentforce",
+      "hubspot breeze ai",
+      "salesforce",
+      "hubspot crm",
+      "microsoft dynamics 365 sales",
+      "outlook",
+      "microsoft 365",
+      "power apps",
+      "linkedin sales navigator",
+      "power bi",
+      "slack",
+      "power automate",
+      "sharepoint",
+      "power platform",
+      "azure",
+      "mobile app",
+      "zoho crm",
+      "zoho desk",
+      "zoho campaigns",
+      "zoho books",
+      "zoho analytics",
+      "freshsales",
+      "zapier",
+      "google workspace",
+      "monday crm",
+      "freshdesk",
+      "freshmarketer",
+      "freshworks",
+      "gmail",
+      "monday.com",
+      "nutshell",
+      "quickbooks",
+      "sell",
+      "folk",
+      "nimble",
+      "brevo",
+      "keap",
+      "pro plan",
+      "sendinblue",
+      "highlevel",
+      "campaign builder",
+      "sugarcrm",
+      "creatio",
+      "sugarpredict",
+      "sugar sell",
+      "netsuite crm",
+      "sap sales cloud",
+      "sap commerce cloud",
+      "sap s/4hana",
+      "netsuite erp",
+      "dynamics",
+      "netsuite",
+      "odoo crm",
+      "calendly",
+      "wave",
+      "docusign",
+      "odoo online",
+      "less annoying crm",
+      "streak",
+      "activecampaign",
+      "keap crm",
+      "microsoft dynamics",
+      "zendesk",
+      "smbs",
+      "dynamics 365",
+      "zoho",
+      "crms"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8727,
+    "group_id": 9273477
+   },
+   {
+    "id": 40463435,
+    "title": "7 Best HubSpot Alternatives to Consider in 2026",
+    "url": "https://pipeline.zoominfo.com/sales/hubspot-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-26T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5988,
+    "ai_summary": "Seven HubSpot alternatives are compared, including ZoomInfo for B2B data, Salesforce for enterprise CRM, and Zoho CRM for flat per-user pricing. Each tool addresses specific HubSpot limitations such as contact-based pricing or limited customization. The guide recommends pairing tools with HubSpot or replacing it entirely based on business needs.",
+    "word_count": 6575,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     },
+     {
+      "name": "CRM Data Quality, Enrichment & CDP-Adjacent CRM",
+      "code": "HDAEAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005th",
+      "name": "ActiveCampaign",
+      "website": "http://www.activecampaign.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006djy",
+      "name": "EngageBay",
+      "website": "https://www.engagebay.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541890",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "8700",
+      "name": "SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher"
+     ],
+     "location": [
+      "canada"
+     ],
+     "product": [
+      "pipedrive",
+      "engagebay",
+      "hubspot",
+      "zoominfo",
+      "activecampaign",
+      "zoho crm",
+      "attio",
+      "salesforce",
+      "breeze ai layer",
+      "microsoft dynamics 365",
+      "breeze",
+      "agentforce",
+      "appexchange",
+      "breeze studio",
+      "breeze ai",
+      "websights lite",
+      "atlas",
+      "oracle cx",
+      "accelo",
+      "freshsales",
+      "insightly",
+      "canvas design studio",
+      "zia ai assistant",
+      "slack enterprise",
+      "tableau next",
+      "zia ai",
+      "microsoft 365",
+      "zoho one bundle",
+      "close",
+      "asana",
+      "trello",
+      "leadbooster",
+      "klaviyo",
+      "brevo",
+      "starter",
+      "bitrix24",
+      "zoho crm free",
+      "google meet",
+      "zoom",
+      "salesflare",
+      "folk crm",
+      "gemini pro",
+      "claude sonnet",
+      "pro",
+      "sales hub professional",
+      "marketing hub professional",
+      "breeze prospecting agent",
+      "contact enrichment"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8808,
+    "group_id": 4925987
+   },
+   {
+    "id": 40464227,
+    "title": "7 Best Zoho CRM Alternatives for 2026",
+    "url": "https://pipeline.zoominfo.com/sales/zoho-crm-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-21T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8247,
+    "ai_summary": "Seven Zoho CRM alternatives are presented, including ZoomInfo, Salesforce, HubSpot, Pipedrive, Freshsales, Close, and Attio, each targeting specific use cases like B2B data, enterprise customization, or marketing integration. ZoomInfo offers 500M contacts and a GTM Context Graph, while Salesforce provides 9,000+ AppExchange apps and Agentforce AI.",
+    "word_count": 6977,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000efod",
+      "name": "Freshsales",
+      "website": "https://www.freshworks.com/freshsales-crm/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004vi1",
+      "name": "Close",
+      "website": "https://www.close.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "chelsea kenyon",
+      "thor sanderson"
+     ],
+     "location": [
+      "north america"
+     ],
+     "product": [
+      "zoho crm",
+      "pipedrive",
+      "zoominfo",
+      "attio",
+      "close",
+      "freshsales",
+      "hubspot",
+      "zoho books",
+      "desk",
+      "canvas design studio",
+      "kiosk studio",
+      "campaigns",
+      "commandcenter",
+      "pathfinder",
+      "agentforce",
+      "salesforce",
+      "blueprint",
+      "analytics",
+      "gtm studio",
+      "gtm workspace",
+      "zoho",
+      "apollo.io",
+      "lusha",
+      "abm lite",
+      "chorus",
+      "chat",
+      "abm enterprise",
+      "appexchange",
+      "websights lite",
+      "mcp",
+      "apis",
+      "microsoft dynamics 365",
+      "revenue cloud",
+      "flow builder",
+      "zia ai",
+      "microsoft 365",
+      "breeze ai",
+      "marketing hub professional",
+      "sales hub enterprise",
+      "marketing hub enterprise",
+      "sales hub professional",
+      "nethunt crm",
+      "folk crm",
+      "freshchat",
+      "freshdesk",
+      "freshmarketer",
+      "crm",
+      "twilio",
+      "monday.com crm",
+      "chloe ai agent",
+      "justcall",
+      "aircall",
+      "freddy ai",
+      "ringcentral",
+      "chloe ai",
+      "hubspot sales hub",
+      "zoom",
+      "gmail",
+      "google meet",
+      "outlook",
+      "slack",
+      "github",
+      "call assistant",
+      "copper crm",
+      "activecampaign",
+      "microsoft dynamics"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8598,
+    "group_id": 4925978
+   },
+   {
+    "id": 30541946,
+    "title": "7 Best Zoho CRM Alternatives for 2026",
+    "url": "https://pipeline.zoominfo.com/sales/zoho-crm-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-21T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8257,
+    "ai_summary": "This article is a curated buyer's guide identifying seven Zoho CRM alternatives for 2026, each recommended for specific use cases where Zoho CRM's generalist approach falls short: ZoomInfo for B2B data intelligence, Salesforce for enterprise customization, HubSpot for accessible marketing-integrated CRM, Pipedrive for small sales teams, Freshsales for growing teams needing native telephony, Close for outbound-heavy inside sales, and Attio for modern GTM teams requiring flexible AI-native data models.",
+    "word_count": 6916,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     },
+     {
+      "name": "Customer Service/Support CRM & Contact Center Platforms",
+      "code": "BPAFAFAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000efod",
+      "name": "Freshsales",
+      "website": "https://www.freshworks.com/freshsales-crm/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004vi1",
+      "name": "Close",
+      "website": "https://www.close.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "chelsea kenyon",
+      "thor sanderson"
+     ],
+     "location": [
+      "north america"
+     ],
+     "product": [
+      "zoho crm",
+      "pipedrive",
+      "zoominfo",
+      "attio",
+      "close",
+      "freshsales",
+      "hubspot",
+      "zoho books",
+      "desk",
+      "canvas design studio",
+      "kiosk studio",
+      "campaigns",
+      "commandcenter",
+      "pathfinder",
+      "agentforce",
+      "salesforce",
+      "blueprint",
+      "analytics",
+      "gtm studio",
+      "gtm workspace",
+      "zoho",
+      "apollo.io",
+      "lusha",
+      "abm lite",
+      "chorus",
+      "chat",
+      "abm enterprise",
+      "appexchange",
+      "websights lite",
+      "mcp",
+      "apis",
+      "microsoft dynamics 365",
+      "revenue cloud",
+      "flow builder",
+      "zia ai",
+      "microsoft 365",
+      "breeze ai",
+      "marketing hub professional",
+      "sales hub enterprise",
+      "marketing hub enterprise",
+      "sales hub professional",
+      "nethunt crm",
+      "folk crm",
+      "freshchat",
+      "freshdesk",
+      "freshmarketer",
+      "crm",
+      "twilio",
+      "monday.com crm",
+      "chloe ai agent",
+      "justcall",
+      "aircall",
+      "freddy ai",
+      "ringcentral",
+      "chloe ai",
+      "hubspot sales hub",
+      "zoom",
+      "gmail",
+      "google meet",
+      "outlook",
+      "slack",
+      "github",
+      "call assistant",
+      "copper crm",
+      "zwitch"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8599,
+    "group_id": 4925978
+   },
+   {
+    "id": 29260781,
+    "title": "7 Best Freshsales Alternatives for Sales Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/freshsales-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-21T13:12:13",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "This article is a curated buyer's guide listing seven CRM alternatives to Freshsales, covering products ranging from B2B data platforms like ZoomInfo to enterprise CRMs like Salesforce Sales Cloud, with evaluations across pricing tiers, key features, and target use cases.",
+    "word_count": 6676,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "Customer Service/Support CRM & Contact Center Platforms",
+      "code": "BPAFAFAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004vi1",
+      "name": "Close",
+      "website": "https://www.close.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003l7",
+      "name": "Freshworks",
+      "website": "https://www.freshworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001289",
+      "name": "sales channel"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "cfo"
+     ],
+     "location": [],
+     "product": [
+      "freshsales",
+      "pipedrive",
+      "zoominfo",
+      "zoho crm",
+      "attio",
+      "close",
+      "salesforce sales cloud",
+      "hubspot sales hub",
+      "freddy ai",
+      "freshmarketer",
+      "freshdesk",
+      "email",
+      "gtm studio",
+      "agentforce sales",
+      "chorus",
+      "appexchange marketplace",
+      "hubspot",
+      "agentforce ai agents",
+      "gtm workspace",
+      "microsoft dynamics 365",
+      "oracle sales cloud",
+      "agentforce 1 sales",
+      "agentforce",
+      "appexchange",
+      "breeze ai",
+      "agentexchange access enterprise",
+      "tableau",
+      "slack",
+      "atlas",
+      "pro suite",
+      "brevo",
+      "engagebay",
+      "nutshell",
+      "monday crm",
+      "salesloft",
+      "outreach",
+      "smart docs",
+      "leadbooster",
+      "bitrix24",
+      "solo",
+      "zoho desk",
+      "essentials",
+      "twilio",
+      "zia ai",
+      "sandbox",
+      "growth",
+      "campaigns",
+      "folk",
+      "clay",
+      "blueprint"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.793,
+    "group_id": 6006227
+   },
+   {
+    "id": 29260778,
+    "title": "7 Best Attio Alternatives for Teams [July 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/attio-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-21T13:12:13",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9022,
+    "ai_summary": "This article is a curated product guide listing seven CRM alternatives to Attio: ZoomInfo, Salesforce, HubSpot, Pipedrive, folk, Copper, and Twenty, each positioned for different use cases such as B2B data intelligence, enterprise sales, marketing automation, visual pipeline management, LinkedIn-first relationship management, Google Workspace integration, and open-source deployment. The guide compares features, pricing tiers, and target users across these platforms, with the author selecting ZoomInfo as the top overall alternative. This is not a news article reporting on a specific event but rather a buyer guide comparing existing software products.",
+    "word_count": 6744,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000l5o",
+      "name": "folk",
+      "website": "https://www.folk.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000s6i",
+      "name": "Twenty",
+      "website": "https://twenty.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000abq",
+      "name": "Copper",
+      "website": "http://www.copper.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "chelsea kenyon"
+     ],
+     "location": [
+      "london"
+     ],
+     "product": [
+      "attio",
+      "pipedrive",
+      "zoominfo",
+      "hubspot",
+      "copper",
+      "folk",
+      "twenty",
+      "salesforce",
+      "gmail",
+      "linkedin",
+      "appexchange",
+      "claude",
+      "cursor",
+      "agentforce",
+      "lusha",
+      "apollo.io",
+      "gtm studio",
+      "anthropic claude",
+      "gtm workspace",
+      "chatgpt",
+      "mcp",
+      "tableau",
+      "apis",
+      "microsoft dynamics 365",
+      "tableau next",
+      "demandbase",
+      "agentexchange",
+      "linkedin sales navigator",
+      "outreach",
+      "data pro",
+      "gong",
+      "marketo",
+      "anypoint",
+      "starter suite",
+      "workday",
+      "data concierge",
+      "docusign",
+      "data inspector",
+      "slack enterprise+",
+      "pro suite",
+      "freshsales",
+      "lemlist",
+      "marketing hub professional",
+      "apollo",
+      "sales hub professional",
+      "mobile crm",
+      "crm",
+      "dropcontact",
+      "folkx chrome extension",
+      "justcall",
+      "ringcentral",
+      "whatsapp",
+      "aircall",
+      "prospeo",
+      "pulse",
+      "close",
+      "clearbit",
+      "google meet",
+      "leadbooster",
+      "sales navigator",
+      "datagma",
+      "zapier",
+      "streak",
+      "folkx",
+      "capsule crm",
+      "facebook",
+      "asana",
+      "instagram",
+      "perplexity",
+      "monday.com",
+      "linear",
+      "capsule",
+      "itattio",
+      "espocrm",
+      "suitecrm",
+      "cloud pro",
+      "google calendar",
+      "caldav",
+      "self-hosted",
+      "cloud organization"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7508,
+    "group_id": 6006224
+   },
+   {
+    "id": 29258629,
+    "title": "7 Best Salesforce Alternatives for Revenue Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/salesforce-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-21T12:14:49",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8895,
+    "ai_summary": "This article presents a buyer's guide comparing Salesforce to seven alternative CRM platforms (ZoomInfo, HubSpot, Microsoft Dynamics 365, Zoho CRM, Pipedrive, Bitrix24, and Attio), evaluating each on features, pricing, and ideal use cases. The guide addresses common Salesforce pain points including pricing complexity, implementation requirements, and enterprise-centric architecture. Each alternative targets a specific buyer segment, from ZoomInfo for B2B intelligence-first prospecting to Bitrix24 for budget-conscious teams needing flat-fee pricing.",
+    "word_count": 7618,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Model Hosting, Serving & Inference Platforms",
+      "code": "HDAAACAB",
+      "is_primary": false
+     },
+     {
+      "name": "Model Development & Training Platforms (AutoML, Notebooks, Feature Stores)",
+      "code": "HDAEANAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00043ci",
+      "name": "Bitrix24",
+      "website": "http://bitrix24.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "rep"
+     ],
+     "location": [
+      "179 countries"
+     ],
+     "product": [
+      "bitrix24",
+      "pipedrive",
+      "zoominfo",
+      "hubspot",
+      "attio",
+      "zoho crm",
+      "microsoft dynamics 365",
+      "agentforce",
+      "microsoft 365",
+      "slack",
+      "salesforce",
+      "data 360",
+      "customer 360",
+      "appexchange",
+      "data cloud",
+      "marketing cloud",
+      "gtm studio",
+      "service cloud",
+      "gtm workspace",
+      "zoominfo lite",
+      "abm lite",
+      "websights lite",
+      "sap crm",
+      "oracle cx cloud",
+      "chorus",
+      "mcp",
+      "reachout chrome extension",
+      "abm enterprise tiers",
+      "chat",
+      "apis",
+      "freshsales",
+      "breeze ai",
+      "breeze ai writing assistant",
+      "service hub",
+      "starter customer platform",
+      "marketing hub",
+      "sales hub",
+      "mulesoft",
+      "salesforce shield",
+      "sales premium",
+      "outlook",
+      "dynamics 365",
+      "sharepoint",
+      "insightly",
+      "zoho one",
+      "zoho analytics",
+      "zoho desk",
+      "zoho campaigns",
+      "zoho books",
+      "business central essentials",
+      "customer service professional",
+      "blueprint",
+      "copper crm",
+      "gmail",
+      "google meet",
+      "zia",
+      "zoom",
+      "streak",
+      "zoho",
+      "leadbooster",
+      "teams",
+      "kanban",
+      "scrum",
+      "google drive",
+      "reevo",
+      "twenty"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9681,
+    "group_id": 4227405
+   },
+   {
+    "id": 40466285,
+    "title": "7 Best Close CRM Alternatives for B2B Sales Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/close-crm-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-20T22:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9919,
+    "ai_summary": "Seven CRM alternatives to Close are presented, each targeting specific gaps like B2B data, enterprise customization, or marketing automation. ZoomInfo, Salesforce, HubSpot, Pipedrive, Salesloft, Zoho, and Attio are highlighted with features and pricing. The guide advises choosing based on team growth and specific needs.",
+    "word_count": 6417,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004ru",
+      "name": "Salesloft",
+      "website": "http://salesloft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "levanta"
+     ],
+     "location": [],
+     "product": [
+      "zoominfo",
+      "zoho crm",
+      "pipedrive",
+      "attio",
+      "salesloft",
+      "close crm",
+      "hubspot",
+      "salesforce",
+      "close",
+      "crm",
+      "agentforce",
+      "zoominfo lite",
+      "tableau",
+      "websights lite",
+      "gtm studio",
+      "chorus",
+      "crm analytics",
+      "microsoft dynamics 365",
+      "agentforce 1",
+      "appexchange",
+      "service hub",
+      "service cloud",
+      "marketing cloud",
+      "microsoft 365",
+      "pathfinder",
+      "starter suite",
+      "slack enterprise",
+      "marketing hub",
+      "justcall",
+      "cloudtalk",
+      "activecampaign",
+      "aircall",
+      "freshsales",
+      "outreach",
+      "leadbooster",
+      "zoho one",
+      "elite",
+      "generation",
+      "zoho campaigns",
+      "chloe",
+      "zoho desk",
+      "folk",
+      "breakcold",
+      "slack"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7373,
+    "group_id": 6006226
+   },
+   {
+    "id": 35677810,
+    "title": "Inconvo is joining Attio",
+    "url": "https://attio.com/blog/inconvo-is-joining-attio",
+    "publisher": "Attio",
+    "published_date": "2026-07-14T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Inconvo co-founders Eoghan and Liam Mulcahy are joining Attio's engineering team. They previously built Inconvo, a developer tool for adding AI analytics to applications. Attio will use their expertise to expand its agentic ecosystem.",
+    "word_count": 421,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "liam mulcahy",
+      "nicolas sharp",
+      "eoghan mulcahy"
+     ],
+     "location": [
+      "london"
+     ],
+     "product": [
+      "inconvo"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8777,
+    "group_id": 2962840
+   },
+   {
+    "id": 42314721,
+    "title": "Top 20 AI-Native SaaS Companies by Momentum (Q3 2026) \u00b7 akta.pro",
+    "url": "https://www.akta.pro/research-library/top-20-ai-native-saas-companies-by-momentum-q3-2026",
+    "publisher": "Akta",
+    "published_date": "2026-07-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.7686,
+    "ai_summary": "In Q3 2026, Lovable and ElevenLabs led 20 European AI-native SaaS companies by news coverage, with the top three accounting for 69% of 895 articles. Headcount grew 14.3% quarter-over-quarter, with 16 of 20 companies expanding, and Legora added the most staff at 43%.",
+    "word_count": 777,
+    "author": "",
+    "countries": [
+     "GBR",
+     "SWE",
+     "DEU"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003cg",
+      "name": "Luminance",
+      "website": "https://www.luminance.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "000081q",
+      "name": "DeepJudge",
+      "website": "https://www.deepjudge.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00vqiz5",
+      "name": "Legora",
+      "website": "https://legora.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003am",
+      "name": "Synthesia",
+      "website": "http://www.synthesia.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000378e",
+      "name": "Noxtua",
+      "website": "https://www.noxtua.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "sweden",
+      "london",
+      "germany",
+      "europe",
+      "united states"
+     ],
+     "product": [
+      "granola",
+      "legora",
+      "synthesia",
+      "lovable",
+      "tandem health",
+      "wonderful"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15669821
+   },
+   {
+    "id": 40465568,
+    "title": "Attio vs. HighLevel vs. ZoomInfo [June 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-high-level",
+    "publisher": "Zoominfo",
+    "published_date": "2026-06-30T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.538,
+    "ai_summary": "Attio, HighLevel, and ZoomInfo are compared across CRM flexibility, marketing tools, and B2B data. Attio suits startups with customizable data models, HighLevel serves agencies with bundled marketing, and ZoomInfo provides 500M contacts and GTM intelligence. Each platform targets distinct audiences, with pricing and integration differences noted.",
+    "word_count": 3972,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000gz",
+      "name": "HighLevel",
+      "website": "https://www.gohighlevel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "518210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "toby carrington",
+      "cbo",
+      "jerry wilson"
+     ],
+     "location": [
+      "canada",
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "attio",
+      "shopify",
+      "chorus",
+      "gtm studio",
+      "abm lite",
+      "chat",
+      "abm enterprise",
+      "zoominfo lite",
+      "whatsapp",
+      "websights lite",
+      "smartsheet",
+      "agency pro",
+      "hubspot",
+      "smbs",
+      "slack",
+      "tiktok",
+      "lemlist",
+      "instagram",
+      "apollo",
+      "zapier",
+      "mixmax",
+      "mailchimp",
+      "linkedin",
+      "calendly",
+      "gmail",
+      "salesloft",
+      "outlook",
+      "typeform",
+      "google ads",
+      "outreach",
+      "facebook",
+      "google workspace",
+      "quickbooks",
+      "segment",
+      "zoom",
+      "microsoft dynamics 365",
+      "databricks",
+      "salesforce",
+      "snowflake",
+      "highlevel",
+      "restaurants",
+      "fitness",
+      "dental",
+      "zoominfo"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7118,
+    "group_id": 14077829
+   },
+   {
+    "id": 26893228,
+    "title": "Attio vs. HighLevel vs. ZoomInfo [June 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-high-level",
+    "publisher": "Zoominfo",
+    "published_date": "2026-06-30T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5378,
+    "ai_summary": "This article is a detailed comparison guide evaluating three CRM and go-to-market platforms: Attio (flexible CRM for startups and scale-ups), HighLevel (bundled marketing and sales platform for agencies and local businesses), and ZoomInfo (AI-powered B2B data and GTM intelligence platform). The guide compares their features, pricing models, AI capabilities, marketing tools, CRM and pipeline management functions, integration ecosystems, target audiences, and data privacy certifications.",
+    "word_count": 3967,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000gz",
+      "name": "HighLevel",
+      "website": "https://www.gohighlevel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5182",
+      "name": "Information"
+     },
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "toby carrington",
+      "cbo",
+      "jerry wilson"
+     ],
+     "location": [
+      "canada",
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "attio",
+      "shopify",
+      "chorus",
+      "gtm studio",
+      "abm lite",
+      "chat",
+      "abm enterprise",
+      "zoominfo lite",
+      "whatsapp",
+      "websights lite",
+      "smartsheet",
+      "agency pro",
+      "hubspot",
+      "smbs",
+      "slack",
+      "tiktok",
+      "lemlist",
+      "instagram",
+      "apollo",
+      "zapier",
+      "mixmax",
+      "mailchimp",
+      "linkedin",
+      "calendly",
+      "gmail",
+      "salesloft",
+      "outlook",
+      "typeform",
+      "google ads",
+      "outreach",
+      "facebook",
+      "google workspace",
+      "quickbooks",
+      "segment",
+      "zoom",
+      "microsoft dynamics 365",
+      "databricks",
+      "salesforce",
+      "snowflake",
+      "highlevel",
+      "restaurants",
+      "fitness",
+      "dental",
+      "zoominfo"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7122,
+    "group_id": 2680606
+   },
+   {
+    "id": 40465575,
+    "title": "Attio Review 2026: Features, Pricing & Best Alternative",
+    "url": "https://pipeline.zoominfo.com/sales/attio-review",
+    "publisher": "Zoominfo",
+    "published_date": "2026-06-09T22:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9607,
+    "ai_summary": "Attio is a flexible CRM for startups and scale-ups, launched in 2023 with $116M in funding and 5,000 paying customers. It offers a custom data model, AI assistant, and visual automation, but lacks B2B contact data and buyer intent signals. ZoomInfo is recommended as an alternative for GTM intelligence.",
+    "word_count": 3859,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     },
+     {
+      "name": "iBPMS (Intelligent BPM Suites) & Process Automation Suites",
+      "code": "HDAEAHAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "alexander christie",
+      "nicolas sharp",
+      "dominik facher"
+     ],
+     "location": [
+      "london",
+      "canada",
+      "uk"
+     ],
+     "product": [
+      "attio",
+      "zoominfo",
+      "fundstack",
+      "snackpass",
+      "granola",
+      "gemini flash",
+      "opus",
+      "sonnet",
+      "slack",
+      "gpt",
+      "pro",
+      "zoom",
+      "polytomic",
+      "zapier",
+      "lemlist",
+      "apollo",
+      "claude",
+      "chatgpt",
+      "gmail",
+      "abm lite",
+      "outlook",
+      "abm enterprise",
+      "websights lite",
+      "mixmax",
+      "outreach",
+      "typeform",
+      "salesloft",
+      "mailchimp",
+      "segment",
+      "google cloud platform",
+      "pro plan"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14076366
+   },
+   {
+    "id": 26119965,
+    "title": "7 Best Breakcold Alternatives for B2B Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/breakcold-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-06-09T22:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8007,
+    "ai_summary": "This article presents seven CRM alternatives to Breakcold, a social-first sales platform, organized by use case: ZoomInfo for B2B data intelligence, HubSpot Sales Hub for enterprise automation, Close for phone-first inside sales, Pipedrive for simple pipeline management, folk for LinkedIn-first workflows, Freshsales for built-in telephony at SMB pricing, and Attio for developer-friendly architecture. The guide evaluates each alternative against Breakcold's limitations in data scale, native calling, pipeline analytics, and workflow automation, offering pricing tiers and ideal buyer profiles for each option.",
+    "word_count": 6079,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service/Support CRM & Contact Center Platforms",
+      "code": "BPAFAFAK",
+      "is_primary": true
+     },
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": false
+     },
+     {
+      "name": "CRM Implementation & Systems Integration",
+      "code": "BPAFAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000l5o",
+      "name": "folk",
+      "website": "https://www.folk.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000efod",
+      "name": "Freshsales",
+      "website": "https://www.freshworks.com/freshsales-crm/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004vi1",
+      "name": "Close",
+      "website": "https://www.close.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00077gm",
+      "name": "Breakcold",
+      "website": "https://www.breakcold.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "cfo"
+     ],
+     "location": [
+      "north america",
+      "135 countries",
+      "179 countries"
+     ],
+     "product": [
+      "breakcold",
+      "pipedrive",
+      "zoominfo",
+      "freshsales",
+      "close",
+      "folk",
+      "attio",
+      "telegram",
+      "hubspot sales hub",
+      "whatsapp",
+      "gmail",
+      "claude",
+      "linkedin",
+      "google meet",
+      "chatgpt",
+      "email",
+      "instagram",
+      "microsoft teams",
+      "zoom",
+      "sales navigator",
+      "salesforce",
+      "springdb",
+      "chorus",
+      "snowflake",
+      "apollo.io",
+      "abm lite",
+      "zoominfo lite",
+      "microsoft dynamics 365",
+      "websights lite",
+      "vision ai",
+      "gtm studio",
+      "chat",
+      "lusha",
+      "salesflare",
+      "hubspot",
+      "justcall",
+      "asana",
+      "xero",
+      "pandadoc",
+      "aircall",
+      "quickbooks",
+      "zapier/make",
+      "nimble",
+      "capsule crm",
+      "freshservice",
+      "freshdesk",
+      "folkx",
+      "freshmarketer",
+      "bsync",
+      "clay",
+      "folk standard"
+     ],
+     "event": [
+      "crm events"
+     ]
+    },
+    "newsworthiness_score": 0.7355,
+    "group_id": 513660
+   },
+   {
+    "id": 26118673,
+    "title": "Attio Review 2026: Features, Pricing & Best Alternative",
+    "url": "https://pipeline.zoominfo.com/sales/attio-review",
+    "publisher": "Zoominfo",
+    "published_date": "2026-06-09T22:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9607,
+    "ai_summary": "This article provides a detailed review and comparison of Attio, a cloud-based CRM launched in March 2023 targeting startups and scale-ups, and ZoomInfo, an AI-powered go-to-market intelligence platform offered as an alternative for teams requiring broader GTM capabilities.",
+    "word_count": 3850,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Prompt Engineering, Orchestration & LLMOps Tooling",
+      "code": "HDAAACAD",
+      "is_primary": false
+     },
+     {
+      "name": "CRM Implementation & Systems Integration",
+      "code": "BPAFAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561422",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "alexander christie",
+      "nicolas sharp",
+      "dominik facher"
+     ],
+     "location": [
+      "london",
+      "canada",
+      "uk"
+     ],
+     "product": [
+      "attio",
+      "zoominfo",
+      "fundstack",
+      "snackpass",
+      "granola",
+      "gemini flash",
+      "opus",
+      "sonnet",
+      "slack",
+      "gpt",
+      "pro",
+      "zoom",
+      "polytomic",
+      "zapier",
+      "lemlist",
+      "apollo",
+      "claude",
+      "chatgpt",
+      "gmail",
+      "abm lite",
+      "outlook",
+      "abm enterprise",
+      "websights lite",
+      "mixmax",
+      "typeform",
+      "outreach",
+      "salesloft",
+      "mailchimp",
+      "segment",
+      "google cloud platform",
+      "pro plan",
+      "linkedin"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6322755
+   },
+   {
+    "id": 40465566,
+    "title": "Attio vs. Instantly (vs. ZoomInfo): 2026 Comparison",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-instantly",
+    "publisher": "Zoominfo",
+    "published_date": "2026-06-01T23:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5178,
+    "ai_summary": "Attio, Instantly, and ZoomInfo are compared across CRM, cold email, and GTM intelligence. Attio is a flexible CRM for startups, Instantly is a cold email outreach engine, and ZoomInfo is an all-in-one AI GTM platform with 500M contacts and buyer intent signals. The article recommends ZoomInfo for unified data and execution, while Attio and Instantly serve complementary roles.",
+    "word_count": 3535,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Customer Engagement & Messaging (Email, SMS, Push, In-App)",
+      "code": "BPAFAFAI",
+      "is_primary": false
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00047rf",
+      "name": "Instantly",
+      "website": "https://instantly.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "william kenimer",
+      "vp",
+      "ian brodie",
+      "dominik facher",
+      "thor sanderson"
+     ],
+     "location": [
+      "us",
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "attio",
+      "zoominfo",
+      "instantly",
+      "apollo",
+      "gmail",
+      "outlook",
+      "salesloft",
+      "unibox",
+      "momentive",
+      "calendly",
+      "gtm workspace",
+      "gtm studio",
+      "zapier",
+      "salesflows",
+      "lemlist",
+      "google cloud platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.69,
+    "group_id": 5058433
+   },
+   {
+    "id": 26118897,
+    "title": "Attio vs. Instantly (vs. ZoomInfo): 2026 Comparison",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-instantly",
+    "publisher": "Zoominfo",
+    "published_date": "2026-06-01T23:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5219,
+    "ai_summary": "This article compares three B2B go-to-market platforms: Attio (a CRM for startups), Instantly (a cold email outreach engine), and ZoomInfo (an all-in-one AI GTM platform). The comparison evaluates each platform across contact database size, outbound capabilities, CRM depth, AI features, pricing structure, and security certifications. The article positions ZoomInfo as the most comprehensive option for data quality and intent signals, while noting that Attio and Instantly serve different, more specialized use cases that some teams combine.",
+    "word_count": 3530,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": true
+     },
+     {
+      "name": "Customer Service/Support CRM & Contact Center Platforms",
+      "code": "BPAFAFAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00047rf",
+      "name": "Instantly",
+      "website": "https://instantly.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5182",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "william kenimer",
+      "ian brodie",
+      "dominik facher",
+      "thor sanderson"
+     ],
+     "location": [
+      "us",
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "attio",
+      "zoominfo",
+      "instantly",
+      "hubspot",
+      "dynamics",
+      "salesforce",
+      "mcp",
+      "vensure",
+      "seismic",
+      "apollo",
+      "gmail",
+      "outlook",
+      "salesloft",
+      "calendly",
+      "anthropic",
+      "openai",
+      "zapier",
+      "gtm workspace",
+      "momentive",
+      "gtm studio",
+      "microsoft dynamics",
+      "google",
+      "unibox",
+      "lemlist",
+      "capterra",
+      "salesflows",
+      "ai copilot",
+      "call intelligence",
+      "plus plan",
+      "levanta",
+      "google cloud platform",
+      "gtm context graph",
+      "saml 2.0 sso",
+      "truste gdpr",
+      "truste ccpa",
+      "ai reply agent",
+      "pro",
+      "pci dss",
+      "hipaa",
+      "dpa",
+      "enterprise",
+      "reachout chrome extension",
+      "ccpa",
+      "warp mode",
+      "crm",
+      "smartsheet",
+      "apis/mcp",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6959,
+    "group_id": 494101
+   },
+   {
+    "id": 25277976,
+    "title": "Sales Process Automation Software: 25 New Tools to Try in 2026",
+    "url": "https://www.flowla.com/blog/sales-process-automation-software",
+    "publisher": "Flowla",
+    "published_date": "2026-05-22T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "This article is a curated buyer's guide listing 25 sales process automation tools across six categories \u2014 lead generation, AI sales assistants, CRM, CRM add-ons, workflow automation, and no-code integrations \u2014 aimed at helping revenue teams improve efficiency heading into 2026. The guide highlights how AI-native features are now standard across most tools, with the line between traditional automation and AI agents blurring rapidly. Featured tools include Flowla, Clay, UpLead, Artisan AI, Regie.ai, Attio, Lindy.ai, and others, with pricing, key features, and target customer segments detailed for each.",
+    "word_count": 4358,
+    "author": "Byelen Udovichenkomarch",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Operations for Demand Gen (Email/CRM Workflows)",
+      "code": "BPAFAKAM",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [],
+    "company_mentions": [
+     {
+      "uuid": "0000efr",
+      "name": "Default",
+      "website": "https://www.default.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uky",
+      "name": "Flowla",
+      "website": "https://www.flowla.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000273",
+      "name": "Relevance AI",
+      "website": "https://relevanceai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003r",
+      "name": "Momentum",
+      "website": "https://www.momentum.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005ea",
+      "name": "Lindy",
+      "website": "https://www.lindy.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004u5",
+      "name": "Common Room",
+      "website": "https://www.commonroom.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008j4h",
+      "name": "Capsule",
+      "website": "https://capsulecrm.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000035s",
+      "name": "Sybill AI",
+      "website": "https://www.sybill.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006q2",
+      "name": "Regie.ai",
+      "website": "https://www.regie.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000kab",
+      "name": "Day AI",
+      "website": "https://day.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007vx",
+      "name": "Lantern",
+      "website": "https://www.withlantern.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ap3",
+      "name": "Cargo",
+      "website": "https://getcargo.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007zw",
+      "name": "Attention",
+      "website": "https://www.attention.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005pb",
+      "name": "Artisan AI",
+      "website": "https://www.artisan.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003s9l",
+      "name": "Relay",
+      "website": "https://www.relay.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004rm",
+      "name": "Unify",
+      "website": "https://www.unifygtm.com/get-started",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000gil",
+      "name": "Coefficient",
+      "website": "https://www.coefficient.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002pzh",
+      "name": "Bella",
+      "website": "https://bellasales.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "flowla",
+      "hubspot",
+      "clay",
+      "cargo",
+      "uplead",
+      "lindy.ai",
+      "outreach",
+      "clearbit",
+      "artisan ai",
+      "jason ai",
+      "6sense",
+      "bella ai sales assistant",
+      "reply.io",
+      "salesforce",
+      "growth day.ai crm",
+      "flowla 2.0",
+      "smb jason ai",
+      "smb artisan ai",
+      "enterprise lantern workflow automation",
+      "enterprise cargo workflow automation",
+      "enterprise attention ai sales assistant",
+      "enterprise bella ai sales assistant",
+      "enterprise relay.app",
+      "enterprise attio crm",
+      "lindy.ai workflow automation",
+      "enterprise default workflow automation",
+      "entperise",
+      "smb winn.ai crm add-on",
+      "mid-market capsule crm",
+      "enterprise sellestial crm add-on",
+      "enterprise sybill crm add-on",
+      "enterprise relevance ai",
+      "enterprise momentum crm add-on",
+      "enterprise n8n no-code integrations",
+      "common room",
+      "unify",
+      "zapier",
+      "apollo",
+      "roomieai\u2122",
+      "zoominfo",
+      "person360\u2122",
+      "attio",
+      "attention",
+      "relevance ai",
+      "regie.ai",
+      "regieone",
+      "bella",
+      "ai sales assistant",
+      "google meet",
+      "zoom",
+      "anthropic",
+      "openai",
+      "momentum",
+      "winn.ai",
+      "sybill",
+      "day.ai",
+      "sellestial",
+      "capsule crm",
+      "troops.ai",
+      "slack",
+      "gmail",
+      "linkedin",
+      "default",
+      "coefficient",
+      "relay.app",
+      "n8n",
+      "lantern",
+      "make.com",
+      "flowla autopilot",
+      "google sheets",
+      "champion chaser",
+      "intent chaser",
+      "excel",
+      "lindy store"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7767,
+    "group_id": 2355052
+   },
+   {
+    "id": 24947512,
+    "title": "Jasmine Wang - LanceDB",
+    "url": "https://www.linkedin.com/in/jasminechenwang/",
+    "publisher": "LinkedIn",
+    "published_date": "2026-05-20T07:58:18",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Attio, an AI-native CRM platform, raised $52 million in Series B funding led by GV (Google Ventures), with participation from Redpoint, Balderton Capital, Point Nine, and 01 Advisors. The funding will be used to accelerate R&D, expand engineering hires, and develop AI-native CRM features, positioning Attio to compete in the $50B+ CRM market during the first major platform shift in 25 years. CEO Nicolas Sharp stated the investment will allow Attio to build a fundamentally different foundation for AI-native CRM that differs from retrofitted legacy solutions.",
+    "word_count": 301,
+    "author": "Jasmine Wang",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Strategy & Consulting",
+      "code": "BPAFAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "Personalization, Testing & Conversion Rate Optimization (CRO)",
+      "code": "BPAFAFAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     },
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005yr",
+      "name": "Google Ventures",
+      "website": "http://www.gv.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "nicolas sharp",
+      "alexander christie",
+      "michael mcbride",
+      "jasmine wang"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2299731
+   },
+   {
+    "id": 26119329,
+    "title": "Attio vs. Folk: Which CRM Fits You?",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-folk",
+    "publisher": "Zoominfo",
+    "published_date": "2026-05-14T02:47:43",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9963,
+    "ai_summary": "This article compares three CRM and sales intelligence platforms\u2014Attio, Folk, and ZoomInfo\u2014across features, pricing, AI capabilities, integrations, and target audiences for buyers evaluating their go-to-market tech stack. Attio targets engineering-minded GTM teams at startups seeking customizable CRM with API access, Folk serves agencies and small sales teams prioritizing ease of use and multi-channel contact capture, and ZoomInfo positions itself as a complementary B2B data and intelligence layer rather than a direct CRM replacement. The comparison finds Attio leads on technical depth and customization, Folk on simplicity and relationship-focused workflows, and ZoomInfo on verified contact data at scale and deal intelligence.",
+    "word_count": 3689,
+    "author": "James Rothchief Revenue Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000l5o",
+      "name": "folk",
+      "website": "https://www.folk.app",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561422",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "attio",
+      "folk",
+      "zoominfo",
+      "folkx",
+      "zapier",
+      "whatsapp",
+      "google meet",
+      "instagram",
+      "facebook",
+      "tiktok",
+      "zoominfo lite",
+      "contactx",
+      "linkedin",
+      "twitter",
+      "gmail",
+      "zoom",
+      "perplexity",
+      "sales navigator",
+      "dropcontact",
+      "gtm studio",
+      "snowflake",
+      "notion",
+      "salesloft",
+      "pro",
+      "websights lite",
+      "outreach",
+      "marketo",
+      "zoho",
+      "pipedrive",
+      "hubspot",
+      "clay",
+      "granola",
+      "affinity"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7962,
+    "group_id": 6057241
+   },
+   {
+    "id": 26120054,
+    "title": "Affinity vs Attio: Which CRM is Better?",
+    "url": "https://pipeline.zoominfo.com/sales/affinity-vs-attio",
+    "publisher": "Zoominfo",
+    "published_date": "2026-05-14T02:46:18",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.873,
+    "ai_summary": "This article compares three B2B platforms\u2014Affinity, Attio, and ZoomInfo\u2014across features, pricing, AI capabilities, and integrations to help buyers choose the right solution for their go-to-market needs. Affinity is positioned as a relationship intelligence CRM for private capital firms, Attio as a flexible CRM for startups, and ZoomInfo as an all-in-one AI GTM platform providing buyer intelligence and intent signals. The article ultimately recommends ZoomInfo as an intelligence layer that complements CRM tools by revealing which accounts are actively researching solutions.",
+    "word_count": 3553,
+    "author": "James Rothchief Revenue Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ew",
+      "name": "Affinity",
+      "website": "https://affinity.co/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "gmail",
+      "outlook",
+      "slack",
+      "zoominfo",
+      "attio",
+      "zapier",
+      "segment",
+      "affinity",
+      "zoom",
+      "salesforce",
+      "hubspot",
+      "deal assist",
+      "industry insights",
+      "clay",
+      "lemlist",
+      "apollo",
+      "google meet",
+      "airtable",
+      "box",
+      "typeform",
+      "dropbox",
+      "docusign",
+      "mixmax",
+      "outreach",
+      "claude",
+      "salesloft",
+      "gtm studio",
+      "pitchbook",
+      "mailchimp",
+      "dealroom",
+      "snowflake",
+      "crunchbase",
+      "anthropic",
+      "microsoft dynamics 365",
+      "openai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7932,
+    "group_id": 512572
+   },
+   {
+    "id": 34784754,
+    "title": "Vestberry's new Attio integration keeps deal context in one place",
+    "url": "https://www.vestberry.com/blog/attio-integration",
+    "publisher": "Vestberry",
+    "published_date": "2026-05-14T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Vestberry integrates Attio Notes into its platform, automatically matching companies across both systems without manual mapping. Teams can choose which notes to import and open them directly from Vestberry, replacing manual document handling.",
+    "word_count": 64,
+    "author": "Vestberryvestberry Is A Portfolio Intelligence Platform Helping Vc Firms Manage Their Capital Smarter. Our Clients Make Better Investment Decisions Faster Thanks To Streamlined Internal Processes",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Workflow-Oriented Integration & Orchestration",
+      "code": "HDAEAIAG",
+      "is_primary": true
+     },
+     {
+      "name": "Intelligent Document Processing (IDP) & OCR Automation",
+      "code": "HDAEAHAC",
+      "is_primary": false
+     },
+     {
+      "name": "iPaaS & Workflow Automation",
+      "code": "BPAMAOAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000y4w",
+      "name": "VESTBERRY",
+      "website": "https://www.vestberry.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "attio",
+      "vestberry"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6265,
+    "group_id": 10666667
+   },
+   {
+    "id": 24625404,
+    "title": "CRM for SaaS companies: 14 top platforms for managing the customer lifecycle",
+    "url": "https://monday.com/blog/crm-and-sales/crm-for-saas/",
+    "publisher": "monday.com",
+    "published_date": "2026-05-12T12:15:08",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6912,
+    "ai_summary": "The article reviews 14 CRM platforms tailored for SaaS companies, emphasizing features that support recurring revenue, automation, forecasting, and collaboration. It highlights how purpose-built SaaS CRMs differ from traditional ones in managing customer lifecycles and optimizing revenue growth. ",
+    "word_count": 6973,
+    "author": "Chaviva Gordon-Bennett",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005th",
+      "name": "ActiveCampaign",
+      "website": "http://www.activecampaign.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000efod",
+      "name": "Freshsales",
+      "website": "https://www.freshworks.com/freshsales-crm/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000wgw",
+      "name": "Insightly",
+      "website": "https://www.insightly.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004vi1",
+      "name": "Close",
+      "website": "https://www.close.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000288k",
+      "name": "ChartMogul",
+      "website": "https://chartmogul.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000abq",
+      "name": "Copper",
+      "website": "http://www.copper.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "elizabeth gerbel",
+      "luca pope",
+      "samuel lobao",
+      "quentin williams",
+      "nuno godinho",
+      "kyle dorman",
+      "hyunghan lee",
+      "james arnold",
+      "jennifer chinburg",
+      "chaviva"
+     ],
+     "location": [],
+     "product": [
+      "pipedrive",
+      "freshsales",
+      "hubspot crm",
+      "zoho crm",
+      "activecampaign",
+      "microsoft dynamics 365",
+      "insightly",
+      "monday crm",
+      "copper",
+      "attio",
+      "crm",
+      "netsuite crm",
+      "microsoft 365",
+      "chartmogul crm",
+      "netsuite erp",
+      "salesforce sales cloud",
+      "leadbooster",
+      "smart docs",
+      "agentforce 1 sales",
+      "web visitors",
+      "campaigns",
+      "appexchange",
+      "ai sales assistant",
+      "starter",
+      "tableau",
+      "commandcenter",
+      "telephony",
+      "canvas",
+      "freddy ai copilot",
+      "projects",
+      "ultimate",
+      "freddy ai",
+      "linkedin sales navigator",
+      "zia",
+      "whatsapp business",
+      "premium",
+      "enterprise",
+      "lite",
+      "close",
+      "ai call assistant",
+      "notetaker",
+      "ai copilot",
+      "gmail",
+      "outlook",
+      "zoom",
+      "google drive",
+      "microsoft teams",
+      "professional",
+      "google meet",
+      "appconnect",
+      "power bi",
+      "suitebilling",
+      "azure communication services",
+      "teams"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.851,
+    "group_id": 2231221
+   },
+   {
+    "id": 40465567,
+    "title": "Attio vs Monday.com",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-monday-com",
+    "publisher": "Zoominfo",
+    "published_date": "2026-05-01T00:15:06",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.687,
+    "ai_summary": "Attio and Monday.com CRM are compared on flexibility, AI, and integrations, with Attio suited for startups and Monday for cross-functional teams. Both lack native B2B contact data and intent signals, requiring ZoomInfo as an intelligence layer. ZoomInfo's GTM Context Graph processes 1.5B+ data points daily to feed CRM workflows.",
+    "word_count": 3767,
+    "author": "James Rothchief Revenue Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "james roth"
+     ],
+     "location": [],
+     "product": [
+      "attio",
+      "zoominfo",
+      "monday.com",
+      "zapier",
+      "gmail",
+      "slack",
+      "outlook",
+      "segment",
+      "crm",
+      "monday crm",
+      "docusign",
+      "pandadoc",
+      "hubspot",
+      "mailchimp",
+      "clay",
+      "lusha",
+      "zoom",
+      "aircall",
+      "clearbit",
+      "gtm studio",
+      "meta ads",
+      "linkedin",
+      "ai sales agent",
+      "zoominfo mcp",
+      "apollo",
+      "freshsales",
+      "affinity"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7656,
+    "group_id": 494058
+   },
+   {
+    "id": 26119312,
+    "title": "Attio vs Monday.com",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-monday-com",
+    "publisher": "Zoominfo",
+    "published_date": "2026-05-01T00:15:06",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6141,
+    "ai_summary": "This article provides a detailed comparison of three B2B sales and marketing technology platforms: Attio (an AI-native CRM for startups and scale-ups), Monday.com CRM (a CRM product within Monday's broader work OS platform), and ZoomInfo (an all-in-one AI go-to-market intelligence platform). The analysis evaluates each platform across dimensions including data model architecture, AI capabilities, pricing structure, native integrations, and ideal use cases. The report concludes that Attio suits seed-to-Series B startups with non-standard data models, Monday.com CRM benefits cross-functional mid-market teams needing unified workflow tools, and ZoomInfo serves as an intelligence layer that complements either CRM by providing verified B2B contact data and intent signals.",
+    "word_count": 3767,
+    "author": "James Rothchief Revenue Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "CRM Implementation & Systems Integration",
+      "code": "BPAFAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": true
+     },
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": false
+     },
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": false
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "james roth"
+     ],
+     "location": [],
+     "product": [
+      "attio",
+      "zoominfo",
+      "monday.com",
+      "zapier",
+      "gmail",
+      "slack",
+      "outlook",
+      "segment",
+      "crm",
+      "monday crm",
+      "docusign",
+      "pandadoc",
+      "hubspot",
+      "mailchimp",
+      "clay",
+      "lusha",
+      "zoom",
+      "aircall",
+      "clearbit",
+      "gtm studio",
+      "meta ads",
+      "linkedin",
+      "ai sales agent",
+      "zoominfo mcp",
+      "apollo",
+      "freshsales",
+      "affinity"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7457,
+    "group_id": 512419
+   },
+   {
+    "id": 26119317,
+    "title": "Attio vs Salesforce: CRM Comparison",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-salesforce",
+    "publisher": "Zoominfo",
+    "published_date": "2026-04-30T03:57:46",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5484,
+    "ai_summary": "This article is a detailed buyer's guide comparing Attio and Salesforce as CRM platforms, with ZoomInfo featured as a complementary B2B data and intelligence layer for both. Attio is positioned as a flexible, AI-native CRM for startups and scale-ups (11-250 employees) with a customizable data model and quick setup, while Salesforce is presented as an enterprise-grade platform with broader functionality across sales, service, marketing, and commerce but requiring dedicated administrators and longer implementation timelines. The article highlights that neither CRM natively maintains first-party B2B contact intelligence and recommends ZoomInfo as a data enrichment solution regardless of which platform buyers choose.",
+    "word_count": 3897,
+    "author": "James Rothchief Revenue Officer",
+    "countries": [
+     "GBR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": false
+     },
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "thor sanderson"
+     ],
+     "location": [
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "attio",
+      "zoominfo",
+      "agentforce",
+      "salesforce",
+      "zapier",
+      "mulesoft",
+      "apollo",
+      "cognism",
+      "gtm studio",
+      "snackpass",
+      "slack",
+      "affinity",
+      "anthropic",
+      "appexchange",
+      "tableau",
+      "shield",
+      "lusha",
+      "einstein",
+      "leadiq",
+      "crm",
+      "chorus",
+      "truste",
+      "ask attio",
+      "google cloud platform",
+      "salesforce data cloud",
+      "crm platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7801,
+    "group_id": 512423
+   },
+   {
+    "id": 26119319,
+    "title": "Attio vs. Pipedrive: Which CRM to Choose?",
+    "url": "https://pipeline.zoominfo.com/sales/attio-vs-pipedrive",
+    "publisher": "Zoominfo",
+    "published_date": "2026-04-30T03:43:45",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5283,
+    "ai_summary": "This article compares Attio and Pipedrive as CRM platforms, evaluating their data models, AI capabilities, pricing structures, and pipeline management approaches for different team types. The analysis positions ZoomInfo as an intelligence layer that addresses the limitations both CRMs have in buyer intent signals, verified contact data at scale, and go-to-market intelligence. The article recommends Attio for technical startups needing flexible data models, Pipedrive for SMB sales teams seeking quick deployment, and ZoomInfo as a complementary intelligence platform for teams requiring buyer intent data and account prioritization signals.",
+    "word_count": 3617,
+    "author": "James Rothchief Revenue Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "pipedrive",
+      "attio",
+      "zoominfo",
+      "gtm studio",
+      "leadbooster",
+      "zoominfo lite",
+      "gtm workspace",
+      "plus",
+      "smart docs",
+      "campaigns",
+      "smart",
+      "chorus",
+      "apollo"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.766,
+    "group_id": 543445
+   }
+  ],
+  "credits_consumed": 0.54
+ },
+ "mode": "LIVE"
+}

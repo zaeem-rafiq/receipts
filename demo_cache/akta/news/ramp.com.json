@@ -1,0 +1,5952 @@
+{
+ "fetched_at": "2026-10-24T11:47:03",
+ "params": {
+  "company": "ramp.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 774,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42293436,
+    "title": "OpenAI Makes Decisions API Generally Available",
+    "url": "https://www.startupresearcher.com/news/openai-makes-decisions-api-generally-available",
+    "publisher": "Startup Researcher",
+    "published_date": "2026-10-23T16:43:12",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "OpenAI made its Decisions API generally available, built on GPT-6 Luna, to handle bounded decisions faster and cheaper. The API can operate up to 10 times faster than the Responses API, with response times shrinking from 1-3 seconds to 100-180 milliseconds. OpenAI expects adoption to expand into new use cases as the API improves.",
+    "word_count": 629,
+    "author": "",
+    "countries": [
+     "USA",
+     "CHN"
+    ],
+    "industries": [
+     {
+      "name": "Model Serving, Inference & Deployment Platforms (APIs, Edge/On-Prem)",
+      "code": "HDAEANAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02mqjes",
+      "name": "TypeSafe AI",
+      "website": "https://typesafe.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000008s",
+      "name": "Sierra",
+      "website": "https://sierra.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e3i",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005zj",
+      "name": "Speak",
+      "website": "https://www.speak.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059y",
+      "name": "Box",
+      "website": "http://www.box.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "nikunj handa"
+     ],
+     "location": [
+      "united states",
+      "asian regions",
+      "european union"
+     ],
+     "product": [
+      "speak",
+      "sierra",
+      "ramp",
+      "datadog",
+      "dots",
+      "d1 ultra",
+      "box",
+      "elephant-1",
+      "decisions api",
+      "gpt-6 luna"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9191,
+    "group_id": 12192268
+   },
+   {
+    "id": 42320654,
+    "title": "US Startup Funding Rounds October 2026 \u2014 Over $6 Billion in One Week",
+    "url": "https://beststartup.us/us-startup-funding-rounds-october-2026/",
+    "publisher": "Beststartup",
+    "published_date": "2026-10-23T14:47:19",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "US startups raised over $6 billion across more than 15 deals from October 15 to 23, 2026. Ramp led with a $1.85 billion primary round, and AI infrastructure, robotics, and clean energy sectors attracted significant capital.",
+    "word_count": 1771,
+    "author": "Laura Anderson",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02mqkfr",
+      "name": "Lux Capital",
+      "website": "https://www.luxcapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000076",
+      "name": "Index Ventures",
+      "website": "http://www.indexventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005yr",
+      "name": "Google Ventures",
+      "website": "http://www.gv.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000xk",
+      "name": "Kleiner Perkins",
+      "website": "https://www.kleinerperkins.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02c22cm",
+      "name": "Flapping Airplanes",
+      "website": "https://flappingairplanes.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007kz",
+      "name": "Tenstorrent",
+      "website": "http://tenstorrent.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us",
+      "united states",
+      "america"
+     ],
+     "product": [
+      "flapping airplanes",
+      "robot hands",
+      "antithesis",
+      "town"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15670790
+   },
+   {
+    "id": 42371667,
+    "title": "Evervault adds Browser Tokens for AI agents | The Paypers",
+    "url": "https://thepaypers.com/fraud-and-fincrime/news/evervault-launches-browser-tokens-for-secure-agentic-payments",
+    "publisher": "The Paypers",
+    "published_date": "2026-10-23T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5341,
+    "ai_summary": "Evervault launched Browser Tokens, which replace card data and passwords with short-lived tokens for AI agents and browser automations. The tokens work with existing checkout validation and are compatible with tools like Playwright and Browserbase. The product is now live for customers, with new developers able to use it for free.",
+    "word_count": 378,
+    "author": "Claudia Pincovski",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Tokenization, Network Vaults & Credential Management",
+      "code": "FSAGABAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004anm",
+      "name": "Evervault",
+      "website": "https://evervault.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qgag",
+      "name": "Natural",
+      "website": "https://www.natural.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000205",
+      "name": "new product or service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "walt leung",
+      "shane curran"
+     ],
+     "location": [
+      "geography"
+     ],
+     "product": [
+      "browser tokens",
+      "mastercard agent pay",
+      "playwright-based environments",
+      "browser platforms"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7716,
+    "group_id": 15048535
+   },
+   {
+    "id": 42273494,
+    "title": "FinTech Futures: Top five news stories of the week \u2013 23 October",
+    "url": "https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-23-october-2026",
+    "publisher": "FinTech Futures",
+    "published_date": "2026-10-23T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2828,
+    "ai_summary": "Barclays plans to cut around 5,000 jobs this year, LSEG agreed to acquire Octus for $3.535 billion, Ramp applied for a US trust bank charter, NAB expects to cut 2,500 roles in FY27, and Whop raised $200 million at a $5.1 billion valuation.",
+    "word_count": 570,
+    "author": "",
+    "countries": [
+     "GBR",
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pz",
+      "name": "Permira",
+      "website": "http://www.permira.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004wb5",
+      "name": "Octus",
+      "website": "https://octus.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000356",
+      "name": "Whop",
+      "website": "https://whop.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": true
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003i4v",
+      "name": "Shopify Ventures",
+      "website": "https://shopify.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000k1o",
+      "name": "National Australia Bank",
+      "website": "http://www.nab.com.au/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002p8",
+      "name": "Tether",
+      "website": "https://tether.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "kent collier",
+      "jack sharkey",
+      "steven schwartz",
+      "cs venkatakrishnan",
+      "cameron zoub"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "octus"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15654145
+   },
+   {
+    "id": 42259420,
+    "title": "OpenAI Launches New AI Tool That Makes Decisions Up to 10 Times Faster",
+    "url": "https://propakistani.pk/2026/10/23/openai-launches-new-ai-tool-that-makes-decisions-up-to-10-times-faster/",
+    "publisher": "Propakistani",
+    "published_date": "2026-10-23T11:30:41",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "OpenAI launched its Decisions API on October 22, making decisions up to 10 times faster than its Responses API. Response times dropped from 1\u20133 seconds to 100\u2013180 milliseconds, with input pricing at $0.10 per million tokens. The company expects further improvements to 60 milliseconds.",
+    "word_count": 551,
+    "author": "Afaq Wajdan Malik",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Model Hosting, Serving & Inference Platforms",
+      "code": "HDAAACAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02mqjes",
+      "name": "TypeSafe AI",
+      "website": "https://typesafe.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000e3i",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005zj",
+      "name": "Speak",
+      "website": "https://www.speak.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059y",
+      "name": "Box",
+      "website": "http://www.box.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "nikunj handa",
+      "andrew hsu"
+     ],
+     "location": [],
+     "product": [
+      "liquid d1 ultra",
+      "base lab elephant-1",
+      "jev",
+      "liquid",
+      "decisions api"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12192268
+   },
+   {
+    "id": 42220523,
+    "title": "Vesto joins Ramp to unify multi-bank cash visibility | The Paypers",
+    "url": "https://thepaypers.com/mergers-aquisitions-and-investments/news/vesto-joins-ramp-to-bring-multi-bank-treasury-tools-into-one-platform",
+    "publisher": "The Paypers",
+    "published_date": "2026-10-23T03:39:57",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Vesto integrated its treasury software with Ramp, unifying external and Ramp Banking accounts into a single interface. The feature is now available to over 100 companies, with Ramp planning to roll it out to its 85,000-business customer base. Ramp aims to expand the platform into a central treasury management hub.",
+    "word_count": 424,
+    "author": "Sinziana Albu",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Treasury & Risk Management Solutions (FX/MM, hedging, TMS integration)",
+      "code": "FSABAIAE",
+      "is_primary": true
+     },
+     {
+      "name": "Account Aggregation & Connectivity (Multi-bank linking)",
+      "code": "FSAGACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004ga",
+      "name": "Picogrid",
+      "website": "https://picogrid.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m7qla",
+      "name": "vesto [getvesto.com]",
+      "website": "https://getvesto.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "benjamin d\u00f6pfner"
+     ],
+     "location": [],
+     "product": [
+      "wells fargo vantage",
+      "bank of america cashpro",
+      "citidirect",
+      "j.p. morgan access",
+      "ramp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9086,
+    "group_id": 15202885
+   },
+   {
+    "id": 42185208,
+    "title": "Nvidia and Reflection Make Open Models Enterprise-Ready",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-and-reflection-make-open-models-enterprise-ready/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-10-22T23:08:06",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9805,
+    "ai_summary": "Nvidia and Reflection released open models for enterprise use, with Reflection launching with over 40 partners including AWS and Microsoft. DeepSeek and MiniMax cut prices, while Inception and Perplexity focused on speed. Chinese labs had led the open-weight AI race this year.",
+    "word_count": 128,
+    "author": "Pymnts",
+    "countries": [
+     "USA",
+     "CHN"
+    ],
+    "industries": [
+     {
+      "name": "Open-Source Model Ecosystems & Model Marketplaces",
+      "code": "HDAAACAM",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000004",
+      "name": "Perplexity",
+      "website": "https://www.perplexity.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zh",
+      "name": "MiniMax",
+      "website": "https://www.minimaxi.com/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007t4",
+      "name": "Inception",
+      "website": "https://www.inceptionlabs.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m895i",
+      "name": "EY",
+      "website": "https://www.ey.com/en_us",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ou",
+      "name": "Reflection AI",
+      "website": "https://www.reflection.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002ud",
+      "name": "DeepSeek",
+      "website": "https://deepseek.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "mercury 3"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9622,
+    "group_id": 15536735
+   },
+   {
+    "id": 42143386,
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-10-22T19:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9829,
+    "ai_summary": "OpenAI made its Decisions API widely available, offering a fast, low-cost decision model based on ChatGPT Luna. The API reduced inference times from seconds to 100-180 milliseconds, and customers like Speak cut action times from 1.4 to 0.13 seconds. OpenAI may further optimize speed and add image outputs.",
+    "word_count": 780,
+    "author": "Tim Fernholz",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Model Deployment, Serving & Inference Platforms",
+      "code": "HDAAABAF",
+      "is_primary": true
+     },
+     {
+      "name": "Real-Time Decisioning & Next-Best-Action Engines",
+      "code": "HDAAAHAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000e3i",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mqjes",
+      "name": "TypeSafe AI",
+      "website": "https://typesafe.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008jj",
+      "name": "Opper AI",
+      "website": "https://opper.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005zj",
+      "name": "Speak",
+      "website": "https://www.speak.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059y",
+      "name": "Box",
+      "website": "http://www.box.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000091",
+      "name": "Liquid AI",
+      "website": "http://liquid.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "nikunj handa",
+      "andrew hsu",
+      "diogo almeida",
+      "felix wunderlich",
+      "handa",
+      "jev"
+     ],
+     "location": [],
+     "product": [
+      "wabi",
+      "dots",
+      "jev",
+      "luna",
+      "jevman",
+      "elephant-1",
+      "decisions api",
+      "d1 ultra",
+      "pacman"
+     ],
+     "event": [
+      "developer day"
+     ]
+    },
+    "newsworthiness_score": 0.9665,
+    "group_id": 12192268
+   },
+   {
+    "id": 42197026,
+    "title": "How Ramp Simplifies Finance for Growing Fitness Brands",
+    "url": "https://athletechnews.com/how-ramp-simplifies-finance-for-growing-fitness-brands/",
+    "publisher": "Athletechnews",
+    "published_date": "2026-10-22T11:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp unifies spending, payments, and accounting for multi-unit fitness brands, automating invoice capture, approval routing, and accounting sync. One client cut five days from its monthly close and gained about 400 hours per month, while customers average 5% savings.",
+    "word_count": 791,
+    "author": "Athletech Studios",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Accounts Payable Automation & Supplier Payments",
+      "code": "FSAGAJAD",
+      "is_primary": true
+     },
+     {
+      "name": "Invoicing, Billing & Accounts Receivable Automation",
+      "code": "FSAGAJAC",
+      "is_primary": false
+     },
+     {
+      "name": "SME Accounting, Bookkeeping & Close Automation",
+      "code": "FSAGAJAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000171",
+      "name": "business finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "charlie desocio",
+      "desocio",
+      "descoio"
+     ],
+     "location": [
+      "headquarters"
+     ],
+     "product": [
+      "netsuite",
+      "hyrox",
+      "xenom",
+      "body xchange"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7511,
+    "group_id": 15557663
+   },
+   {
+    "id": 42230263,
+    "title": "Ramp's OCC Trust Bank Bid Meets Court Fight Over Charters",
+    "url": "https://menafn.com/1111848508/Ramps-OCC-Trust-Bank-Bid-Meets-Court-Fight-Over-Charters",
+    "publisher": "Business & Financial",
+    "published_date": "2026-10-22T08:07:08",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.3547,
+    "ai_summary": "Ramp filed an application with the OCC to create a new trust bank for digital asset custody, a charter already contested by the Independent Community Bankers of America. The suit argues Congress did not create the charter as a side door for crypto firms, and the OCC has not disclosed a review timeline.",
+    "word_count": 466,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     },
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000004j",
+      "name": "Circle",
+      "website": "https://www.circle.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002om",
+      "name": "Wise",
+      "website": "https://wise.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6029",
+      "name": "COMMERCIAL BANKS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "rebeca romero rainey"
+     ],
+     "location": [
+      "washington",
+      "us",
+      "indiana"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 42138441,
+    "title": "Ramp's OCC Trust Bank Bid Meets Court Fight Over Charters",
+    "url": "https://www.valuewalk.com/ramp-occ-trust-charter-application/",
+    "publisher": "ValueWalk",
+    "published_date": "2026-10-22T06:06:15",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.3911,
+    "ai_summary": "Ramp, a $60 billion spend-management fintech, applied to the OCC for a national trust bank charter to custody digital assets. The Independent Community Bankers of America sued the OCC over crypto charters, and the suit remains active. The OCC has not disclosed a review timeline.",
+    "word_count": 491,
+    "author": "Valuewalk Team",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002om",
+      "name": "Wise",
+      "website": "https://wise.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6099",
+      "name": "FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "rebeca romero rainey"
+     ],
+     "location": [
+      "washington",
+      "new york",
+      "us",
+      "indiana"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 42048620,
+    "title": "1% of AI Users Drive 80% of Spending Leaving the Boom Very Fragile",
+    "url": "https://beincrypto.com/ai-spending-concentration-ramp-data/",
+    "publisher": "Beincrypto",
+    "published_date": "2026-10-22T04:28:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0245,
+    "ai_summary": "Ramp data shows 1% of firms drive 80% of AI spending on OpenAI and Anthropic, with growth nearly stalled for two months. Per-employee spending hit $9,568 in September, up 11.7% month-over-month but 3.1% below July's peak. The boom's fragility is highlighted by venture-backed concentration and potential rate pressure.",
+    "word_count": 331,
+    "author": "Darryn Pollockdarryn Serves As Asian Editor At Beincrypto",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Consumer Behaviour & Spending",
+      "code": "MM05",
+      "is_primary": true
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     },
+     {
+      "name": "Sector Rotation",
+      "code": "MD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000db",
+      "name": "Apollo",
+      "website": "https://www.apollo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d37",
+      "name": "Citadel",
+      "website": "https://www.citadel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000by",
+      "name": "Goldman Sachs",
+      "website": "https://www.goldmansachs.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ken griffin",
+      "ara kharazian",
+      "kate rooney",
+      "brad delong"
+     ],
+     "location": [
+      "american"
+     ],
+     "product": [
+      "anthropic",
+      "openai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15335417
+   },
+   {
+    "id": 42029800,
+    "title": "Ramp Seeks OCC Trust Bank Charter for Crypto Custody",
+    "url": "https://insidebitcoins.com/news/ramp-occ-trust-bank-charter-digital-asset-custody",
+    "publisher": "InsideBitcoins.com",
+    "published_date": "2026-10-22T04:10:27",
+    "sentiment": "Negative",
+    "sentiment_score": 0.217,
+    "ai_summary": "Ramp applied to the OCC for a national trust bank charter to custody digital assets, filing on October 16 for Ramp National Trust Bank. The proposed bank would focus on fiduciary investment management and custody, not deposits or loans. The company, valued at $60 billion with $2 billion annual revenue, serves over 85,000 teams.",
+    "word_count": 523,
+    "author": "Tomas Reiner",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6099",
+      "name": "FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tomas reiner",
+      "rebeca romero rainey"
+     ],
+     "location": [
+      "washington",
+      "france",
+      "us"
+     ],
+     "product": [
+      "bitcoin",
+      "ether"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41932292,
+    "title": "Ramp bolsters treasury management capabilities via Vesto purchase",
+    "url": "https://www.fintechfutures.com/m-a/ramp-acquires-vesto",
+    "publisher": "FinTech Futures",
+    "published_date": "2026-10-21T13:06:07",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp acquired Vesto, a treasury management platform, for an undisclosed sum. The integration lets Ramp customers view and analyze accounts from over 12,000 institutions, including major banks. Vesto's founder will join Ramp's product team.",
+    "word_count": 209,
+    "author": "Francis Bignellreporter",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Treasury, Cash Management & Liquidity Tools (Sweeps, Cash Concentration)",
+      "code": "FSAGAAAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m7qla",
+      "name": "vesto [getvesto.com]",
+      "website": "https://getvesto.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6099",
+      "name": "FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "benjamin d\u00f6pfner"
+     ],
+     "location": [
+      "canadian"
+     ],
+     "product": [
+      "vesto",
+      "citidirect",
+      "wells fargo vantage",
+      "aptpay",
+      "bank of america cashpro",
+      "jp morgan access"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15202885
+   },
+   {
+    "id": 41742771,
+    "title": "Ramp Launches Ramp for Nonprofits to Help Organizations Keep Every Dollar on Mission",
+    "url": "https://www.prnewswire.com/news-releases/ramp-launches-ramp-for-nonprofits-to-help-organizations-keep-every-dollar-on-mission-302915048.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-10-21T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp launched Ramp for Nonprofits on Oct. 21, 2026, to help nonprofits recover sales tax and control grant spending. The platform offers sales tax reclamation, exemption certificates, grant budgeting, and approval routing. Customers like Boys & Girls Clubs of San Francisco report saving over $20k annually.",
+    "word_count": 650,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Tax Compliance, Filing & VAT/GST Automation (SME)",
+      "code": "FSAGAJAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Embedded Tax, Accounting & Invoicing Finance",
+      "code": "FSAGALAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Funding, Finance & Grants Reporting (Allocations, Claims, Reconciliation)",
+      "code": "EDADAIAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00092gt",
+      "name": "Nevada Partnership for Homeless Youth",
+      "website": "https://nphy.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000hnl6",
+      "name": "Boys & Girls Clubs of San Francisco",
+      "website": "https://www.kidsclub.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0029l58",
+      "name": "Jewish Fertility Foundation",
+      "website": "https://jewishfertilityfoundation.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02lwv5t",
+      "name": "Girl Scouts Of The Green And White Mountains",
+      "website": "https://www.girlscoutsgwm.org",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "108",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "kelly horton",
+      "heidi coffer"
+     ],
+     "location": [
+      "vermont",
+      "new hampshire",
+      "new york",
+      "san francisco",
+      "america"
+     ],
+     "product": [
+      "ramp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9611,
+    "group_id": 15173663
+   },
+   {
+    "id": 41717473,
+    "title": "Evervault Launches Browser Tokens, Enabling Secure Agentic Payments",
+    "url": "https://www.einnews.com/article/951200652/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-21T08:20:33",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9689,
+    "ai_summary": "Evervault launched Browser Tokens at Money20/20, enabling AI agents to make purchases and log in without exposing payment cards or credentials. The tokens replace sensitive values with short-lived, format-preserving tokens, working across existing payment cards and account-access flows. Ramp and Natural are among the first customers building with the product.",
+    "word_count": 491,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Tokenization, Network Vaults & Credential Management",
+      "code": "FSAGABAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004anm",
+      "name": "Evervault",
+      "website": "https://evervault.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qgag",
+      "name": "Natural",
+      "website": "https://www.natural.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "shane curran",
+      "walt leung",
+      "shai gabay"
+     ],
+     "location": [
+      "geography"
+     ],
+     "product": [
+      "mastercard agent pay",
+      "browser tokens",
+      "visa intelligent commerce",
+      "browserbase",
+      "ai agents",
+      "playwright-based environments",
+      "browser provider",
+      "browser platforms"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8778,
+    "group_id": 15048535
+   },
+   {
+    "id": 41709204,
+    "title": "Evervault Launches Browser Tokens, Enabling Secure Agentic Payments",
+    "url": "https://globalfintechseries.com/banking/digital-payments/evervault-launches-browser-tokens-enabling-secure-agentic-payments/",
+    "publisher": "Globalfintechseries",
+    "published_date": "2026-10-21T08:20:33",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9584,
+    "ai_summary": "Evervault launched Browser Tokens at Money20/20, enabling AI agents and browser automations to make purchases and log in without exposing payment cards or passwords. The tokens replace sensitive values with short-lived, format-preserving tokens, working across existing payment cards and account-access flows. Ramp and Natural are among the first customers building with the product.",
+    "word_count": 478,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Tokenization, Network Vaults & Credential Management",
+      "code": "FSAGABAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004anm",
+      "name": "Evervault",
+      "website": "https://evervault.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qgag",
+      "name": "Natural",
+      "website": "https://www.natural.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "shane curran",
+      "walt leung",
+      "shai gabay"
+     ],
+     "location": [
+      "geography"
+     ],
+     "product": [
+      "browser tokens",
+      "mastercard agent pay",
+      "visa intelligent commerce",
+      "browserbase",
+      "playwright-based environments",
+      "ai agents"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8593,
+    "group_id": 15048535
+   },
+   {
+    "id": 41716924,
+    "title": "Ramp Secures $1.85 Billion Financing at $60 Billion Valuation",
+    "url": "https://globallegalchronicle.com/post-241989/",
+    "publisher": "Globallegalchronicle",
+    "published_date": "2026-10-21T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp completed a $1.85 billion primary financing, with Dragoneer Investment Group as lead investor, advised by Gunderson Dettmer. The financing was announced without a valuation disclosed.",
+    "word_count": 51,
+    "author": "View all posts by Leila Ahmed",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Private Equity Fundraising Placement",
+      "code": "FSAEALAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gunderson dettmer"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15158712
+   },
+   {
+    "id": 41606148,
+    "title": "Evervault launches Browser Tokens, enabling secure agentic payments",
+    "url": "https://www.finextra.com/pressarticle/111376/evervault-launches-browser-tokens-enabling-secure-agentic-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "publisher": "Finextra",
+    "published_date": "2026-10-20T20:40:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9568,
+    "ai_summary": "Evervault launched Browser Tokens at Money20/20, enabling AI agents and browser automations to make purchases and log in without exposing payment cards or passwords. The tokens replace sensitive values with short-lived, format-preserving tokens, working across existing payment cards and account-access flows. Ramp and Natural are among the first customers, and the product is live for Evervault customers today.",
+    "word_count": 447,
+    "author": "Editorial Team",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Tokenization, Network Vaults & Credential Management",
+      "code": "FSAGABAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004anm",
+      "name": "Evervault",
+      "website": "https://evervault.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qgag",
+      "name": "Natural",
+      "website": "https://www.natural.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "walt leung",
+      "shane curran"
+     ],
+     "location": [
+      "geography"
+     ],
+     "product": [
+      "browser tokens",
+      "mastercard agent pay",
+      "visa intelligent commerce",
+      "browserbase"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8643,
+    "group_id": 15048535
+   },
+   {
+    "id": 41731608,
+    "title": "Ramp \u7533\u8acb OCC \u4fe1\u8a17\u9280\u884c\u7279\u8a31 \u8a17\u7ba1\u6578\u4f4d\u8cc7\u7522",
+    "url": "https://financefeeds.com/zh/ramp-seeks-us-bank-charter-to-custody-digital-assets/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T20:20:11",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5099,
+    "ai_summary": "Ramp applied to the OCC for a national trust bank charter on October 16 to custody digital assets. The company, valued at $60 billion, serves over 85,000 businesses and manages $5 billion in customer balances. The application faces a legal challenge from the Independent Community Bankers of America.",
+    "word_count": 627,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [
+      "washington",
+      "u.s."
+     ],
+     "product": [],
+     "event": [
+      "ifx expo asia 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41952660,
+    "title": "Evervault Launches Browser Tokens, Enabling Secure Agentic Payments",
+    "url": "https://www.businesswire.com/news/home/20261020664529/en/Evervault-Launches-Browser-Tokens-Enabling-Secure-Agentic-Payments",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-10-20T18:50:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8972,
+    "ai_summary": "Evervault launched Browser Tokens at Money20/20, enabling AI agents to make purchases and log in without exposing payment cards or credentials. The tokens replace sensitive values with short-lived, format-preserving tokens, and work with existing browser platforms like Playwright and Browserbase. Ramp and Natural are among the first customers.",
+    "word_count": 590,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Tokenization, Network Vaults & Credential Management",
+      "code": "FSAGABAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004anm",
+      "name": "Evervault",
+      "website": "https://evervault.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qgag",
+      "name": "Natural",
+      "website": "https://www.natural.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "walt leung",
+      "shane curran",
+      "charlotte clutson"
+     ],
+     "location": [
+      "las vegas",
+      "geography"
+     ],
+     "product": [
+      "mastercard agent pay",
+      "browser tokens",
+      "visa intelligent commerce",
+      "evervault",
+      "browserbase",
+      "playwright-based environments"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9276,
+    "group_id": 15048535
+   },
+   {
+    "id": 41601643,
+    "title": "Evervault Launches Browser Tokens, Enabling Secure Agentic Payments",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-10-20-evervault-launches-browser-tokens-enabling-secure-agentic-payments",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-20T18:50:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6797,
+    "ai_summary": "Evervault launched Browser Tokens at Money20/20, enabling AI agents to make purchases and log in without exposing payment cards or credentials. The tokens replace sensitive values with short-lived, format-preserving tokens, working across existing payment cards and account-access flows. Ramp and Natural are among the first customers.",
+    "word_count": 595,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Tokenization, Network Vaults & Credential Management",
+      "code": "FSAGABAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004anm",
+      "name": "Evervault",
+      "website": "https://evervault.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qgag",
+      "name": "Natural",
+      "website": "https://www.natural.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "walt leung",
+      "shane curran"
+     ],
+     "location": [
+      "geography"
+     ],
+     "product": [
+      "mastercard agent pay",
+      "browser tokens",
+      "visa intelligent commerce",
+      "browserbase",
+      "evervault",
+      "playwright-based environments"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9053,
+    "group_id": 15048535
+   },
+   {
+    "id": 41607137,
+    "title": "Fintech Ramp Applies for OCC Trust Charter to Custody Crypto",
+    "url": "https://coinmarketcap.com/academy/article/fintech-ramp-applies-for-occ-trust-charter-to-custody-crypto",
+    "publisher": "CoinMarketCap",
+    "published_date": "2026-10-20T18:45:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.504,
+    "ai_summary": "Ramp applied to the OCC to form Ramp National Trust Bank, which would offer digital asset custody and fiduciary investment management but take no deposits. The application was made to the OCC, and no further details were disclosed.",
+    "word_count": 190,
+    "author": "Motoko Kusanagi",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Managed Accounts, Separately Managed Accounts (SMA) & Funds Platforms (Crypto)",
+      "code": "FSADAHAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.6734,
+    "group_id": 14907871
+   },
+   {
+    "id": 41731234,
+    "title": "Ramp \u0e22\u0e37\u0e48\u0e19\u0e02\u0e2d\u0e43\u0e1a\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e17\u0e23\u0e31\u0e2a\u0e15\u0e4c OCC \u0e02\u0e13\u0e30\u0e01\u0e25\u0e38\u0e48\u0e21\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e1f\u0e49\u0e2d\u0e07\u0e02\u0e31\u0e14\u0e02\u0e27\u0e32\u0e07",
+    "url": "https://financefeeds.com/th/ramp-seeks-us-bank-charter-to-custody-2/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T17:50:52",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8025,
+    "ai_summary": "Ramp filed for a U.S. OCC trust bank license on October 16 to operate digital asset custody and investment services. The application would let Ramp hold crypto under federal regulation, but Independent Community Bankers of America challenged OCC's authority on October 2. A ruling date has not been set.",
+    "word_count": 122,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Licensing, Registration & Fit-and-Proper Compliance",
+      "code": "FSAFAOAO",
+      "is_primary": true
+     },
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman",
+      "icba"
+     ],
+     "location": [
+      "america"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.8661,
+    "group_id": 14907871
+   },
+   {
+    "id": 41731236,
+    "title": "Ramp Pede Carta de Trust do OCC enquanto Bancos Processam",
+    "url": "https://financefeeds.com/pt/ramp-busca-carta-banco-eua-custodia/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T17:50:51",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5247,
+    "ai_summary": "Ramp filed a petition with the OCC on October 16 for a national trust bank charter to custody and manage digital assets. The company, valued at $60 billion, serves over 85,000 U.S. companies and generates over $2 billion in annual revenue. The OCC's decision is pending, with a legal challenge from the Independent Community Bankers of America.",
+    "word_count": 640,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000059",
+      "name": "zerohash",
+      "website": "https://zerohash.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005uhq",
+      "name": "First Internet Bank",
+      "website": "https://www.firstib.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ue",
+      "name": "Moment",
+      "website": "https://moment.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006pln",
+      "name": "APEX Clearing Corporation",
+      "website": "https://www.apexclearing.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ed",
+      "name": "Rain",
+      "website": "https://www.rain.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02c23ze",
+      "name": "Payward",
+      "website": "https://www.payward.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [
+      "washington",
+      "estados unidos"
+     ],
+     "product": [],
+     "event": [
+      "ifx expo asia 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41731238,
+    "title": "Ramp Domanda Carta Trust OCC per Custodia Crypto",
+    "url": "https://financefeeds.com/it/ramp-carta-bancaria-occ-custodia/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T17:50:50",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5199,
+    "ai_summary": "Ramp filed an application on October 16 with the OCC for a national trust bank to hold and manage digital asset custody. The company, serving over 85,000 US companies, would bring crypto custody under federal regulation, avoiding state-by-state licensing. The outcome of a legal challenge by ICBA could affect future fintech applications.",
+    "word_count": 630,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [
+      "washington",
+      "usa"
+     ],
+     "product": [],
+     "event": [
+      "ifx expo asia 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41731752,
+    "title": "Ramp beantragt OCC Trust Charter f\u00fcr Crypto-Verwahrung",
+    "url": "https://financefeeds.com/de/ramp-beantragt-us-bank-charter-verwahrung/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T17:50:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5354,
+    "ai_summary": "Ramp filed an application with the OCC for a national trust bank charter to offer digital asset custody and trust services. The company, valued at $60 billion, serves over 85,000 US businesses and manages $5 billion in customer balances. The decision is pending, with a potential ICBA lawsuit affecting future approvals.",
+    "word_count": 549,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Corporate & Institutional Trust Services",
+      "code": "FSAAANAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [
+      "washington"
+     ],
+     "product": [],
+     "event": [
+      "ifx expo asia 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41731758,
+    "title": "Ramp D\u00e9pose une Demande de Charte OCC pour Banque de Fiducie",
+    "url": "https://financefeeds.com/fr/ramp-demande-charte-bancaire-us-custody-actifs/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T17:50:43",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.557,
+    "ai_summary": "Ramp filed an application with the OCC for a national trust bank charter on October 16 to hold and manage digital assets. The company, serving over 85,000 businesses, generates $2 billion in annual revenue and manages $5 billion in client balances. The outcome of the ICBA lawsuit could affect future fintech charter approvals.",
+    "word_count": 700,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Crypto/Web3 Neobanks",
+      "code": "FSABAFAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     },
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [
+      "washington",
+      "\u00e9tats-unis",
+      "\u00e9tats"
+     ],
+     "product": [],
+     "event": [
+      "ifx expo asia 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41731751,
+    "title": "Ramp Solicita Carta de Fideicomiso OCC ante Demanda de Bancos",
+    "url": "https://financefeeds.com/es/ramp-solicita-carta-bancaria-occ-custodia/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T17:50:42",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5097,
+    "ai_summary": "Ramp, a corporate finance platform, requested a national trust bank charter from the OCC to custody digital assets. The company, serving 85,000 companies with $2 billion in annual revenue, would internalize custody under federal supervision. The Independent Community Bankers of America challenged the OCC's authority, and no decision date was set.",
+    "word_count": 649,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000059",
+      "name": "zerohash",
+      "website": "https://zerohash.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02c23ze",
+      "name": "Payward",
+      "website": "https://www.payward.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ed",
+      "name": "Rain",
+      "website": "https://www.rain.xyz",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6099",
+      "name": "FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [
+      "estados unidos",
+      "washington"
+     ],
+     "product": [],
+     "event": [
+      "ifx expo asia 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41585627,
+    "title": "Ramp Files for OCC Trust Charter as Bank Lobby Sues to Block",
+    "url": "https://financefeeds.com/ramp-seeks-us-bank-charter-to-custody/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-20T16:10:19",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4947,
+    "ai_summary": "Ramp filed an application with the OCC for a national trust bank charter on October 16 to provide digital asset custody and fiduciary services. The company, valued at $60 billion, manages over $5 billion in customer balances. The Independent Community Bankers of America sued the OCC on October 2, challenging its authority to grant charters to non-depository fintechs.",
+    "word_count": 693,
+    "author": "Damilola Esebame",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5221",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "damilola esebame",
+      "eric glyman"
+     ],
+     "location": [
+      "washington",
+      "united states"
+     ],
+     "product": [],
+     "event": [
+      "ifx expo asia 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41575677,
+    "title": "Ramp applies for national bank trust charter",
+    "url": "https://www.finextra.com/newsarticle/48619/ramp-applies-for-national-bank-trust-charter?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "publisher": "Finextra",
+    "published_date": "2026-10-20T15:20:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp applied to the Office of the Comptroller of the Currency for a national bank charter to set up Ramp National Trust Bank. The proposed bank would offer fiduciary investment management and digital asset custody, not deposits or commercial loans. The application follows a $1.85 billion raise valuing the company at $60 billion.",
+    "word_count": 197,
+    "author": "Editorial Team",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Digital Asset Custody & Wallet Infrastructure for Institutions (MPC/HSM, key mgmt, policy controls)",
+      "code": "FSAPAIAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "shopify",
+      "uber",
+      "visa"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41646134,
+    "title": "Ramp seeks bank charter",
+    "url": "https://www.paymentsdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833467/",
+    "publisher": "Payments Dive",
+    "published_date": "2026-10-20T14:16:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0848,
+    "ai_summary": "Ramp applied for a national trust bank charter with the OCC, offering fiduciary investment management and digital-asset custody without deposits or commercial loans. The company raised $1.85 billion in a financing round led by Dragoneer, valuing it at $60 billion. The application follows a lawsuit by ICBA over charter approvals.",
+    "word_count": 505,
+    "author": "Dan Ennis",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Fiduciary Investment Management (Trust Portfolios)",
+      "code": "FSAEAKAI",
+      "is_primary": true
+     },
+     {
+      "name": "Licensing, Registration & Fit-and-Proper Compliance",
+      "code": "FSAFAOAO",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     },
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "eric glyman",
+      "rahul sengottuvelu",
+      "karim atiyeh",
+      "ji hun kim",
+      "jonathan gould",
+      "donald trump"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41582648,
+    "title": "Streamline AI Recognized by G2 and Ramp for Customer Experience and Growth",
+    "url": "https://www.businesswire.com/news/home/20261014531457/en/Streamline-AI-Recognized-by-G2-and-Ramp-for-Customer-Experience-and-Growth",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-10-20T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Streamline AI was recognized by G2 and Ramp for customer experience and growth. G2's Legal Guide gave it a 4.7-star rating, a 90 Net Promoter Score, and reported a seven-month average ROI payback versus 13 months for the category. The company has over 1,000 lawyers using its platform.",
+    "word_count": 468,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Legal Practice Management & Case Management",
+      "code": "BPAEAPAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": false
+     },
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008df",
+      "name": "Streamline AI",
+      "website": "https://www.streamline.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "kathy zhu",
+      "meghan mitton",
+      "julian wimbush",
+      "rebecca klein"
+     ],
+     "location": [],
+     "product": [
+      "streamline ai",
+      "slack",
+      "gmail",
+      "salesforce"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9801,
+    "group_id": 15024741
+   },
+   {
+    "id": 41561671,
+    "title": "Ramp applies for US national trust bank charter",
+    "url": "https://www.fintechfutures.com/regulations-compliance/ramp-applies-for-us-national-trust-bank-charter",
+    "publisher": "FinTech Futures",
+    "published_date": "2026-10-20T12:12:32",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp applied to the US OCC for a national trust bank charter to offer fiduciary investment management and digital asset custody. The proposed bank will not take deposits or make commercial loans. The application follows a $1.85 billion funding round at a $60 billion valuation.",
+    "word_count": 264,
+    "author": "Francis Bignellreporter",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Fiduciary Investment Management (Trust Portfolios)",
+      "code": "FSAEAKAI",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Asset Custody & Wallet Infrastructure for Institutions (MPC/HSM, key mgmt, policy controls)",
+      "code": "FSAPAIAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     },
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "gene lee",
+      "eric glyman"
+     ],
+     "location": [
+      "canada",
+      "uk",
+      "europe",
+      "north america"
+     ],
+     "product": [
+      "billhop"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9936,
+    "group_id": 14907871
+   },
+   {
+    "id": 41580855,
+    "title": "Ramp applies for national trust bank charter from OCC",
+    "url": "https://www.bankingdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833434/",
+    "publisher": "Banking Dive",
+    "published_date": "2026-10-20T11:44:20",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0633,
+    "ai_summary": "Ramp applied for a national trust bank charter from the OCC, offering fiduciary investment management and digital-asset custody without deposits or commercial loans. The application follows a $1.85 billion financing round led by Dragoneer, valuing the company at $60 billion. The OCC has approved 21 charters since Trump's second term, 13 from crypto firms.",
+    "word_count": 458,
+    "author": "Dan Ennis",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Active Crypto Asset Managers (Discretionary)",
+      "code": "FSADAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "eric glyman",
+      "rahul sengottuvelu",
+      "karim atiyeh",
+      "ji hun kim",
+      "jonathan gould",
+      "donald trump"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41568418,
+    "title": "Ramp Applies for OCC Trust Bank Charter to Offer Crypto Custody",
+    "url": "https://www.einnews.com/article/950969272/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-20T09:40:47",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1995,
+    "ai_summary": "Ramp applied to the OCC on Oct. 16 for a national trust bank charter to offer digital asset custody and fiduciary investment management. The proposed bank would not take deposits or make loans, and Ramp reports over $5 billion in customer balances and a $60 billion valuation. The application faces a legal challenge from community bankers.",
+    "word_count": 549,
+    "author": "Maisie Morrison",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Active Crypto Asset Managers (Discretionary)",
+      "code": "FSADAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000059",
+      "name": "zerohash",
+      "website": "https://zerohash.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lxbuw",
+      "name": "Payward",
+      "website": "https://www.kraken.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000028",
+      "name": "BitGo",
+      "website": "https://www.bitgo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004y",
+      "name": "Ripple",
+      "website": "http://ripple.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ed",
+      "name": "Rain",
+      "website": "https://www.rain.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002ci",
+      "name": "Paxos",
+      "website": "https://www.paxos.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman",
+      "rebeca romero rainey"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "ripple",
+      "paxos",
+      "fidelity digital assets"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41611974,
+    "title": "Ramp applies for national trust bank charter from OCC",
+    "url": "https://www.einnews.com/article/951044803/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-20T07:44:20",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0487,
+    "ai_summary": "Ramp applied for a national trust bank charter from the OCC, offering fiduciary investment management and digital-asset custody without deposits or commercial loans. The application follows a $1.85 billion financing round led by Dragoneer, valuing the company at $60 billion. The OCC has approved 21 charters since Trump's second term, 13 from crypto firms.",
+    "word_count": 432,
+    "author": "Dan Ennis",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Active Crypto Asset Managers (Discretionary)",
+      "code": "FSADAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006quj",
+      "name": "Independent Community Bankers of America",
+      "website": "http://www.icba.org/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "eric glyman",
+      "rahul sengottuvelu",
+      "karim atiyeh",
+      "ji hun kim",
+      "jonathan gould",
+      "donald trump"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41509035,
+    "title": "Ramp applies for US trust bank charter to offer digital asset custody: Guest Post by crypto.news",
+    "url": "https://coinmarketcap.com/community/articles/6ad706e5ca733659a0900deb/",
+    "publisher": "CoinMarketCap",
+    "published_date": "2026-10-20T06:18:42",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5788,
+    "ai_summary": "Ramp applied to the OCC on Oct. 16 for a national trust bank charter to offer digital asset custody and fiduciary investment management. The proposed bank would not accept deposits or make commercial loans, and Ramp reported over $5 billion in customer balances across its existing accounts. The application remains subject to regulatory approval, with no launch date announced.",
+    "word_count": 1327,
+    "author": "Community Banks Challenge Occ Authority Over Crypto Trust Charters",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Managed Accounts, Separately Managed Accounts (SMA) & Funds Platforms (Crypto)",
+      "code": "FSADAHAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000059",
+      "name": "zerohash",
+      "website": "https://zerohash.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02lxbuw",
+      "name": "Payward",
+      "website": "https://www.kraken.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ed",
+      "name": "Rain",
+      "website": "https://www.rain.xyz",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman",
+      "rebeca romero rainey"
+     ],
+     "location": [
+      "us",
+      "indiana"
+     ],
+     "product": [
+      "investment-grade corporate bonds",
+      "corporate cards",
+      "us treasury securities",
+      "government money market funds",
+      "digital asset services",
+      "ripple",
+      "paxos",
+      "bitgo",
+      "fidelity digital assets"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9769,
+    "group_id": 14907871
+   },
+   {
+    "id": 41689642,
+    "title": "Ramp applies for OCC national trust bank charter | The Paypers",
+    "url": "https://thepaypers.com/fintech/news/ramp-applies-for-occ-trust-bank-charter-for-digital-asset-custody",
+    "publisher": "The Paypers",
+    "published_date": "2026-10-20T05:50:47",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp applied to the OCC for a national trust bank charter to offer fiduciary investment management and custody for digital assets. The non-depository entity would not take deposits or lend, focusing on trust and custody activities. The company, valued at $60 billion with $2 billion annualized revenue, plans to continue scaling expense tools alongside partner banks.",
+    "word_count": 379,
+    "author": "Sinziana Albu",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Active Crypto Asset Managers (Discretionary)",
+      "code": "FSADAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6099",
+      "name": "FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "credit lines",
+      "software",
+      "expense management tools"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9989,
+    "group_id": 14907871
+   },
+   {
+    "id": 41483585,
+    "title": "Ramp Seeks National Trust Bank Charter for Digital Asset Cus\u2026",
+    "url": "https://www.pymnts.com/legal/bank-regulation/2026/ramp-seeks-national-trust-bank-charter-for-digital-asset-custody/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-10-19T23:07:25",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp applied to the OCC to establish a national trust bank for digital asset custody and fiduciary investment management. The company, valued at $60 billion, serves 85,000 businesses with $2 billion in annualized revenue. The bank would not take deposits or make commercial loans.",
+    "word_count": 409,
+    "author": "Pymnts",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Custody Technology Platforms (Custody-as-a-Service)",
+      "code": "FSADACAB",
+      "is_primary": false
+     },
+     {
+      "name": "Custody Insurance & Risk Transfer (Digital Asset Custody)",
+      "code": "FSADACAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [],
+     "product": [
+      "glass"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14907871
+   },
+   {
+    "id": 41447514,
+    "title": "Ramp applies for a national trust bank charter with the OCC",
+    "url": "https://cryptobriefing.com/ramp-applies-occ-trust-bank-charter/",
+    "publisher": "Crypto Briefing",
+    "published_date": "2026-10-19T22:14:31",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5107,
+    "ai_summary": "Ramp applied to the OCC for a national trust bank charter to offer fiduciary investment management and digital asset custody. The New York fintech, valued at $60 billion with $2 billion annual revenue, serves over 85,000 teams. No review timeline was disclosed.",
+    "word_count": 494,
+    "author": "John Chen",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Custody Technology Platforms (Custody-as-a-Service)",
+      "code": "FSADACAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523991",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "john chen",
+      "steve a johnson"
+     ],
+     "location": [
+      "new york"
+     ],
+     "product": [
+      "ramp national trust bank"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9804,
+    "group_id": 14907871
+   },
+   {
+    "id": 41390143,
+    "title": "Walter Isaacson Launches New Podcast to Examine the Builders of AI, Including Elon Musk",
+    "url": "https://www.hollywoodreporter.com/business/digital/walter-isaacson-new-podcast-ai-elon-musk-1236733980/",
+    "publisher": "The Hollywood Reporter",
+    "published_date": "2026-10-19T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5857,
+    "ai_summary": "Walter Isaacson launched a new podcast, The Builders with Walter Isaacson, featuring AI founders including Elon Musk, Peter Thiel, and Fei-Fei Li. The show, produced with Kaleidoscope and distributed by iHeartPodcasts, launches Oct. 20 with the Musk episode. Isaacson argues for guardrails and regulation on autonomous agents.",
+    "word_count": 1178,
+    "author": "Caitlin Huston",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Podcast Live & Interactive Podcast Platforms (Live Shows, Call-ins)",
+      "code": "MPACADAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Safety, Alignment & Content Moderation (Guardrails, Red Teaming)",
+      "code": "HDAAACAI",
+      "is_primary": false
+     },
+     {
+      "name": "Regulatory Readiness & Audit Automation (e.g., EU AI Act, NIST AI RMF, ISO/IEC 42001)",
+      "code": "HDAAAMAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003x5",
+      "name": "Kaleidoscope",
+      "website": "https://www.k-scope.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02muuzn",
+      "name": "iHeartPodcasts",
+      "website": "https://www.iheart.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001369",
+      "name": "podcast"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "264",
+      "name": "Hobbies & Interests"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "516",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "elon musk",
+      "peter thiel",
+      "alex karp",
+      "palmer luckey",
+      "walter isaacson",
+      "sam altman",
+      "fei-fei li",
+      "john d. rockefeller",
+      "daniela amodei",
+      "isaac asimov",
+      "steve jobs",
+      "dario",
+      "doug engelbart",
+      "ada lovelace"
+     ],
+     "location": [
+      "hollywood"
+     ],
+     "product": [
+      "x",
+      "oculus vr",
+      "twitter",
+      "steve jobs",
+      "leonardo davinci"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14849272
+   },
+   {
+    "id": 41388953,
+    "title": "Walter Isaacson Launches New Podcast to Examine the Builders of AI, Including Elon Musk",
+    "url": "https://www.yahoo.com/entertainment/celebrity/articles/walter-isaacson-launches-podcast-examine-130000511.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-19T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.559,
+    "ai_summary": "Walter Isaacson launched a new podcast, The Builders, to interview AI builders including Elon Musk, Peter Thiel, and Fei-Fei Li. The show, produced with Kaleidoscope and distributed by iHeartPodcasts, launches Oct. 20 with the Musk episode. Isaacson argues for guardrails and regulation on autonomous agents.",
+    "word_count": 1203,
+    "author": "Caitlin Huston",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Podcast Hosting Platforms (RSS, Analytics, Distribution)",
+      "code": "MPACADAA",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Regulatory Readiness & Audit Automation (e.g., EU AI Act, NIST AI RMF, ISO/IEC 42001)",
+      "code": "HDAAAMAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003x5",
+      "name": "Kaleidoscope",
+      "website": "https://www.k-scope.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02muuzn",
+      "name": "iHeartPodcasts",
+      "website": "https://www.iheart.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001369",
+      "name": "podcast"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "265",
+      "name": "Hobbies & Interests"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "516",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "elon musk",
+      "peter thiel",
+      "walter isaacson",
+      "alex karp",
+      "palmer luckey",
+      "sam altman",
+      "john d. rockefeller",
+      "fei-fei li",
+      "daniela amodei",
+      "isaac asimov",
+      "steve jobs",
+      "dario",
+      "doug engelbart",
+      "ada lovelace"
+     ],
+     "location": [
+      "hollywood"
+     ],
+     "product": [
+      "x",
+      "oculus vr",
+      "steve jobs",
+      "twitter",
+      "leonardo davinci"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14849272
+   },
+   {
+    "id": 41403463,
+    "title": "Ramp secures $1.85B, homes in on AI",
+    "url": "https://www.phocuswire.com/news/finance/ramp-secures-185b-homes-in-on-ai",
+    "publisher": "Phocuswire",
+    "published_date": "2026-10-19T04:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp raised $1.85 billion in a primary financing round, valuing the spend management platform at $60 billion. The round was led by Dragoneer Investment Group, with co-leaders including Thrive Capital and Founders Fund. Ramp reported revenue growing 25% faster than a year ago, with AI embedded in its operations.",
+    "word_count": 361,
+    "author": "Linda Fox; October",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000g6",
+      "name": "Founders Fund",
+      "website": "http://www.foundersfund.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000c3",
+      "name": "Thrive Capital",
+      "website": "http://thrivecap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00yhedt",
+      "name": "Sands Capital",
+      "website": "https://sandscapitalventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002a2b",
+      "name": "Avenir",
+      "website": "http://avenirgrowth.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000171",
+      "name": "business finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "christian jensen",
+      "eric glyman",
+      "barron martin",
+      "justin reyhl"
+     ],
+     "location": [],
+     "product": [
+      "juno"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9949,
+    "group_id": 13857322
+   },
+   {
+    "id": 41325395,
+    "title": "\u4f01\u696d\u306e\u652f\u51fa\u7ba1\u7406\u3092\u81ea\u52d5\u5316\u3059\u308bRamp\u3001Dragoneer\u4e3b\u5c0e\u306718.5\u5104\u30c9\u30eb\u8abf\u9054\u2014\u2014\u8a55\u4fa1\u984d600\u5104\u30c9\u30eb\u306b",
+    "url": "https://thebridge.jp/2026/10/ramp-raises-1-85-billion-at-60-billion-valuation",
+    "publisher": "Thebridge",
+    "published_date": "2026-10-19T03:30:20",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp raised $1.85 billion in a primary round led by Dragoneer Investment Group, valuing the company at $60 billion. The company, which serves over 85,000 companies, reported annual revenue exceeding $2 billion and positive cash flow. It also introduced AI products like Glass and Ramp Accounts Receivable.",
+    "word_count": 52,
+    "author": "B BRIDGE \u7de8\u96c6\u90e8",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Invoicing, Billing & Accounts Receivable Automation",
+      "code": "FSAGAJAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006tx",
+      "name": "T. Rowe Price",
+      "website": "http://www.troweprice.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000681",
+      "name": "GIC",
+      "website": "https://www.gic.com.sg",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000g6",
+      "name": "Founders Fund",
+      "website": "http://www.foundersfund.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "005nz3d",
+      "name": "Fidelity Management & Research Company LLC",
+      "website": "www.fidelity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00yhedt",
+      "name": "Sands Capital",
+      "website": "https://sandscapitalventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000fs",
+      "name": "Coatue",
+      "website": "http://coatue.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000c3",
+      "name": "Thrive Capital",
+      "website": "http://thrivecap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002a2b",
+      "name": "Avenir",
+      "website": "http://avenirgrowth.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric glyman"
+     ],
+     "location": [],
+     "product": [
+      "uber",
+      "shopify",
+      "visa",
+      "router.com",
+      "stack",
+      "glass"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13857322
+   },
+   {
+    "id": 41095806,
+    "title": "Secretive investor behind Ramp and Cognition raises conflict concerns",
+    "url": "https://cryptobriefing.com/zach-frankel-ramp-cognition-conflict-concerns/",
+    "publisher": "Crypto Briefing",
+    "published_date": "2026-10-17T15:04:50",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2282,
+    "ai_summary": "Miami angel Zach Frankel, who funded Ramp and Cognition, faces conflict scrutiny after Factory's CEO raised ethical questions about a staff member's move to Cognition. Frankel's portfolio holds over $185 billion, with Ramp and Cognition valued at $108 billion combined. His recruiting ties to elite programs add further doubt.",
+    "word_count": 402,
+    "author": "Diego Almada Lopez",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Micro-VC & Angel Funds",
+      "code": "FSANAAAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Conflicts of Interest & Related-Party Transactions",
+      "code": "LG06",
+      "is_primary": true
+     },
+     {
+      "name": "Reputational Damage",
+      "code": "RK06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000006i",
+      "name": "Factory",
+      "website": "https://factory.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6799",
+      "name": "INVESTORS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "zach frankel",
+      "diego almada lopez"
+     ],
+     "location": [
+      "miami",
+      "us"
+     ],
+     "product": [
+      "factory",
+      "cognition",
+      "together ai",
+      "applied compute"
+     ],
+     "event": [
+      "international olympiad in informatics"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14555305
+   },
+   {
+    "id": 41030214,
+    "title": "\u2018More countries coming very soon\u2019: Ramp after its $60bn valuation",
+    "url": "https://thenextweb.com/news/ramp-60bn-valuation-2bn-revenue-uk-europe",
+    "publisher": "The Next Web",
+    "published_date": "2026-10-16T16:10:45",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp raised $1.85B at a $60B valuation, with 85,000 businesses using it and over $2bn in annualized revenue. The company now operates in three markets and plans to expand into more countries soon.",
+    "word_count": 375,
+    "author": "Cristian Dina",
+    "countries": [
+     "GBR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Invoicing, Billing & Accounts Receivable Automation",
+      "code": "FSAGAJAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000zgh",
+      "name": "Billhop",
+      "website": "https://billhop.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric oancea",
+      "eric glyman"
+     ],
+     "location": [
+      "europe",
+      "stockholm",
+      "uk",
+      "us"
+     ],
+     "product": [
+      "stack",
+      "router",
+      "glass"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13857322
+   },
+   {
+    "id": 40963700,
+    "title": "\u2018More countries coming very soon\u2019: Ramp after its $60bn valuation",
+    "url": "https://www.einnews.com/article/950206715/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-16T16:10:45",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp raised $1.85B at a $60B valuation, with 85,000 businesses using it and over $2bn in annualized revenue. The company plans to expand into more countries, with Europe next.",
+    "word_count": 375,
+    "author": "Cristian Dina",
+    "countries": [
+     "GBR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Expense Management & Employee Reimbursements",
+      "code": "FSAGAJAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000zgh",
+      "name": "Billhop",
+      "website": "https://billhop.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6159",
+      "name": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karim atiyeh",
+      "eric oancea",
+      "eric glyman"
+     ],
+     "location": [
+      "europe",
+      "stockholm",
+      "uk",
+      "us"
+     ],
+     "product": [
+      "stack",
+      "router",
+      "glass"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13857322
+   },
+   {
+    "id": 40941798,
+    "title": "Startup Funding News Today, October 16, 2026: Ramp, Abby Care, Origin, North.cloud, Mueon & More",
+    "url": "https://techstartups.com/2026/10/16/startup-funding-news-today-october-16-2026-ramp-abby-care-origin-north-cloud-mueon-more/",
+    "publisher": "TechStartups",
+    "published_date": "2026-10-16T14:18:18",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6851,
+    "ai_summary": "Ramp raised $1.85 billion at a $60 billion valuation, leading global funding activity. Other companies including Machxin, Abby Care, and Stand also raised capital, with total U.S. financing reaching $2.167 billion. Investors are targeting businesses that reduce operating costs and address labor shortages.",
+    "word_count": 6257,
+    "author": "Nickie Louise",
+    "countries": [
+     "USA",
+     "CHN"
+    ],
+    "industries": [
+     {
+      "name": "Early-Stage Venture Capital (Pre-Seed/Seed)",
+      "code": "FSANAAAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006tx",
+      "name": "T. Rowe Price",
+      "website": "http://www.troweprice.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000681",
+      "name": "GIC",
+      "website": "https://www.gic.com.sg",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000g6",
+      "name": "Founders Fund",
+      "website": "http://www.foundersfund.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00yhedt",
+      "name": "Sands Capital",
+      "website": "https://sandscapitalventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000fs",
+      "name": "Coatue",
+      "website": "http://coatue.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000c3",
+      "name": "Thrive Capital",
+      "website": "http://thrivecap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02mb2om",
+      "name": "Fidelity Management And Research Company",
+      "website": "",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002a2b",
+      "name": "Avenir",
+      "website": "http://avenirgrowth.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gene lee",
+      "karim atiyeh",
+      "eric glyman",
+      "havi nguyen",
+      "adam zhang",
+      "ashish daga",
+      "tushar makkar",
+      "yogesh ghaturle"
+     ],
+     "location": [
+      "china",
+      "u.s.",
+      "new york",
+      "united states",
+      "shanghai, china",
+      "san francisco",
+      "california",
+      "florida",
+      "oregon",
+      "portland, oregon",
+      "north american",
+      "shenzhen",
+      "shanghai",
+      "europe",
+      "north america"
+     ],
+     "product": [
+      "electric vehicles",
+      "mach m100",
+      "router.com",
+      "machxin",
+      "snowflake",
+      "aws",
+      "yuanzhan materials",
+      "golf carts",
+      "electric bicycles",
+      "rados",
+      "neighborhood electric vehicles",
+      "og-1"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14402641
+   },
+   {
+    "id": 41000887,
+    "title": "Ramp Raises $1.85B at $60B Valuation, Adding AI Agent Cost Controls to Its Platform",
+    "url": "https://www.techtimes.com/articles/329137/20261016/ramp-raises-185b-60b-valuation-adding-ai-agent-cost-controls-its-platform.htm",
+    "publisher": "Tech Times",
+    "published_date": "2026-10-16T13:09:47",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ramp raised $1.85 billion at a $60 billion pre-money valuation, adding AI agent cost controls to its platform. The company now serves 85,000 businesses with $2 billion in annualized revenue and $275 billion in annualized purchase volume. It plans to use proceeds for product development, engineering, and enterprise sales.",
+    "word_count": 2749,
+    "author": "Roger Satterfield",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Expense Management & Employee Reimbursements",
+      "code": "FSAGAJAE",
+      "is_primary": false
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006tx",
+      "name": "T. Rowe Price",
+      "website": "http://www.troweprice.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000g6",
+      "name": "Founders Fund",
+      "website": "http://www.foundersfund.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "005nz3d",
+      "name": "Fidelity Management & Research Company LLC",
+      "website": "www.fidelity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009mu",
+      "name": "Dragoneer Investment Group",
+      "website": "https://www.dragoneer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002v",
+      "name": "Khosla Ventures",
+      "website": "http://www.khoslaventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00yhedt",
+      "name": "Sands Capital",
+      "website": "https://sandscapitalventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000c3",
+      "name": "Thrive Capital",
+      "website": "http://thrivecap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0009t18",
+      "name": "Capital International Group",
+      "website": "http://www.capital-iom.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002a2b",
+      "name": "Avenir",
+      "website": "http://avenirgrowth.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522210",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "eric glyman",
+      "karim atiyeh",
+      "gene lee",
+      "glyman",
+      "keith rabois",
+      "christian jensen",
+      "t. rowe price"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "paribus",
+      "brex",
+      "shopify",
+      "notion",
+      "cbre",
+      "corporate card",
+      "router.com",
+      "stack",
+      "glass",
+      "inspect",
+      "ramp",
+      "openrouter",
+      "z.ai",
+      "xai",
+      "minimax",
+      "nvidia",
+      "helicone",
+      "llmonitor",
+      "langfuse",
+      "airbase",
+      "navan",
+      "mercury",
+      "sap ariba",
+      "smartpay",
+      "coupa"
+     ],
+     "event": [
+      "series f announcement"
+     ]
+    },
+    "newsworthiness_score": 0.9982,
+    "group_id": 13857322
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

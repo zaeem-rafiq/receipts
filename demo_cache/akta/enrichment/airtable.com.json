@@ -1,0 +1,621 @@
+{
+ "fetched_at": "2026-10-24T11:47:47",
+ "params": {
+  "company": "airtable.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "0000ct6",
+   "firmographic": {
+    "name": "Airtable",
+    "legal_name": "Formagrid Inc",
+    "website": "airtable.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2012,
+    "company_description": "Airtable (Formagrid Inc) is a cloud-based connected apps platform that combines spreadsheet-style usability with a relational-database architecture, enabling non-technical users to build custom business applications, automate workflows, and orchestrate AI agents without code. The core product suite includes HyperDB (enterprise-scale database handling hundreds of millions of records), Omni (conversational AI app builder), Superagent (multi-agent orchestration launched January 2026), Airtable AI Field Agents, Interface Designer, Portals, Automations, and a public REST API with extensions SDK. Underlying the platform is support for multiple foundation models (OpenAI, Anthropic Claude, Google Gemini, Meta Llama), AWS-native infrastructure, and integrations spanning Slack, Salesforce, Jira, Databricks, Snowflake, and Google Drive.\n\nAirtable monetizes through tiered per-seat SaaS subscriptions (Free, Team at $20\u201324/user/month, Business at $45\u201354/user/month, custom Enterprise Scale) plus usage-based AI credit add-ons starting at $40/month for 20,000 credits. Distribution follows a hybrid product-led growth motion at the bottom of the market (freemium, self-serve, Airtable Universe template community) combined with enterprise field sales targeting accounts spending over $100k annually; sources indicate roughly 70% of ARR now derives from large-account conversions as of mid-2025. The customer base spans 500,000+ organizations, including half of the Fortune 1000, with named enterprise logos such as Netflix, Shopify, Time, JetBlue, Vimeo, Dropbox, and Code and Theory.\n\nThe company, founded in 2012 by Howie Liu (CEO) and headquartered in San Francisco (~833 employees as of 2025), has raised approximately $1.36 billion in total venture funding across rounds including a $735M Series F in December 2021 led by XN at an $11 billion valuation. Subsequent strategic actions have been oriented toward an AI-native transformation: acquisitions of Dopt (2024) and DeepSky (2025), the launch of App Library and HyperDB (2024), the Omni rebrand (2025), and the Superagent standalone product (2026). Airtable reported cash flow positivity in late 2024 and has been linked to IPO preparation, though current secondary valuations are estimated near $4 billion, materially below peak.",
+    "company_description_short": "Airtable (Formagrid Inc) operates a cloud-based connected apps platform combining spreadsheet usability with relational-database power, enabling teams to build AI-augmented custom business apps, automations, and multi-agent workflows without code. It serves 500,000+ organizations including half of the Fortune 1000 with a hybrid PLG-to-enterprise SaaS model.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "501-1000",
+    "logo_url": "https://files.akta.pro/logos/00/00/ct/affde816-243b-5d48-8ae7-66714fe54970.png",
+    "akta_rank": 1169
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "250m_500m",
+     "label": "$250M-$500M"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "month": 7,
+       "year": 2024
+      },
+      "business_focus": "AI-based onboarding tools",
+      "name": "Dopt",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      }
+     },
+     {
+      "acquired_on": {
+       "day": 13,
+       "month": 10,
+       "year": 2025
+      },
+      "business_focus": "AI-powered analytical reports",
+      "name": "DeepSky",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Down from $11.7 billion peak valuation during Series F in December 2021",
+      "source": [
+       "https://tech.yahoo.com/ai/deals/articles/airtable-gets-ai-agent-game-150000151.html"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$4 billion (estimated 2026)"
+     },
+     {
+      "description": "Total investments reached $1.36 billion with valuation at $11 billion",
+      "source": [
+       "https://www.finsmes.com/2021/12/airtable-secures-735m-in-series-f-funding-valued-at-11-billion.html"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$735 million (Series F, December 2021)"
+     },
+     {
+      "description": "Approximately 75% of ARR derived from B2B sources. 30% annual growth rate reported.",
+      "source": [
+       "https://businessmodelcanvastemplate.com/blogs/target-market/airtable-target-market"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "~$350 million (early 2026); $478 million (2024); $375 million (2023)"
+     },
+     {
+      "description": "Strong net dollar retention indicating significant land-and-expand motion",
+      "source": [
+       "https://sqmagazine.co.uk/airtable-statistics/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "170% (net dollar retention)"
+     },
+     {
+      "description": "Trusted by leading teams worldwide including 50% of Fortune 1000",
+      "source": [
+       "https://www.airtable.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "500,000+ organizations globally"
+     },
+     {
+      "description": "Over 250,000 organizations globally",
+      "source": [
+       "https://fueler.io/blog/airtable-usage-revenue-valuation-growth-statistics"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "15 million+ MAU"
+     },
+     {
+      "description": "Reported as of 2023 with 50% year-on-year growth",
+      "source": [
+       "https://electroiq.com/stats/airtable-statistics/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "166,000+ paying companies"
+     },
+     {
+      "description": "Net dollar retention rate demonstrating strong customer expansion",
+      "source": [
+       "https://sqmagazine.co.uk/airtable-statistics/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "170%"
+     },
+     {
+      "description": "Achieved cash flow positivity as of late 2024, eyes possible IPO",
+      "source": [
+       "https://www.theinformation.com/briefings/software-firms-returning-to-growth-as-spending-slowdown-eases"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "Cash flow positive"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 22,
+       "month": 11,
+       "year": 2024
+      },
+      "description": "AWS integration through Amazon Bedrock enabling advanced AI capabilities for Airtable users. Airtable runs fully on AWS infrastructure. AWS outage in October 2025 affected multiple services.",
+      "name": "Amazon Web Services (AWS)",
+      "source": [
+       "https://aws.amazon.com/awstv/watch/58efccbe5a5/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00008qf"
+     },
+     {
+      "description": "Native Claude integration allowing users to reference Airtable data while generating content, give AI operational context, and build out base schemas from conversations. Available on all Airtable and Claude plans.",
+      "name": "Anthropic (Claude)",
+      "source": [
+       "https://www.airtable.com/integrations/claude"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "description": "Native ChatGPT integration enabling users to pull Airtable data while generating content and make quick updates without leaving the chat interface. Available on all plans.",
+      "name": "OpenAI (ChatGPT)",
+      "source": [
+       "https://www.airtable.com/integrations/chatgpt"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "description": "AI model provider for Airtable's AI capabilities, alongside OpenAI, Anthropic, and Meta Llama models.",
+      "name": "Google (Gemini)",
+      "source": [
+       "https://www.airtable.com/integrations/claude"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "02m7dsp"
+     },
+     {
+      "description": "AI model provider powering Airtable's AI features with multiple model options.",
+      "name": "Meta (Llama)",
+      "source": [
+       "https://www.airtable.com/integrations/claude"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "003qagv"
+     },
+     {
+      "description": "Native Slack integration for adding real-time messaging to workflows and receiving base activity notifications directly in Slack channels.",
+      "name": "Slack",
+      "source": [
+       "https://www.airtable.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000bk2"
+     },
+     {
+      "description": "Native Salesforce integration allowing users to leverage CRM data across teams and tools, with automation actions for creating/updating Salesforce records.",
+      "name": "Salesforce",
+      "source": [
+       "https://www.airtable.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00006ej"
+     },
+     {
+      "description": "Native Jira integration for generating tickets and syncing work from Airtable, with automation actions and extension support for both Cloud and Server/Data Center.",
+      "name": "Jira",
+      "source": [
+       "https://www.airtable.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000af3b"
+     },
+     {
+      "description": "Native Google Drive integration for syncing information and building workflows, including Calendar sync for scheduling automation.",
+      "name": "Google Drive",
+      "source": [
+       "https://www.airtable.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000r9"
+     },
+     {
+      "description": "Native Zendesk integration for simplifying and streamlining customer support workflows with sync capabilities.",
+      "name": "Zendesk",
+      "source": [
+       "https://www.airtable.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00041jr"
+     },
+     {
+      "description": "Premium data source integrated into Superagent for investment analysis and financial research workflows.",
+      "name": "FactSet",
+      "source": [
+       "https://www.airtable.com/newsroom/introducing-superagent"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000yqh"
+     },
+     {
+      "description": "Premium data source integrated into Superagent for company and funding research capabilities.",
+      "name": "Crunchbase",
+      "source": [
+       "https://www.airtable.com/newsroom/introducing-superagent"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000048"
+     },
+     {
+      "announced_on": {
+       "day": 13,
+       "month": 10,
+       "year": 2025
+      },
+      "description": "Acquired DeepSky (formerly Gradient) to enhance Airtable's AI capabilities for advanced analytical reports. DeepSky's technology powers Superagent's multi-agent orchestration capabilities.",
+      "name": "DeepSky",
+      "source": [
+       "https://www.trysignalbase.com/news/acquisitions/deepsky-acquired-by-airtable-acquisition"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00093i3"
+     },
+     {
+      "announced_on": {
+       "day": 31,
+       "month": 7,
+       "year": 2024
+      },
+      "description": "Acquired Dopt, a startup specializing in onboarding experiences and AI integration, finalized in late July 2024. Dopt ceased operations in August 2024 with talent absorbed into Airtable.",
+      "name": "Dopt",
+      "source": [
+       "https://cbg.com.cy/airtable-acquires-onboarding-startup-dopt-to-boost-ai-expertise/"
+      ],
+      "strategic_tier": "Supporting",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "02mj983"
+     },
+     {
+      "description": "Databricks integration for HyperDB enabling enterprise customers to connect larger datasets and leverage Databricks analytics within Airtable.",
+      "name": "Databricks",
+      "source": [
+       "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi"
+      ],
+      "strategic_tier": "Supporting",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000004a"
+     },
+     {
+      "description": "Snowflake integration for HyperDB enabling data warehouse connections and analytics within Airtable.",
+      "name": "Snowflake",
+      "source": [
+       "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi"
+      ],
+      "strategic_tier": "Supporting",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00004bs"
+     },
+     {
+      "description": "Adalo's SheetBridge feature enables converting Airtable spreadsheets into native iOS/Android apps, publishing directly to app stores with real-time sync back to Airtable.",
+      "name": "Adalo",
+      "source": [
+       "https://finance.yahoo.com/news/adalo-launches-sheetbridge-teams-now-131400431.html"
+      ],
+      "strategic_tier": "Supporting",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000qw1"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 6,
+       "year": 2025
+      },
+      "description": "Rebranded as an AI-native platform and launched Omni, a conversational AI agent that builds and automates applications through natural language prompts.",
+      "source": [
+       "https://www.maginative.com/article/airtable-bets-big-on-ai-agents-with-omni-reboots-as-an-ai-native-app-platform/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 1,
+       "year": 2026
+      },
+      "description": "Released Superagent, Airtable's first standalone multi-agent AI product priced $20\u2013$200/month, built on the acquired DeepSky technology to orchestrate specialized agents producing charts, timelines, and strategy decks.",
+      "source": [
+       "https://www.digit.in/features/general/meet-superagent-new-ai-agent-analyst-taking-on-manus-and-claude.html"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 13,
+       "month": 10,
+       "year": 2025
+      },
+      "description": "Acquired DeepSky (formerly Gradient) to integrate multi-agent AI orchestration technology powering the Superagent product.",
+      "source": [
+       "https://www.trysignalbase.com/news/acquisitions/deepsky-acquired-by-airtable-acquisition"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 9,
+       "year": 2024
+      },
+      "description": "Launched enterprise-grade AI platform capabilities App Library and HyperDB, scaling datasets beyond 100 million records to compete with Microsoft, Salesforce, and ServiceNow.",
+      "source": [
+       "https://venturebeat.com/ai/airtable-just-launched-an-ai-platform-that-could-change-how-you-work?ref=marketinghackers.it"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 7,
+       "year": 2024
+      },
+      "description": "Acquired Dopt (onboarding/AI startup) and absorbed its engineering talent, accelerating AI product development including the Airtable Cobuilder.",
+      "source": [
+       "https://cbg.com.cy/airtable-acquires-onboarding-startup-dopt-to-boost-ai-expertise/"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 9,
+       "year": 2023
+      },
+      "description": "Conducted a 27% workforce reduction (from ~900 to ~833) to refocus on enterprise clients, followed by CTO hire of ex-OpenAI executive David Azose to drive AI transformation.",
+      "source": [
+       "https://sqmagazine.co.uk/how-many-people-work-at-airtable/"
+      ],
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "date": {
+       "month": 11,
+       "year": 2024
+      },
+      "description": "Airtable has achieved cash flow positivity and is considering an initial public offering (IPO) next year, signaling potential readiness for going public.",
+      "source": [
+       "https://www.theinformation.com/briefings/software-firms-returning-to-growth-as-spending-slowdown-eases"
+      ],
+      "title": "Airtable IPO Preparation",
+      "type": {
+       "code": "ipo",
+       "label": "Ipo"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2025
+      },
+      "description": "Airtable rebranded itself as an AI-native app platform with the introduction of Omni, an AI agent capable of building and automating applications through conversation, aiming to fundamentally change app creation and workflow automation.",
+      "source": [
+       "https://www.maginative.com/article/airtable-bets-big-on-ai-agents-with-omni-reboots-as-an-ai-native-app-platform/"
+      ],
+      "title": "AI-Native Platform Rebranding",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "Airtable conducted a significant workforce reduction of 27% in September 2023 as the company shifts focus toward enterprise clients, reducing staff from approximately 900 to 833 employees.",
+      "source": [
+       "https://sqmagazine.co.uk/how-many-people-work-at-airtable/"
+      ],
+      "title": "Workforce Reduction September 2023",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "description": "Airtable announced a 'refounding' initiative, signaling a fundamental business model rebuild centered on AI integration rather than incremental feature updates, with Airtable rolling out AI features as default and new pricing.",
+      "source": [
+       "https://www.nytimes.com/2025/12/06/business/refounding-startups-ai.html"
+      ],
+      "title": "Refounding as AI-Native Company",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "description": "Airtable hired former OpenAI executive David Azose as CTO, marking a significant leadership addition to drive the company's AI transformation strategy.",
+      "source": [
+       "https://www.airtable.com/newsroom/introducing-superagent"
+      ],
+      "title": "CTO Appointment - David Azose",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Superagent (Jan 2026) is the first standalone product priced $20\u2013$200/month, signaling intent to monetize beyond seat-based subscriptions and expand into individual knowledge-worker / prosumer use cases outside the existing enterprise base.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "AI-native pricing transition including AI credit add-on packs starting at $40/month for 20,000 credits overlays usage-based revenue on top of per-seat subscriptions, opening expansion within existing accounts via AI consumption.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "Sustained M&A appetite, Dopt (Jul 2024) and DeepSky (Oct 2025), with additional acquisitions Balsa and Airplane in early 2024, indicates active platform consolidation to accelerate capability gaps in onboarding, internal tooling, and AI reporting.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "EU data residency option and Australian regional support, combined with explicit GDPR/CCPA programs and UK GDPR compliance, position Airtable for deeper EMEA penetration, though operating_geographies still list only USA, GBR, AUS as disclosed markets.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Expansion beyond core product/marketing/operations into Sales, HR, Finance, and Design solutions pages signals pursuit of additional enterprise verticals competing more directly with Salesforce, ServiceNow, and Workday workflows.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     },
+     {
+      "description": "Leadership additions including CTO David Azose (ex-OpenAI), and product leadership (Marta Pinilla Aguilar as CPO, Zach Felsenstein in Product Development Strategy) point to organizational buildout for AI-native delivery and category-creation.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

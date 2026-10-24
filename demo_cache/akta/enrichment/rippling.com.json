@@ -1,0 +1,413 @@
+{
+ "fetched_at": "2026-10-24T11:47:20",
+ "params": {
+  "company": "rippling.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00004bd",
+   "firmographic": {
+    "name": "Rippling",
+    "legal_name": "Rippling People Center Inc.",
+    "website": "rippling.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2016,
+    "company_description": "Rippling, founded in 2016 by Parker Conrad and Prasanna Sankar and headquartered in San Francisco, is a workforce management platform that unifies HR, IT, and Finance operations on a proprietary data architecture. At the foundation sits the Workforce Graph \u2014 a single employee-level data layer that connects HRIS, payroll (US and 185+ country global), benefits administration, PEO, identity and access management, device management, corporate cards, expense management, bill pay, travel, and a no-code App Studio, all governed by shared permissions, policies, and a visual Workflow Studio. Rippling AI operates natively on this graph to deliver knowledge retrieval, generative AI, predictive analytics, anomaly detection, and process automation across HR, Payroll, IT, and Finance workflows.\n\nThe company serves roughly 30,000+ businesses \u2014 primarily fast-growing technology companies (including AI startups such as Cursor, Clay, and Sierra), mid-market customers with 500\u20132,000 employees paying $15,000\u2013$20,000 per year, and small businesses adopting self-serve onboarding. Pricing is per-employee subscription starting at $12 per employee per month, complemented by usage-based revenue from Rippling Data Cloud ($5\u20137M MRR from ~560 customers), interchange fees from the Rippling Corporate Card, and premium modules. ARR exceeded $1 billion as of April 2026 per the CTO.\n\nGo-to-market is hybrid: an enterprise field-sales motion with dedicated demo paths for HR, IT, and Finance is paired with a self-serve/PLG motion (free account creation, sub-30-minute FastTrack payroll setup, six-month Startup Stack program). A partner network spanning 650+ integrations, Y Combinator, VCs, accelerators, brokers, and accountants \u2014 combined with the company's first Super Bowl ad in February 2026 \u2014 signals a strategic shift toward mass brand awareness. Rippling is venture-backed (most recent: $450M Series G at a $16.8B valuation in September 2025), employs 5,001\u201310,000 people across San Francisco, Bengaluru, and New York, and operates a global product footprint spanning 50+ currencies.",
+    "company_description_short": "Rippling is a unified workforce management platform that combines HR, IT, and Finance operations on a proprietary data layer, serving roughly 30,000+ businesses from startups to mid-market companies across 185+ countries through per-employee subscription pricing and AI-powered automation.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "5001-10000",
+    "logo_url": "https://files.akta.pro/logos/00/00/4b/8d509f36-0bb9-5cf8-95cb-d14a1ebd5c3c.png",
+    "akta_rank": 1698
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    },
+    "valuation_estimate": {
+     "code": "10b_25b",
+     "label": "$10B-$25B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "day": 3,
+       "month": 1,
+       "year": 2023
+      },
+      "business_focus": "Application security tooling that integrates into developer workflows",
+      "name": "Fuzzbuzz",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "00021nx"
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Most recent valuation from September 2025 Series G funding of $450 million",
+      "source": [
+       "https://aijourn.com/rippling-appoints-sonia-parandekar-as-svp-of-engineering-and-india-site-lead-to-accelerate-global-product-expansion/"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$16.8 billion"
+     },
+     {
+      "description": "Series G funding in 2025 led to $16.8 billion valuation. Total funding approximately $60-65 million mentioned by CTO in one source, though this appears to predate major funding rounds.",
+      "source": [
+       "https://news.crunchbase.com/venture/ai-hr-software-startup-funding-ma/"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$450 million"
+     },
+     {
+      "description": "Annual recurring revenue exceeding $1 billion as of April 2026 per CTO interview. Surpassed $100 million ARR in 2022 per multiple 2022-2023 sources.",
+      "source": [
+       "https://getlatka.com/companies/rippling"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$1 billion+"
+     },
+     {
+      "description": "Trusted by 30,000+ businesses according to main website. One source mentions approximately 30,000 customers in context of Super Bowl ad launch.",
+      "source": [
+       "http://rippling.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "30,000+"
+     },
+     {
+      "description": "Global payroll and workforce management across 185+ countries and 50+ currencies",
+      "source": [
+       "http://rippling.com/"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "185+"
+     },
+     {
+      "description": "Rippling CTO Prasanna Sankar revealed $1 billion+ ARR in April 2026 interview, citing '100 billion or bust' strategy",
+      "source": [
+       "https://getlatka.com/companies/rippling"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$1 billion ARR"
+     },
+     {
+      "description": "Data Cloud product generating $5-7 million monthly recurring revenue from approximately 560 customers as of June 2026",
+      "source": [
+       "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$5-7 million MRR"
+     },
+     {
+      "description": "Governor Hochul announced expansion creating 371 new full-time jobs in New York City with state tax credits",
+      "source": [
+       "https://esd.ny.gov/esd-media-center/press-releases/governor-hochul-announces-rippling-expand-new-york-city-operations-creating-more-350-new-tech"
+      ],
+      "type": {
+       "code": "headcount",
+       "label": "Headcount"
+      },
+      "value": "350+ new tech jobs"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 3,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Strategic partnership integrating Sigma360's enterprise-grade AI-driven sanctions screening and risk monitoring into Rippling's global payments infrastructure. Nine-month implementation modernized Rippling's financial crime architecture, reducing false positives and improving alert quality.",
+      "name": "Sigma360",
+      "source": [
+       "https://aijourn.com/sigma360-and-rippling-partner-to-modernize-sanctions-screening-for-high-growth-workforces/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000mn7"
+     },
+     {
+      "announced_on": {
+       "day": 5,
+       "month": 8,
+       "year": 2025
+      },
+      "description": "Partnership where Duffel's travel booking platform powers Rippling Travel, enabling corporate clients to manage business travel expenses within their existing payroll and expense systems. Employees can book flights, hotels, and upgrades seamlessly.",
+      "name": "Duffel",
+      "source": [
+       "https://thebusinesstravelmag.com/duffel-partners-with-rippling-to-power-rippling-travel/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0002koh"
+     },
+     {
+      "description": "Fifth Third Bank, N.A. is the issuing bank for Rippling Corporate Cards (also Celtic Bank). Cards are issued pursuant to license from Visa. Rippling Payments provides lending services with NMLS No. 1931820.",
+      "name": "Fifth Third Bank",
+      "source": [
+       "http://rippling.com/products/finance"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "others",
+       "label": "Others"
+      },
+      "uuid": "0000bfv"
+     },
+     {
+      "description": "Extensive integration ecosystem including Google, Salesforce, Microsoft, Slack, Zoom, Jira, GitHub, AWS, HubSpot, NetSuite, QuickBooks, Xero, Shopify, Zendesk, Gong, and hundreds more. Part of 650+ integrations across the platform.",
+      "name": "650+ Integration Partners",
+      "source": [
+       "http://rippling.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "02moj1d"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 19,
+       "month": 9,
+       "year": 2025
+      },
+      "description": "Raised $450 million in Series G funding at a $16.8 billion valuation in 2025, led by Coatue with participation from Baillie Gifford, GIC, Goldman Sachs Growth Equity, and Y Combinator, re-accelerating valuation from the $13.5B Series F mark.",
+      "source": [
+       "https://news.crunchbase.com/venture/ai-hr-software-startup-funding-ma/"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched Rippling Data Cloud in June 2026 as an AI-powered business intelligence suite aggregating workforce and operational data with zero-copy Snowflake integration, already generating $5\u20137M in MRR from ~560 customers.",
+      "source": [
+       "https://pulse2.com/rippling-launches-data-cloud-to-bring-ai-powered-bi-to-workforce-data/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched same-day payroll through a new Business Banking product in June 2026, directly competing with fintech spend platforms like Ramp and expanding into embedded banking/BaaS.",
+      "source": [
+       "https://finance.yahoo.com/technology/ai/articles/parker-conrad-knows-employees-worth-160000932.html"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Announced plan to double India engineering workforce from 1,000 to 2,000 employees in Bengaluru over three years under new SVP Sonia Parandekar, with parallel New York City expansion of 371 new jobs at 330 West 34th Street backed by $3.4M in Excelsior tax credits.",
+      "source": [
+       "https://aijourn.com/rippling-appoints-sonia-parandekar-as-svp-of-engineering-and-india-site-lead-to-accelerate-global-product-expansion/"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "month": 2,
+       "year": 2026
+      },
+      "description": "Debuted the company's first Super Bowl advertisement in February 2026 (Tim Robinson, 'Rule Your Business' campaign) marking a step-change shift from PLG/performance marketing to mass brand marketing ahead of an IPO trajectory.",
+      "source": [
+       "https://www.adweek.com/brand-marketing/watch-rippling-super-bowl-ad-tim-robinson/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 7,
+       "month": 1,
+       "year": 2025
+      },
+      "description": "Acquired Lekko on January 7, 2025 for an undisclosed amount (preceded by the Fuzzbuzz acquisition in January 2023), continuing selective capability tuck-ins to strengthen platform breadth.",
+      "source": [
+       "https://aijourn.com/rippling-appoints-sonia-parandekar-as-svp-of-engineering-and-india-site-lead-to-accelerate-global-product-expansion/"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 31,
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Rippling will expand its New York City operations by creating 371 new full-time jobs and relocating to a larger Manhattan office at 330 West 34th Street. Empire State Development is supporting the expansion with up to $3.4 million in Excelsior Jobs Program tax credits.",
+      "source": [
+       "https://esd.ny.gov/esd-media-center/press-releases/governor-hochul-announces-rippling-expand-new-york-city-operations-creating-more-350-new-tech"
+      ],
+      "title": "New York City Expansion",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "day": 14,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Rippling plans to double its India workforce from 1,000 to 2,000 employees over the next three years as part of its global product expansion strategy.",
+      "source": [
+       "https://aijourn.com/rippling-appoints-sonia-parandekar-as-svp-of-engineering-and-india-site-lead-to-accelerate-global-product-expansion/"
+      ],
+      "title": "India Engineering Hub Expansion",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "Rippling appointed Sonia Parandekar as Senior Vice President of Engineering and head of its Bengaluru site, positioning her to lead the company's largest engineering hub outside San Francisco.",
+      "source": [
+       "https://aijourn.com/rippling-appoints-sonia-parandekar-as-svp-of-engineering-and-india-site-lead-to-accelerate-global-product-expansion/"
+      ],
+      "title": "Sonia Parandekar Appointed as SVP of Engineering",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "description": "Rippling announced that Wan Agus and Gang Wang, veteran engineering leaders, joined the company as Senior Vice Presidents of Engineering. Agus will focus on IT products while Wang will oversee finance products including global payroll and compliance.",
+      "source": [
+       "https://www.businesswire.com/news/home/20251204743966/en/Wan-Agus-Gang-Wang-Join-Rippling-as-Senior-Vice-Presidents-of-Engineering"
+      ],
+      "title": "Wan Agus and Gang Wang Join as SVP of Engineering",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "India engineering hub in Bengaluru planned to double from 1,000 to 2,000 employees in three years; parallel New York City expansion adding 371 full-time jobs at 330 West 34th Street Manhattan. Signals scaling engineering capacity and US East Coast commercial presence.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "June 2026 launches of Rippling Data Cloud (AI BI with zero-copy Snowflake) and Same-Day Payroll via new Business Banking product extend the platform into AI analytics and embedded banking \u2014 a direct challenge to Ramp/Brex/HRIS adjacencies.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "First Super Bowl ad in February 2026 (Tim Robinson, 'Rule Your Business') and inclusion in the inaugural a16z FDE Fellowship alongside OpenAI and Google signal a strategic shift toward mass brand marketing and deeper penetration into AI-native buyers.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Three senior engineering leaders hired in early 2026: Wan Agus (ex-Credit Karma CTO, IT products), Gang Wang (ex-Nuvei CTO, Finance products), and Sonia Parandekar (ex-Atlassian/Microsoft, Bengaluru site lead) \u2014 a deliberate functional specialization of engineering leadership.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "Lekko acquisition on January 7, 2025 (undisclosed) follows the Fuzzbuzz acquisition (January 2023), indicating continued selective capability tuck-ins rather than platform-transforming M&A.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "$450M Series G at $16.8B in September 2025, following $200M Series F at $13.4B in April 2024, provides ample expansion capital without near-term financing pressure.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

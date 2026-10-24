@@ -1,0 +1,6097 @@
+{
+ "fetched_at": "2026-10-24T11:47:17",
+ "params": {
+  "company": "miro.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 133,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42163952,
+    "title": "Acquirers Are Snapping Up Boom-Era Startups That Haven\u2019t Raised Funding In Years",
+    "url": "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/",
+    "publisher": "Crunchbase News",
+    "published_date": "2026-10-22T11:00:41",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4911,
+    "ai_summary": "Uber acquired ezCater for $2.3 billion, nearly five years after its last funding round. Other deals include Miro, Airtable, and Headspace, all at valuations far below their peaks. The analysis shows acquirers are buying well-funded startups that haven't raised equity in four or more years.",
+    "word_count": 691,
+    "author": "Joanna Glasner",
+    "countries": [
+     "USA",
+     "CHN"
+    ],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": false
+     },
+     {
+      "name": "Business Services (B2B) Growth Equity",
+      "code": "FSANACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000pkb",
+      "name": "Everlane",
+      "website": "https://www.everlane.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044c",
+      "name": "Shein",
+      "website": "https://www.shein.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002d7",
+      "name": "Uber",
+      "website": "http://www.uber.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002i2",
+      "name": "Sword Health",
+      "website": "https://sword.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000aip",
+      "name": "Headspace",
+      "website": "https://www.headspace.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005rh",
+      "name": "ezCater",
+      "website": "http://www.ezcater.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dom guzman"
+     ],
+     "location": [],
+     "product": [
+      "ezcater",
+      "headspace",
+      "everlane",
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9355,
+    "group_id": 15505101
+   },
+   {
+    "id": 41600973,
+    "title": "Testing AI agent accuracy",
+    "url": "https://www.blocksandfiles.com/ai-ml/2026/10/20/testing-ai-agent-accuracy/5304195",
+    "publisher": "Blocksandfiles",
+    "published_date": "2026-10-20T15:21:23",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4027,
+    "ai_summary": "Miro benchmarked its Claude Code agent's text-to-SQL accuracy on 900 questions, finding under 40% without a context layer. Adding DataHub as a governed context platform raised accuracy to about 90%. The team later narrowed the agent's data scope to critical assets, achieving deterministic mode with over 90% accuracy.",
+    "word_count": 748,
+    "author": "Chris Mellor",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": true
+     },
+     {
+      "name": "Retrieval-Augmented Generation (RAG), Vector Databases & Knowledge Grounding",
+      "code": "HDAAACAE",
+      "is_primary": false
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Research, Development & Innovation",
+      "code": "SD08",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000043p",
+      "name": "DataHub",
+      "website": "https://datahub.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "611",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ronald angel"
+     ],
+     "location": [
+      "holland",
+      "departure airport",
+      "destination"
+     ],
+     "product": [
+      "snowflake",
+      "looker",
+      "airline tickets",
+      "ai agent"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8444,
+    "group_id": 15047909
+   },
+   {
+    "id": 41081712,
+    "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+    "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+    "publisher": "CNBC",
+    "published_date": "2026-10-17T12:00:01",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Berkshire Hathaway invested over $900 million in Bending Spoons, including a $330 million stake, boosting the company's market cap to about $30 billion. Bending Spoons also acquired Airtable for $1.3 billion, with many of its pre-acquisition team leaving. The firm plans to use profits from its portfolio to fund future deals.",
+    "word_count": 1258,
+    "author": "CJ Haddad",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00028tq",
+      "name": "Evernote",
+      "website": "http://www.evernote.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iu",
+      "name": "Vimeo",
+      "website": "https://vimeo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000yxk",
+      "name": "Eventbrite",
+      "website": "http://www.eventbrite.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002hoq",
+      "name": "Brightcove",
+      "website": "https://www.brightcove.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ethan kurzweil",
+      "nick mehta",
+      "francesco patarnello",
+      "matteo danieli",
+      "luca ferrari",
+      "warren buffett",
+      "ferrari",
+      "lloyd walmsley",
+      "ari levy"
+     ],
+     "location": [
+      "italy",
+      "silicon valley",
+      "wall street"
+     ],
+     "product": [
+      "vimeo",
+      "evertale",
+      "aol",
+      "evernote",
+      "eventbrite",
+      "airtable",
+      "gainsight",
+      "miro",
+      "wetransfer",
+      "onenote",
+      "brightcove"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40929703,
+    "title": "Belarusian tutors lose another convenient online tool \u2014 Miro disconnects users from Belarus",
+    "url": "https://www.einnews.com/article/950138584/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-16T09:26:07",
+    "sentiment": "Negative",
+    "sentiment_score": 0.027,
+    "ai_summary": "Miro, a US-registered online whiteboard, will block Belarus and Russia from Oct 15, affecting about 70% of Belarusian tutors. The company cites sanction risks, and tutors plan to use a VPN to continue.",
+    "word_count": 256,
+    "author": "Nashaniva com",
+    "countries": [
+     "BLR",
+     "RUS"
+    ],
+    "industries": [
+     {
+      "name": "Digital Whiteboards, Annotation & Collaborative Canvas Tools",
+      "code": "EDAFAGAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Geopolitical Risk",
+      "code": "RK01",
+      "is_primary": false
+     },
+     {
+      "name": "Operational Disruptions",
+      "code": "RK04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "148",
+      "name": "Education"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "nasha niva",
+      "lukashenka"
+     ],
+     "location": [
+      "belarus",
+      "russia",
+      "ukraine",
+      "usa",
+      "pa\u016dno\u010dny bierah"
+     ],
+     "product": [
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14393570
+   },
+   {
+    "id": 40814678,
+    "title": "[GAM] \ubca4\ub529 \uc2a4\ud47c\uc2a4 41% \ud3ed\ub4f1 \u2461 \uae30\uc220\uae30\uc5c5 \uc0ac\ub4e4\uc5ec \uccb4\uc9c8 \uac1c\uc120 '\ud14c\ud06c\ud310 \ubc84\ud06c\uc154' : \ub124\uc774\ud2b8 \ub274\uc2a4",
+    "url": "https://news.nate.com/view/20261016n00515?mid=n0100",
+    "publisher": "Nate",
+    "published_date": "2026-10-15T16:08:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.222,
+    "ai_summary": "Berkshire Hathaway's Bend Group acquired Miro for $1.355 billion in cash, with some proceeds reinvested. Analysts have a wide price range, with Mizuho setting the highest target at $72. The company expects 2026 revenue of $4 billion, and Q3 earnings are due Nov 13.",
+    "word_count": 665,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mid-Market Buyout",
+      "code": "FSANABAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004l3l",
+      "name": "Mizuho Securities",
+      "website": "http://www.mizuho-sc.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000by",
+      "name": "Goldman Sachs",
+      "website": "https://www.goldmansachs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008fs",
+      "name": "Moody's",
+      "website": "https://www.moodys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mupmb",
+      "name": "Evercore ISI",
+      "website": "https://www.evercore.com/evercore-isi-and-the-digital-therapeutics-alliance-to-host-digital-health-leaders-at-hlth-2024",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "\uae40\ud604\uc601"
+     ],
+     "location": [
+      "\uc11c\uc6b8"
+     ],
+     "product": [
+      "\ubbf8\ub85c",
+      "\ub354\uadf8 \uc564\uba38\uc2a4",
+      "\ub85c\uc774\ub4dc \uc6dc\uc990\ub9ac",
+      "aol",
+      "\uc54c\ub809 \ube0c\ub860\ub3cc\ub85c"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40807274,
+    "title": "5 Interesting Learnings from Bending Spoons at $2.8 Billion in Revenue: 126% Growth, 3% Organic Growth, and $1.08 Billion of ARR Bought in 37 Days",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-bending-spoons-at-2-8-billion-in-revenue-126-growth-3-organic-growth-and-1-08-billion-of-arr-bought-in-37-days/",
+    "publisher": "Saastr",
+    "published_date": "2026-10-15T14:10:23",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9565,
+    "ai_summary": "Bending Spoons reported Q2 revenue of $704M, up 126% year-over-year, with organic growth of 3%. The company acquired Airtable and Miro, adding $1.08B in ARR, and its stock fell 16% after the report. CEO Luca Ferrari said AI writes at least 90% of the company's code.",
+    "word_count": 2035,
+    "author": "Jason Lemkin",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     },
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iu",
+      "name": "Vimeo",
+      "website": "https://vimeo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005xiw",
+      "name": "Harvest",
+      "website": "http://www.getharvest.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m9uwr",
+      "name": "remini ai",
+      "website": "https://app.remini.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000yxk",
+      "name": "Eventbrite",
+      "website": "http://www.eventbrite.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006jzy",
+      "name": "MileIQ",
+      "website": "http://www.mileiq.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007sx",
+      "name": "Tractive",
+      "website": "http://www.tractive.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "ferrari",
+      "federico simionato"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "miro",
+      "vimeo",
+      "splice",
+      "datadog",
+      "remini",
+      "hubspot",
+      "aol",
+      "evernote",
+      "eventbrite",
+      "tractive",
+      "bending spoons",
+      "alt-spooner"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9168,
+    "group_id": 14298564
+   },
+   {
+    "id": 40744213,
+    "title": "Buffett\u2019s Latest Tech Play: What\u2019s Next for Bending Spoons (BSP) After a 41% Rally?",
+    "url": "https://www.insidermonkey.com/news/buffetts-latest-tech-play-whats-next-for-bending-spoons-bsp-after-a-41-rally-1854601/",
+    "publisher": "Insider Trading & Hedge Fund Data",
+    "published_date": "2026-10-15T02:50:55",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Berkshire Hathaway increased its stake in Bending Spoons SpA by $330 million, bringing its total investment to nearly $1 billion. The company plans to use proceeds from a private placement for new acquisitions, including a $1.355 billion deal for AI workspace Miro. Bending Spoons targets 113% Q3 revenue growth to $733-745 million.",
+    "word_count": 574,
+    "author": "Angelica Ballesteros",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "buffett",
+      "berkshire hathaway",
+      "cathie wood"
+     ],
+     "location": [],
+     "product": [
+      "miro",
+      "bumble"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40743032,
+    "title": "Buffett\u2019s Latest Tech Play: What\u2019s Next for Bending Spoons (BSP) After a 41% Rally?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buffett-latest-tech-play-next-025055006.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-15T02:50:55",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Berkshire Hathaway bought an additional $330 million stake in Bending Spoons, bringing its total investment to nearly $1 billion and ownership to 4%. The company will use proceeds from the private placement for new acquisitions, including a planned $1.355 billion purchase of AI workspace Miro.",
+    "word_count": 410,
+    "author": "Angelica Ballesteros",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "buffett",
+      "berkshire hathaway",
+      "tima miroshnichenko",
+      "ferrari"
+     ],
+     "location": [],
+     "product": [
+      "miro",
+      "bumble",
+      "bending spoons"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40716501,
+    "title": "Bending Spoons Surges After Berkshire Expands Stake | BSP Stock News",
+    "url": "https://www.quiverquant.com/news/Bending+Spoons+Surges+After+Berkshire+Expands+Stake",
+    "publisher": "Quiver Quantitative",
+    "published_date": "2026-10-14T21:20:27",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons shares rose 39.9% after Berkshire Hathaway announced a $330 million investment, bringing its stake to 4%. The private placement of 10 million shares at $33 each follows a prior $600 million investment at the July 2026 IPO. The company also plans to acquire Miro for $1.355 billion.",
+    "word_count": 236,
+    "author": "Quiver PriceTracker",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Private Investment in Public Equity (PIPE)",
+      "code": "FSACAAAD",
+      "is_primary": true
+     },
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "miro",
+      "bending spoons"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40688926,
+    "title": "Bending Spoons stock gets Berkshire backing, Mizuho holds target",
+    "url": "https://in.investing.com/news/stock-market-news/bending-spoons-stock-gets-berkshire-backing-mizuho-holds-target-93CH-5633460",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-14T15:34:08",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Berkshire Hathaway invested $930 million in Bending Spoons, acquiring about 4% ownership. Mizuho reiterated an Outperform rating with a $72 price target, while BofA lowered its target to $36. The company plans to raise $1 billion for its Miro acquisition, aiming for $4 billion pro forma revenue by 2026.",
+    "word_count": 419,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004l3l",
+      "name": "Mizuho Securities",
+      "website": "http://www.mizuho-sc.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008fs",
+      "name": "Moody's",
+      "website": "https://www.moodys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e4r",
+      "name": "StoneX",
+      "website": "https://www.stonex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000478u",
+      "name": "BofA Securities",
+      "website": "http://www.bofaml.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "lloyd walmsley"
+     ],
+     "location": [],
+     "product": [
+      "bending spoons",
+      "muse",
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40684454,
+    "title": "Berkshire Hathaway Puts Another $330 Million Into Bending Spoons | Trending Topics",
+    "url": "https://www.trendingtopics.eu/berkshire-hathaway-puts-another-330-million-into-tractive-buyer-bending-spoons/",
+    "publisher": "Trending Topics",
+    "published_date": "2026-10-14T14:48:20",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Berkshire Hathaway invested another $330 million in Bending Spoons, a software acquirer, via a private placement of 10 million shares at $33 each. The deal gives Berkshire about 4% ownership, and the stock rose 40% in early trading. Bending Spoons plans to use the funds for further acquisitions.",
+    "word_count": 585,
+    "author": "Jakob Steinschaden; Co-Produced By Ai",
+    "countries": [
+     "USA",
+     "AUT"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Fintech / Insurtech CVC (Financial-services-led CVC)",
+      "code": "FSANAHAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002gn",
+      "name": "Berkshire Hathaway",
+      "website": "http://www.berkshirehathaway.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007sx",
+      "name": "Tractive",
+      "website": "http://www.tractive.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "warren buffett",
+      "luca ferrari",
+      "greg abel",
+      "francesco patarnello",
+      "berkshire hathaway"
+     ],
+     "location": [
+      "milan",
+      "u.s.",
+      "austrian"
+     ],
+     "product": [
+      "vimeo",
+      "airtable",
+      "coca-cola",
+      "miro",
+      "wetransfer",
+      "eventbrite",
+      "aol",
+      "evernote",
+      "brightcove",
+      "tractive"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14208426
+   },
+   {
+    "id": 40534558,
+    "title": "Framer Stories: How Miro builds fast without losing design control with Framer",
+    "url": "https://www.framer.com/stories/miro/",
+    "publisher": "Framer",
+    "published_date": "2026-10-12T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Miro adopted Framer to let its design team build and publish product pages independently, avoiding developer bottlenecks. The company also localized content for global markets and integrated Framer with its internal systems via a custom CMS plugin.",
+    "word_count": 317,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Development & Modernization",
+      "code": "BPAEAFAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000cz",
+      "name": "Framer",
+      "website": "https://framer.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "629",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "framer"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7936,
+    "group_id": 14121790
+   },
+   {
+    "id": 40237261,
+    "title": "Bending Spoons Uses AI to Overhaul Acquired Software Firms",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bending-spoons-deploys-ai-to-overhaul-acquired-software-companies/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-10-09T17:41:41",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons uses AI to write over 90% of its code and overhaul acquired software firms, including AOL, Vimeo, WeTransfer, and Evernote. The company raised about $953.9 million in its IPO and plans to acquire Miro for $1.355 billion. CEO Luca Ferrari said the firm is well-positioned to grow with AI as a tailwind.",
+    "word_count": 384,
+    "author": "Pymnts",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Software Engineering & Application Modernization",
+      "code": "BPAHAEAD",
+      "is_primary": true
+     },
+     {
+      "name": "Cloud Application Modernization & Refactoring",
+      "code": "BPAEACAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00057fp",
+      "name": "Yahoo",
+      "website": "http://www.yahoo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "ferrari"
+     ],
+     "location": [],
+     "product": [
+      "vimeo",
+      "aol",
+      "wetransfer",
+      "evernote",
+      "miro"
+     ],
+     "event": [
+      "saaspocalypse"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13775883
+   },
+   {
+    "id": 40141584,
+    "title": "Why is Bending Spoons stock sliding today?",
+    "url": "https://ca.investing.com/news/stock-market-news/why-is-bending-spoons-stock-sliding-today-93CH-4872324",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-08T18:54:22",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0049,
+    "ai_summary": "Bending Spoons stock fell 9.5% in afternoon trading to $37.16, reversing a 24.2% prior-day gain. The slide followed profit-taking and analyst skepticism over its $4.09 billion net debt and 3% organic revenue growth. The stock remains above its July IPO price of $29.00.",
+    "word_count": 332,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005xsd",
+      "name": "Moody's Investors Service",
+      "website": "https://www.moodys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "bending spoons"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13728809
+   },
+   {
+    "id": 40135262,
+    "title": "Miro CEO Andrey Khusid Warns AI Productivity Gains Vanish Without Work Redesign",
+    "url": "https://www.webpronews.com/miro-ceo-andrey-khusid-warns-ai-productivity-gains-vanish-without-work-redesign/",
+    "publisher": "WebProNews",
+    "published_date": "2026-10-08T15:42:13",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0151,
+    "ai_summary": "Miro CEO Andrey Khusid warned that AI productivity gains vanish without redesigning workflows from first principles, urging teams to rebuild processes before adding AI. He cited Miro's MCP server processing over 19 million tool calls since February 2026, with monthly calls growing 34.9 times. Khusid expects visual decision-making to dominate within three years.",
+    "word_count": 1282,
+    "author": "Dave Ritchie",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise Work Management & Collaborative Workflow Platforms",
+      "code": "HDAEAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000362",
+      "name": "productivity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "jeff chow",
+      "khusid"
+     ],
+     "location": [
+      "italy",
+      "turin"
+     ],
+     "product": [
+      "claude",
+      "slack",
+      "github",
+      "chatgpt"
+     ],
+     "event": [
+      "wave by vento",
+      "turin remarks"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13669847
+   },
+   {
+    "id": 40017690,
+    "title": "Why Bending Spoons (BSP) Stock Is Up Today | BSP Stock News",
+    "url": "https://www.quiverquant.com/news/Why+Bending+Spoons+%28BSP%29+Stock+Is+Up+Today",
+    "publisher": "Quiver Quantitative",
+    "published_date": "2026-10-07T18:32:55",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons stock rose 17% after the company disclosed closing two add-ons to its term loan B facilities on October 2, totaling $1.25 billion and \u20ac395 million. The proceeds are intended to finance the agreed Miro acquisition and repay revolver borrowings, with credit rating upgrades from Moody's and S&P cited.",
+    "word_count": 270,
+    "author": "Quiver PriceTracker",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Debt & Capital Advisory (Debt Raising, Refinancing, Private Credit)",
+      "code": "BPAHAOAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008fs",
+      "name": "Moody's",
+      "website": "https://www.moodys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13640959
+   },
+   {
+    "id": 40045167,
+    "title": "Miro CEO: don\u2019t \u2018put AI on top\u2019 of teams to get productivity gains",
+    "url": "https://thenextweb.com/news/miro-andrey-khusid-ai-productivity-gains-redesign-work-wave-by-vento",
+    "publisher": "The Next Web",
+    "published_date": "2026-10-07T17:40:47",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4525,
+    "ai_summary": "Miro CEO Andrey Khusid said adding AI to existing teams won't yield full productivity gains; companies must redesign workflows from first principles. He spoke at Wave by Vento in Turin, a month after Bending Spoons agreed to buy Miro for $1.355bn. Khusid expects Miro to rely more on voice and conversation within three years.",
+    "word_count": 636,
+    "author": "Ana Maria Constantin",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise Work Management & Collaborative Workflow Platforms",
+      "code": "HDAEAHAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "103",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54161",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "8700",
+      "name": "SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "charlie perreau"
+     ],
+     "location": [
+      "turin",
+      "uk",
+      "italy"
+     ],
+     "product": [
+      "miro",
+      "claude",
+      "chatgpt"
+     ],
+     "event": [
+      "wave by vento"
+     ]
+    },
+    "newsworthiness_score": 0.972,
+    "group_id": 13669847
+   },
+   {
+    "id": 39452144,
+    "title": "Miro MCP Hits 16M Calls: Cross-Functional AI",
+    "url": "https://futurumgroup.com/insights/miro-mcp-hits-16m-calls-ai-collaboration-goes-cross-functional/?utm_source=rss&utm_medium=rss&utm_campaign=miro-mcp-hits-16m-calls-ai-collaboration-goes-cross-functional",
+    "publisher": "Futurum",
+    "published_date": "2026-10-01T15:42:25",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Miro's Model Context Protocol server surpassed 16 million calls since its February 2026 launch, with usage more than doubling since May. The server supports 15 AI clients, and non-engineering roles outnumber engineers roughly two to one. September is on track for 6 million calls.",
+    "word_count": 1621,
+    "author": "Keith Kirkpatrick",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "003xjel",
+      "name": "Claude",
+      "website": "https://claude.ai ",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lxa7u",
+      "name": "Microsoft Copilot",
+      "website": "https://copilot.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "keith kirkpatrick"
+     ],
+     "location": [],
+     "product": [
+      "chatgpt",
+      "grok build",
+      "microsoft copilot",
+      "claude code",
+      "claude desktop",
+      "gemini enterprise",
+      "claude",
+      "miro mcp",
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12907366
+   },
+   {
+    "id": 39679835,
+    "title": "Na p\u0159em\u00fd\u0161len\u00ed je lep\u0161\u00ed u po\u010d\u00edta\u010de nesed\u011bt, \u0159\u00edk\u00e1 \u010cech, jeho\u017e AI agenti pracuj\u00ed i ve chv\u00edli, kdy on sp\u00ed",
+    "url": "https://cc.cz/na-premysleni-je-lepsi-u-pocitace-nesedet-rika-cech-jehoz-ai-agenti-pracuji-i-ve-chvili-kdy-on-spi/",
+    "publisher": "CzechCrunch",
+    "published_date": "2026-10-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8468,
+    "ai_summary": "Tom Krcha, founder of Pen.dev, describes how AI agents run overnight and handle multiple projects, freeing him from traditional work hours. He argues that the 9-to-5 schedule is obsolete and that AI shifts people to visionary roles. He also notes the need for an orchestrator to manage multiple agent outputs.",
+    "word_count": 1015,
+    "author": "Ond\u0159ej Holzman",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004su1",
+      "name": "Around",
+      "website": "https://www.around.co",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "\u010dech"
+     ],
+     "location": [
+      "kalifornii",
+      "san franciska",
+      "san diegu"
+     ],
+     "product": [
+      "gpt-6 astra",
+      "codex",
+      "pen",
+      "krcha",
+      "slacku",
+      "pen.dev"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7116,
+    "group_id": 13398178
+   },
+   {
+    "id": 39672742,
+    "title": "Amsterdam business: September 2026 funding, tech and growth",
+    "url": "https://www.iamsterdam.com/en/business/amsterdam-business-in-september-from-breakthrough-ideas-to-global-growth",
+    "publisher": "I amsterdam",
+    "published_date": "2026-10-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Amsterdam's business sector saw significant activity in September, including funding for healthtech and deeptech startups, a major AI investment, and new business hubs. Notable deals include Wonderful's $550 million Series C and Miro's $1.355 billion acquisition by Bending Spoons, while Liander and TenneT began work on the city's largest electricity grid expansion.",
+    "word_count": 812,
+    "author": "",
+    "countries": [
+     "NLD",
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Healthcare & Life Sciences Growth Equity",
+      "code": "FSANACAB",
+      "is_primary": false
+     },
+     {
+      "name": "EV Charging Infrastructure IoT & Smart Charging (V1G/V2G)",
+      "code": "EUADAPAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000059o",
+      "name": "Wonderful",
+      "website": "https://www.wonderful.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "006hpny",
+      "name": "Fortaegis Technologies",
+      "website": "https://fortaegis.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002r6y",
+      "name": "Healthplus.ai",
+      "website": "http://www.healthplus.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003r37",
+      "name": "Phosphoenix",
+      "website": "https://www.phosphoenix.nl",
+      "is_primary": false
+     },
+     {
+      "uuid": "000jurr",
+      "name": "Amsterdam UMC",
+      "website": "https://www.vumc.nl",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002t9x",
+      "name": "Solaq",
+      "website": "http://www.solaq.nl",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007a3e",
+      "name": "BVP Forge",
+      "website": "https://www.bvp.com/forge",
+      "is_primary": false
+     },
+     {
+      "uuid": "00275te",
+      "name": "Noso Capital",
+      "website": "https://nosocapital.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "feature",
+     "label": "Feature"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000218",
+      "name": "biotechnology business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "119",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5417",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54171",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "813910",
+      "name": "Other Services (except Public Administration)"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "melanie van der horst",
+      "thijs van der burgt"
+     ],
+     "location": [
+      "amsterdam",
+      "donauweg",
+      "oostenburg",
+      "us",
+      "nieuwe hemweg",
+      "van gendt hallen",
+      "european",
+      "sweden",
+      "norway",
+      "finland",
+      "piet heinkade"
+     ],
+     "product": [
+      "periscope"
+     ],
+     "event": [
+      "hello tomorrow"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13395667
+   },
+   {
+    "id": 39282252,
+    "title": "Momentum Grows for Miro MCP as Users Embrace the Canvas for AI Collaboration",
+    "url": "https://martechseries.com/analytics/data-management-platforms/momentum-grows-for-miro-mcp-as-users-embrace-the-canvas-for-ai-collaboration/",
+    "publisher": "MarTech Series",
+    "published_date": "2026-09-30T06:10:24",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Miro's MCP server has received over 16 million calls since its February 2026 launch, with usage more than doubling since May. Claude Desktop and Claude Code account for 65% of usage, and 15 AI clients have connected. The server is being used for both input and output by AI agents.",
+    "word_count": 509,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007i12",
+      "name": "Fincore Ltd",
+      "website": "http://www.fincore.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "628",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5182",
+      "name": "Information"
+     },
+     {
+      "code": "518",
+      "name": "Information"
+     },
+     {
+      "code": "541513",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jeff chow",
+      "mark listes",
+      "dominic le garsmeur"
+     ],
+     "location": [],
+     "product": [
+      "grok build",
+      "chatgpt",
+      "microsoft copilot",
+      "gemini enterprise",
+      "mcp",
+      "miro",
+      "claude",
+      "miro mcp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9635,
+    "group_id": 12907366
+   },
+   {
+    "id": 39192254,
+    "title": "Stock Market News - Investing.com Canada",
+    "url": "https://ca.investing.com/news/stock-market-news/bofa-cuts-bending-spoons-stock-price-target-on-valuation-concerns-93CH-4857416",
+    "publisher": "Investing.com",
+    "published_date": "2026-09-29T10:35:17",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1623,
+    "ai_summary": "BofA Securities lowered its price target on Bending Spoons to $36 from $39, citing AI risk and high leverage. The stock trades at $33.56 with a P/E of 197.5, and the company plans a $1 billion term loan to fund its Miro acquisition.",
+    "word_count": 456,
+    "author": "",
+    "countries": [
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     },
+     {
+      "name": "Technology, Software & IT Services",
+      "code": "FSABACAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004l3l",
+      "name": "Mizuho Securities",
+      "website": "http://www.mizuho-sc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e4r",
+      "name": "StoneX",
+      "website": "https://www.stonex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005tu3",
+      "name": "S&P Global Ratings",
+      "website": "https://www.spratings.com/en_US",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008fs",
+      "name": "Moody's",
+      "website": "https://www.moodys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003z4e1",
+      "name": "Bernstein",
+      "website": "https://bernsteinsg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000478u",
+      "name": "BofA Securities",
+      "website": "http://www.bofaml.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000382",
+      "name": "prices"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "canada"
+     ],
+     "product": [
+      "bending spoons",
+      "miro",
+      "airtable",
+      "muse"
+     ],
+     "event": [
+      "jackson hole speech"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12447225
+   },
+   {
+    "id": 41755596,
+    "title": "Miro Announces Asia Hub in Singapore to Accelerate Growth Across the Region and Bring AI Collaboration to New Markets",
+    "url": "https://www.aetoswire.com/en/news/54451727",
+    "publisher": "AETOSWire",
+    "published_date": "2026-09-29T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Miro announced a new Asia hub in Singapore to support AI transformation across the region, targeting growth in Singapore, India, South Korea, and Southeast Asia. The company has 100M+ users and 250,000 customers, with TCS Pace and Frasers Property cited as existing users. The hub aims to strengthen regional partnerships and customer reach.",
+    "word_count": 737,
+    "author": "",
+    "countries": [
+     "SGP",
+     "IND",
+     "KOR"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sunil pamnani",
+      "iris tan",
+      "subin pillai",
+      "brigid archibald"
+     ],
+     "location": [
+      "singapore",
+      "india",
+      "south korea",
+      "asia",
+      "united states"
+     ],
+     "product": [
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15350089
+   },
+   {
+    "id": 39687317,
+    "title": "Pracovat od dev\u00edti do p\u011bti je dnes blbost. Tom Krcha popisuje, jak AI agenti m\u011bn\u00ed zp\u016fsob jeho pr\u00e1ce",
+    "url": "https://cc.cz/pracovat-od-deviti-do-peti-je-dnes-blbost-tom-krcha-popisuje-jak-ai-agenti-meni-zpusob-jeho-prace/",
+    "publisher": "CzechCrunch",
+    "published_date": "2026-09-28T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9782,
+    "ai_summary": "Tom Krcha, founder of Pen.dev, describes how AI agents have transformed his work, now managing five to six projects simultaneously. He argues that marketing and distribution now require about 50% of time, and that fast models are more valuable than frontier intelligence.",
+    "word_count": 969,
+    "author": "Ond\u0159ej Holzman",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Prompt Engineering, Orchestration & LLMOps Tooling",
+      "code": "HDAAACAD",
+      "is_primary": false
+     },
+     {
+      "name": "Advertising, Marketing & Customer Personalization",
+      "code": "HDAAAGAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004su1",
+      "name": "Around",
+      "website": "https://www.around.co",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "kalifornii",
+      "san jose",
+      "san franciska",
+      "san francisco",
+      "san diegu",
+      "prahy",
+      "palo altu"
+     ],
+     "product": [
+      "astra",
+      "pen",
+      "czechcrunche",
+      "lego",
+      "money maker",
+      "excelovou tabulku"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7404,
+    "group_id": 13400795
+   },
+   {
+    "id": 39673732,
+    "title": "A unicorn valued at 117 billion, sold for 9 billion.",
+    "url": "https://www.chinaventure.com.cn/news/113-20260924-393447.html",
+    "publisher": "Chinaventure",
+    "published_date": "2026-09-26T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0111,
+    "ai_summary": "Bending Spoons plans to acquire remote collaboration platform Miro for about $1.36 billion in enterprise value, with equity value around $1.79 billion. Miro's valuation fell 90% from $17.5 billion in its 2022 C round to this level, making it a typical overvalued unicorn from the 2021 liquidity boom.",
+    "word_count": 284,
+    "author": "\u6295\u4e2d\u7f51",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate LP Programs (Corporate as LP in VC/PE funds)",
+      "code": "FSANAHAH",
+      "is_primary": true
+     },
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004su1",
+      "name": "Around",
+      "website": "https://www.around.co",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "miro",
+      "unicorn"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12447225
+   },
+   {
+    "id": 37294776,
+    "title": "Bending Spoons Bets Another $1.4 Billion on Overlooked Assets",
+    "url": "https://www.fool.com/investing/2026/09/21/bending-spoons-makes-a-14-billion-bet-on-miro/",
+    "publisher": "The Motley Fool",
+    "published_date": "2026-09-21T20:36:09",
+    "sentiment": "Positive",
+    "sentiment_score": 0.962,
+    "ai_summary": "Bending Spoons announced an acquisition of Miro, expanding its software portfolio after its Airtable deal. The company's strategy involves buying established products at a discount and operating them long-term, a model that has worked before. The video breaks down why it believes it can restore value through core product reliability.",
+    "word_count": 167,
+    "author": "Travis Hoium",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "travis hoium"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11923285
+   },
+   {
+    "id": 39688144,
+    "title": "BREAKING: Inside Bending Spoons ($BSP)",
+    "url": "https://www.sourcery.vc/p/breaking-inside-bending-spoons-bsp",
+    "publisher": "Sourcery",
+    "published_date": "2026-09-14T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons, a Milan-based acquirer, listed on Nasdaq on July 1, 2026 at $29 a share, raising about $1.68B. The company has completed over 50 acquisitions, including Airtable and AOL, and has a pipeline of roughly 1,000 targets. It recently closed Airtable and agreed to acquire Miro.",
+    "word_count": 4175,
+    "author": "Molly O Shea",
+    "countries": [
+     "ITA",
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "IPOs & Follow-on Offerings",
+      "code": "CM05",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00028tq",
+      "name": "Evernote",
+      "website": "http://www.evernote.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iu",
+      "name": "Vimeo",
+      "website": "https://vimeo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004woa",
+      "name": "AOL",
+      "website": "http://www.aol.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004676",
+      "name": "Meetup",
+      "website": "http://www.meetup.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000si",
+      "name": "Nasdaq",
+      "website": "https://www.nasdaq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002hoq",
+      "name": "Brightcove",
+      "website": "https://www.brightcove.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00061ve",
+      "name": "StreamYard",
+      "website": "https://streamyard.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000yxk",
+      "name": "Eventbrite",
+      "website": "http://www.eventbrite.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002nqk",
+      "name": "WeTransfer",
+      "website": "http://www.wetransfer.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007sx",
+      "name": "Tractive",
+      "website": "http://www.tractive.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "matteo danieli",
+      "valentina jerusalmi",
+      "francesco patarnello",
+      "vally",
+      "patarnello",
+      "danieli",
+      "lorenzo",
+      "laura",
+      "ferrari",
+      "jerusalmi",
+      "baillie gifford",
+      "molly o\u2019shea"
+     ],
+     "location": [
+      "italy",
+      "milan",
+      "silicon valley",
+      "london",
+      "tokyo",
+      "madrid",
+      "copenhagen",
+      "warsaw",
+      "us",
+      "times square",
+      "italian"
+     ],
+     "product": [
+      "airtable",
+      "vimeo",
+      "evernote",
+      "wetransfer",
+      "eventbrite",
+      "streamyard",
+      "meetup",
+      "miro",
+      "tractive",
+      "aol",
+      "brightcove",
+      "harvest",
+      "remini",
+      "komoot",
+      "deel",
+      "grindr",
+      "x",
+      "youtube",
+      "spotify",
+      "mosaic",
+      "news portal",
+      "bending spoons"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10950367
+   },
+   {
+    "id": 35732805,
+    "title": "European tech weekly recap: Over \u20ac3.9B invested across 70+ deals",
+    "url": "https://tech.eu/2026/09/14/european-tech-weekly-recap-over-eur39b-invested-across-70-deals/",
+    "publisher": "Tech.eu",
+    "published_date": "2026-09-14T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Over 70 European tech funding deals worth more than \u20ac3.9 billion were tracked last week, with over 5 exits and M&A transactions. Artificial intelligence led at \u20ac3 billion, followed by space and healthtech, with France raising \u20ac3.2 billion.",
+    "word_count": 1604,
+    "author": "Tamara Djurickovic",
+    "countries": [
+     "FRA",
+     "DEU",
+     "GBR",
+     "SWE",
+     "POL",
+     "ESP",
+     "IRL",
+     "LUX",
+     "ITA",
+     "PRT",
+     "BEL",
+     "EST",
+     "CHE",
+     "DNK",
+     "TUR",
+     "NLD",
+     "BGR"
+    ],
+    "industries": [
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Transaction Structuring, Negotiation & Deal Execution Support",
+      "code": "FSAEAGAK",
+      "is_primary": false
+     },
+     {
+      "name": "Sector-Focused Venture Capital (Vertical Specialists)",
+      "code": "FSANAAAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02mokc8",
+      "name": "Limetax",
+      "website": "https://www.limetax.de/en/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000055c",
+      "name": "Air Street Capital",
+      "website": "https://www.airstreet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007qqk",
+      "name": "Iris",
+      "website": "https://www.iris-worldwide.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002sp4",
+      "name": "Tillo",
+      "website": "https://www.tillo.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "02c29eb",
+      "name": "Tavion",
+      "website": "https://www.tavion.se",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hmo",
+      "name": "Five Arrows Principal Investments",
+      "website": "https://www.five-arrows.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008sr7",
+      "name": "Normative",
+      "website": "http://www.normative.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000cfq",
+      "name": "ETHRIS",
+      "website": "http://ethris.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qhnv",
+      "name": "Jack & Jill AI",
+      "website": "https://jackandjill.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007c5e",
+      "name": "Rebaba",
+      "website": "https://rebaba.se/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000kkd",
+      "name": "Sarbacane Software",
+      "website": "https://www.sarbacane.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000zx43",
+      "name": "Amilon",
+      "website": "http://www.amilon.eu",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000mf3",
+      "name": "Mynt",
+      "website": "https://www.mynt.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ya",
+      "name": "IRIS",
+      "website": "https://www.iris.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000h",
+      "name": "Mistral AI",
+      "website": "https://mistral.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004oor",
+      "name": "CostPocket",
+      "website": "https://costpocket.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "000ann4",
+      "name": "cyber_Folks",
+      "website": "https://cyberfolks.ro",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000guz",
+      "name": "Five Arrows Principal Investments",
+      "website": "https://www.five-arrows.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000lnx",
+      "name": "Neurent Medical",
+      "website": "http://www.neurentmedical.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006to",
+      "name": "The Exploration Company",
+      "website": "https://exploration.space",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000agz",
+      "name": "Greenly",
+      "website": "https://www.greenly.earth/home",
+      "is_primary": true
+     },
+     {
+      "uuid": "003wc5e",
+      "name": "Heydiga",
+      "website": "https://heydiga.com/en",
+      "is_primary": true
+     },
+     {
+      "uuid": "0009wvc",
+      "name": "Shoper",
+      "website": "https://www.shoper.pl/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000rb6",
+      "name": "Implicity",
+      "website": "https://www.implicity.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005w3b",
+      "name": "MCatalysis",
+      "website": "https://mcatalysis.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000394",
+      "name": "securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "query juriste"
+     ],
+     "location": [
+      "europe",
+      "sweden",
+      "portugal",
+      "uk",
+      "\ud83c\udde9\ud83c\uddea germany",
+      "spain",
+      "france",
+      "luxembourg",
+      "germany",
+      "\ud83c\uddeb\ud83c\uddf7 france",
+      "netherlands",
+      "italy",
+      "estonia",
+      "belgium",
+      "bulgaria",
+      "denmark",
+      "poland",
+      "switzerland",
+      "aerlin"
+     ],
+     "product": [
+      "bolter",
+      "vaxdyn",
+      "erlin",
+      "itts",
+      "tickets for good",
+      "soundtrap",
+      "etruck charging",
+      "phagestack",
+      "kitts",
+      "normative",
+      "miro",
+      "stilla",
+      "costpocket",
+      "cooki"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11487716
+   },
+   {
+    "id": 34929700,
+    "title": "One Thing Miro + Airtable Show: Getting Cash Flow Positive Isn\u2019t Magical",
+    "url": "https://www.saastr.com/one-thing-miro-airtable-show-getting-cash-flow-positive-isnt-magical/",
+    "publisher": "Saastr",
+    "published_date": "2026-09-11T14:10:28",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8268,
+    "ai_summary": "Bending Spoons acquired Miro at $1.355 billion enterprise value, closing in Q4, and Airtable at $1.285 billion five weeks earlier. Both deals included significant cash from the sellers' balance sheets, with Miro's ARR priced at 2.3x and Airtable's at 2.7x. The author argues that cash flow positive status is a milestone, not a destination, and growth rate matters more.",
+    "word_count": 2396,
+    "author": "Jason Lemkin",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Business Services (B2B) Growth Equity",
+      "code": "FSANACAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Cash Flow & Capital Expenditure",
+      "code": "FR04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "david azose",
+      "howie liu",
+      "matteo danieli",
+      "luca ferrari",
+      "saastr",
+      "jason"
+     ],
+     "location": [
+      "europe",
+      "chile",
+      "us"
+     ],
+     "product": [
+      "airtable",
+      "miro",
+      "superagent",
+      "omni",
+      "chatgpt",
+      "wetransfer",
+      "evernote",
+      "bending spoons",
+      "echosign",
+      "paypal"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34891621,
+    "title": "Bending Spoons to buy Miro for USD 1.355 bln",
+    "url": "https://www.telecompaper.com/news/bending-spoons-to-buy-miro-for-usd-1355-bln--1582470",
+    "publisher": "Telecompaper",
+    "published_date": "2026-09-11T09:39:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9938,
+    "ai_summary": "Bending Spoons agreed to acquire visual collaboration platform Miro for an enterprise value of $1.355 billion. The deal implies an equity value of about $1.79 billion, with some Miro shareholders reinvesting $295 million into newly-issued Bending Spoons shares.",
+    "word_count": 102,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34894244,
+    "title": "Bending Spoons acquires Miro collaboration platform for $1.35bn",
+    "url": "https://www.siliconrepublic.com/business/bending-spoons-nabs-us-collaboration-platform-miro-for-1-35bn",
+    "publisher": "Silicon Republic",
+    "published_date": "2026-09-11T07:46:05",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5668,
+    "ai_summary": "Bending Spoons acquired Miro for $1.35bn, valuing it at $1.79bn in equity. Miro's user base grew from 30m in 2022 to over 100m, with $600m in annual recurring revenue. The deal follows Bending Spoons' acquisition of Airtable.",
+    "word_count": 373,
+    "author": "Suhasini Srinivasaragavan",
+    "countries": [
+     "ITA",
+     "USA",
+     "NLD"
+    ],
+    "industries": [
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "oleg shardin",
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "amsterdam",
+      "us",
+      "italy"
+     ],
+     "product": [
+      "evernote",
+      "aol",
+      "wetransfer",
+      "eventbrite",
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34882284,
+    "title": "Bending Spoons buys Miro for $1.79B, its second markdown deal in five weeks \u2014 TFN",
+    "url": "https://techfundingnews.com/bending-spoons-buys-miro-for-1-79b-its-second-markdown-deal-in-five-weeks/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-09-11T07:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6472,
+    "ai_summary": "Bending Spoons agreed to buy Miro in an all-cash deal valuing the company at $1.355 billion, with total equity value around $1.79 billion. The price represents a 90% cut from Miro's $17.5 billion valuation in January 2022. The deal is expected to close in Q4 2026 pending regulatory approval.",
+    "word_count": 697,
+    "author": "Abhinaya Prabhu",
+    "countries": [],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "miro",
+      "airtable",
+      "realtimeboard",
+      "wetransfer",
+      "vimeo",
+      "tractive"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34958725,
+    "title": "Bending Spoons compra Miro per 1,355 mld $. Valutazione crollata del 90% dal round 2022. I soci reinvestono 295 mln nell'acquirente - BeBeez",
+    "url": "https://bebeez.it/venture-capital/bending-spoons-compra-miro-per-1355-mld-valutazione-crollata-del-90-dal-round-2022-i-soci-reinvestono-295-mln-nellacquirente/",
+    "publisher": "BeBeez",
+    "published_date": "2026-09-11T05:58:45",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Miro for an enterprise value of $1.355 billion, with an equity value of $1.79 billion. The deal is about 90% below Miro's 2022 post-money valuation of $17.5 billion, and Miro generates $600 million in annual recurring revenue. Closing is expected in Q4 2026.",
+    "word_count": 4165,
+    "author": "",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Corporate M&A / Venture Build-to-Buy Programs (Acqui-hire, option-to-acquire)",
+      "code": "FSANAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000fyj",
+      "name": "Latham & Watkins",
+      "website": "http://www.lw.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02kn9fb",
+      "name": "McDermott Will & Emery",
+      "website": "https://www.mwe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ar",
+      "name": "Morgan Stanley",
+      "website": "http://www.morganstanley.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004khd",
+      "name": "Goodwin Procter",
+      "website": "http://www.goodwinprocter.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ah",
+      "name": "BNP Paribas",
+      "website": "https://group.bnpparibas",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m62en",
+      "name": "ey advisory spa",
+      "website": "https://www.ey.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lpcyv",
+      "name": "Ernst & Young",
+      "website": "https://www.ey.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522310",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "oleg shardin",
+      "luca ferrari",
+      "khusid",
+      "ilaria guidantoni",
+      "paolo bongianino"
+     ],
+     "location": [
+      "los angeles",
+      "scandinavia",
+      "italia",
+      "romagna",
+      "nord italia",
+      "milano",
+      "emilia romagna",
+      "milan",
+      "italy"
+     ],
+     "product": [
+      "miro",
+      "bending spoons",
+      "realtimeboard",
+      "airtable",
+      "issuu",
+      "wetransfer",
+      "vimeo",
+      "caff\u00e8 borbone",
+      "newcleo",
+      "meetup",
+      "komoot",
+      "cassiopea",
+      "horisonterra",
+      "extramot pro",
+      "spotify",
+      "bebeez web tv",
+      "greenbeez",
+      "permira",
+      "npl",
+      "startup",
+      "fintech",
+      "beezdeal",
+      "utp",
+      "opa",
+      "bebeez podcast",
+      "kkr",
+      "minibond",
+      "i caffe\u0301 di bebeez",
+      "bebeez academy",
+      "bebeez magazine",
+      "bebeez private data",
+      "bebeez news premium",
+      "bebeez premium",
+      "beez peak",
+      "bookstore"
+     ],
+     "event": [
+      "euronext growth milan",
+      "ipo al nasdaq",
+      "circuito 2026",
+      "gara del circuito 2026"
+     ]
+    },
+    "newsworthiness_score": 0.9812,
+    "group_id": 10798946
+   },
+   {
+    "id": 35082689,
+    "title": "Bending Spoons to buy visual collaboration firm Miro for $1.3bn",
+    "url": "https://www.verdict.co.uk/news/bending-spoons-miro-acquisition/",
+    "publisher": "Verdict",
+    "published_date": "2026-09-11T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Miro, a visual collaboration software firm, at an enterprise value of $1.35bn, implying an equity value of about $1.79bn. The cash deal, expected to close in Q4 2026, will see Miro's shareholders reinvest $295m into new equity. Miro has nearly 4 million paying users and $600m in annual recurring revenue.",
+    "word_count": 389,
+    "author": "Anwesha Pattanaik",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "san francisco, california"
+     ],
+     "product": [
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 35067453,
+    "title": "St\u0159et s realitou, kter\u00fd \u010dek\u00e1 \u0159adu firem. P\u0159ed \u010dty\u0159mi lety m\u011bli hodnotu 365 miliard, te\u010f se prodali za 28",
+    "url": "https://cc.cz/stret-s-realitou-ktery-ceka-radu-firem-pred-ctyrmi-lety-meli-hodnotu-365-miliard-ted-se-prodali-za-28/",
+    "publisher": "CzechCrunch",
+    "published_date": "2026-09-11T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6294,
+    "ai_summary": "Bending Spoons agreed to acquire Miro for $1.355 billion, with a final price of $1.79 billion including cash. The deal reflects a 92% valuation drop since 2021, as Miro's ARR is $600 million but it faces competition from Canva, Figma, and Microsoft.",
+    "word_count": 568,
+    "author": "Peter Brej\u010d\u00e1k",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004su1",
+      "name": "Around",
+      "website": "https://www.around.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6159",
+      "name": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "dominika zana",
+      "pavla serbajla",
+      "matta zakutneho"
+     ],
+     "location": [
+      "\u010desku"
+     ],
+     "product": [
+      "miro",
+      "airtable",
+      "bending spoons",
+      "snyk",
+      "eventbrite",
+      "aol",
+      "mira",
+      "wetransfer",
+      "vimeo",
+      "saas",
+      "evernote",
+      "luca ferrari",
+      "canva"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9788,
+    "group_id": 10798946
+   },
+   {
+    "id": 34869404,
+    "title": "Bending Spoons Grabs Miro for $1.36 Billion as Once-Hot Collaboration Tool Sells at 90% Discount to Peak",
+    "url": "https://www.webpronews.com/bending-spoons-grabs-miro-for-1-36-billion-as-once-hot-collaboration-tool-sells-at-90-discount-to-peak/",
+    "publisher": "WebProNews",
+    "published_date": "2026-09-10T23:02:12",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5616,
+    "ai_summary": "Bending Spoons agreed to buy Miro for $1.355 billion in cash, with equity value reaching about $1.79 billion. The deal reflects a 90% drop from Miro's 2021 $17.5 billion valuation, as Miro's ARR is $600 million. Closing is expected in Q4 pending regulatory reviews.",
+    "word_count": 1292,
+    "author": "Eric Hastings",
+    "countries": [
+     "ITA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     },
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "miro",
+      "airtable",
+      "vimeo",
+      "meetup",
+      "wetransfer",
+      "eventbrite",
+      "slack",
+      "jira",
+      "aol",
+      "evernote",
+      "github",
+      "bending spoons"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34867260,
+    "title": "Bending Spoons Buys Miro At 90% Discount As SaaS Unicorns Sell For Scraps",
+    "url": "https://www.forbes.com/sites/josipamajic/2026/09/10/bending-spoons-buys-miro-at-90-discount-as-saas-unicorns-sell-for-scraps/",
+    "publisher": "Forbes",
+    "published_date": "2026-09-10T20:50:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4687,
+    "ai_summary": "Bending Spoons agreed to buy Miro for $1.355 billion in enterprise value, roughly 2.3 times its annual recurring revenue. The deal follows Bending Spoons' acquisition of Airtable for $1.285 billion, both priced between 2.3 and 2.7 times revenue. The buyer plans to reorganize teams and cut staff, with layoffs often reaching 70% of headcount.",
+    "word_count": 856,
+    "author": "Josipa Majic Predin",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "deedy das"
+     ],
+     "location": [
+      "milan",
+      "italy",
+      "san francisco, california"
+     ],
+     "product": [
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9981,
+    "group_id": 10798946
+   },
+   {
+    "id": 34912211,
+    "title": "Miro snapped up by Bending Spoons",
+    "url": "https://www.itnews.com.au/news/miro-snapped-up-by-bending-spoons-628841?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+    "publisher": "Itnews",
+    "published_date": "2026-09-10T20:40:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Miro in an all-cash deal valuing the digital collaboration platform at $1.36 billion. The deal includes Miro's $600 million annual recurring revenue and is expected to close in Q4 2026. Some Miro shareholders will invest $295 million into newly issued Bending Spoons equity.",
+    "word_count": 143,
+    "author": "Staff Writer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "luca ferrari"
+     ],
+     "location": [],
+     "product": [
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34860339,
+    "title": "Bending Spoons Snaps Up Miro at 92% Discount to Peak",
+    "url": "https://www.webpronews.com/bending-spoons-snaps-up-miro-at-92-discount-to-peak/",
+    "publisher": "WebProNews",
+    "published_date": "2026-09-10T18:42:15",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4112,
+    "ai_summary": "Bending Spoons agreed to acquire Miro for $1.355 billion in cash, valuing the collaboration platform at a fraction of its 2021 peak. The deal, closing in Q4, values Miro at roughly $1.79 billion including net cash, with 4 million paying users and $600 million annual revenue.",
+    "word_count": 1035,
+    "author": "Juan Vasquez",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "miro",
+      "eventbrite",
+      "aol",
+      "airtable",
+      "vimeo",
+      "figjam",
+      "microsoft whiteboard",
+      "figma"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34851698,
+    "title": "Bending Spoons To Acquire Miro For $1.355 Billion As AI Workspace Reaches $600 Million ARR",
+    "url": "https://pulse2.com/bending-spoons-to-acquire-miro-for-1-355-billion-as-ai-workspace-reaches-600-million-arr/",
+    "publisher": "Pulse 2.0",
+    "published_date": "2026-09-10T17:03:08",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Miro for $1.355 billion in an all-cash deal, with Miro's net cash implying an equity value of about $1.79 billion. Miro has grown to approximately $600 million in annual recurring revenue, with nearly 90% from business and enterprise customers. The transaction is expected to close in the fourth quarter of 2026.",
+    "word_count": 628,
+    "author": "Amit Chowdhry",
+    "countries": [],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ar",
+      "name": "Morgan Stanley",
+      "website": "http://www.morganstanley.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004khd",
+      "name": "Goodwin Procter",
+      "website": "http://www.goodwinprocter.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ah",
+      "name": "BNP Paribas",
+      "website": "https://group.bnpparibas",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000fyj",
+      "name": "Latham & Watkins",
+      "website": "http://www.lw.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [],
+     "product": [
+      "miro",
+      "wetransfer",
+      "airtable",
+      "vimeo",
+      "tractive",
+      "evernote",
+      "eventbrite"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34850693,
+    "title": "M&amp;A News: Bending Spoons Stock (BSP) Serves Up 8% Gain After $1.36B Miro Deal",
+    "url": "https://www.tipranks.com/news/ma-news-bending-spoons-stock-bsp-serves-up-8-gain-after-1-36b-miro-deal",
+    "publisher": "Tipranks",
+    "published_date": "2026-09-10T17:01:12",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons acquired workplace collaboration software firm Miro for $1.36 billion in cash, with shares rising 8% in early trading. Miro has over 4 million paying users and $600 million in annual recurring revenue, with the deal expected to close in Q4 2026.",
+    "word_count": 342,
+    "author": "David Craik",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "realtimeboard",
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34846512,
+    "title": "Bending Spoons Pays $1.4 Billion for Collaboration Firm Miro",
+    "url": "https://www.pymnts.com/news/acquiring/2026/bending-spoons-pays-1-billion-dollars-collaboration-firm-miro/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-09-10T16:05:34",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons is acquiring workplace collaboration platform Miro in a $1.355 billion deal, with the transaction expected to close in the fourth quarter. Miro has nearly 4 million paying users and over 750 customers with more than $100,000 in annual recurring revenue. The Italian company, which owns AOL, Eventbrite, and Vimeo, plans to invest substantially in Miro's fundamentals.",
+    "word_count": 409,
+    "author": "Pymnts",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "vimeo",
+      "aol",
+      "eventbrite",
+      "airtable",
+      "miro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34863835,
+    "title": "Bending Spoons to buy Amsterdam-based Miro in $1.36bn deal",
+    "url": "https://sifted.eu/articles/bending-spoons-to-buy-miro/",
+    "publisher": "Sifted",
+    "published_date": "2026-09-10T15:33:52",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Amsterdam- and US-based visual workflow platform Miro in a $1.36bn cash deal. The newly-public Italian giant continues its acquisition spree.",
+    "word_count": 138,
+    "author": "Maya Dharampal-Hornby",
+    "countries": [
+     "NLD",
+     "USA",
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jordi romero",
+      "maya dharampal-hornby"
+     ],
+     "location": [
+      "amsterdam",
+      "london",
+      "uk",
+      "europe",
+      "italian",
+      "european"
+     ],
+     "product": [
+      "miro",
+      "kota",
+      "factorial"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34847838,
+    "title": "Bending Spoons, proje y\u00f6netimini kolayla\u015ft\u0131ran Miro\u2019yu 1.36 milyar dolara sat\u0131n al\u0131yor",
+    "url": "https://swipeline.co/bending-spoons-proje-yonetimini-kolaylastiran-miro-1-36-milyar-dolara-satin-aliyor/",
+    "publisher": "Swipeline",
+    "published_date": "2026-09-10T15:22:33",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.855,
+    "ai_summary": "Bending Spoons agreed to acquire Miro, a visual collaboration platform, for $1.36 billion in cash. Miro has an annual recurring revenue of about $600 million, with roughly 90% from enterprise and commercial customers. The deal is expected to close in the fourth quarter of 2026.",
+    "word_count": 232,
+    "author": "Serpil Erg\u00fcl",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "rump'"
+     ],
+     "location": [
+      "bd'"
+     ],
+     "product": [
+      "airtable",
+      "bending spoons",
+      "iktok,"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8534,
+    "group_id": 10798946
+   },
+   {
+    "id": 34853264,
+    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+    "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-09-10T14:34:09",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5612,
+    "ai_summary": "Bending Spoons acquired Miro for $1.36 billion in cash, a 92% drop from its 2021 valuation of $17.5 billion. Miro now has about $600 million in annual recurring revenue and 100 million total users. The deal reflects a wider unwinding of SaaS multiples since the pandemic.",
+    "word_count": 549,
+    "author": "Ram Iyer",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "realtimeboard",
+      "slack",
+      "miro",
+      "figma",
+      "jira",
+      "airtable",
+      "github",
+      "canva",
+      "zoom"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9329,
+    "group_id": 10798946
+   },
+   {
+    "id": 34847705,
+    "title": "Bending Spoons acquires Miro for $1.36 billion in all-cash deal as tech buying spree accelerates",
+    "url": "https://techstartups.com/2026/09/10/bending-spoons-to-acquire-miro-for-1-36-billion-in-all-cash-deal-as-tech-buying-spree-accelerates/",
+    "publisher": "TechStartups",
+    "published_date": "2026-09-10T14:11:41",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Miro in an all-cash deal valued at $1.36 billion, with an enterprise value of $1.355 billion and equity value of roughly $1.79 billion. Miro has about $600 million in annual recurring revenue, and the deal is expected to close in Q4 2026 pending regulatory approvals.",
+    "word_count": 607,
+    "author": "Daniel Levi",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "andrey khusid"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "evernote",
+      "airtable",
+      "vimeo",
+      "wetransfer",
+      "miro",
+      "eventbrite",
+      "brightcove",
+      "aol",
+      "reforge"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34877167,
+    "title": "Bending Spoons enters definitive agreement to acquire AI innovation workspace Miro for \u20ac1.7 billion",
+    "url": "https://www.eu-startups.com/2026/09/bending-spoons-enters-definitive-agreement-to-acquire-ai-innovation-workspace-miro-for-e1-7-billion/",
+    "publisher": "EU-Startups",
+    "published_date": "2026-09-10T14:03:33",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire AI workspace Miro for \u20ac1.7 billion in an all-cash deal, subject to regulatory approvals. Miro reported nearly $600 million in annual recurring revenue, and the deal is expected to close in Q4 2026.",
+    "word_count": 491,
+    "author": "Ethan Conroy",
+    "countries": [
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "813910",
+      "name": "Other Services (except Public Administration)"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrey khusid",
+      "luca ferrari"
+     ],
+     "location": [
+      "italian"
+     ],
+     "product": [
+      "vimeo",
+      "komoot",
+      "eventbrite",
+      "streamyard",
+      "miro",
+      "aol",
+      "brightcove",
+      "wetransfer",
+      "evernote"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34841544,
+    "title": "Bending Spoons Buys Miro: A Debt-Financed Holding Company in a Tech Wrapper",
+    "url": "https://www.ainvest.com/news/bending-spoons-buys-miro-debt-financed-holding-company-tech-wrapper-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-09-10T13:32:34",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4962,
+    "ai_summary": "Bending Spoons acquired Miro for $1.355 billion in enterprise value, a steep discount from its 2022 $17.5 billion valuation. The deal is debt-financed, with sellers reinvesting $295 million into BSP shares, and the company reports 94% net revenue retention. The acquisition is expected to close in Q4 2026.",
+    "word_count": 1736,
+    "author": "Dominic Reidfollow",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mid-Market Buyout",
+      "code": "FSANABAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "551",
+      "name": "Management of Companies and Enterprises"
+     },
+     {
+      "code": "551111",
+      "name": "Management of Companies and Enterprises"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tianhao xu",
+      "dominic reid"
+     ],
+     "location": [
+      "italy",
+      "europe"
+     ],
+     "product": [
+      "evernote",
+      "miro",
+      "airtable",
+      "eventbrite",
+      "vimeo",
+      "figjam",
+      "figma",
+      "aol",
+      "remini",
+      "streamyard"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9934,
+    "group_id": 10798946
+   },
+   {
+    "id": 34842698,
+    "title": "Bending Spoons to buy Miro in $1.36 billion cash deal",
+    "url": "https://www.reuters.com/legal/transactional/bending-spoons-buy-miro-136-billion-cash-deal-2026-09-10/",
+    "publisher": "Reuters",
+    "published_date": "2026-09-10T12:58:04",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to buy Miro in an all-cash deal valued at $1.36 billion, with the deal expected to close in Q4 2026. Miro has about $600 million in annual recurring revenue, and some shareholders will invest $295 million into newly issued Bending Spoons equity.",
+    "word_count": 173,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "551",
+      "name": "Management of Companies and Enterprises"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6159",
+      "name": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "joyjeet das",
+      "luca ferrari",
+      "prathik jayaprakash"
+     ],
+     "location": [
+      "bengaluru"
+     ],
+     "product": [
+      "miro",
+      "airtable"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   },
+   {
+    "id": 34839099,
+    "title": "Bending Spoons to buy Miro in $1.36 billion cash deal",
+    "url": "https://www.channelnewsasia.com/business/bending-spoons-buy-miro-in-136-billion-cash-deal-6376296",
+    "publisher": "Channel NewsAsia",
+    "published_date": "2026-09-10T12:52:40",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bending Spoons agreed to acquire Miro in an all-cash deal valued at $1.36 billion, with the deal expected to close in Q4 2026. Miro's annual recurring revenue is about $600 million, and some shareholders will invest $295 million into newly issued Bending Spoons equity.",
+    "word_count": 431,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Whiteboarding & Visual Collaboration",
+      "code": "BPAMAMAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000078",
+      "name": "Bending Spoons",
+      "website": "http://bendingspoons.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000se",
+      "name": "Miro",
+      "website": "https://miro.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "luca ferrari",
+      "brendan mcdermid"
+     ],
+     "location": [
+      "new york city",
+      "u.s."
+     ],
+     "product": [
+      "miro",
+      "airtable"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10798946
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

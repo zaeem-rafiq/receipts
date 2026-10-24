@@ -1,0 +1,3934 @@
+{
+ "fetched_at": "2026-10-24T11:46:08",
+ "params": {
+  "company": "justworks.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 31,
+  "limit": 50,
+  "offset": 0,
+  "count": 31,
+  "data": [
+   {
+    "id": 42283385,
+    "title": "Justworks and New York Road Runners Partner to Fuel Small Businesses During 2026",
+    "url": "https://lbbonline.com/news/justworks-and-new-york-road-runners-partner-to-fuel-small-businesses-during-2026-and-2027-race-seasons",
+    "publisher": "LBBOnline",
+    "published_date": "2026-10-23T09:34:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Justworks became a strategic partner of New York Road Runners, sponsoring the TCS New York City Marathon in 2026 and 2027. The partnership includes signage, TV/radio placements, and in-app run challenges, with activations from October 26 through mid-November. The collaboration aims to support small businesses and celebrate the marathon's 50th anniversary.",
+    "word_count": 505,
+    "author": "Noble People",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Media & Broadcast Sponsorship (In-Game Broadcast, Streaming Sponsorship)",
+      "code": "MPAKALAF",
+      "is_primary": true
+     },
+     {
+      "name": "Hospitality, VIP & Experiential Sponsorship (Suites, Fan Zones, On-Site Activations)",
+      "code": "MPAKALAH",
+      "is_primary": false
+     },
+     {
+      "name": "Road Running Events (Marathons, Half Marathons, 10K/5K)",
+      "code": "MPAKAIAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000008b",
+      "name": "Strava",
+      "website": "http://www.strava.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009f8d",
+      "name": "New York Road Runners",
+      "website": "http://www.nyrr.org/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008h2g",
+      "name": "Noble People",
+      "website": "https://noblepeople.co/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000448",
+      "name": "New Balance",
+      "website": "http://www.newbalance.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001124",
+      "name": "sport industry"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "540",
+      "name": "Sports"
+     },
+     {
+      "code": "227",
+      "name": "Healthy Living"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jeri doris",
+      "christine burke"
+     ],
+     "location": [
+      "brooklyn",
+      "new york city",
+      "lafayette ave",
+      "grand central terminal",
+      "grand ave",
+      "vanderbilt hall",
+      "new york"
+     ],
+     "product": [
+      "strava"
+     ],
+     "event": [
+      "tcs new york city marathon",
+      "new york city marathon"
+     ]
+    },
+    "newsworthiness_score": 0.8771,
+    "group_id": 15660181
+   },
+   {
+    "id": 41586054,
+    "title": "Best Rippling alternatives in 2026: HR platforms for growing businesses \u2014 TFN",
+    "url": "https://techfundingnews.com/best-rippling-alternatives-in-2026-hr-platforms-for-growing-businesses/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-10-20T15:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HiBob is ranked as the top Rippling alternative for people-first HR, with a 4.5/5 G2 rating and quote-based pricing. BambooHR, Gusto, and Personio are also compared, with Rippling's HR core criticized for being secondary to IT and device management.",
+    "word_count": 5775,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ytu",
+      "name": "Paylocity",
+      "website": "http://www.paylocity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bt",
+      "name": "Factorial",
+      "website": "https://factorialhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bob",
+      "josh bersin"
+     ],
+     "location": [
+      "uk",
+      "us",
+      "europe",
+      "eu"
+     ],
+     "product": [
+      "bamboohr",
+      "factorial",
+      "gusto",
+      "rippling",
+      "personio",
+      "hibob",
+      "paylocity",
+      "paycom",
+      "zoho people",
+      "justworks",
+      "trinet",
+      "trinet hr platform",
+      "ramp",
+      "brex",
+      "deel",
+      "bob",
+      "oyster",
+      "remote",
+      "papaya global",
+      "instagram",
+      "udemy",
+      "go1",
+      "linkedin",
+      "slack",
+      "microsoft outlook",
+      "zoom",
+      "google calendar",
+      "bamboo",
+      "zenefits",
+      "peo",
+      "playroll",
+      "remofirst",
+      "velocity global",
+      "goco",
+      "workday",
+      "adp",
+      "capterra",
+      "g2"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7498,
+    "group_id": 15022120
+   },
+   {
+    "id": 40895260,
+    "title": "Best HR Management Software for Small Businesses",
+    "url": "https://aijourn.com/best-hr-management-software-for-small-businesses/",
+    "publisher": "Aijourn",
+    "published_date": "2026-10-16T09:11:22",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HiBob (Bob) is named the best HR management software for small businesses in 2026, scoring 4.5/5 on G2. It offers an all-in-one platform with native US and UK payroll, scaling to mid-market. Other tools like Gusto and BambooHR are ranked below.",
+    "word_count": 5116,
+    "author": "Tom Allen",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ggc",
+      "name": "Homebase",
+      "website": "http://www.joinhomebase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bxf",
+      "name": "OnPay",
+      "website": "https://onpay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bob",
+      "josh bersin",
+      "stephanie p.",
+      "nisha m.",
+      "priyanka b.",
+      "deja l.",
+      "tom allen"
+     ],
+     "location": [
+      "uk",
+      "us"
+     ],
+     "product": [
+      "hibob",
+      "bamboohr",
+      "justworks",
+      "gusto",
+      "rippling teams",
+      "zoho people",
+      "bob",
+      "hr management software",
+      "onpay",
+      "paycor",
+      "paychex flex",
+      "instagram",
+      "homebase",
+      "zoho payroll",
+      "zoho books",
+      "zoho crm",
+      "rippling",
+      "us payroll",
+      "zenefits",
+      "quickbooks",
+      "goco"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8213,
+    "group_id": 14365547
+   },
+   {
+    "id": 40920889,
+    "title": "Gen Z founders are hiring while Boomers' corporate America freezes out\u2014\u2018I\u2019ve already proven to myself that I can thrive in this\u2019 | Fortune",
+    "url": "https://www.einnews.com/article/950124939/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-16T07:02:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0927,
+    "ai_summary": "Gen Z and millennial business owners plan to increase staff and investment more than older owners, despite a low-hire labor market. The data shows 46% of young owners plan to hire, versus 19% of boomer owners, while overall hiring is down.",
+    "word_count": 827,
+    "author": "Muskaan Arshad",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "People Analytics & Workforce Planning",
+      "code": "BPACAPAK",
+      "is_primary": true
+     },
+     {
+      "name": "Talent Acquisition (Recruiting) & Applicant Tracking (ATS)",
+      "code": "BPACAPAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000523",
+      "name": "labor market"
+     },
+     {
+      "code": "20000509",
+      "name": "employment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "mike seckler",
+      "jerome powell",
+      "seckler",
+      "nicole bachaud"
+     ],
+     "location": [],
+     "product": [],
+     "event": [
+      "iran war"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14366621
+   },
+   {
+    "id": 40897553,
+    "title": "Gen Z founders are hiring while Boomers' corporate America freezes",
+    "url": "https://fortune.com/2026/10/16/gen-z-millennial-small-business-owners-hiring-boomers-low-hire-low-fire-job-market/",
+    "publisher": "Fortune",
+    "published_date": "2026-10-16T07:02:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0774,
+    "ai_summary": "Gen Z and millennial business owners plan to increase staff and investment more than older owners, despite a low-hire labor market. The Q3 2026 Small Business Index shows 46% of young owners plan to hire, versus 19% of boomer owners, while overall hiring is down.",
+    "word_count": 986,
+    "author": "Muskaan Arshad",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000365",
+      "name": "employment statistics"
+     },
+     {
+      "code": "20000523",
+      "name": "labor market"
+     },
+     {
+      "code": "20000509",
+      "name": "employment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "mike seckler",
+      "muskaan arshad",
+      "jerome powell",
+      "seckler",
+      "nicole bachaud"
+     ],
+     "location": [],
+     "product": [],
+     "event": [
+      "iran war"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14366621
+   },
+   {
+    "id": 40020852,
+    "title": "Open Enrollment Is Squeezing Small Businesses. Nearly 70 Percent Want Outside Help",
+    "url": "https://www.inc.com/bruce-crumley/open-enrollment-is-squeezing-small-businesses-nearly-70-percent-want-outside-help/91415902",
+    "publisher": "Inc.",
+    "published_date": "2026-10-07T17:37:20",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0055,
+    "ai_summary": "A survey of 759 small businesses by the U.S. Chamber of Commerce and Justworks found nearly 70% of owners need outside help with benefit plans. Healthcare premiums are rising, yet coverage expanded from 41% to 46% of workers. Gen Z and Millennial owners are most likely to seek third-party assistance.",
+    "word_count": 579,
+    "author": "Bruce Crumley",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Benefits Administration & Enrollment Support",
+      "code": "BPAAAIAB",
+      "is_primary": true
+     },
+     {
+      "name": "Employee Benefits Brokerage & Consulting",
+      "code": "FSAEADAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     },
+     {
+      "name": "Compensation & Benefits",
+      "code": "WT03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000uqr",
+      "name": "U.S. Chamber of Commerce",
+      "website": "https://www.uschamber.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001172",
+      "name": "small and medium enterprise"
+     },
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "09000000",
+      "name": "labor"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "524114",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "524292",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "ronica cleary"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13413641
+   },
+   {
+    "id": 39727336,
+    "title": "Two-thirds of small business owners want help with benefits, survey finds",
+    "url": "https://www.insurancebusinessmag.com/us/news/benefits/twothirds-of-small-business-owners-want-help-with-benefits-survey-finds-592278.aspx",
+    "publisher": "Insurance Business America",
+    "published_date": "2026-10-05T10:14:59",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4231,
+    "ai_summary": "A survey of 759 small business owners found two-thirds want outside help with employee benefits, rising to three-quarters among Gen Z and Millennial-owned firms. Health insurance offer rates increased from 41% to 46% between Q2 2025 and Q3 2026, while rising costs and administrative complexity remain barriers.",
+    "word_count": 502,
+    "author": "Mark Rosanes",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Compensation, Benefits & Rewards Consulting",
+      "code": "BPAHAGAF",
+      "is_primary": true
+     },
+     {
+      "name": "Small Group Health Insurance (2\u201350/100)",
+      "code": "FSAIAFAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     },
+     {
+      "name": "Consumer Behaviour & Spending",
+      "code": "MM05",
+      "is_primary": false
+     },
+     {
+      "name": "Compensation & Benefits",
+      "code": "WT03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001172",
+      "name": "small and medium enterprise"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20000365",
+      "name": "employment statistics"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "health insurance",
+      "retirement plan"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9309,
+    "group_id": 13413641
+   },
+   {
+    "id": 39338979,
+    "title": "71 Percent of Small-Business Owners Say Their Company Is Healthy. 1 Concern Is Changing Their Hiring Plans",
+    "url": "https://www.inc.com/rachel-suleymanov/71-percent-small-business-ownners-say-company-healthy-concern-changing-hiring-plans/91412756",
+    "publisher": "Inc.",
+    "published_date": "2026-09-30T18:15:47",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1024,
+    "ai_summary": "A Justworks and U.S. Chamber of Commerce survey found 71% of small-business owners say their companies are healthy, while only 27% are optimistic about the U.S. economy. Hiring plans slowed, with 36% planning to increase staff, down from 44% a year earlier, and inflation remains a top challenge.",
+    "word_count": 475,
+    "author": "Rachel Suleymanov",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Economic & Macroeconomic Research",
+      "code": "BPAHALAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006t1v",
+      "name": "National Federation of Independent Business",
+      "website": "http://www.nfib.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000745",
+      "name": "economics"
+     },
+     {
+      "code": "20000344",
+      "name": "economy"
+     },
+     {
+      "code": "20000365",
+      "name": "employment statistics"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "52",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8700",
+      "name": "SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT"
+     },
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "holly wade",
+      "stephanie mehta"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "tahoma",
+      "lucida",
+      "verdana",
+      "trebuchet",
+      "console"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9933,
+    "group_id": 12964933
+   },
+   {
+    "id": 39304940,
+    "title": "ALKEME Insurance Hosts CarrierVerse 2026 in Huntington Beach with Record Sponsor Engagement",
+    "url": "https://www.prnewswire.com/news-releases/alkeme-insurance-hosts-carrierverse-2026-in-huntington-beach-with-record-sponsor-engagement-302893277.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-09-30T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "ALKEME Insurance hosted CarrierVerse 2026 in Huntington Beach, drawing over 600 attendees and 60+ carrier sponsors. The event featured networking, education, and live music, with Platinum sponsors including Amwins CRC and First Insurance Funding. ALKEME announced CarrierVerse 2027 for September 23, 2027.",
+    "word_count": 467,
+    "author": "Alkeme Insurance",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000iao",
+      "name": "Alkeme",
+      "website": "https://alkemeins.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007k4b",
+      "name": "FIRST Insurance Funding",
+      "website": "https://firstinsurancefunding.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006p71",
+      "name": "Jencap Group",
+      "website": "https://jencapgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00039tk",
+      "name": "ICW Group Insurance Companies",
+      "website": "https://www.icwgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006mj",
+      "name": "AmWINS",
+      "website": "http://www.amwins.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000aagn",
+      "name": "Burns & Wilcox",
+      "website": "https://www.burnsandwilcox.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "003xyw2",
+      "name": "RT Specialty",
+      "website": "http://www.rtspecialty.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000279",
+      "name": "insurance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "180",
+      "name": "Events"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5242",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52421",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6411",
+      "name": "INSURANCE AGENTS, BROKERS & SERVICE"
+     },
+     {
+      "code": "6399",
+      "name": "INSURANCE CARRIERS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "curtis barton"
+     ],
+     "location": [
+      "huntington beach",
+      "california coast",
+      "ladera ranch",
+      "united states"
+     ],
+     "product": [],
+     "event": [
+      "carrierverse 2026",
+      "alkeme week",
+      "carrierverse 2027"
+     ]
+    },
+    "newsworthiness_score": 0.9821,
+    "group_id": 12928236
+   },
+   {
+    "id": 35215410,
+    "title": "Justworks plans to employ 150 at new Scottsdale office",
+    "url": "https://www.bizjournals.com/phoenix/news/2026/09/16/tech-hr-scottsdale-company.html?ana=brss_6222",
+    "publisher": "American City Business Journals",
+    "published_date": "2026-09-16T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Justworks, a New York-based HR and payroll technology company, opened its first Arizona office near Scottsdale Fashion Square. The company plans to grow the office to 150 employees over the next two years.",
+    "word_count": 68,
+    "author": "Helena Wegner",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Payroll Software & Payroll-as-a-Service (SaaS)",
+      "code": "BPACAIAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     },
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000509",
+      "name": "employment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "108",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "123",
+      "name": "Careers"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561311",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "arizona",
+      "scottsdale fashion square",
+      "scottsdale"
+     ],
+     "product": [],
+     "event": [
+      "corporate philanthropy awards"
+     ]
+    },
+    "newsworthiness_score": 0.7065,
+    "group_id": 11378259
+   },
+   {
+    "id": 34129579,
+    "title": "Entreprenista 100 Awards Now Accepting Applications from Accomplished Women Founders",
+    "url": "https://www.prnewswire.com/news-releases/entreprenista-100-awards-now-accepting-applications-from-accomplished-women-founders-302871326.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-09-08T12:42:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Entreprenista Media is accepting applications for its 2026 Entreprenista 100 Awards, highlighting top women business owners. Applications run from September 8 to October 22, 2026, with winners announced March 8, 2027. Justworks returns as a supporting sponsor.",
+    "word_count": 861,
+    "author": "Entreprenista Media",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Business, Finance & Industry Trade Magazines",
+      "code": "MPAJAEAM",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00057h2",
+      "name": "Entreprenista",
+      "website": "https://entreprenista.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000497",
+      "name": "accomplishment"
+     },
+     {
+      "code": "20001327",
+      "name": "women"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sarah potempa",
+      "regina gwynn",
+      "candace nelson",
+      "ruchi pinniger",
+      "stephanie cartin",
+      "divya gugnani",
+      "sarah lee",
+      "tisha thompson",
+      "julia hartz",
+      "julia haart",
+      "catherine crevels",
+      "kim perell",
+      "sammi cohen",
+      "michelle cordeiro grant",
+      "anouck gotlib",
+      "meg block"
+     ],
+     "location": [
+      "new york"
+     ],
+     "product": [
+      "pizzana",
+      "sprinkles",
+      "lys beauty",
+      "kit",
+      "eventbrite",
+      "body by julia",
+      "gorgie",
+      "lively",
+      "glow recipe",
+      "it cosmetics",
+      "belgian boys",
+      "the beachwaver co.",
+      "concept to co",
+      "5 sens"
+     ],
+     "event": [
+      "entreprenista 100 awards",
+      "entreprenista 100 award",
+      "international women's day",
+      "founders weekend wealth & wellness retreat"
+     ]
+    },
+    "newsworthiness_score": 0.9549,
+    "group_id": 10552364
+   },
+   {
+    "id": 34154065,
+    "title": "What is a PEO? Ultimate Guide to Professional Employer Organizations",
+    "url": "https://www.deel.com/blog/what-does-peo-mean/",
+    "publisher": "Deel",
+    "published_date": "2026-09-08T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5829,
+    "ai_summary": "A Professional Employer Organization (PEO) is a third-party company that co-employs staff to manage payroll, benefits, taxes, and HR compliance. PEOs typically charge 2-12% of gross payroll or a per-employee-per-month fee, and businesses using PEOs grow twice as fast and see a 27% cost savings ROI. Deel's in-house PEO is highlighted as a top provider.",
+    "word_count": 3743,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Professional Employer Organization (PEO) / Co-Employment Services",
+      "code": "BPACAHAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006nzv",
+      "name": "Insperity",
+      "website": "http://www.insperity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000dur",
+      "name": "Remote",
+      "website": "https://remote.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "62",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56133",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7389",
+      "name": "SERVICES-BUSINESS SERVICES, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "phillip alvarado",
+      "shannon schiltz",
+      "sasha medvedovsky",
+      "kerry ashby"
+     ],
+     "location": [
+      "us",
+      "california",
+      "florida",
+      "new york",
+      "maryland",
+      "maine"
+     ],
+     "product": [
+      "peo"
+     ],
+     "event": [
+      "webinar"
+     ]
+    },
+    "newsworthiness_score": 0.8278,
+    "group_id": 10565469
+   },
+   {
+    "id": 33873570,
+    "title": "Best HR and Payroll Software for Mid-Market Companies (200-1000)",
+    "url": "https://hackernoon.com/best-hr-and-payroll-software-for-mid-market-companies-200-1000?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-09-04T02:37:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6749,
+    "ai_summary": "HiBob ranks highest for mid-market HR and payroll software, keeping employee data and payroll on one core. Paycor, ADP Workforce Now, and Paylocity follow, with Gusto, Rippling, Justworks, Deel, and Personio also listed. The ranking prioritizes single-record architecture and multi-state tax filing.",
+    "word_count": 2611,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll Software & Payroll-as-a-Service (SaaS)",
+      "code": "BPACAIAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ytu",
+      "name": "Paylocity",
+      "website": "http://www.paylocity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541214",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5412",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us",
+      "states",
+      "europe",
+      "european"
+     ],
+     "product": [
+      "paycor",
+      "bob",
+      "hibob",
+      "capterra",
+      "paylocity",
+      "gusto",
+      "rippling",
+      "justworks",
+      "adp workforce now",
+      "deel",
+      "personio",
+      "paychex",
+      "adp workforce",
+      "paycom",
+      "ukg",
+      "hris"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7539,
+    "group_id": 10384286
+   },
+   {
+    "id": 33458098,
+    "title": "ShearShare Partners with JustWorks to Celebrate Black Leaders of the 21st Century",
+    "url": "https://www.prlog.org/12756199-shearshare-partners-with-justworks-to-celebrate-black-leaders-of-the-21st-century.html",
+    "publisher": "PRLog",
+    "published_date": "2026-09-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "ShearShare and JustWorks will host a Black History Month panel on February 27 at JustWorks' New York office, featuring speakers including Antonine Grant and Del Johnson. The event celebrates Black founders and executives in the startup ecosystem, with ShearShare's Courtney Caldwell praising the initiative.",
+    "word_count": 394,
+    "author": "Shearshare",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Training, Enablement & Talent Development Summits",
+      "code": "THAHAMAH",
+      "is_primary": true
+     },
+     {
+      "name": "Entrepreneurship, Startup Incubation & Pitch Programs",
+      "code": "EDAMAKAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000d1w",
+      "name": "ShearShare",
+      "website": "https://www.shearshare.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001373",
+      "name": "diversity, equity and inclusion"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jay davis",
+      "mario springer",
+      "antonine grant",
+      "del johnson",
+      "courtney caldwell",
+      "ryan williams",
+      "simmone taitt"
+     ],
+     "location": [
+      "new york",
+      "400 cities",
+      "11 countries",
+      "starrett lehigh building"
+     ],
+     "product": [],
+     "event": [
+      "google demo day 2018"
+     ]
+    },
+    "newsworthiness_score": 0.9365,
+    "group_id": 10035013
+   },
+   {
+    "id": 33168075,
+    "title": "Techstars and Justworks Announce Partnership to Help Founders Focus on Growing their Businesses, not Back-Office Operations",
+    "url": "https://www.techstars.com/newsroom/techstars-and-justworks-announce-partnership-to-help-founders-focus-on-growing-their-businesses",
+    "publisher": "Accelerate Your Success",
+    "published_date": "2026-08-28T07:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Techstars announced on August 28, 2026 a partnership with Justworks giving portfolio founders discounted access to payroll, benefits and HR support, plus onboarding and 24/7 customer service. The deal covers all stages of the companies' growth, with access available immediately through the Techstars Universe dashboard.",
+    "word_count": 316,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate Accelerators & Startup Programs",
+      "code": "FSANAHAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000002r",
+      "name": "Techstars",
+      "website": "https://www.techstars.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54161",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "david cohen",
+      "john belle"
+     ],
+     "location": [],
+     "product": [
+      "mcp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8781,
+    "group_id": 9808387
+   },
+   {
+    "id": 33038562,
+    "title": "Electric Launches AI-Powered IT Platform and Payroll Industry Partnerships",
+    "url": "https://techrseries.com/payroll-and-compensation-management/electric-launches-ai-powered-it-platform-and-payroll-industry-partnerships/",
+    "publisher": "TecHR",
+    "published_date": "2026-08-26T14:47:11",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Electric, an AI platform for IT management, relaunched with a new AI-powered platform automating IT and HR tasks for small and midsize businesses, backed by a payroll partner network including ADP, Paychex, Paycor, UKG, Justworks, isolved and TriNet. The platform serves over 55,000 end users and 1,000 companies worldwide and has raised $200 million.",
+    "word_count": 409,
+    "author": "Pr Newswire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "ITSM Managed Services (Run/Operate/Optimize)",
+      "code": "BPAEAJAN",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b6h",
+      "name": "Electric",
+      "website": "https://www.electric.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000u5",
+      "name": "isolved",
+      "website": "https://www.isolvedhcm.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ryan denehy",
+      "hari kolam"
+     ],
+     "location": [
+      "130 countries"
+     ],
+     "product": [
+      "gliderai",
+      "openai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9331,
+    "group_id": 9382718
+   },
+   {
+    "id": 33996445,
+    "title": "NYCEDC Celebrates Closing of 2026 NYC Internship Programs in Venture Capital and Startup Ecosystems",
+    "url": "https://edc.nyc/press-release/nycedc-celebrates-closing-2026-nyc-startup-vc-internship-programs",
+    "publisher": "NYCEDC",
+    "published_date": "2026-08-26T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "NYCEDC and partners closed the 2026 NYC Startup and Venture Capital Internship Programs, placing over 130 students at nearly 90 firms. The programs, with 82% CUNY participation, saw many interns secure continued employment, including at startups like Emotivo Health and VC firms like Watershed Ventures.",
+    "word_count": 2314,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Internships, Externships & Work-Based Learning Placement",
+      "code": "EDAMAKAB",
+      "is_primary": true
+     },
+     {
+      "name": "Internship-to-Apprenticeship & Early Talent Pipeline Programs",
+      "code": "EDAMAKAL",
+      "is_primary": false
+     },
+     {
+      "name": "Entrepreneurship, Startup Incubation & Pitch Programs",
+      "code": "EDAMAKAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "002wm4h",
+      "name": "Blackstone LaunchPad",
+      "website": "https://www.blackstonelaunchpad.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00073sb",
+      "name": "Kauffman Fellows",
+      "website": "http://kauffmanfellows.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004vwu",
+      "name": "City University of New York",
+      "website": "http://www.cuny.edu",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000um",
+      "name": "Everywhere Ventures",
+      "website": "https://everywhere.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000nax",
+      "name": "Supermomos",
+      "website": "https://www.supermomos.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007bw",
+      "name": "Company Ventures",
+      "website": "https://www.companyventures.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008iro",
+      "name": "NYCEDC",
+      "website": "https://edc.nyc",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000up2",
+      "name": "BASTA",
+      "website": "https://www.projectbasta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000415",
+      "name": "students"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "matt harrington",
+      "jeanny pak",
+      "julie samuels",
+      "edwina yeo",
+      "jenny fielding",
+      "maura pally",
+      "brad hoylman-sigal",
+      "f\u00e9lix v. matos rodr\u00edguez",
+      "benjamin khandpur",
+      "dereck taverne",
+      "karen lin",
+      "fernando fabre",
+      "donovan richards jr.",
+      "virginia maloney"
+     ],
+     "location": [
+      "new york city",
+      "nyc",
+      "five boroughs",
+      "new york",
+      "new yorkers",
+      "manhattan",
+      "queens",
+      "cuny",
+      "kips bay"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10468137
+   },
+   {
+    "id": 32975959,
+    "title": "Electric Unveils Advanced AI-Driven IT Management and Payroll Solutions",
+    "url": "https://third-news.com/article/38bd787a-a08d-11f1-b526-9ca3ba08e13f",
+    "publisher": "Third News",
+    "published_date": "2026-08-25T13:59:42",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Electric, founded in 2017, relaunched its company with an AI-driven platform for IT management and payroll, serving over 55,000 end users and 1,000 businesses globally. The platform draws on more than two million IT tickets and partners with payroll firms including ADP, Paychex, Paycor, UKG, Justworks, isolved and TriNet. It received a $200 million funding round and appears on Deloitte's Technology Fast 500 list.",
+    "word_count": 1094,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "ERP/CRM/HRIS Implementation & Integration",
+      "code": "BPAEAAAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b6h",
+      "name": "Electric",
+      "website": "https://www.electric.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000u5",
+      "name": "isolved",
+      "website": "https://www.isolvedhcm.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "3571",
+      "name": "ELECTRONIC COMPUTERS"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "usa",
+      "new york"
+     ],
+     "product": [
+      "ai platform",
+      "openai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9386785
+   },
+   {
+    "id": 32972450,
+    "title": "Electric Launches AI-Powered IT Platform and Payroll Industry Partnerships",
+    "url": "https://www.prnewswire.com/news-releases/electric-launches-ai-powered-it-platform-and-payroll-industry-partnerships-302858706.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-08-25T13:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Electric, an AI platform for IT management, relaunched on August 25, 2026 with a new platform automating IT and HR workflows, backed by a payroll partner network including ADP, Paychex, Paycor, UKG, Justworks, isolved and TriNet. The platform serves over 55,000 end users and 1,000 companies worldwide, and the company has raised $200 million.",
+    "word_count": 621,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "ERP/CRM/HRIS Implementation & Integration",
+      "code": "BPAEAAAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b6h",
+      "name": "Electric",
+      "website": "https://www.electric.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000u5",
+      "name": "isolved",
+      "website": "https://www.isolvedhcm.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "ryan denehy",
+      "brandie gerrish"
+     ],
+     "location": [
+      "new york",
+      "130 countries"
+     ],
+     "product": [
+      "electric",
+      "ai platform",
+      "ai-powered it platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9902,
+    "group_id": 9382718
+   },
+   {
+    "id": 33658448,
+    "title": "Justworks' Spotlights Emotional Journey of Running a Small Business",
+    "url": "https://lbbonline.com/news/Justworks-Small-Business-Quality-Meats",
+    "publisher": "LBBOnline",
+    "published_date": "2026-08-24T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Justworks launched a new brand campaign 'You Don't Have To Worry When It Justworks' to address small business owners' operational burdens. The campaign, developed with agency Quality Meats, uses visual metaphors to show founders juggling multiple roles and ends with Justworks handling payroll, HR, and compliance. It launches in July across US channels.",
+    "word_count": 764,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Creative Concepting & Campaign Development",
+      "code": "BPAFAEAD",
+      "is_primary": true
+     },
+     {
+      "name": "Organization Design & Operating Model Consulting",
+      "code": "BPAHAGAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000d4l7",
+      "name": "Quality Meats Creative",
+      "website": "https://qualitymeatscreative.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "004arz4",
+      "name": "DROOL",
+      "website": "https://droolprods.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008h2g",
+      "name": "Noble People",
+      "website": "https://noblepeople.co/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "53",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "brian siedband",
+      "catherine crevels",
+      "freddie powell"
+     ],
+     "location": [
+      "us",
+      "new york city"
+     ],
+     "product": [
+      "anthem",
+      "boba",
+      "coffee",
+      "linkedin",
+      "newsletters",
+      "podcasts",
+      "digital publishers",
+      "online video",
+      "connected tv"
+     ],
+     "event": [
+      "fast company innovation festival",
+      "wnba all-star",
+      "tcs new york city marathon"
+     ]
+    },
+    "newsworthiness_score": 0.7563,
+    "group_id": 10191199
+   },
+   {
+    "id": 33658455,
+    "title": "Justworks Showcases the Humanity Behind Small Business Success",
+    "url": "https://lbbonline.com/news/Justworks-For-Your-People",
+    "publisher": "LBBOnline",
+    "published_date": "2026-08-12T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Justworks launched a new brand campaign with the tagline 'For Your People,' created in partnership with Preacher. The campaign features films highlighting small business owners' relationships with their employees and Justworks' HR support. It will run across connected TV, linear, social, digital, and podcasts.",
+    "word_count": 418,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Creative & Brand Campaign Development",
+      "code": "BPAFAAAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000fy6k",
+      "name": "PREACHER",
+      "website": "http://preacher.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008h2g",
+      "name": "Noble People",
+      "website": "https://noblepeople.co/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00214ns",
+      "name": "Object & Animal",
+      "website": "https://objectanimal.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "08000000",
+      "name": "human interest"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kim ryneska",
+      "tyler booker",
+      "matt devine"
+     ],
+     "location": [
+      "capitol hill"
+     ],
+     "product": [
+      "turbotax",
+      "mcdonald\u2019s new driver"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9919,
+    "group_id": 10191204
+   },
+   {
+    "id": 34152814,
+    "title": "Professional Employer Organization Market Valued at USD 8.39 Billion by 2034",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/professional-employer-organization-market/",
+    "publisher": "Trendxinsights",
+    "published_date": "2026-08-05T22:15:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7417,
+    "ai_summary": "The professional employer organization market is projected to grow from $3.50 billion in 2025 to $8.39 billion by 2034, a CAGR of 10.20%. North America held a 46% share in 2025, while Asia Pacific is expected to see the highest growth at 12% CAGR. Trends include expanding benefits administration and international employer-of-record services.",
+    "word_count": 2389,
+    "author": "Research Prepared Trendx Insights",
+    "countries": [
+     "USA",
+     "CAN",
+     "GBR",
+     "DEU",
+     "FRA",
+     "ITA",
+     "ESP",
+     "DNK",
+     "NLD",
+     "FIN",
+     "SWE",
+     "NOR",
+     "RUS",
+     "AUT",
+     "POL",
+     "CHN",
+     "JPN",
+     "IND",
+     "KOR",
+     "AUS",
+     "IDN",
+     "VNM",
+     "PHL",
+     "SGP",
+     "TWN",
+     "THA",
+     "BRA",
+     "MEX",
+     "ARG",
+     "ISR",
+     "ZAF"
+    ],
+    "industries": [
+     {
+      "name": "Professional Employer Organization (PEO) / Co-Employment Services",
+      "code": "BPACAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Benefits Administration & Total Rewards Outsourcing",
+      "code": "BPACAKAE",
+      "is_primary": false
+     },
+     {
+      "name": "Global Employer of Record (EOR) Services",
+      "code": "BPACAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007nye",
+      "name": "CoAdvantage",
+      "website": "http://www.coadvantage.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003k6",
+      "name": "G-P/Globalization Partners",
+      "website": "https://www.globalization-partners.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000m52",
+      "name": "G&A Partners",
+      "website": "https://www.gnapartners.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006nzv",
+      "name": "Insperity",
+      "website": "http://www.insperity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000s74o",
+      "name": "Employers",
+      "website": "http://www.employers.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56133",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "saurav sarkar"
+     ],
+     "location": [
+      "canada",
+      "europe",
+      "north america",
+      "the u.s.",
+      "netherlands",
+      "germany",
+      "finland",
+      "sweden",
+      "norway",
+      "france",
+      "japan",
+      "italy",
+      "russia",
+      "singapore",
+      "philippines",
+      "mexico",
+      "austria",
+      "india",
+      "indonesia",
+      "vietnam",
+      "denmark",
+      "spain",
+      "australia",
+      "taiwan",
+      "brazil",
+      "israel",
+      "poland",
+      "thailand",
+      "argentina",
+      "latin america",
+      "south africa",
+      "middle east and africa",
+      "asia pacific",
+      "south korea",
+      "china",
+      "the uk",
+      "south america",
+      "southeast asia"
+     ],
+     "product": [
+      "paychex",
+      "color sensors",
+      "renewable energy certificates",
+      "peo",
+      "professional home security",
+      "oasis (paychex)"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.97,
+    "group_id": 10565291
+   },
+   {
+    "id": 34153509,
+    "title": "Justworks PEO Review 2026: Pricing, Plans & Features",
+    "url": "https://www.google.com/goto?url=CAESYwHrOzAVitebLIekbVwo4IZ0RaVAXBfXXa8x7C-ax-gf8LTno7lmmd0XsU7UZp7_AueQmiFnjNUX8k4-hwuOnhmKBFdUfjLZiZFMvdNsyKUfgCPOQcNEoUsVVvW3D5-seaxL4g",
+    "publisher": "Google",
+    "published_date": "2026-08-05T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Justworks is a professional employer organization offering payroll, HR, and benefits services, with a transparent online pricing structure. The review highlights its intuitive platform, expert consulting, and international hiring support, including EOR services in 35 countries. It also notes limitations, such as restricted benefits in the Basic plan and a paid add-on for time tracking.",
+    "word_count": 2527,
+    "author": "Written",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Professional Employer Organization (PEO) / Co-Employment Services",
+      "code": "BPACAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Global Payroll & Multi-Country Payroll Management",
+      "code": "BPACAHAC",
+      "is_primary": false
+     },
+     {
+      "name": "International Benefits Administration & Global Benefits Brokerage",
+      "code": "BPACAHAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000276",
+      "name": "employment agency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56133",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7389",
+      "name": "SERVICES-BUSINESS SERVICES, NEC"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s.",
+      "35 countries",
+      "eu countries",
+      "60 countries",
+      "50 states"
+     ],
+     "product": [
+      "justworks",
+      "health advocacy services",
+      "peloton memberships",
+      "mineral",
+      "business travel insurance",
+      "peo plan",
+      "xero",
+      "quickbooks",
+      "peo",
+      "peo services"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.819,
+    "group_id": 10565387
+   },
+   {
+    "id": 34153594,
+    "title": "8 Best PEOs for Small Businesses in 2026: Pros, Cons, and Costs",
+    "url": "https://www.deel.com/blog/best-peo-small-business/",
+    "publisher": "Deel",
+    "published_date": "2026-07-29T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.58,
+    "ai_summary": "Eight PEO providers for small businesses in 2026 are compared, covering Deel, Justworks, ExtensisHR, TriNet, Sequoia One, Insperity, VensureHR, and CoAdvantage. Deel's PEO starts at $95 per employee per month, while Justworks' base plan is $50 plus $8 per employee. The article also lists pros and cons of PEOs and a checklist for evaluating providers.",
+    "word_count": 3788,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Professional Employer Organization (PEO) / Co-Employment Services",
+      "code": "BPACAHAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0008cd4",
+      "name": "ExtensisHR",
+      "website": "https://extensishr.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007nye",
+      "name": "CoAdvantage",
+      "website": "http://www.coadvantage.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bj5",
+      "name": "Vensure Employer Services",
+      "website": "https://www.vensure.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006nzv",
+      "name": "Insperity",
+      "website": "http://www.insperity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002y1d",
+      "name": "Sequoia",
+      "website": "http://www.sequoia.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001172",
+      "name": "small and medium enterprise"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56133",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us states",
+      "us",
+      "new york",
+      "silicon valley"
+     ],
+     "product": [
+      "peo",
+      "eor",
+      "peo plus",
+      "justworks",
+      "peo basic",
+      "sequoia one",
+      "deel's hris",
+      "trinet",
+      "hr360",
+      "hrcore",
+      "sequoia people platform",
+      "vensurehr",
+      "coadvantage peo"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8416,
+    "group_id": 10564764
+   },
+   {
+    "id": 33658433,
+    "title": "To Hype Justworks, Quality Meats Told Its Own Story\u2014More or Less",
+    "url": "https://musebyclios.com/musings/to-tell-justworks-story-quality-meats-just-told-its-own-story-more-or-less/",
+    "publisher": "Muse by Clios",
+    "published_date": "2026-07-07T20:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6663,
+    "ai_summary": "Quality Meats developed a surreal campaign for Justworks, an HR platform, blending real small-business fears with made-up scenarios. The production, shot in Bulgaria, featured a boba owner reliving 17 seconds across 50 spots and an architecture firm owner with rope contraptions. The campaign aimed to convey the freedom of trusting a new HR partner.",
+    "word_count": 652,
+    "author": "David Gianatasio",
+    "countries": [
+     "BGR"
+    ],
+    "industries": [
+     {
+      "name": "Creative & Brand Campaign Development",
+      "code": "BPAFAAAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000d4l7",
+      "name": "Quality Meats Creative",
+      "website": "https://qualitymeatscreative.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000209",
+      "name": "products and services"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "brian siedband",
+      "gordy sang",
+      "freddie powell",
+      "david gianatasio"
+     ],
+     "location": [
+      "bulgaria"
+     ],
+     "product": [
+      "boba restaurant",
+      "boba"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7104,
+    "group_id": 10191184
+   },
+   {
+    "id": 27218928,
+    "title": "Justworks turns founder burnout into surreal comedy in Quality Meats campaign - Ad Age",
+    "url": "https://adage.com/creativity/work/aa-justworks-you-dont-have-to-worry-when-it-justworks/",
+    "publisher": "AdAge",
+    "published_date": "2026-07-07T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6731,
+    "ai_summary": "HR platform Justworks has launched a new brand campaign created by indie agency Quality Meats, using exaggerated visual metaphors and surreal comedy to depict the pressures small business founders face when juggling responsibilities like payroll and hiring alongside their original vision. The campaign centers on scenarios such as founders cloning themselves, puppeteering employees, and struggling to manage every aspect of their operations. This represents a marketing initiative to position Justworks as a solution for overwhelmed small business owners.",
+    "word_count": 249,
+    "author": "Bytim Nudd",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Event Marketing Strategy & Campaign Management",
+      "code": "THAHAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000d4l7",
+      "name": "Quality Meats Creative",
+      "website": "https://qualitymeatscreative.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "feature",
+     "label": "Feature"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "648",
+      "name": "Genres"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54191",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541830",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tim nudd",
+      "ewan larkin",
+      "nick gallo",
+      "adrianne pasquarelli"
+     ],
+     "location": [
+      "los angeles"
+     ],
+     "product": [
+      "loop",
+      "twix",
+      "ollie",
+      "knicks"
+     ],
+     "event": [
+      "cannes lions"
+     ]
+    },
+    "newsworthiness_score": 0.8025,
+    "group_id": 2831282
+   },
+   {
+    "id": 33658451,
+    "title": "Justworks ads capture the emotional chaos of entrepreneurship \u2013 Creative Review",
+    "url": "https://www.creativereview.co.uk/justworks-campaign-film-quality-meats-freddie-powell/",
+    "publisher": "Creative Review",
+    "published_date": "2026-07-06T03:17:13",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Justworks launched a new campaign by Quality Meats and director Freddie Powell that uses surreal visuals to portray the emotional burden of running a small business. The campaign features a boba shop owner cloning herself and an architecture studio founder puppeteering employees, aiming to convey relief from operational tasks. Powell hopes audiences feel both irreverence and care.",
+    "word_count": 524,
+    "author": "Adam Woodward",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Commercial Production Companies (Live-Action)",
+      "code": "MPAAAMAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000d4l7",
+      "name": "Quality Meats Creative",
+      "website": "https://qualitymeatscreative.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "004arz4",
+      "name": "DROOL",
+      "website": "https://droolprods.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "08000000",
+      "name": "human interest"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "freddie powell",
+      "john merikoski",
+      "cassondra bazelow",
+      "madison jackson",
+      "jo finkel",
+      "tobias suhm",
+      "suzie lavelle",
+      "brian siedband",
+      "gordy sang",
+      "fatboy slim",
+      "brian",
+      "gordy"
+     ],
+     "location": [],
+     "product": [
+      "boba shop",
+      "bentley"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7331,
+    "group_id": 10191201
+   },
+   {
+    "id": 33658432,
+    "title": "Freddie Powell's new spot for Quality Meats just works",
+    "url": "https://shots.net/news/view/freddie-powells-new-spot-for-quality-meats-just-works",
+    "publisher": "shots",
+    "published_date": "2026-07-06T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Freddie Powell directed a Justworks campaign for Quality Meats, blending his handmade filmmaking with the brand's comedy. The video portrays small-business struggles, and Quality Meats co-founder Brian Siedband said Justworks helped them manage growth. Powell aimed to make the fantastical worlds feel real through craft.",
+    "word_count": 281,
+    "author": "Jamie Madge On July",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Branded Documentary & Purpose-Driven Content",
+      "code": "MPADAEAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Plant-Based Meat Manufacturers (End-to-End Brands)",
+      "code": "AFANAKAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000d4l7",
+      "name": "Quality Meats Creative",
+      "website": "https://qualitymeatscreative.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "268",
+      "name": "Hobbies & Interests"
+     },
+     {
+      "code": "348",
+      "name": "Entertainment"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "freddie powell",
+      "brian siedband"
+     ],
+     "location": [],
+     "product": [
+      "quality meats",
+      "qm"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7093,
+    "group_id": 10191183
+   },
+   {
+    "id": 34153074,
+    "title": "List of Professional Employer Organizations",
+    "url": "https://www.peometrics.com/list-of-professional-employer-organizations/",
+    "publisher": "Peometrics",
+    "published_date": "2026-06-26T13:32:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4852,
+    "ai_summary": "The article profiles ten professional employer organizations, including ADP, Insperity, and TriNet, detailing their target employers, pricing models, and contract risks. It notes the U.S. PEO market is $254.8 billion in 2026 and advises buyers to scrutinize auto-renewal and termination terms.",
+    "word_count": 4558,
+    "author": "Dustin Cucciarre",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Professional Employer Organization (PEO) / Co-Employment Services",
+      "code": "BPACAHAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     },
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0008cd4",
+      "name": "ExtensisHR",
+      "website": "https://extensishr.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007nye",
+      "name": "CoAdvantage",
+      "website": "http://www.coadvantage.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005bst",
+      "name": "Engage PEO",
+      "website": "http://www.engagepeo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000m52",
+      "name": "G&A Partners",
+      "website": "https://www.gnapartners.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006nzv",
+      "name": "Insperity",
+      "website": "http://www.insperity.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "123",
+      "name": "Careers"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56133",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     },
+     {
+      "code": "7389",
+      "name": "SERVICES-BUSINESS SERVICES, NEC"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "united states",
+      "u.s."
+     ],
+     "product": [
+      "insperity",
+      "paychex",
+      "peos",
+      "adp totalsource",
+      "oasis",
+      "trinet",
+      "justworks",
+      "coadvantage",
+      "rippling peo",
+      "extensishr",
+      "cobra",
+      "engage peo",
+      "peo",
+      "paychex peo",
+      "primepay",
+      "pepm"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8343,
+    "group_id": 10565452
+   },
+   {
+    "id": 34152774,
+    "title": "Professional Employer Organization (PEO) Market Size, Share",
+    "url": "https://www.sphericalinsights.com/press-release/professional-employer-organization-peo-market",
+    "publisher": "Spherical Insights",
+    "published_date": "2026-05-20T18:09:45",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9341,
+    "ai_summary": "The global PEO market is projected to grow from USD 73.58 billion in 2025 to USD 212.71 billion by 2035, a CAGR of 11.2%. Full-service PEOs and payroll services led in 2025, with North America holding the majority share and Asia Pacific expected to grow fastest.",
+    "word_count": 1268,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Professional Employer Organization (PEO) / Co-Employment Services",
+      "code": "BPACAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Full-Service Payroll Processing",
+      "code": "BPACAIAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005bst",
+      "name": "Engage PEO",
+      "website": "http://www.engagepeo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006lue",
+      "name": "FrankCrum",
+      "website": "https://www.frankcrum.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "005cxxr",
+      "name": "Spherical Insights LLP",
+      "website": "https://sphericalinsights.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000m52",
+      "name": "G&A Partners",
+      "website": "https://www.gnapartners.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000anb1",
+      "name": "XcelHR",
+      "website": "https://www.xcelhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006nzv",
+      "name": "Insperity",
+      "website": "http://www.insperity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56133",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "north america",
+      "europe",
+      "asia pacific",
+      "middle east",
+      "latin america",
+      "africa",
+      "canada",
+      "united states",
+      "asia-pacific",
+      "japan",
+      "germany",
+      "uk",
+      "india",
+      "france",
+      "italy",
+      "spain",
+      "uae",
+      "russia",
+      "qatar",
+      "mexico",
+      "australia",
+      "china",
+      "saudi arabia",
+      "brazil",
+      "argentina",
+      "south africa",
+      "south korea",
+      "south america",
+      "middle east & africa",
+      "the u.s."
+     ],
+     "product": [
+      "insurance services"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9511,
+    "group_id": 10564722
+   },
+   {
+    "id": 33658431,
+    "title": "Inside Justworks\u2019 Onboarding Program for New Employees",
+    "url": "https://builtin.com/articles/what-justworks-onboarding-experience",
+    "publisher": "Built In",
+    "published_date": "2026-05-13T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9714,
+    "ai_summary": "Justworks redesigned its onboarding experience to help new hires feel supported and ready to contribute quickly. The company combines human-centered onboarding with AI features like chatbots, benefits assistants, and learning tools, along with Slack-based guidance, guest speakers, and in-person events.",
+    "word_count": 56,
+    "author": "Olivia Mcclure",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Onboarding & Offboarding",
+      "code": "BPACAPAE",
+      "is_primary": true
+     },
+     {
+      "name": "Onboarding Program Design, Enablement & Train-the-Trainer",
+      "code": "EDABAOAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "123",
+      "name": "Careers"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "justine sullivan"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.6463,
+    "group_id": 10191182
+   }
+  ],
+  "credits_consumed": 0.41
+ },
+ "mode": "LIVE"
+}

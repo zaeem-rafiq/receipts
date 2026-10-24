@@ -1,0 +1,321 @@
+{
+ "fetched_at": "2026-10-24T11:46:45",
+ "params": {
+  "company": "relay.app",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "0003s9l",
+   "firmographic": {
+    "name": "Relay",
+    "legal_name": "Relay.app Inc.",
+    "website": "relay.app",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2021,
+    "company_description": "Relay.app is an AI-powered workflow automation platform that enables non-technical users to automate multi-step business processes across more than 200 SaaS applications and leading AI models. Founded in 2023 by Jacob Bank, a former Google product leader and founder of Timeful, the company targets small-to-mid-sized teams (5-100 people) across functions such as sales, marketing, operations, HR, and customer success, with use cases spanning lead qualification, deal pipeline reporting, employee onboarding, and invoicing. Customers cited on the company's site include GitBook, Notion, Skyflow, Missive, PostHog, Hatch, eToro, Kajabi, Kit, Tavus, and Metronome, and the company reports being used by thousands of businesses.\n\nThe platform is built around a chat-first building experience powered by Opus 4.8 that converts natural-language descriptions into executable workflows, alongside a visual editor with conditional paths, loops, merging paths, dynamic waiting, and portable rich text outputs. Core components include trigger-based Workflows, reusable Sequences, Tables for structured reference data, MCP (Model Context Protocol) servers that expose custom tools to ChatGPT, Claude, and ElevenLabs, Human-in-the-Loop steps for approvals and AI output review, and an AI Steps layer that integrates Anthropic, OpenAI, and Google Gemini models. Supporting utilities include web scraping, custom JavaScript execution in a Daytona sandbox, PDF utilities, and webhook/HTTP integrations.\n\nRelay.app operates on a freemium SaaS model with a free tier, paid subscriptions bundled with AI credits, and a quote-based enterprise tier that supports private model deployment via AWS Bedrock, Google Vertex, and Azure. Distribution is primarily product-led through self-serve sign-up, augmented by a Certified Partner program for agencies and consultants, an Affiliate program offering 30% first-year revenue share to content creators, an Educators program that delivers paid and free courses on the Maven platform, and CEO-led LinkedIn thought leadership. The company is venture-backed with $8.2M raised across two seed rounds in 2022 and 2023 led by Khosla Ventures and Andreessen Horowitz, with participation from Neo, BoxGroup, SV Angel, and DCVC.",
+    "company_description_short": "Relay.app is an AI-powered workflow automation platform that lets non-technical teams build multi-step automations across 200+ SaaS apps and leading AI models via a chat-first interface, serving SMB and mid-market customers in functions like sales, marketing, operations, and HR.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "1-10",
+    "logo_url": "https://files.akta.pro/logos/00/03/s9/0c841bc4-16bf-526e-8539-bde17a4ff628.png",
+    "akta_rank": 43043
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1m_5m",
+     "label": "$1M-$5M"
+    },
+    "valuation_estimate": {
+     "code": "50m_100m",
+     "label": "$50M-$100M"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Seed funding from Khosla Ventures, Andreessen Horowitz, Neo, BoxGroup, SV Angel, and angel investors",
+      "source": [
+       "https://www.relay.app/company"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$8.2M"
+     },
+     {
+      "description": "Deeply integrated with hundreds of apps including GitBook, Notion, Skyflow, Missive, PostHog, Hatch, eToro, Kajabi, Kit, Tavus, Metronome",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "200+"
+     },
+     {
+      "description": "Used by thousands of businesses to automate their operations",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "Thousands of businesses"
+     },
+     {
+      "description": "Based on verified user reviews on G2 and Product Hunt platforms",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "4.9 stars on G2, 5.0 stars on Product Hunt"
+     },
+     {
+      "description": "Successfully completed SOC 2 Type II examination covering security, availability, processing integrity, confidentiality, and privacy",
+      "source": [
+       "https://www.relay.app/security"
+      ],
+      "type": {
+       "code": "regulatory_milestones",
+       "label": "Regulatory Milestones"
+      },
+      "value": "SOC 2 Type II compliant"
+     }
+    ],
+    "partnership": [
+     {
+      "description": "AI model provider integrated with Relay.app. Powers AI steps including Claude model access. Listed as AI functionality subprocessor.",
+      "name": "Anthropic",
+      "source": [
+       "https://www.relay.app/company"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "description": "AI model provider integrated with Relay.app. Powers AI steps including GPT models.",
+      "name": "OpenAI",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "description": "AI model provider integrated with Relay.app. Powers AI steps including Gemini models.",
+      "name": "Google AI (Gemini)",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000evc2"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Relay.app is a Connected Apps partner enabling automatic skill validation on LinkedIn profiles. Usage data from Relay.app generates verifiable skill summaries replacing self-reported skills. Part of LinkedIn's Verified AI Skills program launched June 2026.",
+      "name": "LinkedIn",
+      "source": [
+       "https://www.webpronews.com/linkedins-connected-apps-let-workers-prove-real-tool-proficiency/"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00009fq"
+     },
+     {
+      "description": "Core infrastructure subprocessor. Cloud services provider for Relay.app's infrastructure.",
+      "name": "AWS (Amazon Web Services)",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000go1i"
+     },
+     {
+      "description": "Core infrastructure subprocessor for Relay.app.",
+      "name": "Cloudflare",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00006rs"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Became an initial partner in LinkedIn's Verified AI Skills program, enabling Relay.app usage data to generate verifiable AI skill summaries on LinkedIn profiles.",
+      "source": [
+       "https://www.webpronews.com/linkedins-connected-apps-let-workers-prove-real-tool-proficiency/"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "day": 11,
+       "month": 10,
+       "year": 2023
+      },
+      "description": "Closed a $3.1M seed extension led by Andreessen Horowitz (with DCVC), bringing total seed funding to $8.2M alongside Khosla Ventures, Neo, BoxGroup, and SV Angel.",
+      "source": [
+       "https://status.relay.app/en-us/history.atom"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "day": 11,
+       "month": 10,
+       "year": 2022
+      },
+      "description": "Closed initial $5M seed round led by Khosla Ventures, with participation from BoxGroup, Neo, and SV Angel, establishing top-tier venture backing.",
+      "source": [
+       "https://status.relay.app/en-us/history.atom"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Launched the Relay.app AI Automation Platform, introducing chat-first workflow building across 200+ apps and top AI models (Anthropic, OpenAI, Gemini).",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Introduced MCP (Model Context Protocol) server capabilities, allowing users to expose custom Relay-built tools to ChatGPT, Claude, and ElevenLabs.",
+      "source": [
+       "https://www.relay.app/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Achieved SOC 2 Type II compliance covering security, availability, processing integrity, confidentiality, and privacy, supporting enterprise sales motion.",
+      "source": [
+       "https://www.relay.app/security"
+      ],
+      "type": {
+       "code": "regulatory_action",
+       "label": "Regulatory Action"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "LinkedIn Connected Apps / Verified AI Skills partnership announced June 2026 creates a new distribution surface where Relay usage becomes a credentialing artifact on user profiles, embedding the product into professional identity workflows.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Enterprise tier with private model deployment via AWS Bedrock, Google Vertex, and Azure indicates a deliberate move upmarket beyond the SMB PLG core, supported by SOC 2 Type II compliance.",
+      "type": {
+       "code": "new_customer_segment",
+       "label": "New Customer Segment"
+      }
+     },
+     {
+      "description": "MCP server functionality positions Relay as a tool-building layer for the broader AI agent ecosystem (ChatGPT, Claude, ElevenLabs), expanding the addressable surface from internal automation to externally exposed AI tools.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Addition of Claude Cowork for real-time AI collaboration, PDF utilities, web scraping, and custom JavaScript sandbox (Daytona) broadens the platform beyond connector-based automation into content and document workflows.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Shift from a single freemium tier to a tiered structure with AI-credit bundles and an annual enterprise quote layer suggests packaging maturity and a path to higher-ACV contracts.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "Operating geographies explicitly span North America and Europe, and the company has appointed an EU GDPR Article 27 representative, signaling intent to serve and contract with EU customers.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

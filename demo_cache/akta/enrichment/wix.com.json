@@ -1,0 +1,477 @@
+{
+ "fetched_at": "2026-10-24T11:48:01",
+ "params": {
+  "company": "wix.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "0000eb4",
+   "firmographic": {
+    "name": "Wix",
+    "legal_name": "Wix.com Ltd.",
+    "website": "wix.com",
+    "company_type": {
+     "code": "public",
+     "label": "Public"
+    },
+    "ticker": "NASDAQ:WIX",
+    "founded_year": 2006,
+    "company_description": "Wix.com Ltd. is a Tel Aviv-based, NASDAQ-listed software company (founded 2006) that operates a cloud-based website building and commerce platform serving approximately 282 million registered users, with roughly 15,000 new sites created daily. Its core products include the Wix drag-and-drop editor, Wix Studio for agencies, vertical solutions (eCommerce, Bookings, Events, Restaurants, POS), Wix Payments for payment processing, and the Wix App Market for third-party extensions. Underlying infrastructure runs on multi-cloud architecture (AWS and Google Cloud) with a claimed 99.99% uptime, supporting a single shared platform that serves consumers, SMBs, freelancers, agencies, and increasingly enterprise customers through integrations with Microsoft 365 Copilot and OpenAI Codex Enterprise.\n\nThe company monetizes primarily through tiered subscription plans (Premium, Business, Business Elite), transaction fees on Wix Payments, bookings, and eCommerce, plus a marketplace of paid apps and templates \u2014 a distributed, usage-augmented SaaS model anchored by a freemium funnel. Recent product expansion includes Wix Harmony, Wix Headless with native MCP integration, and the Base44 vibe-coding platform (acquired 2025 for ~$80M), positioning AI-native app creation as a new growth vector.\n\nOperationally, Wix is in a cost-discipline phase: full-year 2025 revenue reached $1.99 billion (+13% YoY) and Q1 2026 revenue reached $541 million (+14% YoY), but operating expenses grew ~50% YoY in Q1 2026, producing a $57.5M net loss. In May 2026, management announced a ~20% workforce reduction, cut 2026 bookings guidance by ~$50M and revenue guidance by ~$25M, and completed a $1.72B Dutch auction tender offer alongside a $250M private placement from Durable Capital Partners \u2014 actions that improve capital efficiency but signal margin pressure and a reset in near-term growth expectations.",
+    "company_description_short": "Wix.com operates a cloud-based website building, commerce, and AI application platform serving 282 million registered users, monetizing through tiered subscriptions, transaction fees, and an App Market across SMBs, agencies, and enterprises.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "public",
+     "label": "Public"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/eb/09f709bc-54aa-5c79-9c50-639ac58eed51.png",
+    "akta_rank": 811
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "year": 2025
+      },
+      "business_focus": "AI-powered no-code application building platform",
+      "name": "Base44",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0000sma"
+     },
+     {
+      "acquired_on": {
+       "day": 15,
+       "month": 6,
+       "year": 2021
+      },
+      "business_focus": "Dropshipping platform and supplier marketplace for e-commerce",
+      "name": "Modalyst",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0005vw2"
+     },
+     {
+      "acquired_on": {
+       "day": 5,
+       "month": 5,
+       "year": 2021
+      },
+      "business_focus": "Gift card and customer re-engagement for e-commerce",
+      "name": "Rise.ai",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0002vbc"
+     },
+     {
+      "business_focus": "Payment processing services for Brazil",
+      "name": "Wix.com Brasil Servi\u00e7os de Internet Ltda.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "regional_market_entity",
+       "label": "Regional Market Entity"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Over 282 million Wix users globally. 15,000+ sites launched daily with Wix website builder.",
+      "source": [
+       "https://www.wix.com/"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "282 million+ registered users"
+     },
+     {
+      "description": "Wix reported 13% increase in annual revenue to $1.99 billion in 2025, with Q4 2025 revenue of $524.3 million up 13.9% YoY.",
+      "source": [
+       "https://finance.yahoo.com/news/wix-com-wix-soars-12-003923902.html"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$2 billion (2025 annual revenue)"
+     },
+     {
+      "description": "Market cap of approximately $2 billion as of May 2026. Company conducted $1.72 billion share buyback (Dutch auction) retiring ~30% of outstanding shares.",
+      "source": [
+       "https://timesofindia.indiatimes.com/technology/tech-news/as-2-billion-plus-software-company-wix-lays-off-1000-employees-ceo-avishai-abrahami-says-in-memo-i-am-confident-it-is-the-right-decision-and-/articleshow/131404769.cms"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$2 billion+"
+     },
+     {
+      "description": "Wix had approximately 5,300 employees before announcing layoffs of ~1,000 positions (20% workforce) in May 2026 due to AI evolution and currency pressures.",
+      "source": [
+       "https://www.hr-brew.com/stories/four-communication-donts-when-announcing-a-layoff"
+      ],
+      "type": {
+       "code": "headcount",
+       "label": "Headcount"
+      },
+      "value": "~5,300 employees (pre-layoffs)"
+     },
+     {
+      "description": "Wix University has partner universities integrating certification and tools into curricula across 17+ countries worldwide.",
+      "source": [
+       "https://www.wix.com/university"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "17+ countries"
+     },
+     {
+      "description": "Acquisition price for Base44, Wix's natural-language coding platform acquired in 2025, which reached $100 million in annual recurring revenue.",
+      "source": [
+       "https://www.fool.com/investing/2026/03/11/1-software-stock-to-buy-before-it-rebounds-wix/"
+      ],
+      "type": {
+       "code": "rd_output",
+       "label": "Rd Output"
+      },
+      "value": "$80 million"
+     },
+     {
+      "description": "Private placement led by Durable Capital Partners with proceeds for AI innovation and general corporate purposes.",
+      "source": [
+       "https://sg.finance.yahoo.com/news/why-wix-com-wix-down-153006926.html"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$250 million"
+     },
+     {
+      "description": "Q1 2026 revenue growth of 14% to $541 million, though company posted net loss of $57.5 million with operating expenses ballooning 50% to $423 million.",
+      "source": [
+       "https://timesofindia.indiatimes.com/technology/tech-news/wix-to-lay-off-1000-employees-in-biggest-job-cut-in-company-history-as-ai-pressure-mounts/articleshow/131323087.cms"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "14%"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 15,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Wix announced collaboration to integrate Wix Harmony website creation platform directly into Microsoft 365 Copilot. Users can generate production-ready websites via voice or text within Copilot interface, accessing Wix's full ecosystem including commerce, scheduling, payments, SEO, and analytics. Leverages OpenAI's Apps SDK. Partnership reduces context switching by enabling users to build websites without leaving their workflow.",
+      "name": "Microsoft",
+      "source": [
+       "https://www.stocktitan.net/news/WIX/wix-partners-with-microsoft-365-copilot-to-bring-website-creation-bzqvqnwd9ajr.html"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000026e"
+     },
+     {
+      "announced_on": {
+       "day": 11,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Wix named as provider in Stripe Projects, enabling developers to provision a complete Wix business backend directly from Stripe Projects CLI. Allows teams to provision commerce, bookings, CMS, CRM, events and memberships through a single flow. Wix served as co-design and launch partner in Stripe Projects developer preview, helping shape provisioning workflow, credential scoping, and account handling.",
+      "name": "Stripe",
+      "source": [
+       "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "announced_on": {
+       "day": 3,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Wix named as official partner in OpenAI Codex Enterprise launch for Sites feature. Enables Codex users to build and deploy fully operational online businesses through Wix Headless integration. Users can deploy live sites with custom domains, active payments, bookings systems, product catalogs, and CRM via single commands. Partnership leverages Model Context Protocol integration for compliance, safety, and regulatory handling including GDPR and PCI-DSS.",
+      "name": "OpenAI",
+      "source": [
+       "https://www.manilatimes.net/2026/06/03/tmt-newswire/globenewswire/wix-named-as-partner-in-openais-codex-enterprise-launch-for-sites/2357887"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "announced_on": {
+       "day": 25,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Wix is an early collaborator in Agentalt.ai platform launched by monday.com agent labs with AWS and Anthropic. The platform allows enterprises to hire AI agents for defined business roles. Wix and Mesh Payments are among early collaborators exploring agent roles across marketing, campaign execution, and operational workflows.",
+      "name": "Monday.com",
+      "source": [
+       "https://www.techradar.com/pro/ai-got-talent-in-a-weird-twist-someone-just-launched-a-marketplace-for-ai-agents-thats-not-far-off-a-human-powered-job-board"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000003l"
+     },
+     {
+      "description": "Google Workspace built into Wix business email offering. Users get custom domain email addresses with access to Gmail interface, Google Drive (up to 5TB storage), Google Calendar, Google Meet for video conferencing, and Gemini AI for writing emails, organizing data, and creating presentations. SPF, DKIM, and DMARC automatically configured.",
+      "name": "Google Workspace",
+      "source": [
+       "https://www.wix.com/domains/business-email"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "02m65do"
+     },
+     {
+      "announced_on": {
+       "day": 9,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "TikTok launched updated integration with Wix enabling users to link website data directly into TikTok's business platform. Users can add TikTok Pixel and Events API to websites. Ad partners reported 19% increase in incremental events and 15% improvement in cost per acquisition. Integration unlocks advanced commerce capabilities including product catalog sync for Video Shopping Ads.",
+      "name": "TikTok",
+      "source": [
+       "https://www.socialmediatoday.com/news/tiktok-launches-updated-integration-for-wix-users/817028/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000sn1"
+     },
+     {
+      "announced_on": {
+       "day": 4,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Willow (formerly Webrix), an AI agent governance platform, emerged from stealth with $7 million seed funding led by Hetz Ventures. Early angel investment from Wix Co-Founder and CEO Avishai Abrahami and President Nir Zohar. Willow's platform deployed across more than 5,000 employees at Wix as an enterprise design partner. Founded by former Wix engineers, addressing enterprise governance controls for AI agents.",
+      "name": "Willow",
+      "source": [
+       "https://www.prnewswire.com/news-releases/willow-raises-7m-seed-to-ensure-enterprises-can-fully-oversee-and-govern-autonomous-agents-302791492.html"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "003rcbb"
+     },
+     {
+      "announced_on": {
+       "day": 15,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Artemis, a cybersecurity startup founded six months ago, emerged from stealth with $70 million Series A funding. Company has clients including Mercury, Wix, Lemonade, and Abnormal AI, providing next-generation security tools to detect and respond to AI-powered attacks at machine speed.",
+      "name": "Artemis",
+      "source": [
+       "https://fortune.com/2026/04/15/exclusive-artemis-raises-70m-to-help-fight-ai-powered-attacks-with-ai/"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "others",
+       "label": "Others"
+      },
+      "uuid": "0005kxs"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Announced a ~20% workforce reduction (approximately 1,000 employees) in May 2026 to reduce operating expenses, alongside a cut to 2026 financial outlook by roughly $50 million in bookings and $25 million in revenue.",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Completed a $1.72 billion Dutch auction tender offer in April 2026, retiring approximately 30% of outstanding shares as a major capital return.",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Raised a $250 million private placement from Durable Capital Partners in April 2026, strengthening the balance sheet ahead of the buyback.",
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "year": 2025
+      },
+      "description": "Acquired Base44 in 2025 for approximately $80 million to add AI-native application and \"vibe coding\" capabilities to the Wix platform.",
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched a Microsoft 365 Copilot integration in June 2026, allowing users to build and manage Wix sites directly from within Microsoft's productivity suite.",
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Integrated with OpenAI's Codex Enterprise in June 2026, positioning Wix as a distribution channel for vibe-coded AI applications inside large enterprises.",
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "Wix announced it is cutting approximately 1,000 employees (about 20% of its workforce) as part of a restructuring plan, with CEO Avishai Abrahami citing the strengthening Israeli shekel against the US dollar creating structural cost pressures and the rapid evolution of AI requiring the company to become a faster, leaner, and flatter organization.",
+      "source": [
+       "https://timesofindia.indiatimes.com/technology/tech-news/as-2-billion-plus-software-company-wix-lays-off-1000-employees-ceo-avishai-abrahami-says-in-memo-i-am-confident-it-is-the-right-decision-and-/articleshow/131404769.cms"
+      ],
+      "title": "Wix 20% Workforce Reduction",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "description": "Israeli website-building platform Wix cut its 2026 outlook less than two weeks after announcing layoffs affecting about 20% of its workforce, with the company now expecting about $50 million less in bookings and $25 million less in revenue than previously forecast.",
+      "source": [
+       "https://www.ynetnews.com/business/article/syezzdnbfl"
+      ],
+      "title": "Wix Restructuring and Outlook Cut",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Base44 acquisition (2025, ~$80M) and the Wix Harmony AI suite extend Wix beyond websites into AI-native application and \"vibe coding,\" opening a new TAM adjacent to its core SMB base.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "June 2026 partnerships with Microsoft 365 Copilot and OpenAI Codex Enterprise embed Wix site creation and AI app deployment inside third-party productivity and developer platforms, materially expanding distribution beyond wix.com.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Wix Headless with native MCP integration and ongoing App Market expansion position Wix as an integration hub for third-party developers and AI agents, deepening platform lock-in.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Base44 (2025) and Hour One (2025) acquisitions signal a continuing bolt-on M&A posture focused on AI and content generation capabilities, funded by a strengthened balance sheet post-Durable Capital placement.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "Wix Studio targets agencies and freelancers while Wix Restaurants, Bookings, Events, and POS extend into vertical SaaS, each a separate addressable vertical with its own pricing power.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

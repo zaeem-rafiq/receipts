@@ -1,0 +1,444 @@
+{
+ "fetched_at": "2026-10-24T11:46:11",
+ "params": {
+  "company": "retool.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000ke",
+   "firmographic": {
+    "name": "Retool",
+    "legal_name": "Retool",
+    "website": "retool.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2017,
+    "company_description": "Retool is a San Francisco-based software development company founded in 2017 that operates a unified enterprise platform for building, launching, governing, and scaling internal applications. Its product surface is organized around four stages \u2014 Build, Launch, Scale, and Govern \u2014 anchored by an AI-native App Builder (AppGen) that generates full-stack React/TypeScript production-ready applications from natural-language prompts and accepts multimodal inputs (screenshots, PDFs, design files, spreadsheets). Adjacent capabilities include Retool Agents (autonomous LLM-driven workers billed hourly), Retool Workflows (event/schedule-triggered automations), Retool Database (PostgreSQL-compatible), Retool Mobile, Retool External Apps, an MCP server for AI coding agents (Claude Code, Cursor, Codex, ChatGPT, Kiro), and an app import pipeline that brings React apps built in Lovable, Replit, or v0 into Retool's governed runtime.\n\nThe platform's core technology includes a centralized governance runtime that enforces SSO, RBAC, audit logging, versioning, and environment promotion across all apps regardless of build source, plus native integrations to 100+ data sources (PostgreSQL, MongoDB, BigQuery, Snowflake, Databricks, Salesforce, Stripe, REST/GraphQL APIs). The platform runs as Retool Cloud (SOC 2 Type II and ISO 27001 certified) or self-hosted via Docker in customer VPCs. Customer-facing brands include sub-brand AppGen and a network of 13+ certified service partners (Artefact, BitHippie, Lingaro, GxP, etc.).\n\nRetool monetizes through a hybrid model: a freemium tier (up to 5 users, 500 workflow runs, 250 AI credits/month), per-seat subscriptions on Team ($10/builder, $5/internal user) and Business ($50/builder, $15/internal user) plans, usage-based external-user pricing, AI credit consumption, hourly Agents billing, workflow run overages ($75 per 5,000 runs), and custom-priced Enterprise contracts with multi-year terms. The go-to-market combines product-led growth via self-serve signup, enterprise field sales targeting Fortune 500 accounts (Amazon, Boeing, Pfizer, Nvidia, Stripe, OpenAI, Disney, Airbnb, Mercedes-Benz), channel partnerships with consultancies, and distribution through AWS Marketplace via a December 2025 Strategic Collaboration Agreement. Retool serves 10,000+ teams and 28 institutional and angel investors (led by Sequoia Capital) have committed approximately $165M across six funding rounds, most recently a $45M Series C2 in July 2022 at a $3.2B valuation.",
+    "company_description_short": "Retool is a San Francisco-based enterprise platform that enables companies to build, launch, and govern AI-generated internal applications with integrated security, data connectivity, and workflow automation. It serves 10,000+ teams from startups to Fortune 500 customers including Amazon, Boeing, Pfizer, and Nvidia.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "251-500",
+    "logo_url": "https://files.akta.pro/logos/00/00/0k/9edb25d5-78a6-5ee0-8a9e-401fe7c7af60.png",
+    "akta_rank": 14135
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "100m_250m",
+     "label": "$100M-$250M"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Unicorn valuation of $3.2 billion achieved in July 2022 Series C2 funding round led by Sequoia Capital.",
+      "source": [
+       "https://tracxn.com/d/companies/retool/__3Qw2mDrisfHcLzB8sG6xEXwD7lueXw7kuVlus34H2KY/funding-and-investors"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$3.2 billion"
+     },
+     {
+      "description": "Total funding raised across six funding rounds as of March 2026; largest round was Series B in October 2020 for $50 million.",
+      "source": [
+       "https://tracxn.com/d/companies/retool/__3Qw2mDrisfHcLzB8sG6xEXwD7lueXw7kuVlus34H2KY/funding-and-investors"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$165 million"
+     },
+     {
+      "description": "Trusted by 10,000+ teams to generate production-ready AI applications across Fortune 500 and startups.",
+      "source": [
+       "https://retool.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "10,000+ teams"
+     },
+     {
+      "description": "Powers over a quarter million applications for various businesses including startups and global enterprises (as of December 2021).",
+      "source": [
+       "https://www.finsmes.com/2021/12/retool-raises-20m-in-series-c-funding-at-1-85-billion-valuation.html"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "250,000+ applications"
+     },
+     {
+      "description": "Retool automates over 100 million hours of work (announced May 2025 alongside Retool Agents launch).",
+      "source": [
+       "https://www.businesswire.com/news/home/20250528644298/en/Retool-Automates-Over-100-Million-Hours-of-Work-Announces-Agents-to-Drive-More-Return-on-AI"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "100M+ hours automated"
+     },
+     {
+      "description": "Holds AICPA SOC 2 and ISO 27001 certifications on Retool Cloud with SAML/SSO support.",
+      "source": [
+       "https://retool.com/"
+      ],
+      "type": {
+       "code": "regulatory_milestones",
+       "label": "Regulatory Milestones"
+      },
+      "value": "SOC 2 + ISO 27001 certified"
+     },
+     {
+      "description": "2026 Build vs. Buy Shift Report surveyed 817 builders; 35% of teams have already replaced at least one SaaS tool with a custom build and 78% plan to build more in 2026.",
+      "source": [
+       "https://venturebeat.com/infrastructure/ai-lowered-the-cost-of-building-software-enterprise-governance-hasnt-caught"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "817 survey respondents"
+     },
+     {
+      "description": "Customer outcome: Ramp saved $8M and 20,000+ engineering hours using Retool.",
+      "source": [
+       "https://retool.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "$8M saved (Ramp)"
+     },
+     {
+      "description": "Customer outcome: DoorDash saved $6M and 36,000+ hours; built 200+ apps organization-wide.",
+      "source": [
+       "https://retool.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "$6M saved (DoorDash)"
+     },
+     {
+      "description": "Customer outcome: Zeus generated $3M+ profit and achieved 80% faster development with Retool.",
+      "source": [
+       "https://retool.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "$3M+ profit (Zeus)"
+     },
+     {
+      "description": "Customer outcome: Orangetheory achieved 10x reduction in dev time across 1,600 studios.",
+      "source": [
+       "https://retool.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "10x faster development (Orangetheory)"
+     },
+     {
+      "description": "Survey of 307 CTOs, CISOs, and CIOs found 93% are concerned about vibe-coded tools running in production, validating Retool's governance positioning.",
+      "source": [
+       "https://aithority.com/security/retool-unveils-first-platform-to-extend-enterprise-governance-to-all-ai-coded-apps/"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "93% CTO/CISO/CIO concern"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Retool signed a multi-year Strategic Collaboration Agreement (SCA) with AWS to drive enterprise AppGen innovation at scale. As part of the partnership, Retool achieved the AWS Consumer Goods Competency, and is leveraging AWS infrastructure to accelerate enterprise app generation at scale. The collaboration is referenced alongside a Snowflake partnership for enterprise data connectivity.",
+      "name": "AWS (Amazon Web Services)",
+      "source": [
+       "https://www.businesswire.com/news/home/20251201427290/en/Retool-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-Enterprise-AppGen-Innovation-at-Scale"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000go1i"
+     },
+     {
+      "announced_on": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Retool disclosed a partnership with Snowflake (alongside the AWS SCA) to accelerate enterprise app generation at scale. Snowflake is also a notable Retool customer, and native Snowflake integration is highlighted as a connector within Retool's integration ecosystem.",
+      "name": "Snowflake",
+      "source": [
+       "https://www.businesswire.com/news/home/20260617017651/en/As-Vibe-Coding-Tops-C-suites-List-of-Concerns-Retool-Unveils-First-Platform-to-Extend-Enterprise-Governance-to-All-AI-Coded-Apps"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00004bs"
+     },
+     {
+      "announced_on": {
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Nokod Security announced an integration with Retool to provide security teams with automated inventory, risk prioritization, data flow visibility, and plain-language remediation guidance for Retool environments where internal applications connect directly to databases, SaaS systems, and APIs. The integration addresses unmanaged security risks in citizen-developed applications.",
+      "name": "Nokod Security",
+      "source": [
+       "https://finance.yahoo.com/news/nokod-security-sets-standard-citizen-140200194.html"
+      ],
+      "strategic_tier": "Moderate",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000kaw"
+     },
+     {
+      "announced_on": {
+       "month": 2,
+       "year": 2026
+      },
+      "description": "Retool announced a February 2026 integration with Kanopy Security to extend detection rules and remediation across Retool workspaces, enhancing AI App Governance capabilities for enterprise customers using the AppGen platform.",
+      "name": "Kanopy Security",
+      "source": [
+       "https://www.aicerts.ai/news/retool-expands-ai-app-governance-for-enterprise-ready-vibe-coding/"
+      ],
+      "strategic_tier": "Moderate",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0005o1e"
+     },
+     {
+      "announced_on": {
+       "month": 6,
+       "year": 2025
+      },
+      "description": "Retool was awarded the 2025 Databricks Emerging Partner of the Year, and Databricks also named Retool as a launch partner for Databricks Lakebase GA. The partnership supports customers building real-time applications and deploying agentic AI workflows using Lakebase.",
+      "name": "Databricks",
+      "source": [
+       "https://www.businesswire.com/news/home/20250610123435/en/Retool-Awarded-2025-Databricks-Emerging-Partner-of-the-Year"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000004a"
+     },
+     {
+      "description": "Retool partnered with leading consultancies, system integrators, and agencies (Artefact, BitHippie, BoldTech, GxP, Lingaro, Nymbl, Sabai System, SingleWave, Sixth Generation, StackDrop, Stradia Partners, TechRebels, Paramint) who had early access to the new app builder and completed hands-on enablement to help customers ship with confidence.",
+      "name": "Retool-Enabled Service Partners (Artefact, BitHippie, BoldTech, GxP, Lingaro, Nymbl, Sabai System, SingleWave, Sixth Generation, StackDrop, Stradia Partners, TechRebels, Paramint)",
+      "source": [
+       "https://retool.com/blog/retool-launches-react-ai-app-builder"
+      ],
+      "strategic_tier": "Moderate",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "00000ke"
+     },
+     {
+      "announced_on": {
+       "month": 2,
+       "year": 2026
+      },
+      "description": "Retool was named among dozens of launch partners who validated Databricks Lakebase during development \u2014 a production-ready operational database that unifies transactional, analytical, and AI workloads on the Databricks Data Intelligence Platform. Launch partners include global consulting firms, SIs, and specialist data/AI companies.",
+      "name": "Databricks Lakebase Launch Partners (ecosystem)",
+      "source": [
+       "https://www.databricks.com/blog/announcing-databricks-lakebase-launch-partners"
+      ],
+      "strategic_tier": "Moderate",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "000004a"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Signed a multi-year Strategic Collaboration Agreement with AWS to drive enterprise AppGen innovation at scale, including co-selling and AWS Consumer Goods Competency achievement.",
+      "source": [
+       "https://www.businesswire.com/news/home/20251201427290/en/Retool-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Drive-Enterprise-AppGen-Innovation-at-Scale"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched the new full-stack React AI App Builder, a complete rebuild on a React/TypeScript architecture with prompt-first generation, Code tab, Data tab visual data graph, and a unified governed runtime.",
+      "source": [
+       "https://retool.com/blog/retool-launches-react-ai-app-builder"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched AI App Governance, the first platform to extend enterprise governance (security, compliance, audit trails) to applications built with any AI coding tool (Lovable, Replit, Cursor, Kiro, Claude Code).",
+      "source": [
+       "https://aithority.com/security/retool-unveils-first-platform-to-extend-enterprise-governance-to-all-ai-coded-apps/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 5,
+       "year": 2025
+      },
+      "description": "Launched Retool Agents, AI-powered autonomous workers with RBAC, observability, evaluations, and hourly billing by model capability, targeting support, data analysis, sales, security, and research workflows.",
+      "source": [
+       "https://www.businesswire.com/news/home/20250528644298/en/Retool-Automates-Over-100-Million-Hours-of-Work-Announces-Agents-to-Drive-More-Return-on-AI"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Announced a Snowflake partnership to accelerate enterprise app generation at scale, complementing the existing AWS collaboration and native Snowflake integration.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260617017651/en/As-Vibe-Coding-Tops-C-suites-List-of-Concerns-Retool-Unveils-First-Platform-to-Extend-Enterprise-Governance-to-All-AI-Coded-Apps"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "month": 7,
+       "year": 2022
+      },
+      "description": "Closed a $45M Series C2 led by Sequoia Capital at a $3.2B unicorn valuation, with funds earmarked for international expansion, product development, hiring, and the launch of a free plan.",
+      "source": [
+       "https://tracxn.com/d/companies/retool/__3Qw2mDrisfHcLzB8sG6xEXwD7lueXw7kuVlus34H2KY/funding-and-investors"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Multi-year Strategic Collaboration Agreement with AWS signed December 2025 to drive enterprise AppGen innovation, including co-selling and the AWS Consumer Goods Competency achieved June 2026. Signals intent to scale within AWS's enterprise install base and consumer goods vertical.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Snowflake partnership disclosed June 2026 and Databricks Emerging Partner of the Year (2025) with Lakebase launch partner status position Retool as the de facto app-generation layer for the two leading data platforms, expanding into data-team and AI-workload segments.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Retool Agents launched May 2025 with hourly pricing by model capability and observability/eval/tuning controls, expanding the platform from app building into autonomous AI worker automation. Targets new use cases: support ticket triage, sales follow-up, security alert handling.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "June 2026 launch of AI App Governance extends Retool's enterprise governance to apps built with external AI tools (Lovable, Replit, Cursor, Kiro, Claude Code), repositioning Retool from an app builder to a cross-tool governance layer for the emerging vibe-coded enterprise app landscape.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Retool for External Apps reached GA in June 2024 with external-user pricing tiers ($4-$8/month), expanding the addressable market from internal tooling to customer/partner portals.",
+      "type": {
+       "code": "new_customer_segment",
+       "label": "New Customer Segment"
+      }
+     },
+     {
+      "description": "Free plan for startups and small teams (up to 5 users, 500 workflow runs/month, 250 AI credits/month) launched in 2025, plus Retool University, hire-a-developer marketplace, and 13+ certified service partners indicate deliberate developer and SMB funnel expansion.",
+      "type": {
+       "code": "new_customer_segment",
+       "label": "New Customer Segment"
+      }
+     },
+     {
+      "description": "AI credit consumption model (pooled monthly credits at the account level, 250/month on Free, 1,000/month on Team, 3,000/month on Business, 10,000/month on Enterprise) plus hourly Agents billing and workflow run overages introduce new usage-based revenue layers beyond per-seat subscriptions.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "Databricks and Snowflake data-platform partnerships, plus dedicated Financial Services and Manufacturing vertical segmentation, signal expansion into regulated-industry verticals. SOC 2 and ISO 27001 certifications back the compliance posture required for these segments.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

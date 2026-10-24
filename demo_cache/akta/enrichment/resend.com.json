@@ -1,0 +1,260 @@
+{
+ "fetched_at": "2026-10-24T11:46:32",
+ "params": {
+  "company": "resend.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "0000bj6",
+   "firmographic": {
+    "name": "Resend",
+    "legal_name": "Plus Five Five, Inc.",
+    "website": "resend.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2023,
+    "company_description": "Resend is a developer-focused email API platform founded in 2023 in San Francisco that provides transactional and marketing email infrastructure through a REST API and nine official SDKs (Node.js, Python, Ruby, PHP, Laravel, Go, Rust, Java, .NET), an SMTP service, and a Model Context Protocol (MCP) Server enabling AI agent integration. The platform's core architecture includes multi-region sending from North America, Europe (Ireland), and South America (Brazil) to reduce delivery latency, fully managed dedicated IPs with automatic warm-up, modular webhooks for email lifecycle events, batch sending (up to 100 emails per request) with idempotency keys, scheduled sends up to 72 hours, and an inbound email processing layer. Resend's differentiator centers on developer experience: React Email is an open-source React component library that replaces legacy table-based HTML email templates, and the company publishes migration guides, knowledge-base content, and SDKs that position documentation as part of the product.\n\nThe revenue model is a hybrid of usage-based per-email pricing with monthly volume tiers (3,000 emails free, 50,000 at $20/mo, 100,000 at $35/mo, 1,000,000 at $650/mo), a $30/month dedicated IP add-on, subscription tiers (Free, Pro, Scale), and custom annual enterprise contracts with dedicated Slack channels and deliverability consulting. Pricing sits materially below legacy incumbents \u2014 at 100,000 emails/month Resend charges $35 versus Postmark's $115. Go-to-market combines self-serve product-led growth (no credit card required for free tier), developer community and content marketing (React Email open source, Resend Forward conference, Insiders ambassador program, hackathons), and an enterprise overlay with founding account executives targeting high-volume senders. Named customers span high-growth developer-tool startups (Vercel, Replit, Gumroad, Outerbase, Infisical) and large enterprises (eBay, Warner Bros, MrBeast/Beast Industries, A24, Valentino, Max, Tailwind CSS). Resend has raised $21 million across a $3M seed round (July 2023, Y Combinator and SV Angel) and an $18M Series A (December 2024, led by Andreessen Horowitz), and acquired Mergent (infrastructure management) in April 2025 and Briefer (data notebooks) in August 2025, indicating a strategic push beyond pure email into broader developer infrastructure.",
+    "company_description_short": "Resend is a developer-focused email API platform founded in 2023 that provides transactional and marketing email infrastructure via REST API and nine SDKs, serving software engineers, high-growth startups, and enterprises with React Email templates, multi-region sending, and managed dedicated IPs.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "11-50",
+    "logo_url": "https://files.akta.pro/logos/00/00/bj/29193d4d-fcf7-56ab-9099-11a65e13dbcd.png",
+    "akta_rank": 71298
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "10m_25m",
+     "label": "$10M-$25M"
+    },
+    "valuation_estimate": {
+     "code": "100m_250m",
+     "label": "$100M-$250M"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Seed round in July 2023 from Y Combinator and SV Angel",
+      "source": [
+       "https://resend.com/blog/resend-raises-3m-seed-round"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$3 million"
+     },
+     {
+      "description": "Series A announced December 4, 2024. Led by a16z/Redpoint with participation from existing investors.",
+      "source": [
+       "https://resend.com/philosophy"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$18 million"
+     },
+     {
+      "description": "Reached 3 million users milestone announced June 3, 2026. Previously reached 1 million users in December 2025.",
+      "source": [
+       "https://resend.com/humans/zeno-rocha"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "3 million+"
+     },
+     {
+      "description": "Developer adoption within first 6 months since January 2023 launch",
+      "source": [
+       "https://resend.com/blog/resend-raises-3m-seed-round"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "10,000+ developers"
+     },
+     {
+      "description": "Emails sent within first 6 months of operation",
+      "source": [
+       "https://resend.com/blog/resend-raises-3m-seed-round"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "7 million+ emails sent"
+     },
+     {
+      "description": "Gumroad migrated 100 million emails to Resend during holiday season crisis",
+      "source": [
+       "https://resend.com/blog/how-gumroad-migrated-100m-emails-to-resend"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "100 million emails migrated"
+     },
+     {
+      "description": "AI agents choose Resend 63% of the time over larger competitors for transactional email selection",
+      "source": [
+       "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/agent-led-growth-the-new-b2b-frontier"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "63%"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 4,
+       "month": 12,
+       "year": 2024
+      },
+      "description": "Closed $18 million Series A led by Andreessen Horowitz (a16z), bringing total disclosed funding to $21M and providing growth capital for product expansion and enterprise GTM.",
+      "source": [
+       "https://a16z.com/announcement/investing-in-resend/"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "day": 5,
+       "month": 8,
+       "year": 2025
+      },
+      "description": "Acquired Briefer, a data notebook platform, expanding Resend's portfolio beyond email into interactive data exploration and visualization.",
+      "source": [
+       "https://resend.com/humans/zeno-rocha"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 23,
+       "month": 4,
+       "year": 2025
+      },
+      "description": "Acquired Mergent, an infrastructure management platform, broadening capabilities into infrastructure monitoring and management.",
+      "source": [
+       "https://resend.com/humans/zeno-rocha"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Launched the Enterprise plan with dedicated Slack channels, critical-severity ticket support, domain expert access, and custom migration services, formalizing an upmarket GTM motion.",
+      "source": [
+       "https://resend.com/enterprise"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2025
+      },
+      "description": "Released an MCP Server as open-source, enabling AI agents in Cursor, Claude Desktop, and other MCP clients to send emails programmatically and capturing agent-mediated distribution.",
+      "source": [
+       "https://resend.com/open-source"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 18,
+       "month": 7,
+       "year": 2023
+      },
+      "description": "Closed a $3 million seed round led by Y Combinator with participation from SV Angel and basecase capital, funding initial product development and YC Winter 2023 batch participation.",
+      "source": [
+       "https://resend.com/blog/resend-raises-3m-seed-round"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Two completed acquisitions in 2025 \u2014 Mergent (April 23, 2025, infrastructure management) and Briefer (August 5, 2025, data notebooks) \u2014 signal a deliberate platform expansion beyond pure email into adjacent developer infrastructure. The pace and sequencing suggest an active inorganic growth strategy post Series A.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "Inbound Emails (November 2025), Automations (2026), MCP Server (2025), Resend CLI / CLI 2.0 (2026), Schedule Email API (August 2024), Deliverability Insights (August 2024), Scale plan (October 2024), and Enterprise plan (2024) collectively broaden the platform from a send-only API into a full email communications suite (receive, automate, broadcast, schedule, analyze).",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Launch of an explicit Enterprise plan (2024) with dedicated Slack channels, critical ticket severity, and domain expert access indicates upmarket movement. Hiring of two Founding Account Executives (Aneil Singh, Trey Knowles), a GTM Engineer (Sophia Faria), and a Recruiter (Areia Spinner) confirms field-sales buildout targeting Fortune-class logos.",
+      "type": {
+       "code": "new_customer_segment",
+       "label": "New Customer Segment"
+      }
+     },
+     {
+      "description": "Multi-region sending infrastructure currently spans North America (Virginia), Europe (Ireland), and South America (Brazil); the company website also references Asian region support. Operating geographies formally listed as North America, Europe, South America, and Asia. Geographic expansion is co-evolving with multi-region latency/durability positioning.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Beyond Founding AEs and GTM Engineer, the team expanded across customer success engineering (Anna Ward, Brian Kerr, Pauline Chin, Jp Valery, Slater Smith, Evan Thibodeau), developer experience (Chris Pennington, Christina Martinez, Haison Ohara), software engineering (Felipe Volpone, ex-Red Hat / iFood staff engineer), and product design (Zeh Fernandes). A dedicated Recruiter hire signals headcount scaling beyond founder-led hiring.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "MCP Server for AI agents, Agent Skills documentation, Agent Onboarding guides, and integration partnerships (Novu, Knock, Trigger.dev, Pipedream, Supabase, Auth0, n8n, Zapier, Paper, Playwright) indicate deliberate ecosystem and channel-partner expansion to make Resend the default email layer across adjacent platforms.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

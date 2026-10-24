@@ -1,0 +1,443 @@
+{
+ "fetched_at": "2026-10-24T11:47:13",
+ "params": {
+  "company": "miro.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000se",
+   "firmographic": {
+    "name": "Miro",
+    "legal_name": "RealtimeBoard, Inc.",
+    "website": "miro.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2011,
+    "company_description": "Miro is a visual collaboration platform that operates as an AI Innovation Workspace, built on an \"Intelligent Canvas\" \u2014 an infinite, multiplayer, cloud-based surface that is both AI-readable and AI-writable. Founded in 2011 as RealtimeBoard by Andrey Khusid and Oleg Shardin, the company rebranded to Miro and has scaled to 100M+ users, 250,000+ paying companies, and 99% of the Fortune 100. The platform combines real-time collaborative editing with a proprietary AI layer (Sidekicks agentic assistants with Voice, multi-step Flows, AI Connectors to Slack, Atlassian, GitHub, Notion, Granola, Amplitude, Microsoft 365 Copilot, Google Gemini, ChatGPT, Claude, and Amazon Q) and a Model Context Protocol (MCP) server co-developed with Anthropic, AWS, GitHub, Google, and Windsurf to integrate Miro boards with AI coding tools such as Claude Code, GitHub Copilot, Cursor, and Devin. Product surface spans docs, tables, slides, diagrams, kanban, blueprints, prototypes, and a series of AI Playbooks (Research Synthesis, Innovation Sprints, Rapid Prototyping, Design System Governance, Service Blueprints, Marketing Campaign Creation). Miro is headquartered in San Francisco with regional hubs in Amsterdam and Singapore, and has completed three acquisitions \u2014 Around (October 2022), Cardinal and Uizard (May 2024), and Reforge (March 2026).",
+    "company_description_short": "Miro is an AI Innovation Workspace providing a multiplayer visual collaboration canvas for product, engineering, and design teams. It serves 100M+ users across 250,000+ companies, including 99% of the Fortune 100, via subscription SaaS plans with agentic AI, workflow automation, and deep enterprise software integrations.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/0s/9c516eca-d1b2-5ccc-b27d-7e3315a47e0c.png",
+    "akta_rank": 1806
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "500m_1b",
+     "label": "$500M-$1B"
+    },
+    "valuation_estimate": {
+     "code": "5b_10b",
+     "label": "$5B-$10B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "day": 24,
+       "month": 3,
+       "year": 2026
+      },
+      "business_focus": "AI platform for product teams focused on growth and strategy education, AI-powered product development tools, and learning programs.",
+      "name": "Reforge",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      }
+     },
+     {
+      "acquired_on": {
+       "day": 28,
+       "month": 5,
+       "year": 2024
+      },
+      "business_focus": "Acquired by Miro in 2024 (specific business focus not detailed in source).",
+      "name": "Cardinal",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      }
+     },
+     {
+      "acquired_on": {
+       "day": 17,
+       "month": 10,
+       "year": 2022
+      },
+      "business_focus": "Visual collaboration integration; Around's video collaboration capabilities integrated into Miro's collaborative workflows.",
+      "name": "Around",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      }
+     },
+     {
+      "business_focus": "EU representative for data protection purposes.",
+      "name": "RealtimeBoard BV",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "regional_market_entity",
+       "label": "Regional Market Entity"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Miro CEO Andrey Khusid stated the company has hired around 40 entrepreneurs out of 1,600 employees over the past two and a half years, including via acquisitions.",
+      "source": [
+       "https://www.businessinsider.com/miro-ceo-is-hiring-entrepreneurs-for-ai-era-2026-3"
+      ],
+      "type": {
+       "code": "headcount",
+       "label": "Headcount"
+      },
+      "value": "1,600 employees"
+     },
+     {
+      "description": "Miro's homepage states that 100M+ people are collaborating on Miro.",
+      "source": [
+       "https://miro.com/"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "100M+ users"
+     },
+     {
+      "description": "Miro reports 250,000+ companies as customers, with over 250 apps and integrations and 6,000+ templates on the platform.",
+      "source": [
+       "https://technode.global/2026/03/17/miro-sets-up-asia-hub-in-singapore-to-accelerate-growth-and-boost-ai-collaborations/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "250,000+ customers"
+     },
+     {
+      "description": "Miro serves both small businesses and large enterprises, including 99% of Fortune 100 companies, as reported alongside its 2022 Series C.",
+      "source": [
+       "https://venturebeat.com/2022/01/05/online-whiteboarding-platform-miro-raises-400m-to-power-the-future-of-work/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "99% of Fortune 100"
+     },
+     {
+      "description": "Miro closed a $400M Series C in January 2022 at a $17.5 billion valuation.",
+      "source": [
+       "http://ow.ly/SAaM30s6mww"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$17.5 billion"
+     },
+     {
+      "description": "Miro's CEO said the company has raised $476 million in total funding and has been profitable since 2016.",
+      "source": [
+       "https://www.businessinsider.com/miro-ceo-ai-tool-subscription-spending-roi-2026-3"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$476 million"
+     },
+     {
+      "description": "Miro's cofounder Andrey Khusid stated the company has been profitable since 2016 while having raised $476 million.",
+      "source": [
+       "https://www.businessinsider.com/miro-ceo-ai-tool-subscription-spending-roi-2026-3"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "Profitable since 2016"
+     },
+     {
+      "description": "At the time of its Series C in January 2022, Miro reported a user base of 30 million.",
+      "source": [
+       "http://ow.ly/SAaM30s6mww"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "30 million users (Jan 2022)"
+     },
+     {
+      "description": "Miro's homepage highlights 250+ apps and integrations and 6,000+ templates, supporting an extensive ecosystem around the platform.",
+      "source": [
+       "https://miro.com/"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "250+ apps and integrations; 6,000+ templates"
+     },
+     {
+      "description": "Miro's Asia Hub in Singapore is investing in people, resources, and infrastructure across Singapore, India, South Korea, and Southeast Asia.",
+      "source": [
+       "https://technode.global/2026/03/17/miro-sets-up-asia-hub-in-singapore-to-accelerate-growth-and-boost-ai-collaborations/"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "Asia Hub serving 4+ regional markets"
+     },
+     {
+      "description": "Miro's homepage cites customer-reported outcomes including 3.6x faster time to market (unnamed customer), 50% shorter planning process (unnamed), and 2x faster output (unnamed).",
+      "source": [
+       "https://miro.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "3.6x faster time to market; 50% shorter planning; 2x faster output"
+     },
+     {
+      "description": "Miro reported nearly doubling query accuracy from approximately 50% to around 90% after integrating DataHub's context layer to constrain natural language queries.",
+      "source": [
+       "https://www.globenewswire.com/news-release/2026/05/28/3303065/0/en/DataHub-Launches-Breakthrough-Release-That-Gives-Analytics-Agents-Trusted-Context-Pushing-Accuracy-Levels-Beyond-90.html"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "Accuracy improvement from ~50% to ~90%"
+     },
+     {
+      "description": "Miro's trust badges indicate 20,000+ reviews aggregated across Capterra, G2, and Trustradius.",
+      "source": [
+       "https://miro.com/"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "20,000+ reviews on Capterra, G2, Trustradius"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 24,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Acquired Reforge, an AI platform for product teams, with Reforge CEO Brian Balfour joining Miro as Chief Growth Officer and COO Tom Willerer as Chief Strategy Officer.",
+      "source": [
+       "https://miro.com/blog/reforge-joins-miro-team/"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 19,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Repositioned the platform as an \"AI decisioning layer for the enterprise\" at Canvas 26 in San Francisco, launching Sidekicks (agentic AI with Voice), Flows, Connectors, Miro Prototypes, Talktrack, and Miro Engage.",
+      "source": [
+       "https://miro.com/canvas/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 4,
+       "month": 2,
+       "year": 2026
+      },
+      "description": "Launched a Model Context Protocol (MCP) server co-built with Anthropic, AWS, GitHub, Google, and Windsurf, enabling bidirectional integration between Miro's canvas and AI coding tools (Claude Code, GitHub Copilot, Gemini CLI, Cursor, OpenAI Codex, Devin, Lovable, Replit).",
+      "source": [
+       "https://itbrief.com.au/story/miro-links-visual-workspaces-to-ai-coding-via-mcp-server"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 17,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Established an Asia Hub in Singapore to accelerate growth across Singapore, India, South Korea, and Southeast Asia, with regional partners including AWS, Vsaas Global, GoPomelo, and Altudo.",
+      "source": [
+       "https://technode.global/2026/03/17/miro-sets-up-asia-hub-in-singapore-to-accelerate-growth-and-boost-ai-collaborations/"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "day": 28,
+       "month": 5,
+       "year": 2024
+      },
+      "description": "Acquired Cardinal (May 2024) and Uizard (May 2024), with Sidley advising Cardinal on its acquisition by Miro, broadening AI and design tooling capability.",
+      "source": [
+       "https://www.sidley.com/en/newslanding/newsannouncements/2024/05/sidley-advises-cardinal-in-its-acquisition-by-miro"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 5,
+       "year": 2025
+      },
+      "description": "Launched the Miro Solution Partner Program to accelerate enterprise innovation and collaboration through resellers, system integrators, and consulting partners.",
+      "source": [
+       "https://www.businesswire.com/news/home/20250507080020/en/Miro-Launches-Solution-Partner-Program-to-Accelerate-Enterprise-Innovation-and-Collaboration"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "day": 17,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Miro announced the establishment of an Asia Hub in Singapore to accelerate growth across the region and expand into key markets including Singapore, India, South Korea, and Southeast Asia. The company is investing in people, resources, and infrastructure while building an ecosystem with regional partners such as AWS, Vsaas Global, GoPomelo, and Altudo.",
+      "source": [
+       "https://technode.global/2026/03/17/miro-sets-up-asia-hub-in-singapore-to-accelerate-growth-and-boost-ai-collaborations/"
+      ],
+      "title": "Asia Hub expansion in Singapore",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "Reforge CEO Brian Balfour joined Miro as Chief Growth Officer as part of Miro's acquisition of Reforge.",
+      "source": [
+       "https://uaereview.com/article/miro-acquires-reforge-to-help-organizations-navigate-the-transition-to-ai"
+      ],
+      "title": "Brian Balfour appointed Chief Growth Officer",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "description": "Reforge COO Tom Willerer joined Miro as Chief Strategy Officer as part of Miro's acquisition of Reforge.",
+      "source": [
+       "https://uaereview.com/article/miro-acquires-reforge-to-help-organizations-navigate-the-transition-to-ai"
+      ],
+      "title": "Tom Willerer appointed Chief Strategy Officer",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Establishment of Asia Hub in Singapore in March 2026 to cover Singapore, India, South Korea, and Southeast Asia, with regional channel partners AWS, Vsaas Global, GoPomelo, and Altudo \u2014 indicating dedicated go-to-market investment in the Asia-Pacific region where penetration likely lags North America and Europe.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Launch of MCP server (Feb 2026) co-built with Anthropic, AWS, GitHub, Google, and Windsurf, and expansion of AI Connectors to Microsoft Copilot, ChatGPT, Claude, Glean, Amazon Q, and Gemini \u2014 extending the platform's addressable market from human collaboration into agentic AI coding and enterprise knowledge workflows.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Acquisition of Reforge (March 2026) for AI-powered product development tools, learning programs, and frameworks targeting growth and product strategy teams \u2014 extending the product surface from whiteboard/tooling into structured education and product ops workflows.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "Launch of the Miro Solution Partner Program in May 2025 to accelerate enterprise deals through resellers, system integrators, and consulting partners \u2014 adding an indirect channel motion on top of self-serve and direct enterprise sales.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Launch of AI Workflows for enterprise (January 2026) and Sidekicks/Flows/Connectors at Canvas 26 (May 2026) \u2014 repositioning the platform from whiteboard to AI Innovation Workspace and creating a new SKU category that bundles AI agents, workflows, and enterprise governance (Enterprise Guard, AI Trust).",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Hiring of approximately 40 entrepreneurs over 2.5 years out of 1,600 total employees (per CEO Andrey Khusid) and recent C-suite additions of Brian Balfour (CGO) and Tom Willerer (CSO) from Reforge, indicating expansion of leadership bench to support AI-era product velocity.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "Vertical-specific plans and sub-products targeting Consultants, Education (Free Education Plan for accredited institutions including Duke), and NPOs, plus Business Acceleration solutions for Leadership, Operations, Customer Experience, and Digital Employee Experience \u2014 extending the addressable market beyond product/engineering into adjacent departmental and company-type segments.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

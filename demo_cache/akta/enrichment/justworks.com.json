@@ -1,0 +1,426 @@
+{
+ "fetched_at": "2026-10-24T11:46:03",
+ "params": {
+  "company": "justworks.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000sr",
+   "firmographic": {
+    "name": "Justworks",
+    "legal_name": "Justworks, Inc.",
+    "website": "justworks.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2013,
+    "company_description": "Justworks is a New York-based cloud HR and payroll platform, founded in 2012/2013, that operates primarily as a Professional Employer Organization (PEO) for small and mid-sized businesses in the United States. The company combines payroll processing, benefits administration, HR tools, tax compliance automation, time tracking, expense management, and global hiring capabilities into a single integrated SaaS product, holding IRS-certified PEO status and ESAC accreditation. Its underlying technology automates payroll across 4,000+ U.S. tax localities and supports contractor and Employer of Record hiring in 60+ countries, with direct local-entity ownership in each international market it serves rather than relying on third-party handoffs.\n\nThe product portfolio is organized into three core tiers \u2014 Payroll ($8/employee/month plus a $50 base), PEO Basic ($79/employee/month), and PEO Plus ($124/employee/month) \u2014 each progressively adding compliance support, HR consulting, medical/dental/vision administration, HSA/FSA accounts, and mental health and fertility benefits. A modular add-on stack extends the platform with Time Tracking ($8), International Contractors ($39), Dedicated HR Consulting ($30), US-Based Contractors ($8), an ICHRA offering via Thatch ($25), and a high-priced EOR module ($599/employee/month) for full-time international hires. An Expenses module launched in July 2023 supports receipt capture and approval workflows for PEO clients. The go-to-market blends self-serve online registration at shop.justworks.com with a sales-assisted motion for PEO and enterprise tiers, supported by phone sales (855-661-9022), content marketing, and review-site presence (4.6/5 ratings across G2, Capterra, GetApp, and others).\n\nThe business model is per-employee recurring subscription, with the company monetizing the volume of workers on its platform; in 2025, it processed $31 billion in payroll and $8.9 billion in taxes and generated more than 268,000 W-2s for PEO customers, with 1,000+ SMBs already managing global teams on the system. Justworks has raised approximately $160M+ cumulatively across multiple venture rounds (Index Ventures, Bain Capital Ventures, Thrive Capital, Redpoint, FirstMark, Union Square Ventures, Spark Capital, Latitude, and others), most recently a $16.8M round in November 2023. The company has expanded through acquisition (Justworks Hours in October 2020 for time tracking; Via.work in September 2023 for international EOR) and through ecosystem partnerships with benefits carriers (Aetna, Kaiser, MetLife, United Healthcare), wellness providers (Talkspace, One Medical, Kindbody, Peloton), and compliance resources (Mineral, Discern). Leadership includes founder Isaac Oates, President and CEO Michael Seckler, and senior executives across engineering, customer success, finance, legal, risk and insurance, and DEI functions.",
+    "company_description_short": "Justworks is a New York-based cloud HR and payroll platform operating as a Professional Employer Organization for small and mid-sized U.S. businesses, combining payroll, benefits, compliance, and global hiring in a single integrated system priced per employee.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/0s/edadad48-e377-57e3-8e79-ea3ae7040568.png",
+    "akta_rank": 14532
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "250m_500m",
+     "label": "$250M-$500M"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Payroll dollars processed in 2025",
+      "source": [
+       "https://www.justworks.com/"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "$31 billion"
+     },
+     {
+      "description": "Total taxes processed in 2025",
+      "source": [
+       "https://www.justworks.com/"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "$8.9 billion"
+     },
+     {
+      "description": "W-2s generated for PEO customers in 2025",
+      "source": [
+       "https://www.justworks.com/"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "268,000+"
+     },
+     {
+      "description": "Tax localities supported for multi-state payroll",
+      "source": [
+       "https://www.justworks.com/"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "4,000+"
+     },
+     {
+      "description": "Small businesses already managing global teams with Justworks",
+      "source": [
+       "https://www.justworks.com/solutions/hire-internationally"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "1,000+"
+     },
+     {
+      "description": "Countries supported for international contractor payments",
+      "source": [
+       "https://www.justworks.com/pricing"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "60+"
+     },
+     {
+      "description": "Rating on G2 and Capterra review platforms",
+      "source": [
+       "https://www.justworks.com/"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "4.6/5"
+     }
+    ],
+    "partnership": [
+     {
+      "description": "Integrated partner for Health Insurance Reimbursements (ICHRA), an alternative to traditional group health plans offered through Justworks platform at $25/month per enrolled employee",
+      "name": "Thatch",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00006xm"
+     },
+     {
+      "description": "Integration for workers' compensation coverage (pay-as-you-go) available through Justworks platform for payroll customers",
+      "name": "NEXT Insurance",
+      "source": [
+       "https://www.justworks.com/pricing"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000jmk"
+     },
+     {
+      "description": "Health insurance carrier partner providing medical insurance plans through Justworks benefits platform",
+      "name": "Aetna",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0002ydg"
+     },
+     {
+      "description": "Health insurance carrier partner providing medical insurance plans through Justworks benefits platform",
+      "name": "Kaiser Permanente",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0002bfd"
+     },
+     {
+      "description": "Benefits provider partner for dental, vision, and other insurance offerings through Justworks platform",
+      "name": "MetLife",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "00005sb"
+     },
+     {
+      "description": "Health insurance carrier partner providing medical insurance plans through Justworks benefits platform",
+      "name": "United Healthcare",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0009app"
+     },
+     {
+      "description": "Mental health services provider included with PEO Plus benefits at no additional cost",
+      "name": "Talkspace",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000cj"
+     },
+     {
+      "description": "On-demand primary care provider available as wellness perk with PEO Plus where available",
+      "name": "One Medical",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0051kx9"
+     },
+     {
+      "description": "Healthcare navigation services provided as part of PEO Plus health advocacy benefits",
+      "name": "Health Advocate",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0005kj8"
+     },
+     {
+      "description": "Fertility and family-building benefits provider available with PEO Plus where available",
+      "name": "Kindbody",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000342"
+     },
+     {
+      "description": "Supported 2025 Entreprenista 100 Awards as a sponsor, recognizing women entrepreneurs",
+      "name": "Entreprenista League",
+      "source": [
+       "https://www.openpr.com/news/4419702/key-strategic-trends-and-emerging-changes-shaping-the-expense"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "00057h2"
+     },
+     {
+      "description": "Justworks' David Feinberg elected Chair of NAPEO in September 2024, demonstrating leadership in the PEO industry",
+      "name": "National Association of Professional Employer Organizations (NAPEO)",
+      "source": [
+       "https://www.justworks.com/platform/features/compliance"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "others",
+       "label": "Others"
+      },
+      "uuid": "00076r3"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 12,
+       "month": 9,
+       "year": 2023
+      },
+      "description": "Acquired Via.work to expand international Employer of Record and contractor management capabilities.",
+      "source": [
+       "https://www.openpr.com/news/4419702/key-strategic-trends-and-emerging-changes-shaping-the-expense"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 11,
+       "year": 2023
+      },
+      "description": "Raised approximately $16.8M in an additional funding round, extending runway while continuing growth investments.",
+      "source": [
+       "https://www.justworks.com/pricing"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 7,
+       "year": 2023
+      },
+      "description": "Launched Expenses, an expense management module with receipt photo capture and customizable approval workflows for PEO clients.",
+      "source": [
+       "https://www.openpr.com/news/4419702/key-strategic-trends-and-emerging-changes-shaping-the-expense"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 9,
+       "year": 2024
+      },
+      "description": "David Feinberg elected Chair of NAPEO, installing Justworks leadership at the head of the U.S. PEO industry association.",
+      "source": [
+       "https://www.prnewswire.com/news-releases/david-feinberg-of-justworks-elected-chair-of-the-national-association-of-professional-employer-organizations-302250665.html"
+      ],
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "date": {
+       "day": 6,
+       "month": 10,
+       "year": 2020
+      },
+      "description": "Acquired Justworks Hours to embed time tracking natively into the platform, now offered as an $8/employee/month add-on.",
+      "source": [
+       "https://www.justworks.com/pricing"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "year": 2024
+      },
+      "description": "Integrated ICHRA partner Thatch, expanding benefits administration beyond traditional group health plans.",
+      "source": [
+       "https://www.justworks.com/platform/features/benefits"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "David Feinberg of Justworks was elected Chair of the National Association of Professional Employer Organizations (NAPEO).",
+      "source": [
+       "https://www.prnewswire.com/news-releases/david-feinberg-of-justworks-elected-chair-of-the-national-association-of-professional-employer-organizations-302250665.html"
+      ],
+      "title": "David Feinberg elected Chair of NAPEO",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Justworks supports international contractor payments in 60+ countries and operates Employer of Record in every market it serves (avoiding third-party handoffs), with the 2023 Via.work acquisition explicitly extending this international footprint.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Launch of the Expenses module in July 2023 and the ICHRA offering via Thatch partnership indicate ongoing buildout of the platform beyond core payroll, HR, and benefits into adjacent spend and benefits-administration categories.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Deep carrier and partner ecosystem including Aetna, Kaiser, MetLife, United Healthcare, NEXT Insurance, Talkspace, One Medical, Kindbody, Peloton, Health Advocate, Mineral, Discern, and Thatch indicates deliberate wraparound of high-value benefits adjacent to the core PEO relationship.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "September 2024 elevation of David Feinberg to NAPEO Chair signals active pursuit of regulatory and industry-shaping influence over the PEO category.",
+      "type": {
+       "code": "regulatory_pursuit",
+       "label": "Regulatory Pursuit"
+      }
+     },
+     {
+      "description": "The November 2023 capital raise of approximately $16.8M, on top of a cumulative ~$143M+ raised across prior rounds from Index, Bain Capital Ventures, Thrive Capital, Redpoint, FirstMark, Union Square Ventures, and others, provides continued capital for product and geographic expansion despite a step-down in round size versus the 2020 Series C.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     },
+     {
+      "description": "Self-serve online registration (shop.justworks.com) combined with sales-assisted PEO conversion enables expansion upmarket while maintaining PLG-style acquisition economics for the Payroll tier.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

@@ -1,0 +1,6566 @@
+{
+ "fetched_at": "2026-10-24T11:47:10",
+ "params": {
+  "company": "cloudflare.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 3539,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42412685,
+    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-10-24T15:30:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0072,
+    "ai_summary": "Two PHP vulnerabilities (CVE-2026-109618 and CVE-2026-109619) allow unauthenticated remote code execution, prompting the PHP Foundation to release patches on Wednesday. The bugs affect about 70% of web-facing systems, and while mass exploitation was avoided, confirmed compromises and post-exploit activity have been detected. Security experts warn that legacy systems remain vulnerable and AI may uncover more flaws.",
+    "word_count": 1909,
+    "author": "Zack Whittaker",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002wyf",
+      "name": "Trail of Bits",
+      "website": "https://www.trailofbits.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "631",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "dirk waem"
+     ],
+     "location": [
+      "edegem",
+      "u.k.",
+      "north korea"
+     ],
+     "product": [
+      "php",
+      "joomla",
+      "wordpress",
+      "mediawiki",
+      "drupal",
+      "smartschool",
+      "windows",
+      "crowdstrike"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42412769,
+    "title": "Inside the cyber flaw scramble that brought the AI threat to life",
+    "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+    "publisher": "Business Insider",
+    "published_date": "2026-10-24T13:01:22",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0055,
+    "ai_summary": "Chainguard prematurely disclosed a PHP vulnerability, prompting governments to shut down websites as a precaution. The flaw, found via AI tools, is being exploited in the wild, with Cloudflare seeing millions of attempts. OpenAI expects similar findings to increase sharply in coming months.",
+    "word_count": 1286,
+    "author": "Sam Clark",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS",
+     "CAN",
+     "NLD",
+     "DEU"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004ahw",
+      "name": "Fortinet",
+      "website": "http://www.fortinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000u9",
+      "name": "Oracle",
+      "website": "https://www.oracle.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02msnyw",
+      "name": "GitHub",
+      "website": "https://github.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004o",
+      "name": "Chainguard",
+      "website": "https://www.chainguard.dev",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dan lorenc",
+      "elizabeth barron",
+      "eylam milner",
+      "matthew prince",
+      "matthijs van amelsfort",
+      "thomas caspers",
+      "john sakellariadis"
+     ],
+     "location": [
+      "europe",
+      "canada",
+      "australia",
+      "uk",
+      "us",
+      "germany",
+      "dutch"
+     ],
+     "product": [
+      "mythos",
+      "php",
+      "chainguard",
+      "oracle",
+      "fortinet",
+      "node.js",
+      "frontier",
+      "github"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42377215,
+    "title": "What is PHP? Why are government and business websites going offline?",
+    "url": "https://www.omanobserver.om/article/1198446/scitech/science/what-is-php-why-are-government-and-business-websites-going-offline",
+    "publisher": "Oman Observer ",
+    "published_date": "2026-10-24T07:57:17",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0057,
+    "ai_summary": "Security researchers using OpenAI's AI discovered major flaws in PHP, prompting many government and business websites to go offline. As of Thursday afternoon, no successful attacks had occurred, but Dataminr said intrusions were only a matter of time. The vulnerability affects about 70% of websites, including WordPress and Drupal.",
+    "word_count": 933,
+    "author": "New York Times Syndicate",
+    "countries": [
+     "USA",
+     "ISR",
+     "NLD",
+     "GBR",
+     "FIN",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "c.j. moses",
+      "sanae takaichi"
+     ],
+     "location": [
+      "u.s.",
+      "israeli-american",
+      "europe",
+      "japan",
+      "asia",
+      "britain",
+      "finland"
+     ],
+     "product": [
+      "php",
+      "wordpress",
+      "drupal"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42370000,
+    "title": "UK Launches 'Be Ready' Campaign, Urges Homes To Stock Three Days Of Food And Water",
+    "url": "https://www.timesnownews.com/lifestyle/food/uk-launches-be-ready-campaign-urges-homes-to-stock-three-days-of-food-and-water-article-156395458",
+    "publisher": "TimesNow",
+    "published_date": "2026-10-24T06:07:45",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1094,
+    "ai_summary": "The UK government urged households to stock three days of food and water, citing rising cyber threats and extreme weather. Prime Minister Andy Burnham said the advice is not about panic buying but sensible preparation. Defence Secretary Wes Streeting warned that AI could make such incidents more common.",
+    "word_count": 483,
+    "author": "Akanksha Arora Authorsenior Copy Editor At Times Network",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Emergency Preparedness Planning & Readiness",
+      "code": "HLAJAGAA",
+      "is_primary": true
+     },
+     {
+      "name": "Cyber Defense & Information Security (National Security)",
+      "code": "BPAIAHAE",
+      "is_primary": false
+     },
+     {
+      "name": "Natural Disaster Preparedness & Recovery (Storm/Flood/Wildfire)",
+      "code": "BPABANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bb6",
+      "name": "UK Government",
+      "website": "https://www.gov.uk/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000619",
+      "name": "safety of citizens"
+     },
+     {
+      "code": "20000167",
+      "name": "emergency planning"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "381",
+      "name": "Disasters"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8888",
+      "name": "FOREIGN GOVERNMENTS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andy burnham",
+      "wes streeting"
+     ],
+     "location": [
+      "britain",
+      "uk"
+     ],
+     "product": [
+      "first aid kit",
+      "birth certificates"
+     ],
+     "event": [
+      "question time"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15415215
+   },
+   {
+    "id": 42365984,
+    "title": "Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks \u2014 But Loads Up On PACB, FRNM And Other Healthcare Firms",
+    "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-sells-goog-pltr-crwd-buys-biotech-stocks/cZUGfEJRBUO",
+    "publisher": "Stocktwits",
+    "published_date": "2026-10-24T05:29:55",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.513,
+    "ai_summary": "Ark Invest reduced stakes in Palantir, Alphabet, Shopify, and Cloudflare while adding positions in Pacific Biosciences, Freenome, and Scribe Therapeutics. The sales spanned ARK Innovation and ARK Next Generation Technology ETFs, with purchases concentrated in ARK Genomic Revolution ETF.",
+    "word_count": 438,
+    "author": "Stocktwits Inc",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Thematic & Megatrend ETFs",
+      "code": "FSAAAFAI",
+      "is_primary": true
+     },
+     {
+      "name": "Sector/Thematic Equity (Active)",
+      "code": "FSAAAIAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000004j",
+      "name": "Circle",
+      "website": "https://www.circle.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hf",
+      "name": "Roblox",
+      "website": "https://corp.roblox.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ng4",
+      "name": "Shopify",
+      "website": "https://www.shopify.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ma",
+      "name": "Palantir Technologies",
+      "website": "http://www.palantir.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000028y",
+      "name": "Rubrik",
+      "website": "http://rubrik.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000alb",
+      "name": "Block",
+      "website": "https://block.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002oj",
+      "name": "ARK Investment Management",
+      "website": "https://ark-invest.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000052s",
+      "name": "Alphabet",
+      "website": "https://abc.xyz",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "shashank nayar"
+     ],
+     "location": [],
+     "product": [
+      "goog",
+      "pltr",
+      "shop",
+      "frnm",
+      "pacb",
+      "cloudflare",
+      "shopify",
+      "alphabet",
+      "roblox",
+      "crwd",
+      "rblx",
+      "rbrk"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8349,
+    "group_id": 15729162
+   },
+   {
+    "id": 42386926,
+    "title": "AI is finding software flaws faster, and so are hackers: Inside the PHP scramble",
+    "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-is-finding-software-flaws-faster-and-so-are-hackers-inside-the-php-scramble/articleshow/135168257.cms",
+    "publisher": "The Times of India",
+    "published_date": "2026-10-24T05:07:47",
+    "sentiment": "Negative",
+    "sentiment_score": 0.01,
+    "ai_summary": "Two critical PHP vulnerabilities were discovered using AI models, prompting patches and a surge in exploitation attempts. Cloudflare and Amazon reported millions of attempts within hours, and organizations like Japan's Ministry of Finance and Orange took services offline as a precaution.",
+    "word_count": 1281,
+    "author": "SECTIONS AI is finding software flaws faster; So Are Hackers Inside The Php Scramble By Et Ai",
+    "countries": [
+     "JPN",
+     "FRA",
+     "FIN"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004vl",
+      "name": "Orange",
+      "website": "https://www.orange.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00k6uxv",
+      "name": "National Tax Agency",
+      "website": "https://www.nta.go.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006vy",
+      "name": "Tenable",
+      "website": "http://www.tenable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "satnam narang",
+      "matthew prince"
+     ],
+     "location": [
+      "europe",
+      "asia",
+      "finland"
+     ],
+     "product": [
+      "php",
+      "wordpress",
+      "hypertext preprocessor"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42410456,
+    "title": "Critical PHP vulnerabilities force government websites offline \u2013 NaturalNews.com",
+    "url": "https://www.naturalnews.com/2026-10-24-critical-php-vulnerabilities-force-govt-websites-offline.html",
+    "publisher": "NaturalNewsBlogs",
+    "published_date": "2026-10-24T04:57:08",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0019,
+    "ai_summary": "Government agencies across Europe, Asia, and North America took websites offline on Oct. 21 after OpenAI's GPT 5.6-Sol AI uncovered critical PHP flaws affecting up to 70% of the internet. The vulnerabilities, dubbed PHP2Shell, allow remote command execution without authorization, and exploitation attempts escalated from thousands to millions within two hours. The PHP Foundation issued patches, warning that AI tools now find bugs faster than ever.",
+    "word_count": 952,
+    "author": "Ramon Tomey",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS",
+     "CAN",
+     "DEU",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": false
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004rxx",
+      "name": "FBI",
+      "website": "https://FBI",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004o",
+      "name": "Chainguard",
+      "website": "https://www.chainguard.dev",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "thomas caspers",
+      "matt bracken",
+      "alp toker",
+      "mike adams"
+     ],
+     "location": [
+      "australia",
+      "canada",
+      "europe",
+      "germany",
+      "asia",
+      "japan",
+      "north america",
+      "united kingdom"
+     ],
+     "product": [
+      "php",
+      "php software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42375229,
+    "title": "PHP Foundation Funding Crisis Risks Global Web Security",
+    "url": "https://www.whalesbook.com/news/English/technology/PHP-Foundation-Funding-Crisis-Risks-Global-Web-Security/6adc39e379a16deaeafc7944",
+    "publisher": "Whalesbook",
+    "published_date": "2026-10-24T04:53:55",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0008,
+    "ai_summary": "The PHP Foundation, maintaining the language powering 70% of websites, faces a funding and staffing crisis with only one full-time employee and 14 part-time contractors. Recent security flaws required emergency responses, and AI-driven code changes have nearly doubled, straining human review capacity. Investors may see increased maintenance costs and security exposure.",
+    "word_count": 471,
+    "author": "Aarav Shah",
+    "countries": [
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "Open-Source & Developer Communities",
+      "code": "BPAMABAM",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Financial Distress & Restructuring",
+      "code": "RK07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "631",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15671959
+   },
+   {
+    "id": 42380961,
+    "title": "\u00ab Un \u00e9chec \u00bb cuisant pour la cybers\u00e9curit\u00e9 : pourquoi les failles PHP ont plong\u00e9 une partie d\u2019Internet dans le noir",
+    "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
+    "publisher": "01net.com",
+    "published_date": "2026-10-24T04:21:34",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0012,
+    "ai_summary": "Two critical PHP vulnerabilities (PHP2Shell) caused widespread outages after a coordinated disclosure failed. Chainguard released patches early, enabling attackers to study them, leading to millions of attack attempts. The PHP Foundation called the delay a structural failure.",
+    "word_count": 909,
+    "author": "Florian Bayard",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": false
+     },
+     {
+      "name": "Software Supply Chain & Dependency Security (SBOM, Signing)",
+      "code": "HDADACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000alyr",
+      "name": "ELLIO Technology",
+      "website": "https://ellio.tech/",
+      "is_primary": false
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": true
+     },
+     {
+      "uuid": "000004o",
+      "name": "Chainguard",
+      "website": "https://www.chainguard.dev",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "cj moses",
+      "dan lorenc"
+     ],
+     "location": [
+      "amont"
+     ],
+     "product": [
+      "php",
+      "wiz"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42351413,
+    "title": "Black October: Old cyber problems but AI made hacking faster and cheaper",
+    "url": "https://securityboulevard.com/2026/10/black-october-old-cyber-problems-but-ai-made-hacking-faster-and-cheaper/",
+    "publisher": "Security Boulevard",
+    "published_date": "2026-10-24T01:27:48",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0099,
+    "ai_summary": "AI is lowering cyberattack costs, with a Chinese-speaking attacker using AI agents to compromise over 100 websites for about $5,000. AI API key incidents and agent incidents that disabled security alerts highlight new risks. Security leaders must treat AI agents as identities and speed up remediation.",
+    "word_count": 1207,
+    "author": "Wickey Wang",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Identity, Access & Secrets Management for AI Systems (IAM for agents/models)",
+      "code": "HDAAAKAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Incident Response & Case Management",
+      "code": "HDADAGAF",
+      "is_primary": false
+     },
+     {
+      "name": "API Security (Discovery, Testing, Runtime Protection)",
+      "code": "HDADACAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004qi5",
+      "name": "OpenCode",
+      "website": "https://opencode.so/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000099e",
+      "name": "Cummins",
+      "website": "https://www.cummins.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "006g4jf",
+      "name": "LiteLLM",
+      "website": "https://www.litellm.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000u3s",
+      "name": "Zeabur",
+      "website": "https://zeabur.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ou",
+      "name": "Railway",
+      "website": "https://railway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000r3a",
+      "name": "John Deere",
+      "website": "https://www.deere.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "wickey"
+     ],
+     "location": [],
+     "product": [
+      "deere",
+      "cummins"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14823606
+   },
+   {
+    "id": 42338890,
+    "title": "AI \ud574\ud0b9 \uacf5\uaca9 '\ubd84\ub2f9 100\ub9cc \ud68c'\u2026\"\uace0\uce58\uae30\ub3c4 \uc804\uc5d0 \ub610 \ub6ab\ub9b0\ub2e4\" : \ub124\uc774\ud2b8 \ub274\uc2a4",
+    "url": "https://news.nate.com/view/20261024n03668?mid=n0100",
+    "publisher": "Nate",
+    "published_date": "2026-10-24T00:52:24",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0594,
+    "ai_summary": "Cloudflare CEO Matthew Prince said the company observed PHP-targeted attacks at 1 million per minute, though most were blocked. He warned that major bugs could appear weekly for two years, with AI accelerating vulnerability discovery. The company had prepared defenses ahead of the public disclosure.",
+    "word_count": 317,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "\ubbf8\uad6d",
+      "\uc804 \uc138\uacc4"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42338040,
+    "title": "Cathie Wood\u2019s ARK sells Alphabet stock, buys Freenome shares",
+    "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-alphabet-stock-buys-freenome-shares-93CH-4970514",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-24T00:07:37",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7471,
+    "ai_summary": "ARK ETFs sold 77,167 Alphabet shares ($24.75M) and 24,542 Palantir shares ($4.81M) on Oct 23, 2026, while buying 169,498 Freenome shares ($2.22M) and 270,627 Pacific Biosciences shares ($557k). The moves reflect a strategy of trimming tech giants and adding to biotech and healthcare positions.",
+    "word_count": 297,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Thematic & Megatrend ETFs",
+      "code": "FSAAAFAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000004j",
+      "name": "Circle",
+      "website": "https://www.circle.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ce",
+      "name": "Scribe Therapeutics",
+      "website": "https://www.scribetx.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ma",
+      "name": "Palantir Technologies",
+      "website": "http://www.palantir.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002oj",
+      "name": "ARK Investment Management",
+      "website": "https://ark-invest.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002sk",
+      "name": "Freenome",
+      "website": "https://www.freenome.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000052s",
+      "name": "Alphabet",
+      "website": "https://abc.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b6r",
+      "name": "PacBio",
+      "website": "https://www.pacb.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "119",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5259",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "cathie wood"
+     ],
+     "location": [],
+     "product": [
+      "alphabet"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15092754
+   },
+   {
+    "id": 42370264,
+    "title": "What is PHP and why did it take government websites offline?",
+    "url": "https://www.thedailystar.net/news/world/news/what-php-and-why-did-it-take-government-websites-offline-4306206",
+    "publisher": "The Daily Star",
+    "published_date": "2026-10-24T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0137,
+    "ai_summary": "Two critical PHP vulnerabilities, rated 9.2/10 on CVSS, were discovered by researchers using AI models, prompting EU officials to advise taking affected government websites offline. The flaws enable unauthenticated remote code execution, and PHP runs nearly 70% of identifiable websites.",
+    "word_count": 483,
+    "author": "Reuters",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Cyber Defense & Information Security (National Security)",
+      "code": "BPAIAHAE",
+      "is_primary": false
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000094h",
+      "name": "GoDaddy",
+      "website": "https://srivarenya.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00069lz",
+      "name": "Wordfence",
+      "website": "https://www.wordfence.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "002ymg2",
+      "name": "CERT EU",
+      "website": "https://cert.europa.eu/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000052s",
+      "name": "Alphabet",
+      "website": "https://abc.xyz",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "631",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "donald trump"
+     ],
+     "location": [
+      "europe",
+      "us"
+     ],
+     "product": [
+      "wordpress",
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15128012
+   },
+   {
+    "id": 42332097,
+    "title": "PHP flaws can affect millions of servers",
+    "url": "https://www.gulf-times.com/article/736505/opinion/viewpoint/php-flaws-can-affect-millions-of-servers",
+    "publisher": "Gulf Times ",
+    "published_date": "2026-10-24T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0028,
+    "ai_summary": "Two critical PHP vulnerabilities, rated 9.2 on CVSS v4.0, were discovered, prompting EU officials to warn organizations to take affected sites offline. The flaws enable unauthenticated remote code execution and have been present for decades. CERT-EU advises taking affected sites offline rather than leaving them exposed.",
+    "word_count": 418,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00069lz",
+      "name": "Wordfence",
+      "website": "https://www.wordfence.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "002ymg2",
+      "name": "CERT EU",
+      "website": "https://cert.europa.eu/",
+      "is_primary": true
+     },
+     {
+      "uuid": "000094h",
+      "name": "GoDaddy",
+      "website": "https://srivarenya.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "europe"
+     ],
+     "product": [
+      "wordpress",
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15128012
+   },
+   {
+    "id": 42330934,
+    "title": "Commentary: PHP vulnerabilities - why the good guys have notched a victory in AI-cybersecurity age",
+    "url": "https://www.channelnewsasia.com/commentary/php-cybersecurity-flaw-ai-victory-good-guys-6485776",
+    "publisher": "Channel NewsAsia",
+    "published_date": "2026-10-23T22:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.042,
+    "ai_summary": "Wiz and Calif discovered PHP2Shell vulnerabilities affecting about 70% of websites, allowing remote code execution. The flaws, found in August with AI models, prompted patches and temporary outages for some sites. A patch was released ahead of schedule after details leaked.",
+    "word_count": 388,
+    "author": "Dave Lee",
+    "countries": [
+     "GBR",
+     "USA",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     },
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sanae takaichi"
+     ],
+     "location": [
+      "japan",
+      "uk",
+      "european"
+     ],
+     "product": [
+      "codex",
+      "php"
+     ],
+     "event": [
+      "patch the planet"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42325842,
+    "title": "The AI-Discovered Bug That Could Have Become a Cybersecurity Disaster",
+    "url": "https://time.com/article/2026/10/23/ai-cybersecurity-php-hack/",
+    "publisher": "Time",
+    "published_date": "2026-10-23T21:11:07",
+    "sentiment": "Positive",
+    "sentiment_score": 0.7734,
+    "ai_summary": "An AI agent discovered a PHP vulnerability that could affect WordPress and Drupal, and the exploit worked. The flaw had gone undetected for over a decade, and the exploit was leaked online before the patch was released, causing widespread outages. Defenders are racing to fix it, but similar discoveries are expected to increase.",
+    "word_count": 842,
+    "author": "Harry Booth",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sagi tzadik",
+      "tomer schwartz",
+      "joshua saxe",
+      "adam meyers",
+      "tzadik",
+      "wiz"
+     ],
+     "location": [],
+     "product": [
+      "wordpress",
+      "php",
+      "drupal"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42322596,
+    "title": "\ub274\uc695\uc99d\uc2dc \uc720\uac00 \ubd80\ub2f4\uc5d0 \uc57d\uc138\u2026\ubc18\ub3c4\uccb4 \ubc18\ub4f1, \uc0ac\uc774\ubc84\ubcf4\uc548\uc8fc \uac15\uc138",
+    "url": "https://n.news.naver.com/mnews/article/138/0002245864",
+    "publisher": "Naver",
+    "published_date": "2026-10-23T20:56:11",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0608,
+    "ai_summary": "New York stocks fell on rising oil prices amid US-Iran tensions, with the Dow dropping over 1% and Brent crude hitting $116.72. Semiconductor and cybersecurity stocks gained, while the Fed's rate decision on August 28 and upcoming tech earnings are key variables.",
+    "word_count": 339,
+    "author": "\ub514\uc9c0\ud138\ub370\uc77c\ub9ac; \ub124\uc774\ubc84",
+    "countries": [
+     "USA",
+     "IRN",
+     "ISR",
+     "SAU"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Market Indices Performance",
+      "code": "MD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003cx",
+      "name": "Micron Technology",
+      "website": "http://www.micron.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000084v",
+      "name": "AMD",
+      "website": "http://www.amd.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002zt",
+      "name": "Intel",
+      "website": "http://www.intel.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000385",
+      "name": "market and exchange"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "81",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "\ubbf8\uad6d"
+     ],
+     "product": [
+      "\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8",
+      "\uc544\ub9c8\uc874",
+      "\uc2a4\ud0e0\ub354\ub4dc\uc564\ub4dc\ud478\uc5b4\uc2a4"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10482133
+   },
+   {
+    "id": 42322682,
+    "title": "\ub274\uc695\uc99d\uc2dc \uc720\uac00 \ubd80\ub2f4\uc5d0 \uc57d\uc138\u2026\ubc18\ub3c4\uccb4 \ubc18\ub4f1, \uc0ac\uc774\ubc84\ubcf4\uc548\uc8fc \uac15\uc138 : \ub124\uc774\ud2b8 \ub274\uc2a4",
+    "url": "https://news.nate.com/view/20261024n01484?mid=n0100",
+    "publisher": "Nate",
+    "published_date": "2026-10-23T20:56:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0717,
+    "ai_summary": "New York stocks fell on rising oil prices amid US-Iran tensions, with the Dow dropping over 1% and Brent crude hitting $116.72. Semiconductor and cybersecurity stocks gained, while the Fed's rate decision on August 28 and upcoming tech earnings are key variables.",
+    "word_count": 339,
+    "author": "",
+    "countries": [
+     "USA",
+     "IRN",
+     "ISR",
+     "SAU"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Market Indices Performance",
+      "code": "MD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003cx",
+      "name": "Micron Technology",
+      "website": "http://www.micron.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000084v",
+      "name": "AMD",
+      "website": "http://www.amd.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002zt",
+      "name": "Intel",
+      "website": "http://www.intel.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000385",
+      "name": "market and exchange"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "81",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "\ubbf8\uad6d"
+     ],
+     "product": [
+      "\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8",
+      "\uc544\ub9c8\uc874",
+      "\uc2a4\ud0e0\ub354\ub4dc\uc564\ub4dc\ud478\uc5b4\uc2a4"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10482133
+   },
+   {
+    "id": 42320094,
+    "title": "The AI-Discovered Bug That Could Have Become a Cybersecurity Disaster ...Middle East",
+    "url": "https://eng.pressbee.net/show4939301.html?title=the-ai-discovered-bug-that-could-have-become-a-cybersecurity-disa",
+    "publisher": "PRESSBEE",
+    "published_date": "2026-10-23T20:33:57",
+    "sentiment": "Positive",
+    "sentiment_score": 0.722,
+    "ai_summary": "AI agents discovered a PHP vulnerability that could have caused widespread outages, with exploits circulating before a patch was released. Cloudflare saw millions of attacks within hours, prompting a day-ahead patch. OpenAI predicts similar discoveries will increase sharply in coming months.",
+    "word_count": 960,
+    "author": "Time",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sagi tzadik",
+      "tomer schwartz",
+      "joshua saxe",
+      "adam meyers",
+      "hannah dodd",
+      "tzadik",
+      "bono",
+      "wiz",
+      "lucas jones",
+      "the edge"
+     ],
+     "location": [
+      "middle east"
+     ],
+     "product": [
+      "php",
+      "wordpress",
+      "drupal",
+      "bridgerton",
+      "miss you forever, zara drake"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42331910,
+    "title": "Exposed to PHP? Cyber Experts Weigh in With Advice",
+    "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+    "publisher": "Dark Reading",
+    "published_date": "2026-10-23T19:41:23",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0041,
+    "ai_summary": "Cybersecurity experts report that organizations are not patching PHP2Shell vulnerabilities fast enough, with exploitation attempts reaching millions within hours of disclosure. Data shows over 99% of public PHP instances remain unpatched, and only about 5% of upstream-supported branches have been updated. Experts advise immediate inventory, offline isolation, and disabling session upload progress as temporary measures.",
+    "word_count": 1416,
+    "author": "Nate Nelsoncontributing Writernate Nelson Is A Journalist",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     },
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007aym",
+      "name": "Cisco Talos Intelligence Group",
+      "website": "https://talosintelligence.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m65kq",
+      "name": "Check Point Research",
+      "website": "https://research.checkpoint.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000vl",
+      "name": "Ox Security",
+      "website": "https://www.ox.security",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000lz5",
+      "name": "Canonical",
+      "website": "http://www.canonical.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003fg",
+      "name": "Flare",
+      "website": "https://flare.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "adrian cheek",
+      "matthew prince",
+      "cheek",
+      "alex spokoiny",
+      "neatsun ziv"
+     ],
+     "location": [],
+     "product": [
+      "php2shell",
+      "claude",
+      "chatgpt",
+      "shodan",
+      "php 5",
+      "ubuntu",
+      "php 7"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42358710,
+    "title": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem",
+    "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
+    "publisher": "pcgamer",
+    "published_date": "2026-10-23T19:24:34",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0028,
+    "ai_summary": "Cloudflare CEO Matthew Prince said users should expect weekly security incidents over the next couple of years as LLMs accelerate discovery of exploitable vulnerabilities. He noted additional severe flaws exist in critical software, and while patches will eventually clean up the issues, short-term advice is to stay on top of updates.",
+    "word_count": 462,
+    "author": "Lincoln Carpenter",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince"
+     ],
+     "location": [],
+     "product": [
+      "pc gamer"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15712420
+   },
+   {
+    "id": 42321292,
+    "title": "I replaced Cloudflare Tunnel with a self-hosted alternative I control",
+    "url": "https://www.makeuseof.com/i-replaced-cloudflare-tunnel-with-a-self-hosted-alternative-i-control/",
+    "publisher": "Makeuseof",
+    "published_date": "2026-10-23T19:00:18",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6412,
+    "ai_summary": "The author replaced Cloudflare Tunnel with a self-hosted Pangolin setup, giving him control over traffic decryption and access. The setup requires renting a VPS and configuring firewall rules, and he notes trade-offs like server maintenance and potential downtime. He concludes the effort is worth it for those valuing ownership and per-service logins.",
+    "word_count": 1211,
+    "author": "Afam Onyimadu",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Secure Remote Access / ZTNA Gateways (Appliance/Virtual Appliance)",
+      "code": "HDAFAFAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002dna",
+      "name": "Pangolin",
+      "website": "https://digpangolin.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000227",
+      "name": "computer networking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "600",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "afam"
+     ],
+     "location": [],
+     "product": [
+      "pangolin",
+      "cloudflare tunnel",
+      "windows",
+      "tailscale",
+      "newt",
+      "linux"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7629,
+    "group_id": 15671043
+   },
+   {
+    "id": 42314217,
+    "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+    "publisher": "The Guardian",
+    "published_date": "2026-10-23T18:48:48",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0009,
+    "ai_summary": "Cybersecurity leaders warned of a new era of AI-enabled hacking after researchers used AI to find a critical flaw in PHP, affecting millions of websites. Experts predict a 'vulnerability tsunami' with insufficient time to patch, and attempts to exploit the bug have already begun.",
+    "word_count": 624,
+    "author": "Johana Bhuiyan",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "sam altman",
+      "jason clinton",
+      "marc benioff"
+     ],
+     "location": [
+      "uk",
+      "us"
+     ],
+     "product": [],
+     "event": [
+      "black october"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42310218,
+    "title": "AI-discovered software vulnerabilities raise risk of cyberattacks and outages",
+    "url": "https://www.thehindubusinessline.com/info-tech/ai-discovered-software-flaws-could-trigger-more-internet-disruptions-experts-warn/article71617719.ece",
+    "publisher": "BusinessLine",
+    "published_date": "2026-10-23T18:44:09",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0099,
+    "ai_summary": "AI-driven discovery of software vulnerabilities is expected to trigger more cyberattacks and outages, with a doubling of digital flaws year-on-year. Experts predict busy months ahead, citing recent PHP, Node.js, and Plex vulnerabilities. Some experts remain skeptical about immediate large-scale attacks.",
+    "word_count": 753,
+    "author": "",
+    "countries": [
+     "IND",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004jl",
+      "name": "VulnCheck",
+      "website": "https://vulncheck.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003vwx3",
+      "name": "Hunt.io",
+      "website": "https://hunt.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000koq",
+      "name": "RunSafe Security",
+      "website": "https://www.runsafesecurity.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000k23",
+      "name": "eMudhra",
+      "website": "http://www.emudhra.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "esteban borges",
+      "shane fry",
+      "ramy rahman",
+      "patrick garrity",
+      "daniel stenberg"
+     ],
+     "location": [
+      "europe"
+     ],
+     "product": [
+      "curl",
+      "railway"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15614103
+   },
+   {
+    "id": 42311794,
+    "title": "Investing.com\u2019s stocks of the week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182933712.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-23T18:29:33",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8768,
+    "ai_summary": "Cybersecurity stocks rose after a PHP emergency update, with Okta up 14% and Palo Alto Networks and CrowdStrike up 11%. Meta fell 7% on a plan to issue non-voting stock, while Tesla and SpaceX gained after reporting results and exploring a merger.",
+    "word_count": 333,
+    "author": "Sam Boughedda",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02im848",
+      "name": "Meta Platforms",
+      "website": "https://about.facebook.com/meta",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000036f",
+      "name": "Tesla",
+      "website": "https://tesla.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m3c6u",
+      "name": "SpaceX",
+      "website": "https://www.spacex.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "elon musk",
+      "mark zuckerberg"
+     ],
+     "location": [
+      "california",
+      "middle east"
+     ],
+     "product": [
+      "okta",
+      "cloudflare",
+      "crowdstrike"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15237718
+   },
+   {
+    "id": 42310332,
+    "title": "Origin Range Requests: Serving large files without range-request tuning",
+    "url": "https://blog.cloudflare.com/origin-range-requests/",
+    "publisher": "The Cloudflare Blog",
+    "published_date": "2026-10-23T18:22:59",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4724,
+    "ai_summary": "Cloudflare launched Origin Range Requests, a self-service feature that handles large-file range requests without customer-tuned range sizes. On R2, p99 time to first byte dropped by about half, and tiered cache traffic fell by 6%. The feature is available on all plans via Cache Rules.",
+    "word_count": 1608,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Web Performance & Acceleration (Caching, Compression, Image Optimization)",
+      "code": "HDABAGAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "622",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "movie",
+      "video player",
+      "r2",
+      "package manager",
+      "dvds"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7414,
+    "group_id": 15668591
+   },
+   {
+    "id": 42306179,
+    "title": "PHP flaws could let hackers access web servers without logging in",
+    "url": "https://www.newindianexpress.com/business/2026/Oct/23/php-flaws-could-let-hackers-access-web-servers-without-logging-in",
+    "publisher": "New Indian Express",
+    "published_date": "2026-10-23T18:11:07",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0037,
+    "ai_summary": "Two critical PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, allow remote code execution without authentication. Qualys found 167 million PHP package installations, 73% on internet-facing assets, with 110 million running unsupported versions. The PHP team released fixes for versions 8.2\u20138.5, and Cloudflare reported exploitation attempts.",
+    "word_count": 342,
+    "author": "ENS Economic Bureau",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": false
+     },
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000ffl4",
+      "name": "PHP",
+      "website": "http://www.php.net/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000474a",
+      "name": "Qualys",
+      "website": "https://www.qualys.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "saeed abbasi"
+     ],
+     "location": [
+      "india"
+     ],
+     "product": [
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42305600,
+    "title": "Bringing post-quantum cryptography to geographically fenced key management",
+    "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+    "publisher": "The Cloudflare Blog",
+    "published_date": "2026-10-23T18:06:56",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8728,
+    "ai_summary": "Cloudflare launched a post-quantum geographically restricted key manager in closed beta for its Data Localization Suite. The system uses hybrid ML-KEM-768 and X25519 to ensure decryption keys are only unwrapped in allowed regions, with general availability planned for Q1 2027.",
+    "word_count": 2422,
+    "author": "Copy link Authorizing edge servers",
+    "countries": [
+     "IND",
+     "DEU",
+     "ESP",
+     "FRA",
+     "CAN",
+     "MEX"
+    ],
+    "industries": [
+     {
+      "name": "Quantum-Safe PKI, Key Management & HSMs",
+      "code": "HDAGAGAE",
+      "is_primary": true
+     },
+     {
+      "name": "Key Management, Encryption & Secrets Management (KMS/HSM/Vault)",
+      "code": "HDABAHAG",
+      "is_primary": false
+     },
+     {
+      "name": "Edge Compliance, Governance & Data Sovereignty Infrastructure",
+      "code": "HDABAOAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "india",
+      "spain",
+      "germany",
+      "france",
+      "united states",
+      "canada",
+      "mexico",
+      "european union",
+      "us"
+     ],
+     "product": [
+      "geokey manager",
+      "edge key service",
+      "gateway",
+      "tunnel",
+      "cloudflare one client",
+      "quicksilver",
+      "vault",
+      "zinc",
+      "cloudflare one path",
+      "edge server",
+      "credit card",
+      "credit cards",
+      "cloudflare one",
+      "edge",
+      "provisioning service",
+      "key-management service",
+      "dls"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9645,
+    "group_id": 15667670
+   },
+   {
+    "id": 42311626,
+    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+    "url": "https://www.omanobserver.om/article/1198417/business/what-is-php-why-are-government-and-business-websites-going-offline",
+    "publisher": "Oman Observer ",
+    "published_date": "2026-10-23T17:59:56",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0042,
+    "ai_summary": "Security researchers using OpenAI's GPT-5.6 Sol model discovered major flaws in PHP, prompting governments and businesses to patch or take sites offline. The vulnerability, hidden for years, has already been exploited, with Amazon reporting an attack on a honeypot four days before the patch. Cloudflare saw millions of exploitation attempts, and several government websites went down.",
+    "word_count": 827,
+    "author": "Karla Adam",
+    "countries": [
+     "NLD",
+     "GBR",
+     "FIN",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005y8d",
+      "name": "Wikipedia",
+      "website": "https://www.wikipedia.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pv2",
+      "name": "Internet Archive",
+      "website": "https://archive.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "631",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "c.j. moses",
+      "prince",
+      "sanae takaichi"
+     ],
+     "location": [
+      "europe",
+      "britain",
+      "asia",
+      "finland",
+      "u.s.",
+      "israeli-american",
+      "japan"
+     ],
+     "product": [
+      "php",
+      "wordpress",
+      "drupal",
+      "whatsapp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42303309,
+    "title": "Experts warn wave of AI-discovered flaws to trigger fresh disruptions in coming months",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/experts-warn-wave-of-ai-discovered-flaws-to-trigger-fresh-disruptions-in-coming-months/articleshow/135152386.cms",
+    "publisher": "The Times of India",
+    "published_date": "2026-10-23T17:43:04",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0014,
+    "ai_summary": "Cybersecurity leaders warn that AI-driven discovery of software bugs will trigger waves of disruption in coming months. The forecast follows recent vulnerabilities in PHP, Node.js, Plex, and others, with Cloudflare's Matthew Prince predicting weekly crises for years. AI tools now audit code continuously, accelerating exploit synthesis.",
+    "word_count": 390,
+    "author": "TOI Tech Desk",
+    "countries": [
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Penetration Testing Platforms (PTaaS)",
+      "code": "HDADAHAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002fj",
+      "name": "Plex",
+      "website": "https://www.plex.tv",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00009ou",
+      "name": "Railway",
+      "website": "https://railway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004jl",
+      "name": "VulnCheck",
+      "website": "https://vulncheck.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "006g4jf",
+      "name": "LiteLLM",
+      "website": "https://www.litellm.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000k23",
+      "name": "eMudhra",
+      "website": "http://www.emudhra.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "patrick garrity"
+     ],
+     "location": [
+      "asia",
+      "europe"
+     ],
+     "product": [
+      "plex",
+      "railway",
+      "node.js",
+      "php",
+      "litellm"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15614103
+   },
+   {
+    "id": 42299084,
+    "title": "\uc544\ub9c8\uc874 \"PHP \ucde8\uc57d\uc810 \uacf5\uac1c \ub098\ud758\uc804\ubd80\ud130 \uacf5\uaca9 \ud754\uc801\" : \ub124\uc774\ud2b8 \ub274\uc2a4",
+    "url": "https://news.nate.com/view/20261024n00671?mid=n0100",
+    "publisher": "Nate",
+    "published_date": "2026-10-23T17:15:32",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0053,
+    "ai_summary": "Amazon's CISO admitted attacks occurred four days after the PHP vulnerability was disclosed, prompting global service shutdowns. KISA admitted it has not yet tracked public PHP usage, and the government is considering a comprehensive countermeasure and organizational restructuring.",
+    "word_count": 303,
+    "author": "",
+    "countries": [
+     "JPN",
+     "CHN",
+     "GBR",
+     "KOR"
+    ],
+    "industries": [
+     {
+      "name": "Security Incident Response (IR) & Digital Forensics Services",
+      "code": "BPAEADAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     },
+     {
+      "name": "Risk Management (ERM), Operational Risk & Business Continuity",
+      "code": "BPAEAPAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m76gk",
+      "name": "\u4e09\u83f1UFJ\u30d5\u30a3\u30ca\u30f3\u30b7\u30e3\u30eb\u30fb\u30b0\u30eb\u30fc\u30d7",
+      "website": "https://www.mufg.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "\uc548\uaddc\uc601",
+      "\uc784\uc7ac\ud601"
+     ],
+     "location": [
+      "\uc601\uad6d",
+      "\ud55c\uad6d",
+      "\uc911\uad6d",
+      "\u65e5-\u82f1",
+      "\uc77c\ubcf8",
+      "\ud504\ub791\uc2a4"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42302349,
+    "title": "AI-discovered software bugs may trigger more outages, warn cyber experts",
+    "url": "https://www.business-standard.com/world-news/ai-discovered-software-bugs-may-trigger-more-outages-warn-cyber-experts-126102301660_1.html",
+    "publisher": "Business Standard",
+    "published_date": "2026-10-23T17:07:43",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0037,
+    "ai_summary": "Seven cybersecurity experts told Reuters that AI-driven software vulnerabilities are likely to trigger more outages, citing a doubling of discovered flaws. They expect a busy period ahead, with Japan suspending its emergency alert system due to the PHP vulnerability.",
+    "word_count": 887,
+    "author": "Business Standard",
+    "countries": [
+     "JPN",
+     "IND",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004jl",
+      "name": "VulnCheck",
+      "website": "https://vulncheck.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004cc2",
+      "name": "SoftBank",
+      "website": "https://www.softbank.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "003vwx3",
+      "name": "Hunt.io",
+      "website": "https://hunt.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000koq",
+      "name": "RunSafe Security",
+      "website": "https://www.runsafesecurity.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "esteban borges",
+      "shane fry",
+      "patrick garrity",
+      "ramy rahman",
+      "daniel stenberg",
+      "prince"
+     ],
+     "location": [
+      "europe",
+      "australia",
+      "japan"
+     ],
+     "product": [
+      "curl",
+      "plex",
+      "railway"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15614103
+   },
+   {
+    "id": 42312386,
+    "title": "What AI leaves out of the answer still counts",
+    "url": "https://www.fastcompany.com/91625997/what-ai-leaves-out-answer-still-counts",
+    "publisher": "Fast Company",
+    "published_date": "2026-10-23T17:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2058,
+    "ai_summary": "Publishers report slowing licensing deals with AI companies, while AI content demand rises. Metered pricing, including pay-per-use models, is emerging as a potential solution. Cloudflare and others are testing such systems, but the industry lacks a clear answer on what to measure.",
+    "word_count": 512,
+    "author": "Pete Pachal",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Rights & Licensing Management (Contract, Territory/Window, Royalty)",
+      "code": "MPAHALAA",
+      "is_primary": true
+     },
+     {
+      "name": "Pricing, Revenue Management & Promotion Optimization",
+      "code": "HDAAAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002tm",
+      "name": "TollBit",
+      "website": "https://tollbit.tech",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005k",
+      "name": "You.com",
+      "website": "https://you.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006y2w",
+      "name": "People Inc.",
+      "website": "https://www.people.inc/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000h74",
+      "name": "Financial Times",
+      "website": "http://ft.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000304",
+      "name": "media and entertainment industry"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "111",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jonathan roberts",
+      "katya gorchinskaya",
+      "fiona spooner",
+      "lara cohen"
+     ],
+     "location": [
+      "london"
+     ],
+     "product": [
+      "instyle",
+      "investopedia",
+      "j\u00b7index",
+      "you.com",
+      "people"
+     ],
+     "event": [
+      "digiday"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15668809
+   },
+   {
+    "id": 42314595,
+    "title": "Government websites go dark as critical PHP flaws trigger scramble",
+    "url": "http://bignewsnetwork.com/news/279390436/government-websites-go-dark-as-critical-php-flaws-trigger-scramble",
+    "publisher": "Bignewsnetwork",
+    "published_date": "2026-10-23T16:28:42",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0029,
+    "ai_summary": "Government websites across Europe went offline on October 21 after critical PHP vulnerabilities were identified on October 20. A fix went live at 1345 GMT, and agencies in the Netherlands and Finland took sites down as a precaution. Experts warned the flaws could expose millions of servers, with AI-assisted attacks potentially increasing the threat.",
+    "word_count": 922,
+    "author": "Anabelle Colaco",
+    "countries": [
+     "NLD",
+     "FIN",
+     "DNK",
+     "FRA",
+     "USA",
+     "GBR",
+     "AUS",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000tl8m",
+      "name": "Valtori",
+      "website": "https://valtori.fi/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000596a",
+      "name": "Port of Rotterdam",
+      "website": "http://www.portofrotterdam.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000i23g",
+      "name": "Kombit",
+      "website": "http://kombit.dk",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ihn7",
+      "name": "KNVB",
+      "website": "https://www.knvb.nl/",
+      "is_primary": false
+     },
+     {
+      "uuid": "003ci8h",
+      "name": "Overheid.nl",
+      "website": "https://www.overheid.nl",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000o7",
+      "name": "Huntress",
+      "website": "https://huntress.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dane knecht",
+      "lukasz olejnik",
+      "anabelle colaco"
+     ],
+     "location": [
+      "europe",
+      "australia",
+      "netherlands",
+      "japan",
+      "finland",
+      "amsterdam",
+      "united kingdom",
+      "u.s.",
+      "france",
+      "port of rotterdam"
+     ],
+     "product": [
+      "wordpress",
+      "magento",
+      "joomla",
+      "drupal",
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42358124,
+    "title": "Meta delays its website-crawling terms after a publisher backlash",
+    "url": "https://thenextweb.com/news/meta-delays-crawling-terms-publishers",
+    "publisher": "The Next Web",
+    "published_date": "2026-10-23T16:12:31",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0021,
+    "ai_summary": "Meta delayed its new business terms, effective 20 November instead of 30 October, after publisher backlash. The terms let Meta crawl websites for its products, and publishers say the wording still permits AI training. Five publishers are already suing Meta over alleged book piracy for Llama models.",
+    "word_count": 361,
+    "author": "Cristian Dina",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Responsible AI Policy, Controls & Workflow Management",
+      "code": "HDAAAMAG",
+      "is_primary": true
+     },
+     {
+      "name": "Anti-Piracy Operations & Takedown Services (Monitoring, Enforcement)",
+      "code": "MPAHALAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Reputational Damage",
+      "code": "RK06",
+      "is_primary": true
+     },
+     {
+      "name": "Intellectual Property",
+      "code": "RC05",
+      "is_primary": false
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000aa7p",
+      "name": "News Media Alliance",
+      "website": "https://www.newsmediaalliance.org",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000306",
+      "name": "books and publishing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "111",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "513130",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "2731",
+      "name": "BOOKS: PUBLISHING OR PUBLISHING & PRINTING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "mark zuckerberg"
+     ],
+     "location": [
+      "uk",
+      "europe",
+      "us",
+      "britain"
+     ],
+     "product": [
+      "llama models"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15031282
+   },
+   {
+    "id": 42302845,
+    "title": "Cloudflare Climbs 6% as Cloud Stocks Rebound; Datadog Rises 5%, Snowflake Edges Higher",
+    "url": "https://247wallst.com/investing/2026/10/23/cloudflare-climbs-6-as-cloud-stocks-rebound-datadog-rises-5-snowflake-edges-higher/",
+    "publisher": "247wallst",
+    "published_date": "2026-10-23T16:10:24",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Cloudflare shares rose 6% to $323 and Datadog rose 5% to $271 as cloud stocks rebounded on AI-driven demand. Cloudflare's Q2 revenue grew 35.9% to $696.1 million, but a $150.7 million restructuring charge and compressed margins limit room for error. Q3 revenue guidance of $736-737 million is expected November 5.",
+    "word_count": 774,
+    "author": "David Moadel",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Cloud Networking Core Services (VPC/VNet, Load Balancing, DNS, NAT)",
+      "code": "HDABAAAJ",
+      "is_primary": true
+     },
+     {
+      "name": "AI Compute Cloud & GPU-as-a-Service",
+      "code": "HDAAAAAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000e3i",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "olivier pomel"
+     ],
+     "location": [],
+     "product": [
+      "cloudflare",
+      "datadog",
+      "snowflake",
+      "qqq",
+      "first trust cloud computing etf",
+      "skyy",
+      "snow"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14196627
+   },
+   {
+    "id": 42303490,
+    "title": "Canva, ChatGPT, Reddit, Zoom And Other Big Apps Down In US? Users Report Major Outage",
+    "url": "https://www.timesnownews.com/technology-science/canva-chatgpt-reddit-zoom-and-other-big-apps-down-in-us-users-report-major-outage-article-156393391",
+    "publisher": "TimesNow",
+    "published_date": "2026-10-23T15:57:52",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0047,
+    "ai_summary": "Canva, ChatGPT, Reddit, Zoom, and Microsoft 365 are among services showing a spike in outage reports on Downdetector in the US. The increase in user reports does not confirm a complete outage, and the situation in India appears normal. Users are advised to check Downdetector for updates.",
+    "word_count": 328,
+    "author": "Tn Tech Desk Authorprofessionals",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Service Reliability Engineering (SLO/SLI) & Reliability Analytics",
+      "code": "HDABAJAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Disruptions",
+      "code": "RK04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000l1",
+      "name": "Canva",
+      "website": "http://www.canva.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000068h",
+      "name": "Square",
+      "website": "https://squareup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fvm",
+      "name": "Zoom",
+      "website": "https://www.zoom.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000icfi",
+      "name": "Microsoft 365",
+      "website": "https://www.microsoft365.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000031f",
+      "name": "Etsy",
+      "website": "https://www.etsy.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000tx",
+      "name": "Discord",
+      "website": "https://discord.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002in",
+      "name": "Reddit",
+      "website": "https://www.redditinc.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "india",
+      "us"
+     ],
+     "product": [
+      "zoom",
+      "chatgpt",
+      "fortnite",
+      "canva",
+      "reddit",
+      "etsy",
+      "microsoft 365",
+      "square",
+      "crunchyroll",
+      "discord",
+      "2k",
+      "hinge",
+      "rocket league",
+      "escape from tarkov",
+      "vrchat",
+      "whatnot",
+      "hubspot",
+      "ancestry",
+      "freshdesk",
+      "cloudflare",
+      "grindr",
+      "epic games store",
+      "microsoft store",
+      "zendesk",
+      "indeed",
+      "monday.com",
+      "ukg"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8844,
+    "group_id": 15667317
+   },
+   {
+    "id": 42401605,
+    "title": "OpenClaw creator spent $10 million on AI tokens last month",
+    "url": "https://www.computerworld.com/article/4239772/openclaw-creator-spent-10-million-on-ai-tokens-last-month-2.html",
+    "publisher": "Computerworld",
+    "published_date": "2026-10-23T15:45:24",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0109,
+    "ai_summary": "Pete Steinberger, OpenClaw's creator, spent $10 million on AI tokens at OpenAI last month, he told Cloudflare Connect. He questioned whether AI should run on personal computers and noted cloud costs, raising concerns for CFOs. The spending may benefit OpenAI's upcoming IPO.",
+    "word_count": 229,
+    "author": "Maxwell Cooter",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Compute Cloud & GPU-as-a-Service",
+      "code": "HDAAAAAK",
+      "is_primary": true
+     },
+     {
+      "name": "Cloud FinOps & Cost Optimization",
+      "code": "BPAEACAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00pxrki",
+      "name": "OpenClaw",
+      "website": "https://openclaw.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "dane knecht",
+      "pete steinberger"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "openclaw"
+     ],
+     "event": [
+      "cloudflare connect 2026",
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15671882
+   },
+   {
+    "id": 42290188,
+    "title": "AI-powered cyber threats light a fire under cybersecurity stocks",
+    "url": "https://za.investing.com/news/stock-market-news/aipowered-cyber-threats-light-a-fire-under-cybersecurity-stocks-4523171",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-23T15:14:39",
+    "sentiment": "Negative",
+    "sentiment_score": 0.012,
+    "ai_summary": "Two critical PHP vulnerabilities, PHP2Shell, were disclosed, enabling remote server control and triggering a cybersecurity alert. Cybersecurity stocks surged, with Palo Alto Networks up 11% and CrowdStrike up 11% this week. The incident highlights AI's role in both discovering and exploiting software weaknesses.",
+    "word_count": 591,
+    "author": "Frank DeMatteo",
+    "countries": [
+     "GBR",
+     "FIN",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "finland",
+      "japan",
+      "united kingdom"
+     ],
+     "product": [
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42290186,
+    "title": "AI-powered cyber threats light a fire under cybersecurity stocks",
+    "url": "https://au.investing.com/news/stock-market-news/aipowered-cyber-threats-light-a-fire-under-cybersecurity-stocks-4711916",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-23T15:13:12",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0099,
+    "ai_summary": "Two critical PHP vulnerabilities, PHP2Shell, could let attackers remotely control servers, prompting a cybersecurity stock rally. Palo Alto Networks, CrowdStrike, Cloudflare, and Okta rose 9-14% this week. AI tools helped discover the flaws but also speed up exploitation, urging immediate patches.",
+    "word_count": 578,
+    "author": "Frank DeMatteo",
+    "countries": [
+     "GBR",
+     "FIN",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "finland",
+      "japan",
+      "united kingdom"
+     ],
+     "product": [
+      "php",
+      "okta"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42287491,
+    "title": "AI-powered cyber threats light a fire under cybersecurity stocks",
+    "url": "https://in.investing.com/news/stock-market-news/aipowered-cyber-threats-light-a-fire-under-cybersecurity-stocks-5651897",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-23T15:12:11",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0133,
+    "ai_summary": "Two critical PHP vulnerabilities, PHP2Shell, were disclosed, enabling remote server control and triggering a cybersecurity alert. Cybersecurity stocks surged, with Palo Alto Networks up 11% and CrowdStrike up 11% this week. AI tools helped identify the flaws but also speed up exploitation, prompting urgent patching.",
+    "word_count": 590,
+    "author": "Frank DeMatteo",
+    "countries": [
+     "GBR",
+     "FIN",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hk",
+      "name": "CrowdStrike",
+      "website": "http://www.crowdstrike.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "finland",
+      "japan",
+      "united kingdom",
+      "mideast"
+     ],
+     "product": [
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42343639,
+    "title": "Firms Race to Fix Widespread Cyber Flaw Before Hackers Break In",
+    "url": "https://www.supplychainbrain.com/articles/45077-firms-race-to-fix-widespread-cyber-flaw-before-hackers-break-in",
+    "publisher": "Supplychainbrain",
+    "published_date": "2026-10-23T15:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.01,
+    "ai_summary": "Governments and companies pulled down websites on October 22 to patch critical PHP vulnerabilities, with AI tools helping identify the flaws. Over 22 million exposed PHP instances remain vulnerable, and hackers attempted millions of attacks within hours of the disclosure. The U.S. National Vulnerabilities Database expects known vulnerabilities to double in 2026.",
+    "word_count": 868,
+    "author": "Bloombergmaersk",
+    "countries": [
+     "AUT",
+     "NLD",
+     "FIN",
+     "FRA",
+     "DNK",
+     "AUS",
+     "CAN",
+     "DEU",
+     "JPN",
+     "BEL",
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009zgf",
+      "name": "Shizuoka Bank",
+      "website": "http://www.shizuokabank.co.jp/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000laq",
+      "name": "Mitsubishi UFJ Financial Group",
+      "website": "http://www.mufg.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "000097d",
+      "name": "Mizuho Financial Group",
+      "website": "http://www.mizuho-fg.co.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004vl",
+      "name": "Orange",
+      "website": "https://www.orange.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "elizabeth lloyd",
+      "lee klarich",
+      "matt hull",
+      "jack hughes"
+     ],
+     "location": [
+      "austria",
+      "japan",
+      "canada",
+      "australia",
+      "germany",
+      "finland",
+      "asia",
+      "france",
+      "europe",
+      "denmark",
+      "belgium",
+      "u.s.",
+      "u.k.",
+      "netherlands",
+      "the americas"
+     ],
+     "product": [
+      "google chrome",
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42282065,
+    "title": "\u2018Black October\u2019: How AI is making cyberattacks faster and harder to stop - CNBC TV18",
+    "url": "https://www.cnbctv18.com/technology/ai-cyberattacks-businesses-cybersecurity-risks-20018279.htm",
+    "publisher": "CNBCTV18",
+    "published_date": "2026-10-23T14:20:41",
+    "sentiment": "Negative",
+    "sentiment_score": 0.005,
+    "ai_summary": "Cybersecurity experts warn that AI is accelerating attacks, with vulnerabilities discovered in minutes and automated breaches possible. The eMudhra incident, where weak keys issued eight certificates, highlighted the need for audits. Experts say organizations must implement existing security measures and use AI defensively.",
+    "word_count": 1386,
+    "author": "Ashmit Kumar",
+    "countries": [
+     "IND",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Management & Penetration Testing Services",
+      "code": "BPAEADAD",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": false
+     },
+     {
+      "name": "Threat & Vulnerability Assessments (TVA)",
+      "code": "BPAKADAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ar",
+      "name": "Morgan Stanley",
+      "website": "http://www.morganstanley.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cr",
+      "name": "Bank of America",
+      "website": "https://www.bankofamerica.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000h9",
+      "name": "Mozilla",
+      "website": "https://www.mozilla.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mpmvo",
+      "name": "unit42 gmbh",
+      "website": "https://unit42.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006rb4",
+      "name": "CERT-In",
+      "website": "https://cert-in.org.in",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000k23",
+      "name": "eMudhra",
+      "website": "http://www.emudhra.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "sumit gupta",
+      "gulshan rai",
+      "huzefa motiwala",
+      "rai",
+      "gupta",
+      "motiwala"
+     ],
+     "location": [
+      "us",
+      "india"
+     ],
+     "product": [
+      "g-shock gmc-2500 series"
+     ],
+     "event": [
+      "black october",
+      "emudhra incident"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42279754,
+    "title": "Inside Mastercard\u2019s Agentic AI Strategy For The $80 Trillion B2B Payments Market",
+    "url": "https://www.forbes.com/sites/victordey/2026/10/23/inside-mastercards-agentic-ai-strategy-for-the-80t-b2b-payments-market/",
+    "publisher": "Forbes",
+    "published_date": "2026-10-23T14:08:44",
+    "sentiment": "Positive",
+    "sentiment_score": 0.911,
+    "ai_summary": "Mastercard is launching agentic AI tools for the $80 trillion B2B payments market, including Advanced B2B Analytics and Agent Pay intelligence. The services aim to verify AI agent identity and buyer intent, with Visa, American Express, and others building rival trust layers. Mastercard expects AI agents to intermediate over $15 trillion in B2B spending by 2028.",
+    "word_count": 1975,
+    "author": "Victor Dey",
+    "countries": [
+     "USA",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Integrated Payment Processors (PSP/Acquirer)",
+      "code": "FSAMABAA",
+      "is_primary": true
+     },
+     {
+      "name": "A2A Fraud, Risk & Authentication",
+      "code": "FSAMAFAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006pv",
+      "name": "Skyfire Systems",
+      "website": "https://www.skyfire.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004yg",
+      "name": "Mastercard",
+      "website": "http://www.mastercard.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000029a",
+      "name": "Recorded Future",
+      "website": "http://www.recordedfuture.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006f48",
+      "name": "The FIDO Alliance",
+      "website": "http://fidoalliance.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009fo",
+      "name": "American Express",
+      "website": "http://www.americanexpress.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kaushik gopal",
+      "marc pettican",
+      "victor dey",
+      "gopal",
+      "pettican"
+     ],
+     "location": [
+      "u.s.",
+      "asia pacific",
+      "singapore"
+     ],
+     "product": [
+      "agent pay"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9876,
+    "group_id": 15029268
+   },
+   {
+    "id": 42289683,
+    "title": "AWS says hackers tried to exploit PHP security issues days before fix \u2014 as Cloudflare CEO says it saw a huge rise in targeted attack attempts",
+    "url": "https://www.techradar.com/pro/security/aws-says-hackers-tried-to-exploit-php-security-issues-days-before-fix-as-cloudflare-ceo-says-it-saw-a-huge-rise-in-targeted-attack-attempts",
+    "publisher": "TechRadar",
+    "published_date": "2026-10-23T14:05:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0014,
+    "ai_summary": "AWS reported that PHP2Shell exploitation attempts began four days before public disclosure of two critical vulnerabilities. Cloudflare CEO Matthew Prince said attack attempts surged from thousands to hundreds of thousands within hours of disclosure. Experts urge immediate patching of supported PHP versions.",
+    "word_count": 760,
+    "author": "Sead Fadilpa\u0161i\u0107",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004o",
+      "name": "Chainguard",
+      "website": "https://www.chainguard.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "yotam perkal"
+     ],
+     "location": [],
+     "product": [
+      "php2shell",
+      "php",
+      "cve-2026-109619",
+      "x"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42338173,
+    "title": "The eMudhra certificate cleanup doesn\u2019t end with your browser - Spiceworks Inc",
+    "url": "https://www.spiceworks.com/security/the-emudhra-certificate-cleanup-doesnt-end-with-your-browser/",
+    "publisher": "Spiceworks",
+    "published_date": "2026-10-23T13:07:34",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0075,
+    "ai_summary": "Eight eMudhra intermediate certificates had private keys that could be calculated from public records, prompting browser vendors to block them. The keys were weak, with one being the number 4, and eMudhra blamed a script error. IT shops must update their own certificate bundles and check for stale trust.",
+    "word_count": 1416,
+    "author": "Tanvi Bagadiya",
+    "countries": [
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "Key Management Systems (KMS) & Key Lifecycle",
+      "code": "HDADAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02muyh8",
+      "name": "node.js",
+      "website": "https://nodejs.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000h9",
+      "name": "Mozilla",
+      "website": "https://www.mozilla.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "003gke7",
+      "name": "Chrome Systems Corporation",
+      "website": "https://www.google.com/chrome/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004h1",
+      "name": "Apple",
+      "website": "https://www.apple.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000k23",
+      "name": "eMudhra",
+      "website": "http://www.emudhra.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "wayne",
+      "scott helme",
+      "filippo valsorda",
+      "dennis jackson"
+     ],
+     "location": [
+      "india"
+     ],
+     "product": [
+      "emudhra",
+      "firefox",
+      "windows",
+      "node.js",
+      "macos",
+      "python",
+      "linux",
+      "os"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15057083
+   },
+   {
+    "id": 42305755,
+    "title": "More bugs out there: PHP2Shell is just the tip of the internet\u2019s old-code iceberg - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/opinion/et-commentary/more-bugs-out-there-php2shell-is-just-the-tip-of-the-internets-old-code-iceberg/articleshow/135152174.cms",
+    "publisher": "The Times of India",
+    "published_date": "2026-10-23T12:12:44",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0359,
+    "ai_summary": "Two PHP bugs, PHP2Shell, were found by AI security firms, allowing attackers to bypass security. The patch was rushed, but about 7.5 lakh of 5 million PHP servers are on unpatchable versions. Governments and companies shut down services to avoid breaches.",
+    "word_count": 1299,
+    "author": "Pravin Kaushal",
+    "countries": [
+     "FIN",
+     "NLD",
+     "FRA",
+     "JPN",
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005y8d",
+      "name": "Wikipedia",
+      "website": "https://www.wikipedia.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "000amrn",
+      "name": "National Security Agency",
+      "website": "http://www.nsa.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009ksh",
+      "name": "Calif",
+      "website": "https://calif.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006rb4",
+      "name": "CERT-In",
+      "website": "https://cert-in.org.in",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004rxx",
+      "name": "FBI",
+      "website": "https://FBI",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "writer"
+     ],
+     "location": [
+      "finland",
+      "japan",
+      "france",
+      "eastern india"
+     ],
+     "product": [
+      "wordpress",
+      "bank sites",
+      "goi portals",
+      "online shops",
+      "php",
+      "wikipedia"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42272776,
+    "title": "A Web Flaw Has Raised Global Alarm, Over 53,000 Indian Servers Likely At Risk",
+    "url": "https://www.ndtv.com/india-news/a-web-flaw-has-raised-global-alarm-over-53-000-indian-servers-likely-at-risk-12225739#publisher=newsstand",
+    "publisher": "Gadgets 360",
+    "published_date": "2026-10-23T12:04:44",
+    "sentiment": "Negative",
+    "sentiment_score": 0.001,
+    "ai_summary": "Two PHP vulnerabilities, PHP2Shell, could let attackers run malicious code without authorization, prompting urgent fixes. A Shodan scan identified 53,019 affected servers in India, including 234 government domains. CERT-In rated them critical, and experts warn older websites may struggle to patch.",
+    "word_count": 824,
+    "author": "",
+    "countries": [
+     "IND",
+     "JPN",
+     "EUR"
+    ],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006rb4",
+      "name": "CERT-In",
+      "website": "https://cert-in.org.in",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ffl4",
+      "name": "PHP",
+      "website": "http://www.php.net/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "aseem shrey",
+      "prateek dubey",
+      "sachin",
+      "matthew prince",
+      "dubey",
+      "shrey"
+     ],
+     "location": [
+      "india",
+      "japan",
+      "european",
+      "west bengal",
+      "kerala"
+     ],
+     "product": [
+      "wordpress",
+      "php"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42258646,
+    "title": "'It's been relentless' say IT workers on frontline of PHP cyber security scramble",
+    "url": "https://www.bbc.com/news/articles/cxnv025d8qpmo",
+    "publisher": "BBC",
+    "published_date": "2026-10-23T12:00:25",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0051,
+    "ai_summary": "IT workers described a relentless scramble to fix critical PHP vulnerabilities, with Microsoft's Satya Nadella saying he had not seen anything like it. Experts noted misinformation and panic worsened the situation, and AI was used to discover the flaws. Concerns remain about future AI-driven vulnerabilities.",
+    "word_count": 803,
+    "author": "Joe Tidy",
+    "countries": [
+     "GBR",
+     "MUS",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     },
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "006cxi4",
+      "name": "The PHP Foundation",
+      "website": "https://thephp.foundation",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "adam mudd",
+      "satya nadella",
+      "daniel card",
+      "jon jones",
+      "loganaden velvindron",
+      "mark maunder"
+     ],
+     "location": [
+      "mauritius",
+      "japan",
+      "uk"
+     ],
+     "product": [
+      "php",
+      "wordfence"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   },
+   {
+    "id": 42344097,
+    "title": "PHP flaws draw millions of exploit attempts as sites go dark",
+    "url": "https://betanews.com/article/php-flaws-exploit-attempts/",
+    "publisher": "BetaNews",
+    "published_date": "2026-10-23T11:59:30",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0033,
+    "ai_summary": "Exploit attempts against two critical PHP flaws surged into the millions within hours of disclosure, prompting Japanese banks, airlines, and rail operators to suspend online services. Fixes arrived Wednesday in PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35, each with a CVSS v4 rating of 9.2. Researchers used AI to find the defects, which had escaped notice for years.",
+    "word_count": 701,
+    "author": "Camila Nogueira",
+    "countries": [
+     "JPN",
+     "FIN",
+     "DEU"
+    ],
+    "industries": [
+     {
+      "name": "Vulnerability Intelligence & Exploit Prediction",
+      "code": "HDADAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000tl8m",
+      "name": "Valtori",
+      "website": "https://valtori.fi/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000laq",
+      "name": "Mitsubishi UFJ Financial Group",
+      "website": "http://www.mufg.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qbn",
+      "name": "ANA Holdings",
+      "website": "http://www.ana.co.jp/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000nq",
+      "name": "Aikido Security",
+      "website": "https://aikido.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006s89",
+      "name": "BITKOM",
+      "website": "http://www.bitkom.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00026qx",
+      "name": "Nomura",
+      "website": "http://www.nomura.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005mua",
+      "name": "Asahi Group Holdings",
+      "website": "https://www.asahigroup-holdings.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000i7z",
+      "name": "Tencent Cloud",
+      "website": "https://intl.cloud.tencent.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005wk6",
+      "name": "East Japan Railway",
+      "website": "http://www.jreast.co.jp/e",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matthew prince",
+      "hannu naumanen",
+      "satya nadella",
+      "felix kuhlenkamp",
+      "madeline lawrence"
+     ],
+     "location": [
+      "finland",
+      "japan",
+      "belgium",
+      "germany",
+      "asia",
+      "cologne",
+      "european"
+     ],
+     "product": [
+      "php",
+      "apache",
+      "mod_php",
+      "wordpress",
+      "php-cgi",
+      "php-fpm",
+      "linux"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15119982
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

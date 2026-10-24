@@ -1,0 +1,548 @@
+{
+ "fetched_at": "2026-10-24T11:47:54",
+ "params": {
+  "company": "posthog.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000iq",
+   "firmographic": {
+    "name": "PostHog",
+    "legal_name": "PostHog, Inc.",
+    "website": "posthog.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2020,
+    "company_description": "PostHog is an open-source developer product platform (\"Product OS\") that consolidates product analytics, session replay (web and mobile), feature flags, A/B experiments, surveys, error tracking, a managed data warehouse, a customer data platform with 120+ sources/destinations, AI observability for LLM applications, and an AI copilot into a single integrated suite. Its data layer is built on ClickHouse with high-volume services written in Rust and a proprietary Hog language running on a custom HogVM virtual machine (replacing earlier Node.js VMs); orchestration runs on Temporal and infrastructure sits on AWS across US-East-1 (Virginia) and EU-Central-1 (Frankfurt) with Cloudflare for edge/proxy and Wiz for security. The MIT-licensed core is self-hostable on Kubernetes, while advanced features and managed Cloud are sold as paid upgrades. The company targets product engineers, developers, and high-growth startups as its primary audience, with secondary positioning for HIPAA-regulated healthcare buyers and EU/privacy-conscious mid-market and enterprise customers. PostHog makes money through usage-based pay-per-event/recording/row pricing with generous free tiers (used by 98% of customers), Boost/Scale/Enterprise platform subscriptions (median annual contract value ~$54,443 per Vendr data) that unlock HIPAA BAAs, custom MSAs/DPAs, dedicated support and a 99.95% uptime SLA, and an inside-sales motion for mid-market and enterprise that runs alongside self-serve PLG signups. The company is headquartered in San Francisco, was founded in 2020 by James Hawkins and Tim Glaser, grew from 11 to over 150 employees, serves 300,000+ companies, reached $9.5 million in ARR in 2024 with 138% year-over-year growth, and achieved a $1.4 billion unicorn valuation in September 2025 via a $75 million Series E led by Peak XV Partners.",
+    "company_description_short": "PostHog is an open-source all-in-one developer platform (\"Product OS\") offering product analytics, session replay, feature flags, experiments, surveys, error tracking, a managed data warehouse, and a CDP, targeting product engineers, startups, and mid-market/enterprise buyers with usage-based pricing and HIPAA/GDPR-compliant Cloud and self-hosting options.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "51-100",
+    "logo_url": "https://files.akta.pro/logos/00/00/0i/db078052-5498-563d-9aa9-5956f82ad611.png",
+    "akta_rank": 28196
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "10m_25m",
+     "label": "$10M-$25M"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "business_focus": "European operations and GDPR/UK data protection compliance entity; UK Information Commissioner's Office registration.",
+      "name": "Hiberly Ltd.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "regional_market_entity",
+       "label": "Regional Market Entity"
+      }
+     },
+     {
+      "business_focus": "European operations / EU hosting and GDPR compliance entity.",
+      "name": "PostHog GmbH",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "regional_market_entity",
+       "label": "Regional Market Entity"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "PostHog reached unicorn status with a $1.4 billion valuation as of September 2025 with its $75M Series E round.",
+      "source": [
+       "https://tracxn.com/d/companies/posthog/__tWY33MozggoGzQ9VYs8-O9tG9o6ZXDONwy37RdpGE_0/funding-and-investors"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$1.4 billion"
+     },
+     {
+      "description": "PostHog has raised a total of $194 million across 7 funding rounds, with its largest being the $75M Series E.",
+      "source": [
+       "https://tracxn.com/d/companies/posthog/__tWY33MozggoGzQ9VYs8-O9tG9o6ZXDONwy37RdpGE_0/funding-and-investors"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$194 million across 7 funding rounds"
+     },
+     {
+      "description": "PostHog reached $9.5 million ARR in 2024 with 138% year-over-year growth.",
+      "source": [
+       "https://research.contrary.com/company/posthog"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$9.5 million (2024)"
+     },
+     {
+      "description": "PostHog is used by over 300,000 companies as the all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, and LLM analytics platform.",
+      "source": [
+       "https://www.lennysnewsletter.com/p/a-year-free-of-posthog-16500-value"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "300,000+ companies"
+     },
+     {
+      "description": "PostHog's 'Product for Engineers' newsletter is read by 100,000+ founders and builders, indicating strong developer mindshare.",
+      "source": [
+       "https://posthog.com/blog/is-google-analytics-hipaa-compliant"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "100,000+ subscribers (newsletter)"
+     },
+     {
+      "description": "PostHog captured 54% of Y Combinator's Winter 2023 batch, signaling strong product-market fit in the startup developer-tools segment.",
+      "source": [
+       "https://research.contrary.com/company/posthog"
+      ],
+      "type": {
+       "code": "market_share",
+       "label": "Market Share"
+      },
+      "value": "54% of Y Combinator Winter 2023 batch"
+     },
+     {
+      "description": "PostHog has attracted 13 investors total, comprising 10 institutional and 3 angel investors.",
+      "source": [
+       "https://tracxn.com/d/companies/posthog/__tWY33MozggoGzQ9VYs8-O9tG9o6ZXDONwy37RdpGE_0/funding-and-investors"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "13 investors (10 institutional + 3 angels)"
+     },
+     {
+      "description": "PostHog grew from 11 to over 150 employees over a five-year period while scaling revenue.",
+      "source": [
+       "https://newsletter.posthog.com/p/32-things-weve-learned-from-scaling"
+      ],
+      "type": {
+       "code": "headcount",
+       "label": "Headcount"
+      },
+      "value": "150+ employees"
+     },
+     {
+      "description": "PostHog's CDP supports over 120 sources and destinations, plus an API and webhooks layer.",
+      "source": [
+       "https://posthog.com/"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "120+ sources/destinations"
+     },
+     {
+      "description": "PostHog's valuation grew from $920M in June 2024 to $1.4B in September 2025, representing ~52% growth in 15 months.",
+      "source": [
+       "https://www.thesaasnews.com/news/posthog-raises-75m-series-e-at-1-4b-valuation"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$920M (Series D, June 2024) \u2192 $1.4B (Series E, Sept 2025)"
+     },
+     {
+      "description": "PostHog Cloud is SOC 2 Type II compliant, GDPR-compliant, CCPA-compliant, participates in the EU-US/UK/Swiss Data Privacy Frameworks, and offers BAAs for HIPAA on Boost/Scale/Enterprise tiers.",
+      "source": [
+       "https://posthog.com/handbook/company/security"
+      ],
+      "type": {
+       "code": "regulatory_milestones",
+       "label": "Regulatory Milestones"
+      },
+      "value": "SOC 2 Type II, HIPAA, GDPR, CCPA, EU-US DPF certified"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Lenny's Newsletter offers all annual subscribers one full year of PostHog Scale plus double the free-tier credits (valued at $16,500) via the Lenny's Newsletter Product Pass \u2014 the first time PostHog has offered such a deal. Total Product Pass value exceeds $25,000.",
+      "name": "Lenny's Newsletter",
+      "source": [
+       "https://www.lennysnewsletter.com/p/a-year-free-of-posthog-16500-value"
+      ],
+      "strategic_tier": "Flagship Distribution Partnership",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "004s6c8"
+     },
+     {
+      "description": "AWS is PostHog's core cloud data hosting subprocessor for both US Cloud (us-east-1, Virginia) and EU Cloud (eu-central-1, Frankfurt). Customers choose region for data residency.",
+      "name": "Amazon Web Services (AWS)",
+      "source": [
+       "https://posthog.com/subprocessors"
+      ],
+      "strategic_tier": "Core Infrastructure Subprocessor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00008qf"
+     },
+     {
+      "description": "Cloudflare provides PostHog's managed reverse proxy, edge network, content delivery, security, and traffic routing services. Operates global edge locations (dynamic, worldwide) for data in transit.",
+      "name": "Cloudflare",
+      "source": [
+       "https://posthog.com/subprocessors"
+      ],
+      "strategic_tier": "Core Infrastructure Subprocessor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00006rs"
+     },
+     {
+      "description": "Wiz provides PostHog with security vulnerability management and detection, with processing located in Germany and France. Wiz also published detailed post-mortem research on the Shai-Hulud 2.0 supply-chain attack that affected PostHog.",
+      "name": "Wiz, Inc.",
+      "source": [
+       "https://posthog.com/subprocessors"
+      ],
+      "strategic_tier": "Core Security Subprocessor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00002eh"
+     },
+     {
+      "description": "PlanetScale handles operations and performance monitoring of databases hosted on AWS, in both US and EU Cloud regions.",
+      "name": "PlanetScale, Inc.",
+      "source": [
+       "https://posthog.com/subprocessors"
+      ],
+      "strategic_tier": "Core Infrastructure Subprocessor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00005bk"
+     },
+     {
+      "description": "Modal Labs provides serverless compute infrastructure for isolated code execution, in both US and EU Cloud regions.",
+      "name": "Modal Labs, Inc.",
+      "source": [
+       "https://posthog.com/subprocessors"
+      ],
+      "strategic_tier": "Core Infrastructure Subprocessor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00004zo"
+     },
+     {
+      "announced_on": {
+       "month": 3,
+       "year": 2026
+      },
+      "description": "PostHog is integrated into Stripe's Stripe Projects CLI as a default analytics option alongside Vercel, Railway, Supabase, Neon, PlanetScale, Turso, Chroma, Clerk, and RunloopAI, allowing developers to assemble production-grade stacks with secure credential syncing. Currently in developer preview across US, EU, UK, and Canada.",
+      "name": "Stripe Projects ecosystem (Vercel, Railway, Supabase, Neon, Turso, Chroma, Clerk, RunloopAI)",
+      "source": [
+       "https://www.panewslab.com/zh/articles/019d2ae2-79e2-771e-ad0c-a7e2e39f1369"
+      ],
+      "strategic_tier": "Distribution / Marketplace Integrations",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "description": "Salesforce is used by PostHog as a customer relationship management (CRM) tool for internal business operations; not a commercial product integration with PostHog Cloud.",
+      "name": "Salesforce",
+      "source": [
+       "https://posthog.com/privacy"
+      ],
+      "strategic_tier": "Standard Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00006ej"
+     },
+     {
+      "description": "Zendesk is used by PostHog as its customer support tool for internal operations.",
+      "name": "Zendesk",
+      "source": [
+       "https://posthog.com/privacy"
+      ],
+      "strategic_tier": "Standard Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00041jr"
+     },
+     {
+      "description": "Slack is PostHog's internal communications tool; also referenced for webhook-based event streaming destinations to customer-facing Slack channels.",
+      "name": "Slack",
+      "source": [
+       "https://posthog.com/privacy"
+      ],
+      "strategic_tier": "Standard Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000bk2"
+     },
+     {
+      "description": "GitHub is PostHog's open source repository host and internal project management tool; the platform is the foundation of PostHog's open-source community and public-by-default handbook culture.",
+      "name": "GitHub",
+      "source": [
+       "https://posthog.com/privacy"
+      ],
+      "strategic_tier": "Core Platform Partner",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000c6o"
+     },
+     {
+      "description": "PostHog's CDP and webhook system supports syncing product usage data into SaaS tools such as Salesforce, HubSpot, Braze, Customer.io, Vitally, Gainsight, and PagerDuty for marketing activation, sales enablement, and operations.",
+      "name": "Webhook & CDP destinations (Salesforce, HubSpot, Braze, Customer.io, Vitally, Gainsight, PagerDuty)",
+      "source": [
+       "https://posthog.com/cdp"
+      ],
+      "strategic_tier": "Standard Product Integrations",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "002yuy8"
+     },
+     {
+      "description": "Substack is used as the newsletter delivery platform for PostHog's 'Product for Engineers' newsletter; PostHog shares subscriber email addresses with Substack for delivery.",
+      "name": "Substack",
+      "source": [
+       "https://posthog.com/blog/is-google-analytics-hipaa-compliant"
+      ],
+      "strategic_tier": "Standard Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000na"
+     },
+     {
+      "description": "Google Cloud Platform is used by PostHog as a cloud data infrastructure vendor for internal operations.",
+      "name": "Google Cloud Platform",
+      "source": [
+       "https://posthog.com/privacy"
+      ],
+      "strategic_tier": "Standard Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000d34"
+     },
+     {
+      "description": "Clay is used by PostHog as a marketing data engine for internal operations.",
+      "name": "Clay",
+      "source": [
+       "https://posthog.com/privacy"
+      ],
+      "strategic_tier": "Standard Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000007m"
+     },
+     {
+      "description": "Ashby is PostHog's applicant tracking system (ATS) used to process personal data of job applicants on PostHog's behalf.",
+      "name": "Ashby",
+      "source": [
+       "https://posthog.com/privacy"
+      ],
+      "strategic_tier": "Standard Vendor",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000onk"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 9,
+       "year": 2025
+      },
+      "description": "Closed a $75 million Series E led by Peak XV Partners at a $1.4 billion valuation in September 2025, achieving unicorn status and bringing total disclosed funding to $194 million across 7 rounds.",
+      "source": [
+       "https://www.thesaasnews.com/news/posthog-raises-75m-series-e-at-1-4b-valuation"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2024
+      },
+      "description": "Closed a $70 million Series D led by Stripe at a $920 million valuation in June 2024, reportedly prompted by a positive tweet from Stripe CEO Patrick Collison, with participation from GV, Y Combinator, and Formus Capital.",
+      "source": [
+       "https://www.finsmes.com/2025/06/posthog-raises-70m-in-series-d-funding-at-920m-valuation.html"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 12,
+       "year": 2025
+      },
+      "description": "Partnered with Lenny's Newsletter in December 2025 to offer annual subscribers a full year of PostHog Scale plus double free-tier credits (valued at $16,500, total Product Pass value over $25,000) \u2014 PostHog's first distribution partnership of this kind.",
+      "source": [
+       "https://www.lennysnewsletter.com/p/a-year-free-of-posthog-16500-value"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "year": 2025
+      },
+      "description": "Expanded the product surface in 2024\u20132025 with PostHog Web Analytics, Mobile Session Replay, a managed Data Warehouse, the HogVM/Hog language runtime, AI Observability for LLM applications, and a PostHog AI copilot, extending the consolidated \"Product OS\" thesis into AI/observability territory.",
+      "source": [
+       "https://posthog.com/newsletter/choosing-technologies"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 1,
+       "year": 2024
+      },
+      "description": "Launched EU Cloud region on AWS eu-central-1 (Frankfurt, Germany) alongside the existing US-East-1 (Virginia) region to support EU data residency, GDPR compliance, and PostHog GmbH entity operations.",
+      "source": [
+       "https://posthog.com/subprocessors"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "day": 24,
+       "month": 11,
+       "year": 2025
+      },
+      "description": "Disclosed and publicly post-mortemed the November 24, 2025 Shai-Hulud 2.0 npm supply chain attack that compromised PostHog's JavaScript SDKs, rotated credentials, fixed the underlying GitHub Actions workflow vulnerability, and added enhanced security practices \u2014 a defensive response covering 25,000+ affected developers.",
+      "source": [
+       "https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem"
+      ],
+      "type": {
+       "code": "regulatory_action",
+       "label": "Regulatory Action"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "PostHog launched EU Cloud on AWS Frankfurt (eu-central-1) and operates PostHog GmbH plus UK subsidiary Hiberly Ltd., indicating a deliberate push into European mid-market and regulated buyers seeking data residency. Observed in 2024 with continued investment into 2025.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "HIPAA-compliant Cloud with BAA on Boost/Scale/Enterprise plus a BAA generator explicitly opens healthcare providers, health apps, and wearables as a new vertical, with documented PHI-safe deployment paths (data anonymization or self-hosting).",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     },
+     {
+      "description": "AI Observability for LLM applications and a PostHog AI copilot (built on OpenAI-style models) launched in 2025, targeting AI/LLM application builders as a new persona inside the existing developer base and broadening PostHog from traditional product analytics into AI tooling.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "December 2025 Lenny's Newsletter Product Pass (one year of PostHog Scale plus double free-tier credits, $16,500 value) is PostHog's first major newsletter-distribution partnership, opening a new channel into the product management and senior engineering audience at scale.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Integration into Stripe Projects CLI alongside Vercel, Railway, Supabase, Neon, PlanetScale, Turso, Chroma, Clerk, and RunloopAI in 2026 developer preview extends PostHog into one-click developer-stack assembly, deepening ecosystem distribution.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "$75M Series E in September 2025 led by Peak XV Partners and additional disclosed holding from Sofina in 2H 2025 add fresh primary capital and a strategic-angel footprint (PostHog CEO participated in Mem0's $24M round), signaling continued capacity to fund product and geographic expansion.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

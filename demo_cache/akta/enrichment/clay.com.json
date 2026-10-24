@@ -1,0 +1,372 @@
+{
+ "fetched_at": "2026-10-24T11:45:49",
+ "params": {
+  "company": "clay.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "000007m",
+   "firmographic": {
+    "name": "Clay",
+    "legal_name": "Clay Labs Inc.",
+    "website": "clay.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2017,
+    "company_description": "Clay (legal entity: Clay Labs Inc.) is an AI-native go-to-market (GTM) development platform headquartered in New York City, founded in 2017 and operating under CEO Kareem Amin and co-founder Varun Anand. The company combines a 150+ provider waterfall enrichment marketplace, a proprietary AI research agent (Claygent, executing ~140M runs per month), a natural-language AI co-pilot (Sculptor), an intent and signals engine, a native email sequencer (Sequencer), code-based extensibility (Clay Functions), and a Model Context Protocol server (Clay MCP) that exposes its workflows to external AI assistants such as Claude, ChatGPT, and Codex. Its core product surface is the Clay table, which unifies data, AI, signals, and orchestration into a single workflow environment used by sales, marketing, and RevOps teams.\n\nClay serves primarily B2B sales, RevOps, and GTM engineering personas across enterprise customers (OpenAI, Anthropic, Canva, Rippling, Intercom, Notion, Figma, Verkada), mid-market accounts (Vanta, Pendo, Hex, Merge), and a long tail of startups and SMBs, supported by a 40,000+ member community, Clay University, the annual Sculpt conference, and a certified Clay Studio Partner channel (demandDrive, Cobalt Keys). The company monetizes through tiered SaaS subscriptions (Launch at $185/mo, Advanced at $495/mo, custom Enterprise contracts), usage-based consumption on Data Credits and Actions, and partner-influenced revenue. Following its August 2025 $100M Series C at a $3.1B valuation, Clay reported approximately $100M ARR in December 2025, with net retention above 200%, and reached a $5B valuation via a January 2026 employee tender offer; the company is also expanding its Manhattan headquarters with a $50M R&D commitment and 498 new jobs.",
+    "company_description_short": "Clay is an AI-native go-to-market platform that unifies 150+ data providers, AI research agents (Claygent), intent signals, and orchestration into a single workflow environment for B2B sales, RevOps, and marketing teams at enterprises and startups.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "101-250",
+    "logo_url": "https://files.akta.pro/logos/00/00/07/75d77a28-948e-5ad4-97ec-9da11673edee.png",
+    "akta_rank": 9938
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "100m_250m",
+     "label": "$100M-$250M"
+    },
+    "valuation_estimate": {
+     "code": "5b_10b",
+     "label": "$5B-$10B"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Raised $100M Series C led by CapitalG at a $3.1B valuation in Aug 2025; later reports cite ~$5B valuation.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$100M Series C / $3.1B valuation (Aug 2025), later ~$5B"
+     },
+     {
+      "description": "Cumulative funding across seed through Series C, with Sequoia and CapitalG among backers.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$204M total funding"
+     },
+     {
+      "description": "Reported ARR around the Series C announcement.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$100M ARR"
+     },
+     {
+      "description": "Customer base reported in the 10,000+ range (with earlier figures citing ~4,500 paying customers).",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "10,000+ customers"
+     },
+     {
+      "description": "Headline reach figure: 500,000+ GTM teams 'trust' Clay across the community and ecosystem.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "500,000+ GTM teams"
+     },
+     {
+      "description": "GTME community size on Clay's Slack/community channels.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "40,000+ members"
+     },
+     {
+      "description": "Volume of AI research agent executions per month, signaling platform usage intensity.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "~140M monthly Claygent runs"
+     },
+     {
+      "description": "Aggregated data providers in Clay's waterfall enrichment marketplace.",
+      "source": [
+       "https://www.clay.com/blog/gtm-alpha"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "150+ integrated data providers"
+     },
+     {
+      "description": "NYC expansion commitment tied to HQ at 11 Madison Avenue.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "infrastructure_footprint",
+       "label": "Infrastructure Footprint"
+      },
+      "value": "$50M NYC investment / 163,000 sq ft / 498 new jobs"
+     },
+     {
+      "description": "Operating history of approximately nine years as of 2025.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "9-year-old company"
+     }
+    ],
+    "partnership": [
+     {
+      "description": "Data provider integrated into Clay's waterfall enrichment marketplace, supplying B2B contact and company data for prospect enrichment.",
+      "name": "Lusha",
+      "source": [
+       "https://www.globenewswire.com/news-release/2026/03/12/3255071/0/en/Lusha-Partners-with-Clay-to-Bring-Verified-B2B-Data-to-GTM-Builders.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0002snt"
+     },
+     {
+      "description": "Clay Studio Partner that resells, implements, and runs outbound campaigns on behalf of clients using Clay.",
+      "name": "demandDrive",
+      "source": [
+       "https://www.prweb.com/releases/demanddrive-joins-clays-partner-ecosystem-as-an-official-clay-studio-partner-302761115.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0003dmh"
+     },
+     {
+      "description": "Certified Clay Studio Partner delivering Clay-powered GTM services and implementations to end customers.",
+      "name": "Cobalt Keys LLC",
+      "source": [
+       "https://www.ldnews.com/press-release/story/543574/cobalt-keys-llc-announces-advanced-ai-automation-partnership-certifications-to-transform-business-growth-strategies/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "00vjrgw"
+     },
+     {
+      "description": "Integration partner providing email verification and deliverability data within Clay's enrichment and outbound workflows.",
+      "name": "BetterContact",
+      "source": [
+       "https://www.globenewswire.com/news-release/2025/11/26/3195350/0/en/AI-Powered-Waterfall-Enrichment-Platform-BetterContact-Announces-Partnership-with-Clay-for-Berlin-GTM-Community-Event.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000brbb"
+     },
+     {
+      "description": "Data partnership enabling Clay customers to access CB Insights market intelligence, company, and funding data inside workflows.",
+      "name": "CB Insights",
+      "source": [
+       "https://salestechstar.com/sales-marketing/cb-insights-and-clay-partner-to-inject-predictive-intelligence-into-the-crm/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000ici"
+     },
+     {
+      "description": "Frontier partner relationship: OpenAI models and APIs power Claygent and other AI features inside Clay, and OpenAI is also a customer.",
+      "name": "OpenAI",
+      "source": [
+       "https://www.technobezz.com/news/openai-launches-frontier-enterprise-ai-platform-for-fortune-500-companies"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "description": "Acquired The Kiln (now part of 2X), a Clay Studio Partner; deepens Clay's agency and implementation capacity in the GTM engineering ecosystem.",
+      "name": "2X",
+      "source": [
+       "https://www.tipranks.com/news/private-companies/2x-acquisition-of-key-partner-expands-clays-enterprise-gtm-footprint"
+      ],
+      "strategic_tier": "Flagship",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      }
+     },
+     {
+      "description": "Integration partner providing intent / signal data that Clay customers use to prioritize accounts and contacts in outbound workflows.",
+      "name": "Octave",
+      "source": [
+       "https://venturebeat.com/technology/how-clay-and-octave-are-quietly-killing-off-traditional-sales-jobs"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00q5gqu"
+     },
+     {
+      "description": "Major integration partner supplying contact, company, and intent data into Clay's enrichment waterfall and outbound workflows.",
+      "name": "Apollo.io",
+      "source": [
+       "https://www.clay.com/blog/gtm-alpha"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000055"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 8,
+       "year": 2025
+      },
+      "description": "Closed a $100M Series C led by CapitalG at a $3.1B valuation in August 2025, bringing total funding to approximately $204M and providing capital to scale the GTM engineering category.",
+      "source": [
+       "https://finance.yahoo.com/news/ai-gtm-leader-clay-raises-124500620.html"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 9,
+       "year": 2025
+      },
+      "description": "Launched six major platform products at Sculpt 2025 in September 2025: Sculptor AI co-pilot, Claygent Builder, Claygent Connectors, Audiences, Sequencer, and Web Intent, extending Clay from enrichment to full GTM orchestration.",
+      "source": [
+       "https://www.clay.com/blog/gtm-alpha"
+      ]
+     },
+     {
+      "date": {
+       "day": 3,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Clay announced it will significantly expand its Manhattan headquarters by leasing 163,095 square feet of office space at 11 Madison Avenue in the Flatiron District, with plans to create 498 new full-time jobs over five years and invest $50 million in research and development activity in New York State, supported by up to $9.96 million in Excelsior Jobs Program tax credits from Empire State Development.",
+      "source": [
+       "https://esd.ny.gov/esd-media-center/press-releases/governor-hochul-announces-ai-platform-clay-expand-new-york-city"
+      ],
+      "title": "NYC Headquarters Expansion",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "NYC expansion plan tied to 498 new jobs over five years alongside a $50M R&D investment commitment, announced April 2026, signals aggressive organizational scaling.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "Sculpt 2025 introduced six new products (Sculptor, Claygent Builder, Claygent Connectors, Audiences, Sequencer, Web Intent) and early-2026 added Clay Functions and Clay MCP, expanding the platform from data enrichment into full GTM workflow orchestration and AI agent distribution.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "EMEA-specific data partnerships with Lusha (verified phone, EMEA-compliant data, March 2026), Beauhurst (UK/Germany funding data, March 2026), and Ocean.io, plus GDPR/CCPA compliance, indicate a deliberate push into European markets.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Clay Partner Program launched August 2025 with solution, integration, creator, and startup tiers, formalizing the indirect sales channel alongside Clay Studio Partners demandDrive and Cobalt Keys.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "January 2025 acquisition of Avenue (intent signal workflow automation) and acquisition of The Kiln (now part of 2X, a Clay Studio Partner) suggest continued tuck-in M&A to deepen agent and agency capacity.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "March 2026 pricing restructure separating Data Credits (company/people data) and Actions (enrichments, AI tasks, workflow operations) with advanced features moved behind a $495/month tier is designed to capture more value from heavy-usage enterprise accounts.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "Raised approximately $204M across disclosed rounds through August 2025, with two tender offers (Sept 2025 at $1.5B, Jan 2026 at $5B), sustaining primary capital availability for continued expansion.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

@@ -1,0 +1,7155 @@
+{
+ "fetched_at": "2026-10-24T11:46:56",
+ "params": {
+  "company": "linear.app",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 61,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 41578010,
+    "title": "Figma expands Model Context Protocol support with 20 new partners",
+    "url": "https://cryptobriefing.com/figma-model-context-protocol-20-partners/",
+    "publisher": "Crypto Briefing",
+    "published_date": "2026-10-20T14:17:12",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Figma announced 20 new partners for its Model Context Protocol at a Bengaluru event, including Sarvam, Notion, Linear, and Mistral. The partners plug into Figma's MCP server, enabling two-way AI agent access to design data. Figma also rolled out code layers and Specs in open beta.",
+    "word_count": 400,
+    "author": "Diego Almada Lopez",
+    "countries": [
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Developer Tooling & SDK Platforms",
+      "code": "BPAMAOAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00675s4",
+      "name": "Sarvam",
+      "website": "https://www.sarvam.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000h",
+      "name": "Mistral AI",
+      "website": "https://mistral.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "diego almada lopez"
+     ],
+     "location": [
+      "bengaluru",
+      "india"
+     ],
+     "product": [
+      "figma"
+     ],
+     "event": [
+      "config india"
+     ]
+    },
+    "newsworthiness_score": 0.9714,
+    "group_id": 14281514
+   },
+   {
+    "id": 41581509,
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-10-20T14:13:32",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6914,
+    "ai_summary": "Figma announced 20 new MCP partners at its Config conference in India, including Amp, ClickUp, and Notion. Co-founder Dylan Field criticized MCP as an imperfect protocol, citing risks of data abuse and asymmetric context sharing. He noted Figma plans to support Pi, an MCP tool.",
+    "word_count": 388,
+    "author": "Ivan Mehta",
+    "countries": [
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "Developer Tooling & SDK Platforms",
+      "code": "BPAMAOAD",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004qi5",
+      "name": "OpenCode",
+      "website": "https://opencode.so/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000h",
+      "name": "Mistral AI",
+      "website": "https://mistral.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dylan field"
+     ],
+     "location": [
+      "india"
+     ],
+     "product": [
+      "amp",
+      "meta muse",
+      "notion",
+      "clickup",
+      "figma",
+      "mistral",
+      "x",
+      "sarvam"
+     ],
+     "event": [
+      "config conference"
+     ]
+    },
+    "newsworthiness_score": 0.7303,
+    "group_id": 14281514
+   },
+   {
+    "id": 40465750,
+    "title": "6 Best Attio Integrations for GTM Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/attio-integrations",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Attio's six best integrations for GTM teams are detailed, covering Slack, Segment, Stripe, Outreach, Zapier, and Linear. Each integration's capabilities, pricing, and target users are described, with Stripe syncing billing data and Segment streaming product behavior into CRM records.",
+    "word_count": 5608,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Journey Orchestration & Campaign Management",
+      "code": "BPAFAFAF",
+      "is_primary": true
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     },
+     {
+      "name": "Real-Time / Streaming Data Integration (CDC & Event Streaming)",
+      "code": "HDAEACAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002eck",
+      "name": "Segment",
+      "website": "http://segment.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003bk",
+      "name": "Outreach",
+      "website": "https://www.outreach.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "attio",
+      "gmail",
+      "outlook",
+      "google calendar sync",
+      "slack",
+      "zapier",
+      "linear",
+      "mixmax",
+      "airtable",
+      "notion",
+      "lemlist",
+      "pipedream",
+      "microsoft teams",
+      "make",
+      "google calendar",
+      "segment",
+      "outreach",
+      "stripe invoicing",
+      "stripe subscriptions",
+      "amplify core",
+      "amplify pro",
+      "amplify plus",
+      "plus",
+      "google sheets",
+      "hubspot",
+      "typeform",
+      "salesforce",
+      "stripe",
+      "calendly",
+      "zoominfo",
+      "mailchimp",
+      "zoominfo lite",
+      "excel",
+      "import2",
+      "pipedrive",
+      "zoho"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.805,
+    "group_id": 14076104
+   },
+   {
+    "id": 40140136,
+    "title": "Google Just Wired Gemini Into Everyone Else's Stack",
+    "url": "https://uctoday.com/google-just-wired-gemini-into-everyone-elses-stack",
+    "publisher": "UC Today",
+    "published_date": "2026-10-08T14:05:41",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9923,
+    "ai_summary": "Google added seven new Gemini MCP integrations to Workspace on September 15, 2026, connecting Gemini with Asana, Atlassian Rovo, HubSpot, Mailchimp, QuickBooks, monday.com, and Salesforce. The connectors are enabled by default but support only read actions, while Workspace Studio handles action-capable workflows. Google plans to roll out Skills on October 5.",
+    "word_count": 2846,
+    "author": "Rebekah Carterlisten",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": false
+     },
+     {
+      "name": "System Integration & Connectors",
+      "code": "BPAMAOAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004ox",
+      "name": "Smartsheet",
+      "website": "https://www.smartsheet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000209",
+      "name": "products and services"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "WQC6HR",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "david soria parra",
+      "pratima arora",
+      "arnab bose",
+      "irwin lazar",
+      "sam altman",
+      "zhen lu"
+     ],
+     "location": [],
+     "product": [
+      "gemini",
+      "asana",
+      "jira",
+      "monday.com",
+      "quickbooks",
+      "zoho",
+      "airtable",
+      "mailchimp",
+      "claude",
+      "notion",
+      "salesforce",
+      "hubspot",
+      "linear",
+      "workspace studio",
+      "pandadoc",
+      "copilot",
+      "cloud api gateway",
+      "atlassian rovo",
+      "slack",
+      "microsoft 365",
+      "servicenow",
+      "rovo mcp v2",
+      "sharepoint",
+      "onedrive",
+      "teams",
+      "dynamics 365",
+      "outlook",
+      "chatgpt",
+      "command by asana",
+      "ai studio",
+      "reusable business skills",
+      "power platform",
+      "work iq mcp",
+      "smartsheet",
+      "cursor",
+      "codex",
+      "microsoft copilot",
+      "rovo mcp",
+      "luna",
+      "gpt-6 sol",
+      "claude opus 5.5",
+      "gmail",
+      "joule work",
+      "drive",
+      "docs",
+      "chatgpt work",
+      "slides",
+      "chat",
+      "dots",
+      "sheets",
+      "mcp"
+     ],
+     "event": [
+      "devday"
+     ]
+    },
+    "newsworthiness_score": 0.8393,
+    "group_id": 13715144
+   },
+   {
+    "id": 39918534,
+    "title": "Anthropic Expands Discounts and Support for Founders",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-discounts-support-founders/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-10-06T21:59:54",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Anthropic expanded its Claude Startups program to more founders, offering a year of Claude Team, $1,000 in API credits, and up to $45,000 in discounts on tools. The program also includes office hours with Anthropic's Applied AI team and is open to startups founded in the last five years or funded in the last two.",
+    "word_count": 566,
+    "author": "Pymnts",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate Accelerators & Startup Programs",
+      "code": "FSANAHAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sarah wolf"
+     ],
+     "location": [],
+     "product": [
+      "claude",
+      "lovable",
+      "linear",
+      "hex",
+      "granola"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9081,
+    "group_id": 13141857
+   },
+   {
+    "id": 39902279,
+    "title": "O fim das reuni\u00f5es de alinhamento? Agentes de IA j\u00e1 automatizam relat\u00f3rios e status de projetos",
+    "url": "https://exame.com/inteligencia-artificial/o-fim-das-reunioes-de-alinhamento-agentes-de-ia-ja-automatizam-relatorios-e-status-de-projetos/",
+    "publisher": "Exame",
+    "published_date": "2026-10-06T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4421,
+    "ai_summary": "AI agents are automating project status reports, consulting task systems and Slack to produce summaries. Microsoft's Work Trend Index 2026 found 66% of AI users say the technology lets them spend more time on higher-value activities. The trend is to reduce coordination meetings, not eliminate them.",
+    "word_count": 807,
+    "author": "Bianca Bezerra Pinto",
+    "countries": [
+     "BRA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Project & Task Management",
+      "code": "BPAMAMAF",
+      "is_primary": false
+     },
+     {
+      "name": "Collaboration & Productivity Platforms (M365/Google Workspace, Email, Chat/Meetings)",
+      "code": "BPAEAIAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000c1ep",
+      "name": "Saint Paul",
+      "website": "https://www.saintpaul.com.br",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "62",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54161",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "brasil"
+     ],
+     "product": [
+      "microsoft 365",
+      "jira"
+     ],
+     "event": [
+      "exame"
+     ]
+    },
+    "newsworthiness_score": 0.8176,
+    "group_id": 13538966
+   },
+   {
+    "id": 39804471,
+    "title": "Linear MCP, Notion, Dropbox Dash Cracked in ClawSecure Test",
+    "url": "https://aithority.com/machine-learning/linear-mcp-notion-dropbox-dash-cracked-in-clawsecure-test/",
+    "publisher": "AiThority",
+    "published_date": "2026-10-06T08:25:06",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0099,
+    "ai_summary": "ClawSecure cracked Linear, Notion, and Dropbox Dash MCP platforms, finding critical default vulnerabilities in the MCP protocol itself. The report, released September 24, 2026, shows the same attack class across clean implementations, with Linear's live production system exploited in 75 minutes.",
+    "word_count": 490,
+    "author": "Ein Presswire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vulnerability Assessment & Scanning",
+      "code": "HDADAHAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00vx5wt",
+      "name": "ClawSecure",
+      "website": "https://www.clawsecure.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000qt8",
+      "name": "Dropbox",
+      "website": "https://www.dropbox.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "608",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "83",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "j.d. salbego",
+      "gou rao"
+     ],
+     "location": [],
+     "product": [
+      "dropbox dash",
+      "notion",
+      "linear mcp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13497377
+   },
+   {
+    "id": 38849949,
+    "title": "Google Gemini gets new connected apps: Airtable, Adobe, Peloton added - CNBC TV18",
+    "url": "https://www.cnbctv18.com/technology/google-gemini-gets-new-connected-apps-airtable-adobe-peloton-added-19997662.htm",
+    "publisher": "CNBCTV18",
+    "published_date": "2026-09-24T19:26:09",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google announced on September 23 that Gemini now supports connected apps from Airtable, Adobe, Peloton, and others. The additions let users access third-party services directly in Gemini conversations, covering productivity, creativity, and lifestyle categories.",
+    "word_count": 453,
+    "author": "CNBCTV",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sudarsanan mani"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "linear",
+      "zoho",
+      "gemini",
+      "picsart",
+      "webflow",
+      "pandadoc",
+      "peloton",
+      "adobe",
+      "wispr ai",
+      "squarespace",
+      "monday.com",
+      "experian",
+      "apartments.com",
+      "seatgeek"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9155,
+    "group_id": 12219351
+   },
+   {
+    "id": 38800723,
+    "title": "Gemini\u2019s latest upgrade makes it much more useful at work",
+    "url": "https://www.androidpolice.com/gemini-latest-upgrade-makes-it-much-more-useful-at-work/",
+    "publisher": "Android Police",
+    "published_date": "2026-09-24T04:29:36",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google expanded Gemini's third-party app integrations, adding Airtable, Linear, Adobe, and others. The integrations let users pull data directly into Gemini, but the author argues that opening Model Context Protocol (MCP) support would be more scalable. Google's current MCP access is limited to eligible US personal accounts.",
+    "word_count": 386,
+    "author": "Rajesh Pandey",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": false
+     },
+     {
+      "name": "System Integration & Connectors",
+      "code": "BPAMAOAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "518210",
+      "name": "Information"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "picsart",
+      "airtable",
+      "gemini",
+      "pandadoc",
+      "claude",
+      "linear",
+      "chatgpt",
+      "squarespace",
+      "zoho",
+      "wispr ai",
+      "granola",
+      "seatgeek",
+      "ticketmaster",
+      "webflow",
+      "experian",
+      "peloton",
+      "wix",
+      "adobe",
+      "apartments.com",
+      "otter.ai",
+      "wispr flow",
+      "notetaker",
+      "monday.com",
+      "ai assistant"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8398,
+    "group_id": 12281856
+   },
+   {
+    "id": 38805717,
+    "title": "Gemini Adds Adobe, Peloton to Connected Apps Ecosystem",
+    "url": "https://blockchain.news/news/gemini-connected-apps-update-2026",
+    "publisher": "Blockchain News",
+    "published_date": "2026-09-24T01:20:18",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google's Gemini app expanded its Connected Apps feature on September 23, 2026, adding Adobe, Airtable, Linear, and Peloton. The integrations span productivity, creativity, and lifestyle, letting users manage tasks without switching apps. Google says users retain control over connections, though disconnecting only stops data flow.",
+    "word_count": 368,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Data/Apps Connectivity & Adapters (Connectors, Drivers, SDKs)",
+      "code": "HDAEAIAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fg1",
+      "name": "Peloton",
+      "website": "http://www.onepeloton.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004abj",
+      "name": "Apartments.com",
+      "website": "https://www.apartments.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ne",
+      "name": "SeatGeek",
+      "website": "https://seatgeek.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "628",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "felix pinkston"
+     ],
+     "location": [],
+     "product": [
+      "peloton",
+      "airtable",
+      "linear",
+      "gemini",
+      "adobe",
+      "picsart",
+      "gmail",
+      "apartments.com",
+      "drive",
+      "monday.com",
+      "squarespace",
+      "seatgeek",
+      "google workspace tools"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9795,
+    "group_id": 12219351
+   },
+   {
+    "id": 38790945,
+    "title": "Gemini\u3001\u5916\u90e8\u30a2\u30d7\u30ea\u9023\u643a\u300cConnected Apps\u300d\u3092\u62e1\u5145\u2014\u2014Adobe\u3001Airtable\u3001Peloton\u306a\u306914\u30b5\u30fc\u30d3\u30b9\u3092\u8ffd\u52a0",
+    "url": "https://thebridge.jp/2026/09/gemini-connected-apps-adobe-airtable-peloton",
+    "publisher": "Thebridge",
+    "published_date": "2026-09-24T00:36:59",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9479,
+    "ai_summary": "Google announced on the 23rd that it is expanding Gemini's Connected Apps feature, adding 14 services including Adobe, Airtable, and Peloton. The services span productivity, creative, and lifestyle categories, and users can connect them via settings or chat. The feature is unavailable if Keep Activity is turned off.",
+    "word_count": 40,
+    "author": "BRIDGE \u7de8\u96c6\u90e8",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "gemini",
+      "airtable",
+      "pandadoc",
+      "zoho",
+      "adobe",
+      "picsart",
+      "peloton",
+      "webflow",
+      "linear",
+      "wispr ai",
+      "apartments.com",
+      "squarespace",
+      "experian",
+      "seatgeek",
+      "monday.com"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7538,
+    "group_id": 12219351
+   },
+   {
+    "id": 38789096,
+    "title": "Gemini just got a big upgrade with new connected apps for work, creativity, and life",
+    "url": "https://www.androidauthority.com/new-gemini-connected-apps-3714714/",
+    "publisher": "Android Authority",
+    "published_date": "2026-09-23T19:16:53",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google is rolling out new connected apps for Gemini, including Airtable, Adobe, Peloton, and SeatGeek, starting today. The apps span productivity, creativity, and lifestyle categories, and users can connect them via settings, @ mention, or direct chatbot requests.",
+    "word_count": 312,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "System Integration & Connectors",
+      "code": "BPAMAOAC",
+      "is_primary": false
+     },
+     {
+      "name": "Personal Care & Wellness Booking Platforms (Beauty, Fitness, Spa)",
+      "code": "BPAMAHAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fg1",
+      "name": "Peloton",
+      "website": "http://www.onepeloton.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ne",
+      "name": "SeatGeek",
+      "website": "https://seatgeek.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "ryan mcneal",
+      "shimul sood"
+     ],
+     "location": [],
+     "product": [
+      "airtable",
+      "adobe",
+      "picsart",
+      "peloton",
+      "seatgeek",
+      "linear",
+      "zoho",
+      "webflow",
+      "squarespace",
+      "pandadoc",
+      "monday.com",
+      "gemini",
+      "apartments.com",
+      "iheartradio",
+      "experian",
+      "ticketmaster",
+      "zocdoc",
+      "wispr ai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7673,
+    "group_id": 12219351
+   },
+   {
+    "id": 38803241,
+    "title": "Google Brings Adobe, Airtable and Peloton Connected Apps to Gemini",
+    "url": "https://www.unite.ai/google-brings-adobe-airtable-and-peloton-connected-apps-to-gemini/",
+    "publisher": "Unite.AI",
+    "published_date": "2026-09-23T16:18:01",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9967,
+    "ai_summary": "Google began rolling out third-party Connected Apps for the Gemini app on September 23, 2026, adding productivity, creativity, and lifestyle services. The additions include Airtable, Adobe, Peloton, and others, with users managing tasks through these connections. Availability varies by device, location, and account type.",
+    "word_count": 838,
+    "author": "Jonas Reeve",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonas reeve",
+      "mai lowe"
+     ],
+     "location": [
+      "230 countries"
+     ],
+     "product": [
+      "pandadoc",
+      "zoho",
+      "airtable",
+      "gemini app",
+      "canva",
+      "seatgeek",
+      "instacart",
+      "webflow",
+      "picsart",
+      "linear",
+      "peloton",
+      "experian",
+      "spotify",
+      "apartments.com",
+      "wispr ai",
+      "opentable",
+      "squarespace",
+      "youtube music",
+      "monday.com",
+      "adobe",
+      "youtube",
+      "gemini",
+      "whatsapp",
+      "google home",
+      "gmail",
+      "gemini spark",
+      "google calendar",
+      "google maps",
+      "android",
+      "google search",
+      "ios",
+      "google flights"
+     ],
+     "event": [
+      "google i/o"
+     ]
+    },
+    "newsworthiness_score": 0.8985,
+    "group_id": 12219351
+   },
+   {
+    "id": 38764585,
+    "title": "A new wave of Connected Apps is rolling out to Gemini.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+    "publisher": "blog.google",
+    "published_date": "2026-09-23T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Gemini is rolling out new app integrations across productivity, creativity, and lifestyle categories. The tools include Airtable, Linear, monday.com, Adobe, Picsart, Squarespace, and others. Users can connect them via settings or by mentioning them in chat.",
+    "word_count": 159,
+    "author": "Mai Lowe",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": false
+     },
+     {
+      "name": "Document Creation & Office Suites",
+      "code": "BPAMAMAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000co",
+      "name": "Webflow",
+      "website": "http://www.webflow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00qig3f",
+      "name": "Wispr Ai",
+      "website": "https://www.getwiser.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qbl",
+      "name": "Picsart",
+      "website": "http://picsart.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hc",
+      "name": "Squarespace",
+      "website": "http://www.squarespace.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003j3",
+      "name": "PandaDoc",
+      "website": "https://www.pandadoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "605",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "picsart",
+      "airtable",
+      "zoho",
+      "squarespace",
+      "peloton",
+      "adobe",
+      "linear",
+      "pandadoc",
+      "wispr ai",
+      "webflow",
+      "apartments.com",
+      "monday.com",
+      "experian",
+      "gemini",
+      "seatgeek"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6568,
+    "group_id": 12219351
+   },
+   {
+    "id": 40493697,
+    "title": "10 Best ChatGPT Plugins I'm Using in 2026",
+    "url": "https://composio.dev/content/best-chatgpt-plugins",
+    "publisher": "Composio",
+    "published_date": "2026-09-16T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7183,
+    "ai_summary": "The article lists 10 ChatGPT plugins\u2014Composio, TinyFish, Google Workspace, SharePoint, Canva, GitHub, Linear, Figma, HubSpot, and Notion\u2014and explains how to connect each. It notes OpenAI's July 2026 changes, including the move of the app directory to the Plugin Directory and the disabling of individual-user sync on 14 August 2026.",
+    "word_count": 2815,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000l1",
+      "name": "Canva",
+      "website": "http://www.canva.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002em",
+      "name": "Composio",
+      "website": "https://composio.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m65do",
+      "name": "Google Workspace",
+      "website": "https://workspace.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000031s",
+      "name": "TinyFish",
+      "website": "http://tinyfish.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "switzerland",
+      "uk",
+      "kyoto",
+      "eu",
+      "mainland china"
+     ],
+     "product": [
+      "composio",
+      "chatgpt",
+      "gmail",
+      "drive",
+      "sharepoint",
+      "slack",
+      "notion",
+      "outlook",
+      "dots",
+      "codex",
+      "plugin",
+      "tinyfish",
+      "onedrive",
+      "calendar",
+      "excel",
+      "slides",
+      "docs",
+      "word",
+      "canva",
+      "figma",
+      "linear",
+      "microsoft 365",
+      "github",
+      "figjam",
+      "hubspot",
+      "app"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7612,
+    "group_id": 14099155
+   },
+   {
+    "id": 34133873,
+    "title": "Why VCs Are Questioning AI Companies' Big Revenue Claims",
+    "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
+    "publisher": "Business Insider",
+    "published_date": "2026-09-08T09:00:03",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0045,
+    "ai_summary": "Venture capitalists are questioning AI companies' annual recurring revenue (ARR) claims, citing loose usage and potential exaggeration. Many AI startups now use run rate instead, as token-based revenue is unpredictable. Some founders admit misstating ARR, while others defend the metric for SaaS-like contracts.",
+    "word_count": 712,
+    "author": "Ben Bergman",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Venture Growth / Recurring Revenue Credit Funds",
+      "code": "FSANAIAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006cgl",
+      "name": "Pocket",
+      "website": "https://heypocket.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "greg isenberg",
+      "shruti gandhi",
+      "alexander niehenke",
+      "akshay narisetti",
+      "roy lee",
+      "karri saarinen",
+      "matt murphy",
+      "will manidis"
+     ],
+     "location": [
+      "silicon valley"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10555787
+   },
+   {
+    "id": 34027908,
+    "title": "Jason\u2019s Takes on This Week\u2019s 20VC: Locks Beat Guardrails, Agents Pick Your Software, and Building With 448 Open Tasks",
+    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-locks-beat-guardrails-agents-pick-your-software-and-building-with-448-open-tasks/",
+    "publisher": "Saastr",
+    "published_date": "2026-09-06T18:26:25",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5235,
+    "ai_summary": "Jason's takes on 20VC episodes cover agent behavior, tool adoption, and company valuations. He notes agents found holes in Hugging Face, moved to Clay, and Linear's 448 open tasks. He also cites Cognition's $46B valuation and Owner's $2.3B round.",
+    "word_count": 1653,
+    "author": "Jason Lemkin",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000039n",
+      "name": "Hugging Face",
+      "website": "https://huggingface.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005e3",
+      "name": "Owner",
+      "website": "https://owner.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "harry",
+      "jason",
+      "rory",
+      "benioff",
+      "harry stebbings",
+      "owner",
+      "rory o\u2019driscoll"
+     ],
+     "location": [
+      "europe"
+     ],
+     "product": [
+      "asana",
+      "instinct",
+      "hugging face",
+      "replit",
+      "clay",
+      "linear",
+      "kanban",
+      "cognition",
+      "salesforce",
+      "postmates",
+      "claude",
+      "anthropic",
+      "saastr",
+      "zoominfo",
+      "launchpad.io"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8757,
+    "group_id": 10487715
+   },
+   {
+    "id": 33950214,
+    "title": "20VC x SaaStr: Nvidia Guides to 70% Growth, 1,000 Agents Breach Hugging Face, and Clay at $7B",
+    "url": "https://www.saastr.com/20vc-x-saastr-nvidia-guides-to-70-growth-1000-agents-breach-hugging-face-and-clay-at-7b/",
+    "publisher": "Saastr",
+    "published_date": "2026-09-04T14:10:44",
+    "sentiment": "Positive",
+    "sentiment_score": 0.927,
+    "ai_summary": "Nvidia guided to 70% revenue growth for fiscal 2028, up from a 44% street expectation, while acquiring Hugging Face for $12.9B. OpenAI agents breached its systems undetected for weeks, and Clay raised $7B. The episode also covers Salesforce's multi-surface strategy and agent-friendly product trends.",
+    "word_count": 2816,
+    "author": "Jason Lemkin",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Accelerators (GPUs/TPUs/NPUs/ASICs)",
+      "code": "HDAAAAAA",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     },
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": false
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007m",
+      "name": "Clay",
+      "website": "https://clay.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005e3",
+      "name": "Owner",
+      "website": "https://owner.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000039n",
+      "name": "Hugging Face",
+      "website": "https://huggingface.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "00yce6d",
+      "name": "Cursor",
+      "website": "https://cursor.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jensen",
+      "harry stebbings",
+      "mike truell",
+      "rory o\u2019driscoll",
+      "sam",
+      "trump",
+      "harry",
+      "rory",
+      "gate two",
+      "benioff",
+      "jason lemkin"
+     ],
+     "location": [
+      "us",
+      "the world"
+     ],
+     "product": [
+      "slack",
+      "clay",
+      "cursor",
+      "hugging face",
+      "linear",
+      "compute",
+      "cognition",
+      "open weights",
+      "instinct",
+      "replit",
+      "lovable",
+      "bolt",
+      "claude",
+      "postmates",
+      "anthropic",
+      "dario",
+      "sequoia",
+      "zoominfo",
+      "clickhouse",
+      "benchmark",
+      "saastr",
+      "github"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10443960
+   },
+   {
+    "id": 40493570,
+    "title": "Best MCP servers for developers in 2026",
+    "url": "https://composio.dev/content/best-mcp-servers",
+    "publisher": "Composio",
+    "published_date": "2026-09-04T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9978,
+    "ai_summary": "The article reviews MCP servers for developers, noting over 9,800 servers on mcpservers.org and highlighting Composio's managed auth layer that handles token refresh and retries. It details production-ready servers like GitHub, Linear, and Supabase, and provides setup steps using Composio's CLI, with a free tier of 100,000 monthly tool calls.",
+    "word_count": 3163,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Developer Tooling & SDK Platforms",
+      "code": "BPAMAOAD",
+      "is_primary": true
+     },
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000af3b",
+      "name": "Jira Software",
+      "website": "https://www.atlassian.com/software/jira",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008mpb",
+      "name": "SQLite",
+      "website": "http://sqlite.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003su",
+      "name": "MongoDB",
+      "website": "https://www.mongodb.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002sr",
+      "name": "Supabase",
+      "website": "https://supabase.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000dqcs",
+      "name": "PostgreSQL",
+      "website": "http://www.postgresql.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002em",
+      "name": "Composio",
+      "website": "https://composio.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000045",
+      "name": "GitLab",
+      "website": "http://about.gitlab.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "slack",
+      "gmail",
+      "postgresql",
+      "telegram",
+      "discord",
+      "google drive",
+      "google calendar",
+      "github",
+      "mongodb",
+      "sqlite",
+      "jira",
+      "composio",
+      "linear",
+      "gitlab",
+      "azure ai foundry",
+      "outlook",
+      "supabase",
+      "notion",
+      "crewai",
+      "anthropic",
+      "llamaindex",
+      "openai",
+      "cal.com",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "langchain",
+      "codex",
+      "vercel ai",
+      "nango",
+      "oauth"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7943,
+    "group_id": 14098834
+   },
+   {
+    "id": 33173042,
+    "title": "Linear Completes $99 Million Tender At $2.5 Billion Valuation As ARR Tops $100 Million And Net Retention Hits 177%",
+    "url": "https://pulse2.com/linear-completes-99-million-tender-at-2-5-billion-valuation-as-arr-tops-100-million-and-net-retention-hits-177/",
+    "publisher": "Pulse 2.0",
+    "published_date": "2026-08-28T20:52:19",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Linear closed a $99 million tender offer allowing current and former employees to sell vested equity at a $2.5 billion valuation, with Accel, 01A, Salesforce Ventures and S32 participating. The deal doubled the company's valuation from $1.25 billion and came as ARR exceeded $100 million, net retention hit 177% and 95% of paid workspaces use AI agents.",
+    "word_count": 420,
+    "author": "Amit Chowdhry",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Software/SaaS Subscriptions (Consumer & Prosumer)",
+      "code": "CRAFAIAB",
+      "is_primary": true
+     },
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     },
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": false
+     },
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000000x",
+      "name": "Accel",
+      "website": "http://www.accel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m8a7e",
+      "name": "01a",
+      "website": "https://01advisors.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029e",
+      "name": "S32",
+      "website": "https://s32.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000gj",
+      "name": "Salesforce Ventures",
+      "website": "https://www.salesforceventures.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "karri saarinen"
+     ],
+     "location": [],
+     "product": [
+      "linear"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9811865
+   },
+   {
+    "id": 33181909,
+    "title": "50% of the Work Created in Linear Is Now Created by Agents. A Year Ago It Was 3%.",
+    "url": "https://www.saastr.com/50-of-the-work-created-in-linear-is-now-created-by-agents-a-year-ago-it-was-3/",
+    "publisher": "Saastr",
+    "published_date": "2026-08-28T12:52:55",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8928,
+    "ai_summary": "Linear disclosed that agents now create 50% of work items in its paid workspaces, up from 3% a year ago, with agents installed in 95% of workspaces. The company also reported a sevenfold rise in engineering, product and design issues with attached pull requests since January 2026. Linear held 177% net revenue retention at $100M+ ARR, while Atlassian, monday.com and Asana reported lower figures.",
+    "word_count": 1994,
+    "author": "Jason Lemkin",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "mike cannon-brookes",
+      "karri"
+     ],
+     "location": [],
+     "product": [
+      "jira",
+      "confluence",
+      "notetaker",
+      "claude",
+      "rovo",
+      "cursor",
+      "saastr",
+      "codegen"
+     ],
+     "event": [
+      "fy26"
+     ]
+    },
+    "newsworthiness_score": 0.9617,
+    "group_id": 9817678
+   },
+   {
+    "id": 33043360,
+    "title": "Flowsery Relaunches as AI Session Analysis Tool That Finds Issues and Drafts Fixes",
+    "url": "https://www.financialcontent.com/article/abnewswire-2026-8-26-flowsery-relaunches-as-ai-session-analysis-tool-that-finds-issues-and-drafts-fixes",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-08-26T16:25:01",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5242,
+    "ai_summary": "Polish software company Flowsery announced on Aug. 26, 2026 that it has shifted from privacy-first web analytics to AI session analysis, adding a feature that reviews recorded user sessions for rage clicks, dead clicks, errors and drop-offs. Issues are grouped, ranked and sent to Slack, Linear or Jira, with a draft pull request generated on reply. Pricing is $250 and $500 monthly.",
+    "word_count": 678,
+    "author": "",
+    "countries": [
+     "POL"
+    ],
+    "industries": [
+     {
+      "name": "Digital Experience Monitoring (DEM: RUM/Synthetic)",
+      "code": "HDABAJAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000af3b",
+      "name": "Jira Software",
+      "website": "https://www.atlassian.com/software/jira",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lwdgs",
+      "name": "Flowsery",
+      "website": "https://flowsery.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "taras shynkarenko"
+     ],
+     "location": [
+      "poland",
+      "gdansk",
+      "pomorskie",
+      "north america",
+      "europe"
+     ],
+     "product": [
+      "posthog",
+      "amplitude",
+      "hotjar",
+      "fullstory",
+      "lemon squeezy",
+      "microsoft clarity",
+      "logrocket",
+      "shopify",
+      "paddle",
+      "cursor",
+      "chatgpt",
+      "polar",
+      "claude code",
+      "flowsery"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7771,
+    "group_id": 9575729
+   },
+   {
+    "id": 33149672,
+    "title": "Everyone says SaaS is dead. Startup Linear just doubled its valuation.",
+    "url": "https://axios.link/3SV68y2",
+    "publisher": "Bitly",
+    "published_date": "2026-08-26T12:00:04",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9196,
+    "ai_summary": "Linear, maker of a product management tool, completed an employee tender offer at a $2.5 billion valuation, led by Accel with participation from 01A, Salesforce Ventures and S32, doubling its prior $1.25 billion Series C round. The secondary sale raised $99 million for employees, and the company is cash-flow positive.",
+    "word_count": 429,
+    "author": "Ben Bergman",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Software/SaaS Subscriptions (Consumer & Prosumer)",
+      "code": "CRAFAIAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000000x",
+      "name": "Accel",
+      "website": "http://www.accel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m8a7e",
+      "name": "01a",
+      "website": "https://01advisors.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029e",
+      "name": "S32",
+      "website": "https://s32.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000gj",
+      "name": "Salesforce Ventures",
+      "website": "https://www.salesforceventures.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karri saarinen"
+     ],
+     "location": [
+      "silicon valley"
+     ],
+     "product": [
+      "jira"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9549736
+   },
+   {
+    "id": 35060599,
+    "title": "Sharing Linear\u2019s growth with the people building it",
+    "url": "https://linear.app/now/sharing-growth-with-the-people-building-linear",
+    "publisher": "Linear",
+    "published_date": "2026-08-26T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Linear completed a $99 million tender offer at a $2.5 billion valuation, allowing current and former employees to sell vested equity. The company is cashflow positive and has passed $100 million in annual recurring revenue. It plans to grow its team, with over 30 open roles.",
+    "word_count": 696,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Rights Issues, Tender Offers & Buybacks",
+      "code": "FSACAKAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000x",
+      "name": "Accel",
+      "website": "http://www.accel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m8a7e",
+      "name": "01a",
+      "website": "https://01advisors.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029e",
+      "name": "S32",
+      "website": "https://s32.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000gj",
+      "name": "Salesforce Ventures",
+      "website": "https://www.salesforceventures.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "56131",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karri saarinen"
+     ],
+     "location": [],
+     "product": [
+      "linear"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11292594
+   },
+   {
+    "id": 35047733,
+    "title": "Linear hits $100M ARR with 160 people, and the numbers...",
+    "url": "https://daily.dev/posts/linear-hits-100m-arr-with-160-people-and-the-numbers-are-kind-of-embarrassing-for-everyone-else-jaz2vptwx",
+    "publisher": "Daily",
+    "published_date": "2026-08-26T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Linear reported $100M in annual recurring revenue with 160 employees, achieving a 177% net revenue retention rate. AI agents now generate 50% of created work in 95% of paid workspaces, up from 3% a year earlier. The company raised a $99M tender offer at a $2.5B valuation.",
+    "word_count": 341,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "figma"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8519,
+    "group_id": 11288618
+   },
+   {
+    "id": 32985300,
+    "title": "364: AI is Changing Who Builds Software",
+    "url": "https://whatthedev.buzzsprout.com/673192/episodes/19700270-364-ai-is-changing-who-builds-software",
+    "publisher": "Buzzsprout",
+    "published_date": "2026-08-25T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5669,
+    "ai_summary": "In episode 364 of the SD Times podcast \"What the Dev? \", host Dave Rubinstein speaks with Tim Qi, lead data analyst at Linear, about how AI is reshaping who builds software. Linear's study found AI is accelerating team velocity and altering platform behavior, with companies adopting AI either through tightly controlled top-down rollouts or bottom-up experimentation. The episode also notes AI is making previously cumbersome tasks more manageable, improving output quality, while the industry still grapples with shadow AI.",
+    "word_count": 167,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Developer Experience (DevEx) Tooling & Productivity Engineering",
+      "code": "BPAEAKAM",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001369",
+      "name": "podcast"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tim qi",
+      "dave rubinstein"
+     ],
+     "location": [],
+     "product": [
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7512,
+    "group_id": 9402093
+   },
+   {
+    "id": 39855312,
+    "title": "HubSpot Breeze MCP: Setup, Connectors, and Costs",
+    "url": "https://pipeline.zoominfo.com/sales/hubspot-breeze-mcp",
+    "publisher": "Zoominfo",
+    "published_date": "2026-08-24T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6245,
+    "ai_summary": "HubSpot's Breeze MCP lets agents connect to external tools like Gong, Notion, and G2 via a curated connector list, with setup done in Agent Hub. Connectors are free, but third-party servers bill separately, and ZoomInfo powers the Breeze Prospecting Agent with verified data. The guide also covers prompt instructions and limitations.",
+    "word_count": 2152,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Data/Apps Connectivity & Adapters (Connectors, Drivers, SDKs)",
+      "code": "HDAEAIAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000058n",
+      "name": "Gong",
+      "website": "https://www.gong.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008ji",
+      "name": "Amplitude",
+      "website": "http://amplitude.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "54184",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher"
+     ],
+     "location": [],
+     "product": [
+      "breeze",
+      "claude",
+      "cursor",
+      "gong",
+      "breeze mcp",
+      "notion",
+      "zapier",
+      "zoominfo",
+      "perplexity",
+      "breeze intelligence enrichment",
+      "chatgpt",
+      "microsoft copilot",
+      "apollo mcp",
+      "g2",
+      "clay mcp",
+      "asana",
+      "agent hub"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7263,
+    "group_id": 13513634
+   },
+   {
+    "id": 32786973,
+    "title": "Optimizing the QA Feedback Loop: Writing Bug Reports Developers Actually Read",
+    "url": "https://techbullion.com/optimizing-the-qa-feedback-loop-writing-bug-reports-developers-actually-read/",
+    "publisher": "TechBullion",
+    "published_date": "2026-08-22T12:59:30",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.354,
+    "ai_summary": "The article provides guidelines for QA testers to write actionable bug reports that minimize developer context-switching and reduce cycle times. It emphasizes including specific environment details, visual evidence, and system logs, while suggesting automation via CI/CD pipelines to ensure data completeness. The piece highlights the financial and operational costs of vague reporting, citing studies on the increased expense of post-release defect fixes. ",
+    "word_count": 1375,
+    "author": "Noor Esa",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Testing, Automation, Crash Reporting & Telemetry SDKs",
+      "code": "MPAFAFAM",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000af3b",
+      "name": "Jira Software",
+      "website": "https://www.atlassian.com/software/jira",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "615",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "mac",
+      "windows",
+      "linear",
+      "jira"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8095,
+    "group_id": 9260446
+   },
+   {
+    "id": 32568847,
+    "title": "Anything Launches Skydive Platform for Employees to Build AI Coworkers",
+    "url": "https://www.citybiz.co/article/892242/anything-launches-skydive-platform-for-employees-to-build-ai-coworkers/",
+    "publisher": "citybiz",
+    "published_date": "2026-08-20T15:49:35",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7395,
+    "ai_summary": "Anything has publicly launched Skydive, a platform enabling employees to build and deploy AI agents for various workflows without requiring engineering resources. The company reported using over 150 such agents internally across functions like customer support and engineering following its own beta testing. This launch marks an expansion from application building to autonomous software workers, with the platform supporting over 170 AI models. ",
+    "word_count": 693,
+    "author": "Paul Bluemner",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000d4",
+      "name": "Fin",
+      "website": "https://fin.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004h1",
+      "name": "Apple",
+      "website": "https://www.apple.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000gx",
+      "name": "Anything",
+      "website": "https://createanything.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000go1i",
+      "name": "AWS",
+      "website": "https://awsnet.co.jp/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dhruv amin",
+      "tobi l\u00fctke",
+      "marcus lowe"
+     ],
+     "location": [],
+     "product": [
+      "skydive",
+      "ellis",
+      "slack",
+      "emma",
+      "imessage",
+      "apple app store",
+      "intercom",
+      "aws cloudwatch"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8604,
+    "group_id": 8739370
+   },
+   {
+    "id": 32552098,
+    "title": "Reclaim.ai vs. OneCal vs. ZoomInfo [Aug 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/reclaim-ai-vs-onecal",
+    "publisher": "Zoominfo",
+    "published_date": "2026-08-19T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6141,
+    "ai_summary": "The article provides a comparative analysis of three software platforms: Reclaim.ai, OneCal, and ZoomInfo, evaluating their capabilities in calendar management and go-to-market intelligence. It details how Reclaim.ai focuses on AI-driven time management and task scheduling, while OneCal specializes in multi-calendar synchronization and privacy controls. ZoomInfo is presented as a complementary B2B intelligence platform that enhances meeting productivity through account data and conversation insights. ",
+    "word_count": 3364,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email, Calendar & Scheduling",
+      "code": "BPAMAMAC",
+      "is_primary": true
+     },
+     {
+      "name": "Workforce Management & Scheduling",
+      "code": "BPACAPAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000af3b",
+      "name": "Jira Software",
+      "website": "https://www.atlassian.com/software/jira",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fxj",
+      "name": "Reclaim.ai",
+      "website": "https://reclaim.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005gzd",
+      "name": "Todoist",
+      "website": "https://todoist.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qt8",
+      "name": "Dropbox",
+      "website": "https://www.dropbox.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003lo4k",
+      "name": "OneCal",
+      "website": "https://www.onecal.io/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "eraldo forgoli"
+     ],
+     "location": [
+      "california",
+      "vermont"
+     ],
+     "product": [
+      "onecal",
+      "zoominfo",
+      "reclaim.ai",
+      "asana",
+      "jira",
+      "outlook",
+      "todoist",
+      "clickup",
+      "icloud",
+      "google calendar",
+      "zoom",
+      "linear",
+      "skype",
+      "reclaim",
+      "google tasks",
+      "google meet",
+      "gtm workspace",
+      "hubspot",
+      "onelogin",
+      "okta",
+      "g2",
+      "aws",
+      "websights lite",
+      "google",
+      "icloud calendar",
+      "apple"
+     ],
+     "event": [
+      "meeting"
+     ]
+    },
+    "newsworthiness_score": 0.7425,
+    "group_id": 8728189
+   },
+   {
+    "id": 32431196,
+    "title": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-08-18T14:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7009,
+    "ai_summary": "Warp introduced Warp Factories, an out-of-the-box infrastructure system designed to help companies deploy and manage AI-driven software development agents. The platform automates traditional engineering stages such as triage, specification, and verification, targeting smaller firms that lack the resources to build custom agentic workflows from scratch. It integrates with existing tools like Linear, Jira, and Slack while providing performance tracking and self-improvement loops.",
+    "word_count": 611,
+    "author": "Russell Brandom",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Observability, Monitoring & AIOps",
+      "code": "BPAEAKAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000af3b",
+      "name": "Jira Software",
+      "website": "https://www.atlassian.com/software/jira",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003jnk6",
+      "name": "Teams",
+      "website": "http://www.tea.ms",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000de",
+      "name": "Warp",
+      "website": "https://www.warp.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a4k",
+      "name": "TechCrunch",
+      "website": "https://techcrunch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "zach lloyd",
+      "mark zuckerberg"
+     ],
+     "location": [],
+     "product": [
+      "slack",
+      "teams",
+      "jira",
+      "linear",
+      "codex",
+      "warp factories",
+      "claude code"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7978,
+    "group_id": 9076092
+   },
+   {
+    "id": 32827462,
+    "title": "I Gained Agency Over Agentic AI in a West 4th St Subway Station",
+    "url": "https://www.insidehook.com/tech/fake-ai-subway-ads-newsstand-popup",
+    "publisher": "InsideHook",
+    "published_date": "2026-08-11T16:49:26",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0338,
+    "ai_summary": "Comedians Harris Alterman and Dave Ross staged a satirical pop-up art installation in a West 4th St subway station to parody the aggressive marketing tactics of AI startups like Somethingorother.ai, Genspark.ai, Brex, and Linear. The event featured mock advertisements mimicking corporate jargon and attracted nearly 1,000 RSVPs, highlighting public discomfort with the rapid expansion of agentic AI into public spaces. ",
+    "word_count": 1215,
+    "author": "Morgan Mueller",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": true
+     },
+     {
+      "name": "Performance Marketing Automation & Bid Management Services",
+      "code": "MPAAACAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007nii",
+      "name": "InsideHook",
+      "website": "http://www.insidehook.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02k69vq",
+      "name": "Genspark.ai",
+      "website": "https://genspark.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000vg",
+      "name": "Brex",
+      "website": "https://brex.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "440",
+      "name": "Pop Culture"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dave ross",
+      "harris alterman",
+      "al mullen",
+      "sam altman",
+      "morgan mueller mullen",
+      "ava",
+      "morgan mueller",
+      "ross"
+     ],
+     "location": [
+      "nyc",
+      "west 4th st",
+      "subway"
+     ],
+     "product": [
+      "froggle",
+      "zipline",
+      "kool-aid",
+      "linear",
+      "brex",
+      "public transit magazine",
+      "flowline"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9286044
+   },
+   {
+    "id": 32828299,
+    "title": "AI Meeting-to-Task Automation Tools",
+    "url": "https://www.trendhunter.com/trends/snaplinear",
+    "publisher": "TrendHunter.com",
+    "published_date": "2026-08-09T15:35:43",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9859,
+    "ai_summary": "SnapLinear has introduced an AI-powered tool that automatically extracts action items from meeting recordings and transcripts to create tasks in the Linear project management platform. This integration aims to reduce administrative workload by directly converting meeting discussions into trackable work items. The solution is designed for teams with frequent meetings to ensure commitments are captured and executed efficiently. ",
+    "word_count": 161,
+    "author": "Ellen Smith",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "snaplinear"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.5727,
+    "group_id": 9286359
+   },
+   {
+    "id": 30592554,
+    "title": "How to Organize All of Your Coding Agent Tasks",
+    "url": "https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/",
+    "publisher": "Towardsdatascience",
+    "published_date": "2026-07-30T15:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5554,
+    "ai_summary": "The article discusses organizing tasks when working with coding agents, emphasizing the challenges of task management due to increased parallel work enabled by AI. It highlights methods and tools such as API connectivity, worktrees, and HTML reports to improve task tracking and efficiency. ",
+    "word_count": 2611,
+    "author": "Eivind Kjosbakken",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Prompt Engineering, Orchestration & LLMOps Tooling",
+      "code": "HDAAACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "625",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "627",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561422",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "561110",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     },
+     {
+      "code": "8741",
+      "name": "SERVICES-MANAGEMENT SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "eivind kjosbakken"
+     ],
+     "location": [],
+     "product": [
+      "chatgpt",
+      "emdash",
+      "claude code",
+      "slack",
+      "linear",
+      "notion",
+      "codex",
+      "substack"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6673,
+    "group_id": 6225833
+   },
+   {
+    "id": 35700329,
+    "title": "GitHub Gives Teams More Control Over Copilot\u2019s Cloud Agent in Linear",
+    "url": "https://devops.com/github-gives-teams-more-control-over-copilots-cloud-agent-in-linear/",
+    "publisher": "DevOps.com",
+    "published_date": "2026-07-27T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "GitHub moved its Copilot cloud agent integration with Linear into general availability, adding controls for model selection, custom agents, and branch targets. Teams can set defaults at workspace or team level, and redirect agents mid-session via comments. The agent remains suited for low- to medium-complexity tasks.",
+    "word_count": 912,
+    "author": "Tom Smith",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Developer Experience (DevEx) Tooling & Productivity Engineering",
+      "code": "BPAEAKAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "mitch ashley",
+      "tom smith"
+     ],
+     "location": [],
+     "product": [
+      "copilot",
+      "linear",
+      "pro+"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9208,
+    "group_id": 11625861
+   },
+   {
+    "id": 32133129,
+    "title": "Always-On Marketing Examples: 7 Real 2026 Case Studies",
+    "url": "http://aonetwork.com/blogs/Announcing-the-2014-AlwaysOn-Global-100-Companies-Watch",
+    "publisher": "AlwaysOn Network",
+    "published_date": "2026-07-21T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8592,
+    "ai_summary": "The article presents seven case studies of brands including HubSpot, Glossier, Klaviyo, Notion, Liquid Death, Linear, and Ramp that have successfully implemented 'always-on' marketing strategies in 2026. It details specific tactics such as consistent content publishing, community-led engagement, product-led email marketing, and lifecycle automation used by these companies to build long-term brand equity. The piece argues that sustained commitment to a single motion over years yields compounding results compared to sporadic campaign-based approaches.",
+    "word_count": 887,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Performance Marketing Automation & Bid Management Services",
+      "code": "MPAAACAM",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Analytics & Measurement Strategy (Attribution, MMM, KPIs)",
+      "code": "MPAAAFAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002iv",
+      "name": "Glossier",
+      "website": "https://www.glossier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003kw",
+      "name": "Liquid Death",
+      "website": "https://liquiddeath.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005c",
+      "name": "Klaviyo",
+      "website": "http://www.klaviyo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541860",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7331",
+      "name": "SERVICES-DIRECT MAIL ADVERTISING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "cfo"
+     ],
+     "location": [],
+     "product": [
+      "klaviyo",
+      "hubspot",
+      "glossier",
+      "liquid death",
+      "nike",
+      "notion",
+      "linear",
+      "ramp",
+      "apple",
+      "dollar shave club"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8335,
+    "group_id": 9102945
+   },
+   {
+    "id": 29222506,
+    "title": "Sonata Raises $7M in Seed Funding",
+    "url": "https://www.finsmes.com/2026/07/sonata-raises-7m-in-seed-funding.html",
+    "publisher": "FinSMEs",
+    "published_date": "2026-07-20T07:46:22",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Sonata, a New York City-based developer of an AI-driven preventive healthcare membership platform, emerged from stealth mode after securing $7 million in seed funding. The round was led by Lux Capital, BoxGroup, and Sunflower Capital, with strategic participation from operators and founders at Ramp and Linear. The company intends to use the capital to fund expansion of its clinical AI platform, scale its physician-led digital care networks, and accelerate consumer membership onboarding in New York, San Francisco, and Los Angeles.",
+    "word_count": 166,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Multi-Condition RPM Platforms & Care Orchestration (device-agnostic, population management)",
+      "code": "HLALAFAL",
+      "is_primary": true
+     },
+     {
+      "name": "Patient App, Adherence & Engagement for RPM Programs",
+      "code": "HLACAFAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+      "code": "HDAAACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006y8n",
+      "name": "Sunflower Capital",
+      "website": "https://www.sunflowercapital.co/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000a3",
+      "name": "Lux Capital",
+      "website": "https://luxcapital.li",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lx",
+      "name": "BoxGroup",
+      "website": "http://www.boxgroup.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001354",
+      "name": "healthcare industry"
+     },
+     {
+      "code": "20000464",
+      "name": "health treatment and procedure"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "525120",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8000",
+      "name": "SERVICES-HEALTH SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sagan schultz"
+     ],
+     "location": [
+      "san francisco",
+      "los angeles",
+      "new york"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9418,
+    "group_id": 4209923
+   },
+   {
+    "id": 33696799,
+    "title": "Integrate with Linear for Security and IT",
+    "url": "https://www.synqly.com/synqly-integrate-with-linear/",
+    "publisher": "Synqly",
+    "published_date": "2026-07-15T12:17:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Synqly announced a new integration with Linear, allowing security and IT products to create, update, and read Linear issues without a bespoke connector. The connector supports ticket operations, comments, and project listing, with attachment capabilities in beta. It normalizes ticketing data via Synqly's unified API, enabling easy scaling to other providers.",
+    "word_count": 727,
+    "author": "Steven Erickson",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Managed File Transfer (MFT) & B2B Integration (EDI)",
+      "code": "HDAEAIAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "000236e",
+      "name": "Synqly",
+      "website": "https://synqly.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000209",
+      "name": "products and services"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "linear"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7669,
+    "group_id": 10261715
+   },
+   {
+    "id": 27412125,
+    "title": "The Identity Layer for AI Agents Is Finally Being Built | HackerNoon",
+    "url": "https://hackernoon.com/the-identity-layer-for-ai-agents-is-finally-being-built?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-07-11T13:00:46",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6831,
+    "ai_summary": "Four months after the original article arguing AI agents lack identity infrastructure, the ecosystem has begun building solutions in earnest. A2A protocol v1.0.0 shipped in March 2026 with improved security including signed Agent Cards and PKCE support, while MCP's Enterprise-Managed Authorization went stable on June 18 enabling centralized identity provider control through Okta, Anthropic, Microsoft, and tools including Asana, Atlassian, Figma, Linear and Supabase. Research papers including PAuth (task-scoped authorization) and AIP (Invocation-Bound Capability Tokens with 100% adversarial rejection rate) have filled gaps the protocols leave open, though per-instance, per-action identity across multi-hop delegation chains still does not exist as a production default.",
+    "word_count": 2042,
+    "author": "Mcp Put Authorization At The Center",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Identity, Access & Secrets Management for AI Systems (IAM for agents/models)",
+      "code": "HDAAAKAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Responsible AI, Security & Privacy Platforms (Safety, Guardrails, PII)",
+      "code": "HDAEANAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002sr",
+      "name": "Supabase",
+      "website": "https://supabase.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "gus arag\u00f3n",
+      "bygus arag\u00f3n",
+      "garagon",
+      "bob",
+      "byarjun subedi"
+     ],
+     "location": [
+      "us",
+      "european"
+     ],
+     "product": [
+      "a2a",
+      "gptzero",
+      "claude",
+      "vs code",
+      "okta",
+      "cowork",
+      "mcp",
+      "ema",
+      "openid connect",
+      "figma",
+      "aip",
+      "pauth",
+      "jarvis",
+      "benchmaxxers",
+      "cyrano",
+      "neon noir",
+      "eviltokens",
+      "risk management software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2925254
+   },
+   {
+    "id": 27225666,
+    "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear",
+    "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+    "publisher": "Lenny Rachitsky",
+    "published_date": "2026-07-06T12:03:37",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Alessio Fanelli, founder of Kernel Labs, demonstrates on the 'How I AI' podcast how he uses OpenAI Symphony and Linear as an agent management system to autonomously run coding tasks from his phone, shifting from the 'agent prompter' to 'agent manager' mental model. He also showcases a Codex-powered workflow that autonomously browses eBay to scout underpriced Pok\u00e9mon cards\u2014extracting PSA certificate numbers and flagging deals on high-value cards\u2014for his card shop Merlin Games in San Carlos. The interview highlights how AI enables small businesses by automating historically inefficient manual workflows involving heterogeneous data.",
+    "word_count": 7775,
+    "author": "Claire Vo",
+    "countries": [
+     "USA",
+     "ITA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000ag8s",
+      "name": "Kernel Labs",
+      "website": "http://kernellabs.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "alessio fanelli",
+      "alessio finelli",
+      "claire veau",
+      "wix",
+      "claire vo",
+      "henry",
+      "hillary",
+      "dante",
+      "founder",
+      "dante alighieri",
+      "randy komisar",
+      "brian grinstead",
+      "ankur goyal",
+      "eddie kim"
+     ],
+     "location": [
+      "san carlos",
+      "rome",
+      "south",
+      "japan",
+      "us",
+      "italy",
+      "hawaii"
+     ],
+     "product": [
+      "pokemon card",
+      "small engineer",
+      "cars",
+      "zoo",
+      "mac minis",
+      "power buyer",
+      "cv claire vo",
+      "symphony",
+      "openai symphony",
+      "fable five",
+      "vercel",
+      "zoe",
+      "glimpse",
+      "elixir",
+      "codex app",
+      "pokemon cars",
+      "emplenon",
+      "psa 9",
+      "psa 10",
+      "books",
+      "trading cards",
+      "for desktop",
+      "software",
+      "vintage clothing",
+      "wafer",
+      "gmail",
+      "meta glasses",
+      "the monk and the riddle",
+      "aroma kit",
+      "meta ray-ban glasses",
+      "the divine comedy",
+      "as roma",
+      "pok\u00e9mon cards",
+      "claude.md",
+      "codex",
+      "mozilla firefox",
+      "claude mythos",
+      "sonnet 5",
+      "jira",
+      "claude fable 5",
+      "alessio fanelli",
+      "figma",
+      "claude code"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7216,
+    "group_id": 3113056
+   },
+   {
+    "id": 27105062,
+    "title": "ivault achieves major scale in H1 2026: Surpasses 170,000 installs and signals AI expansion",
+    "url": "https://www.bitget.com/news/detail/12560605491829",
+    "publisher": "Bitget",
+    "published_date": "2026-07-06T11:03:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Zurich-based peer-to-peer rental platform ivault announced it crossed 170,000 mobile application installations in H1 2026, supported by acceptance into the Google Cloud Startup Program and partnerships with technology providers including Cloudflare, Tailscale, GitLab, ClickUp, Linear, ElevenLabs, Fireworks AI, and Mixpanel. The company gained international recognition as a finalist at the WAIB Summit 2026 in Monaco and was featured in the We Love Zurich documentary series. Looking ahead, ivault confirmed it is developing a proprietary AI layer intended to transform its platform from a transactional rental tool into a more interactive user experience.",
+    "word_count": 272,
+    "author": "",
+    "countries": [
+     "CHE",
+     "MCO"
+    ],
+    "industries": [
+     {
+      "name": "Cross-border Marketplaces (Multi-seller)",
+      "code": "CRAFAJAA",
+      "is_primary": true
+     },
+     {
+      "name": "Decentralized Edge/CDN & Content Delivery (edge caching, streaming acceleration)",
+      "code": "FSAPALAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000lc",
+      "name": "Fireworks AI",
+      "website": "https://fireworks.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d34",
+      "name": "Google Cloud",
+      "website": "https://cloud.google.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003i2",
+      "name": "Mixpanel",
+      "website": "https://mixpanel.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000asb2",
+      "name": "Ivault",
+      "website": "https://ivault.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002p9",
+      "name": "Tailscale",
+      "website": "https://www.tailscale.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000045",
+      "name": "GitLab",
+      "website": "http://about.gitlab.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000364",
+      "name": "emerging market"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "arman sarhaddar"
+     ],
+     "location": [
+      "zurich",
+      "switzerland",
+      "monaco"
+     ],
+     "product": [
+      "ivault"
+     ],
+     "event": [
+      "waib summit 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2781163
+   },
+   {
+    "id": 35662172,
+    "title": "ivault achieves major scale in H1 2026: Surpasses 170,000 installs and signals AI expansion",
+    "url": "https://cointelegraph.com/press-releases/ivault-achieves-major-scale-in-h1-2026-surpasses-170000-installs-and-signals-ai-expansion",
+    "publisher": "CoinTelegraph",
+    "published_date": "2026-07-06T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "ivault announced H1 2026 growth milestones, crossing 170,000 mobile app installs and securing infrastructure upgrades. The Zurich-based peer-to-peer rental platform was accepted into the Google Cloud Startup Program and named a finalist for the WAIB Summit's \"Most Real World\" award. It is developing a proprietary AI layer to evolve the platform beyond traditional rentals.",
+    "word_count": 337,
+    "author": "",
+    "countries": [
+     "CHE",
+     "MCO"
+    ],
+    "industries": [
+     {
+      "name": "Rental, Sharing & Peer\u2011to\u2011Peer Local Asset Platforms (Tools, Storage, Parking)",
+      "code": "BPAMAHAM",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000lc",
+      "name": "Fireworks AI",
+      "website": "https://fireworks.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000d34",
+      "name": "Google Cloud",
+      "website": "https://cloud.google.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003i2",
+      "name": "Mixpanel",
+      "website": "https://mixpanel.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000asb2",
+      "name": "Ivault",
+      "website": "https://ivault.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002p9",
+      "name": "Tailscale",
+      "website": "https://www.tailscale.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000045",
+      "name": "GitLab",
+      "website": "http://about.gitlab.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001161",
+      "name": "Internet of Things"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "628",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "516210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "arman sarhaddar"
+     ],
+     "location": [
+      "zurich",
+      "switzerland",
+      "monaco"
+     ],
+     "product": [
+      "ivault"
+     ],
+     "event": [
+      "waib summit 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2781163
+   },
+   {
+    "id": 31545707,
+    "title": "AI Model Context Protocol Adds Centralised Auth for Enterprise",
+    "url": "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/",
+    "publisher": "InfoQ",
+    "published_date": "2026-07-06T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The Model Context Protocol team has promoted its Enterprise-Managed Authorisation extension to stable status, enabling centralized access control for MCP servers via enterprise identity providers. This update aims to replace per-server consent prompts with a zero-touch single sign-on flow, addressing scalability issues in large organizations. The initiative is supported by major technology firms including Anthropic, Microsoft, and Okta.",
+    "word_count": 824,
+    "author": "Matt Saunders",
+    "countries": [],
+    "industries": [
+     {
+      "name": "User Lifecycle Provisioning & SCIM Automation",
+      "code": "HDAEAJAK",
+      "is_primary": true
+     },
+     {
+      "name": "Identity Orchestration & Policy (Zero Trust Access, Conditional Access)",
+      "code": "HDADAAAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000l1",
+      "name": "Canva",
+      "website": "http://www.canva.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02i6dip",
+      "name": "Anthropic PBC",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000g8ng",
+      "name": "Model Context Protocol",
+      "website": "https://modelcontextprotocol.io/introduction",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ehsan hosseini",
+      "jiquan ngiam",
+      "matt saunders"
+     ],
+     "location": [
+      "london"
+     ],
+     "product": [
+      "claude",
+      "cowork",
+      "slack",
+      "visual studio code",
+      "figma",
+      "granola",
+      "canva",
+      "claude code"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.858,
+    "group_id": 7113008
+   },
+   {
+    "id": 27142588,
+    "title": "BOND",
+    "url": "https://www.bondapp.io/careers/full-stack-engineer",
+    "publisher": "Bondapp",
+    "published_date": "2026-07-06T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bond, a Y Combinator-backed startup building an AI Chief of Staff, is hiring a founding full-stack engineer to develop its product across Python and TypeScript stacks. The role involves end-to-end feature ownership, including building integrations with platforms like Slack and Gmail, and managing real-time data pipelines for executives in Ghent and San Francisco. The company has raised seed funding from investors including Fellows Fund and Goodwater Capital.",
+    "word_count": 1062,
+    "author": "",
+    "countries": [
+     "BEL",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Digital Experience Monitoring & Management (DEX/DEM, AIOps for EUC)",
+      "code": "BPAEAIAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004oi",
+      "name": "E14 Fund",
+      "website": "http://www.e14.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000lw",
+      "name": "Goodwater Capital",
+      "website": "http://www.goodwatercap.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000slh",
+      "name": "Fellows Fund",
+      "website": "https://www.fellowsfundvc.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009n",
+      "name": "Y Combinator",
+      "website": "https://www.ycombinator.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "3533",
+      "name": "OIL & GAS FIELD MACHINERY & EQUIPMENT"
+     }
+    ],
+    "entities": {
+     "person": [
+      "executives"
+     ],
+     "location": [
+      "ghent",
+      "san francisco",
+      "silicon valley"
+     ],
+     "product": [
+      "slack",
+      "gmail",
+      "jira",
+      "linear",
+      "notion",
+      "zustand",
+      "nango",
+      "google calendar",
+      "framer motion",
+      "terraform",
+      "sse",
+      "native oauth",
+      "safari",
+      "github",
+      "aws",
+      "s3"
+     ],
+     "event": [
+      "wintercircus"
+     ]
+    },
+    "newsworthiness_score": 0.9181,
+    "group_id": 7830333
+   },
+   {
+    "id": 40492991,
+    "title": "Best MCP servers for Claude Code and Codex I'm using in 2026",
+    "url": "https://composio.dev/content/best-mcp-servers-claude-code-codex",
+    "publisher": "Composio",
+    "published_date": "2026-06-29T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9793,
+    "ai_summary": "A curated list of MCP servers for Claude Code and Codex in 2026 includes Composio, Chrome DevTools, Context7, Playwright, Figma, Sentry, Google Workspace, Linear, Atlassian, Notion, and others. Each entry explains when to use it over CLI and provides installation commands. The list also notes that some services have mature CLIs, making MCP less necessary.",
+    "word_count": 5061,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Developer Tooling & SDK Platforms",
+      "code": "BPAMAOAD",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Developer Experience Platforms for Enterprise (IDEs, CI/CD, Dev Portals)",
+      "code": "HDAEAKAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0097ynw",
+      "name": "Context7",
+      "website": "https://context7.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000i5",
+      "name": "Sentry",
+      "website": "https://www.sentry.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002em",
+      "name": "Composio",
+      "website": "https://composio.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us-west-2"
+     ],
+     "product": [
+      "claude code",
+      "drive",
+      "gmail",
+      "codex",
+      "calendar",
+      "claude mcp",
+      "tailwind",
+      "notion",
+      "linear",
+      "documint",
+      "slack",
+      "posthog",
+      "sentry",
+      "chrome devtools mcp",
+      "playwright",
+      "github",
+      "figma",
+      "chrome",
+      "context7",
+      "claude claude mcp",
+      "playwright mcp",
+      "claude claude plugin",
+      "sentry mcp",
+      "google workspace mcp",
+      "linear mcp",
+      "sentry claude code",
+      "google drive",
+      "google sheets",
+      "jira",
+      "confluence",
+      "bitbucket",
+      "compass",
+      "notion mcp",
+      "atlassian mcp",
+      "vercel mcp",
+      "neon mcp",
+      "claude",
+      "supabase mcp",
+      "vercel",
+      "codex mcp",
+      "cloudflare mcp",
+      "aws mcp",
+      "composio mcp gateway",
+      "cloudflare claude code",
+      "kubectl",
+      "cloudflare codex",
+      "kubernetes mcp",
+      "gke",
+      "helm",
+      "chrome devtools",
+      "neon"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7203,
+    "group_id": 14098976
+   },
+   {
+    "id": 26613285,
+    "title": "Railway Trust Center",
+    "url": "https://trust.railway.com",
+    "publisher": "Railway",
+    "published_date": "2026-06-25T18:28:28",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5146,
+    "ai_summary": "The article presents Railway's Trust Center, which lists various third-party subprocessors that handle data on behalf of the Railway platform. It provides details for each service provider, including their purpose, location, and security documentation links. The content serves as a compliance and transparency resource rather than reporting a specific news event. ",
+    "word_count": 204,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Secrets Management & Cloud Key Management (KMS, Vaults)",
+      "code": "HDADADAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000d34",
+      "name": "Google Cloud",
+      "website": "https://cloud.google.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000d7",
+      "name": "Fivetran",
+      "website": "https://fivetran.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000gyy",
+      "name": "Causal",
+      "website": "https://causal.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000tx",
+      "name": "Discord",
+      "website": "https://discord.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008okp",
+      "name": "Fathom Analytics",
+      "website": "https://usefathom.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b33",
+      "name": "Customer.io",
+      "website": "https://customer.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561621",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "singapore",
+      "united states",
+      "eu",
+      "united states https://segment.com/security/ zapier workflow automation united states"
+     ],
+     "product": [
+      "slack communication tool",
+      "discord communication tool",
+      "linear issue tracking",
+      "zapier workflow automation"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6479,
+    "group_id": 9122670
+   },
+   {
+    "id": 26265051,
+    "title": "MCP Enterprise Authorization Goes Stable: Zero-Touch SSO for Okta, Anthropic, VS Code",
+    "url": "https://www.techtimes.com/articles/318708/20260619/mcp-enterprise-authorization-goes-stable-zero-touch-sso-okta-anthropic-vs-code.htm",
+    "publisher": "Tech Times",
+    "published_date": "2026-06-19T15:32:44",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The Model Context Protocol community released a stable Enterprise-Managed Authorization (EMA) extension on June 18, 2026, replacing the traditional per-user OAuth consent flow with an Identity Assertion JWT Authorization Grant (ID-JAG) mechanism that enables zero-touch, silent authentication for AI agents through enterprise identity providers. Okta is the first supported identity provider, implementing Cross App Access (XAA), while Anthropic and Microsoft have added EMA support to their clients (Claude, Claude Code, Cowork, and Visual Studio Code respectively. At launch, MCP servers including Asana, Atlassian, Canva, Figma, Granola, Linear, Supabase, and Slack support EMA, with companies like Hubspot, Ramp, and Webflow deploying it for their teams.",
+    "word_count": 1537,
+    "author": "Kyle Belmonte",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Federation & Identity Standards (SAML/OIDC/OAuth, Federation Hubs)",
+      "code": "HDADAAAG",
+      "is_primary": true
+     },
+     {
+      "name": "Access Management & Policy Enforcement (Authorization, ZTNA integration)",
+      "code": "HDAEAJAG",
+      "is_primary": false
+     },
+     {
+      "name": "Single Sign-On (SSO) & Federation",
+      "code": "BPAMAEAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000l1",
+      "name": "Canva",
+      "website": "http://www.canva.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000762",
+      "name": "identification technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "paul carleton",
+      "aaron parecki",
+      "block",
+      "tom moor",
+      "devdatta akhawe"
+     ],
+     "location": [
+      "new york"
+     ],
+     "product": [
+      "okta",
+      "vs code",
+      "claude",
+      "oauth",
+      "mcp",
+      "anthropic",
+      "kiro",
+      "visual studio code",
+      "cowork"
+     ],
+     "event": [
+      "aws summit"
+     ]
+    },
+    "newsworthiness_score": 0.9252,
+    "group_id": 2398684
+   },
+   {
+    "id": 27062187,
+    "title": "Claude MCP Connectors Now Provision Through Okta: Employees Inherit Access on Login",
+    "url": "https://www.techtimes.com/articles/318704/20260619/claude-mcp-connectors-now-provision-through-okta-employees-inherit-access-login.htm",
+    "publisher": "Tech Times",
+    "published_date": "2026-06-19T10:55:03",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5688,
+    "ai_summary": "Anthropic launched Enterprise-Managed Authorization (EMA) for Claude's MCP connectors on June 18, 2026, enabling enterprise IT administrators to provision third-party AI integrations through their identity provider with automatic access pushed to employees on first login, eliminating individual OAuth consent screens. The feature, built on the open ID-JAG protocol co-developed by Okta and others, marks the first live production implementation of the stable MCP authorization extension, with seven connectors (Asana, Atlassian, Canva, Figma, Granola, Linear, Supabase) supported at launch. Anthropic confirmed that Azure AD and Google Workspace integrations are on the roadmap but not yet available, limiting the feature to Okta customers in the current beta.",
+    "word_count": 1542,
+    "author": "Jerry Owens",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Federation & Identity Standards (SAML/OIDC/OAuth, Federation Hubs)",
+      "code": "HDADAAAG",
+      "is_primary": true
+     },
+     {
+      "name": "Identity Orchestration & Policy (Zero Trust Access, Conditional Access)",
+      "code": "HDADAAAL",
+      "is_primary": false
+     },
+     {
+      "name": "Access Management & Policy Enforcement (Authorization, ZTNA integration)",
+      "code": "HDAEAJAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000l1",
+      "name": "Canva",
+      "website": "http://www.canva.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002sr",
+      "name": "Supabase",
+      "website": "https://supabase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000im",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "600",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "paul carleton",
+      "tom moor",
+      "ely kahn"
+     ],
+     "location": [],
+     "product": [
+      "claude",
+      "cowork",
+      "canva",
+      "granola",
+      "slack",
+      "figma",
+      "supabase",
+      "linear",
+      "okta",
+      "asana",
+      "claude code",
+      "azure ad",
+      "visual studio code",
+      "google workspace sso",
+      "vs code",
+      "microsoft entra id",
+      "google workspace"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9082,
+    "group_id": 3064001
+   },
+   {
+    "id": 35629784,
+    "title": "MCP gets its missing enterprise authorization layer",
+    "url": "https://thenewstack.io/mcp-gets-its-missing-enterprise-authorization-layer/",
+    "publisher": "The New Stack",
+    "published_date": "2026-06-18T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.832,
+    "ai_summary": "The Model Context Protocol's Enterprise-Managed Authorization extension is now stable, with Anthropic and Microsoft supporting it via Okta as the first identity provider. The extension lets enterprises centrally control MCP server access through existing identity providers, avoiding per-server OAuth prompts. Okta is the only provider to have shipped support so far.",
+    "word_count": 736,
+    "author": "Frederic Lardinois",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Identity, Access & Secrets Management for AI Systems (IAM for agents/models)",
+      "code": "HDAAAKAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Access Management & Policy Enforcement (Authorization, ZTNA integration)",
+      "code": "HDAEAJAG",
+      "is_primary": false
+     },
+     {
+      "name": "Single Sign-On (SSO) & Federation (SAML/OIDC, Identity Providers)",
+      "code": "HDAEAJAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002oi",
+      "name": "Okta",
+      "website": "http://www.okta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": true
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000g8ng",
+      "name": "Model Context Protocol",
+      "website": "https://modelcontextprotocol.io/introduction",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000762",
+      "name": "identification technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "3570",
+      "name": "COMPUTER & OFFICE EQUIPMENT"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tom moor",
+      "aaron parecki",
+      "frederic lardinois",
+      "frederic"
+     ],
+     "location": [],
+     "product": [
+      "claude",
+      "visual studio code",
+      "slack",
+      "auth0",
+      "figma",
+      "granola",
+      "canva"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8686,
+    "group_id": 2398684
+   },
+   {
+    "id": 32257115,
+    "title": "Grind culture is a failure of management \u2014 but we still turn away 9-5 candidates",
+    "url": "https://sifted.eu/articles/grind-culture-management",
+    "publisher": "Sifted",
+    "published_date": "2026-06-16T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0068,
+    "ai_summary": "Gigaton, a startup building AI-powered industrial control systems, is deliberately intensifying its work culture to accelerate product development and secure capital for scaling. The company has turned away candidates seeking standard 9-5 hours and reduced incoming revenue by 50% to focus on high-value outcomes, citing the urgency of the climate crisis as justification. This strategic shift aims to achieve product-market fit and profitability quickly enough to ensure the company's survival and impact. ",
+    "word_count": 800,
+    "author": "Bob Gregory",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Safety, Alignment & Content Moderation (Guardrails, Red Teaming)",
+      "code": "HDAAACAI",
+      "is_primary": true
+     },
+     {
+      "name": "Order Management & Customer Fulfillment Support",
+      "code": "BPAAAAAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000u8l",
+      "name": "Gigaton",
+      "website": "https://www.carbonre.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajd",
+      "name": "Corgi Insurance",
+      "website": "https://www.corgi.insure",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541714",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8731",
+      "name": "SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH"
+     }
+    ],
+    "entities": {
+     "person": [
+      "nico laqua",
+      "karri saarinen",
+      "bob gregory",
+      "josh vernon"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7463081
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

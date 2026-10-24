@@ -1,0 +1,6660 @@
+{
+ "fetched_at": "2026-10-24T11:46:42",
+ "params": {
+  "company": "granola.ai",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 69,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42358489,
+    "title": "The AI notetaker risk is now an everywhere problem",
+    "url": "https://www.csoonline.com/article/4239372/the-ai-notetaker-risk-is-now-an-everywhere-problem.html",
+    "publisher": "CSO Online",
+    "published_date": "2026-10-23T08:25:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.043,
+    "ai_summary": "AI notetakers have moved from meeting platforms to wearables, enabling covert recording and manipulation. Risks include prompt injection, transcript errors, and data leaks, with policy recommendations for transparency, classification, and vendor governance.",
+    "word_count": 1131,
+    "author": "Joe Sullivan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Responsible AI Policy, Controls & Workflow Management",
+      "code": "HDAAAMAG",
+      "is_primary": true
+     },
+     {
+      "name": "AI Privacy Engineering & Data Governance (PII, consent, retention)",
+      "code": "HDAAAKAB",
+      "is_primary": false
+     },
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000825",
+      "name": "Limitless AI (formerly Rewind AI)",
+      "website": "https://www.limitless.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007gij",
+      "name": "Novacy",
+      "website": "http://novacy.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001300",
+      "name": "privacy"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "637",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "california",
+      "united states"
+     ],
+     "product": [
+      "granola",
+      "limitless",
+      "ai notetakers",
+      "notetaker",
+      "ai notetaker",
+      "apple watch",
+      "smart glasses",
+      "novacy"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15712356
+   },
+   {
+    "id": 41559865,
+    "title": "Otter.ai secures $320M from General Catalyst to become enterprises\u2019 voice system of record \u2014 TFN",
+    "url": "https://techfundingnews.com/otter-ai-secures-320m-from-general-catalyst-to-become-enterprises-voice-system-of-record/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-10-20T12:39:22",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Otter.ai closed $320 million in repayable financing from General Catalyst's Customer Value Fund, with no equity dilution. The startup plans to use the funds for enterprise sales, marketing, and international expansion, targeting companies with over 86% of Fortune 500 teams. The financing's success depends on converting sales spend into measurable revenue.",
+    "word_count": 751,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "USA",
+     "CAN",
+     "GBR",
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": true
+     },
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": false
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000r",
+      "name": "General Catalyst",
+      "website": "http://www.generalcatalyst.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000171",
+      "name": "business finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "525990",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sam liang",
+      "pranav singhvi",
+      "yun fu"
+     ],
+     "location": [
+      "canada",
+      "britain",
+      "india",
+      "us"
+     ],
+     "product": [
+      "live assist",
+      "zoom",
+      "notetaker",
+      "fireflies.ai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14989570
+   },
+   {
+    "id": 41376721,
+    "title": "LinkedIn Top Startups 2026: The 20 UK Companies on the Rise",
+    "url": "https://beststartup.co.uk/linkedin-top-startups-uk-2026/",
+    "publisher": "BestStartup.co.uk",
+    "published_date": "2026-10-19T08:33:40",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "LinkedIn's 2026 UK startup ranking places ElevenLabs at the top with a \u00a316.6 billion valuation, while Nscale heads for an IPO. The 20 companies, 18 based in London, have combined funding exceeding \u00a37 billion, with AI dominating the list.",
+    "word_count": 2252,
+    "author": "Laura Anderson",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000a3d",
+      "name": "Sona",
+      "website": "https://sonaai.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002vg",
+      "name": "Fuse Energy",
+      "website": "https://www.fuseenergy.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003mu4",
+      "name": "Humanoid",
+      "website": "https://thehumanoid.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002oa",
+      "name": "PerfectTed",
+      "website": "https://www.perfectted.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02k2iei",
+      "name": "Novabook",
+      "website": "https://www.novabook.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mtp",
+      "name": "tem",
+      "website": "https://www.tem.energy",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000b",
+      "name": "Nscale",
+      "website": "https://www.nscale.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00094p2",
+      "name": "Omnea",
+      "website": "https://omnea.tech",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "nate goldman",
+      "alejandra budar",
+      "jeff bezos"
+     ],
+     "location": [
+      "london",
+      "uk",
+      "new york",
+      "silicon valley",
+      "europe",
+      "cambridge",
+      "american",
+      "britain",
+      "asian",
+      "european",
+      "london-new york"
+     ],
+     "product": [
+      "humanoid",
+      "granola",
+      "electric toothbrush",
+      "powdered products",
+      "perfectted",
+      "suri"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14838382
+   },
+   {
+    "id": 40557364,
+    "title": "Which AI Meeting Tools Work Best for Client Calls in 2026?",
+    "url": "https://www.analyticsinsight.net/artificial-intelligence/which-ai-meeting-tools-work-best-for-client-calls-in-2026",
+    "publisher": "Analytics Insight",
+    "published_date": "2026-10-13T11:10:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.529,
+    "ai_summary": "Five AI meeting tools\u2014Notta, Fireflies, Otter, Granola, and Fathom\u2014are compared for client calls, evaluating capture flexibility, speaker attribution, and client-ready outputs. Notta is highlighted for offering both bot and bot-free capture, local offline transcription, and CRM integrations. The comparison notes that client policy and consent requirements still apply.",
+    "word_count": 1339,
+    "author": "Written Industrytrends",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Automatic Speech Recognition (ASR)",
+      "code": "HDAAAFAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000aq2",
+      "name": "Notta",
+      "website": "https://www.notta.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajr",
+      "name": "Fathom",
+      "website": "https://fathom.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000193",
+      "name": "annual and special corporate meeting"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "mac"
+     ],
+     "product": [
+      "notta",
+      "fireflies",
+      "google meet",
+      "zoom",
+      "webex",
+      "privacy mode",
+      "zoho",
+      "askfred assistant",
+      "hubspot",
+      "meeting bot",
+      "notetaker",
+      "word",
+      "pipedrive",
+      "microsoft teams",
+      "excel",
+      "business",
+      "ai meeting tools",
+      "otter",
+      "granola",
+      "fathom",
+      "zapier",
+      "apple watch"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7382,
+    "group_id": 14123465
+   },
+   {
+    "id": 40465892,
+    "title": "Granola API Review: Endpoints, Limits & Pricing [Aug 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/granola-api",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5204,
+    "ai_summary": "Granola's read-only REST API (v1.2.0) exposes meeting notes, transcripts, and summaries via three endpoints, with a 5 req/sec sustained rate limit and no webhooks. It is bundled into Business ($14/user) and Enterprise ($35/user) plans, while ZoomInfo's API provides B2B intelligence for attendee enrichment.",
+    "word_count": 3207,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Video Conferencing & Webinars",
+      "code": "BPAMAMAB",
+      "is_primary": true
+     },
+     {
+      "name": "Developer Tooling & SDK Platforms",
+      "code": "BPAMAOAD",
+      "is_primary": false
+     },
+     {
+      "name": "Video Conferencing & Meetings",
+      "code": "BPAMACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "518210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "canada"
+     ],
+     "product": [
+      "granola api",
+      "granola's api",
+      "zoominfo",
+      "claude",
+      "cursor",
+      "chatgpt",
+      "iphone",
+      "macos",
+      "granola",
+      "v1.1.0",
+      "v1.2.0",
+      "postman",
+      "copilot api",
+      "zoominfo enterprise api",
+      "zoominfo's api"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7162,
+    "group_id": 13513631
+   },
+   {
+    "id": 40293901,
+    "title": "Anthropic startup free benefits discontinued, all applications re-evaluated",
+    "url": "https://platum.kr/archives/295995",
+    "publisher": "Platum",
+    "published_date": "2026-10-10T12:20:50",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0407,
+    "ai_summary": "Anthropic suspended its one-year free Claude and $1,000 API credits offer for startups due to overwhelming demand. The company will re-evaluate all applications, with some statuses possibly changing, and no resumption date was given. Existing beneficiaries remain unaffected.",
+    "word_count": 741,
+    "author": "\ucd5c\uc6d0\ud76c",
+    "countries": [
+     "USA",
+     "KOR"
+    ],
+    "industries": [
+     {
+      "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+      "code": "HDAAACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Compensation & Benefits",
+      "code": "WT03",
+      "is_primary": true
+     },
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": false
+     },
+     {
+      "name": "Shareholder Returns (Buybacks & Dividends)",
+      "code": "CM08",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000006l",
+      "name": "ClickHouse",
+      "website": "https://clickhouse.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "002yu8j",
+      "name": "Korea Startup Forum",
+      "website": "https://kstartupforum.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "south korea",
+      "san francisco"
+     ],
+     "product": [
+      "claude"
+     ],
+     "event": [
+      "claude founder house"
+     ]
+    },
+    "newsworthiness_score": 0.9542,
+    "group_id": 13141857
+   },
+   {
+    "id": 40210438,
+    "title": "Claude\u2019dan giri\u015fimcilere 45 bin dolara varan destek: \u00dccretsiz ara\u00e7lar, krediler ve indirimler",
+    "url": "https://egirisim.com/2026/10/09/claudedan-girisimcilere-45-bin-dolara-varan-destek-ucretsiz-araclar-krediler-ve-indirimler/",
+    "publisher": "Egirisim",
+    "published_date": "2026-10-09T10:04:44",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8556,
+    "ai_summary": "Anthropic's Claude Startups program provides startups with free AI tools, credits, and discounts totaling up to $45,000. The program includes free ElevenLabs, ClickHouse Cloud credits, and free access to other services, with one-year Claude Team offers already full. Startups without venture capital can apply.",
+    "word_count": 243,
+    "author": "Yazar",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate Accelerators & Startup Programs",
+      "code": "FSANAHAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000006l",
+      "name": "ClickHouse",
+      "website": "https://clickhouse.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001294",
+      "name": "crowdfunding"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "813910",
+      "name": "Other Services (except Public Administration)"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "claude console",
+      "granola",
+      "claude team"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7034,
+    "group_id": 13141857
+   },
+   {
+    "id": 39918534,
+    "title": "Anthropic Expands Discounts and Support for Founders",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-discounts-support-founders/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-10-06T21:59:54",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Anthropic expanded its Claude Startups program to more founders, offering a year of Claude Team, $1,000 in API credits, and up to $45,000 in discounts on tools. The program also includes office hours with Anthropic's Applied AI team and is open to startups founded in the last five years or funded in the last two.",
+    "word_count": 566,
+    "author": "Pymnts",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate Accelerators & Startup Programs",
+      "code": "FSANAHAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sarah wolf"
+     ],
+     "location": [],
+     "product": [
+      "claude",
+      "lovable",
+      "linear",
+      "hex",
+      "granola"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9081,
+    "group_id": 13141857
+   },
+   {
+    "id": 39977063,
+    "title": "Anthropic Expands Claude Startups Program With New Founder Benefits",
+    "url": "https://www.unite.ai/anthropic-expands-claude-startups-program-with-new-founder-benefits/",
+    "publisher": "Unite.AI",
+    "published_date": "2026-10-06T16:39:01",
+    "sentiment": "Positive",
+    "sentiment_score": 0.912,
+    "ai_summary": "Anthropic expanded its Claude Startups program on October 6, 2026, adding a third-party partner stack worth up to $45,000, $1,000 in API credits, and a free year of Claude Team. The program targets startups founded in the last five years or funded in the last two, with applications decided within minutes or two to three business days.",
+    "word_count": 962,
+    "author": "Evan Mercer",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Accelerators & Startup Programs",
+      "code": "FSANAHAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     },
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026b",
+      "name": "Firecrawl",
+      "website": "https://www.firecrawl.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002cp",
+      "name": "Augment Code",
+      "website": "https://www.augmentcode.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000006l",
+      "name": "ClickHouse",
+      "website": "https://clickhouse.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007zw",
+      "name": "Attention",
+      "website": "https://www.attention.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002ue",
+      "name": "Emergent",
+      "website": "https://emergent.sh",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "813910",
+      "name": "Other Services (except Public Administration)"
+     },
+     {
+      "code": "6114",
+      "name": "Educational Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "evan mercer",
+      "mike krieger",
+      "beth robertson",
+      "david rosenthal",
+      "jared kaplan"
+     ],
+     "location": [
+      "china",
+      "belarus",
+      "sudan",
+      "cuba",
+      "syria",
+      "iran",
+      "myanmar",
+      "russia",
+      "crimea",
+      "san francisco",
+      "north korea",
+      "donetsk",
+      "luhansk",
+      "511 harrison st",
+      "u.s.",
+      "terra gallery"
+     ],
+     "product": [
+      "firecrawl",
+      "elevenlabs",
+      "emergent",
+      "lovable",
+      "legora",
+      "granola",
+      "rogo",
+      "hex",
+      "decagon",
+      "cursor",
+      "glean",
+      "harvey",
+      "claude console",
+      "factory",
+      "claude",
+      "aws bedrock",
+      "gamma pro",
+      "cognition",
+      "cosmos",
+      "google cloud vertex ai",
+      "clickhouse",
+      "augment code"
+     ],
+     "event": [
+      "founder days",
+      "builder days",
+      "founder house",
+      "hackathons",
+      "sf tech week"
+     ]
+    },
+    "newsworthiness_score": 0.8232,
+    "group_id": 13141857
+   },
+   {
+    "id": 39532575,
+    "title": "Sequoia sues after departing broker allegedly used AI app to grab client data",
+    "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/sequoia-sues-after-departing-broker-allegedly-used-ai-app-to-grab-client-data-592167.aspx",
+    "publisher": "Insurance Business America",
+    "published_date": "2026-10-02T17:31:04",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0056,
+    "ai_summary": "Sequoia Benefits and Insurance Services filed a federal trade-secrets lawsuit in Colorado against a departing employee who allegedly used an unapproved AI app to capture client meeting notes and retain them after joining a competitor. The suit seeks injunctive relief and damages under federal and Colorado trade-secret laws, plus contractual liquidated damages.",
+    "word_count": 814,
+    "author": "Tez Romero",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Trade Secret Protection & IP Strategy",
+      "code": "BPAHAMAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000zb9",
+      "name": "Alliant Insurance Services",
+      "website": "https://alliant.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002y1d",
+      "name": "Sequoia",
+      "website": "http://www.sequoia.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000282",
+      "name": "legal service"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "383",
+      "name": "Law"
+     },
+     {
+      "code": "123",
+      "name": "Careers"
+     },
+     {
+      "code": "97",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541199",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     },
+     {
+      "code": "6411",
+      "name": "INSURANCE AGENTS, BROKERS & SERVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "colorado"
+     ],
+     "product": [
+      "iphone",
+      "granola ai",
+      "google drive",
+      "gmail",
+      "ai app"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13158238
+   },
+   {
+    "id": 39379987,
+    "title": "Content creators are flocking to Hyperagent, a new agentic work platform",
+    "url": "https://revenuebrew.com/stories/hyperagent-agentic-work-platform",
+    "publisher": "Revenuebrew",
+    "published_date": "2026-09-30T16:57:12",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Content creators are adopting Hyperagent, an agentic work platform, to build agents that replace human hires. The platform lets users create agents with different job functions, and creators pay compute costs instead of salaries. Hyperagent has partnered with creators and given compute credits to followers.",
+    "word_count": 718,
+    "author": "About The Author",
+    "countries": [],
+    "industries": [
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m76eq",
+      "name": "The Drive Agency",
+      "website": "https://thedriveagency.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mb27q",
+      "name": "Hyperagent",
+      "website": "https://www.hyperagent.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001275",
+      "name": "gig economy"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "266",
+      "name": "Hobbies & Interests"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51621",
+      "name": "Information"
+     },
+     {
+      "code": "5162",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "valerie chapman",
+      "hazel",
+      "tricia crimmins",
+      "patrick zielinski",
+      "gabrielle judge",
+      "ms. anti work"
+     ],
+     "location": [],
+     "product": [
+      "hyperagent",
+      "juniper"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.807,
+    "group_id": 13012507
+   },
+   {
+    "id": 39174420,
+    "title": "6 Best AI Meeting Note Takers for 2026: Fathom, Otter, Fireflies and More",
+    "url": "https://www.techrepublic.com/article/news-best-ai-meeting-note-takers-2026/",
+    "publisher": "TechRepublic",
+    "published_date": "2026-09-28T13:48:38",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Six AI meeting note takers\u2014Fathom, Fireflies, Otter, Granola, Fellow, and Notta\u2014are compared on pricing, free plans, meeting support, capture methods, integrations, and admin controls. Fathom offers unlimited free transcription, while Fireflies and Otter provide high-volume or live transcription options, with Granola supporting bot-free capture.",
+    "word_count": 1721,
+    "author": "Techrepublic Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Automatic Speech Recognition (ASR)",
+      "code": "HDAAAFAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000aq2",
+      "name": "Notta",
+      "website": "https://www.notta.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajr",
+      "name": "Fathom",
+      "website": "https://fathom.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bd2",
+      "name": "Fellow",
+      "website": "https://fellow.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "fathom",
+      "fireflies",
+      "otter",
+      "zoom",
+      "google meet",
+      "slack huddles",
+      "webex",
+      "microsoft teams",
+      "granola",
+      "pro",
+      "fellow",
+      "notta",
+      "otter.ai",
+      "enterprise",
+      "zapier",
+      "business",
+      "otter notetaker",
+      "notion",
+      "slack",
+      "fireflies.ai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7493,
+    "group_id": 12817538
+   },
+   {
+    "id": 38881631,
+    "title": "UK adds 16 Unicorns so far this year \u22c6 Electronics Weekly",
+    "url": "https://www.electronicsweekly.com/news/business/uk-adds-16-unicorns-2026-09/",
+    "publisher": "Electronicsweekly",
+    "published_date": "2026-09-25T05:07:17",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The UK added 16 unicorns in 2026, bringing its total to 100, with 91 since 2017. AI led the new group, with FluidStack valued at $18B, followed by Ineffable at $5.1B. Institutional investors backed several, citing commercial traction and scalability.",
+    "word_count": 243,
+    "author": "David Manners",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007ez",
+      "name": "Fluidstack",
+      "website": "https://www.fluidstack.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003f7",
+      "name": "Moneybox",
+      "website": "https://www.moneyboxapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007it",
+      "name": "9fin",
+      "website": "https://9fin.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00f27h1",
+      "name": "OLIX",
+      "website": "https://olix.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003t",
+      "name": "CuspAI",
+      "website": "https://cusp.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003mu4",
+      "name": "Humanoid",
+      "website": "https://thehumanoid.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005j8",
+      "name": "PhysicsX",
+      "website": "https://www.physicsx.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007oc",
+      "name": "Odyssey",
+      "website": "https://odyssey.ml",
+      "is_primary": false
+     },
+     {
+      "uuid": "00q2yte",
+      "name": "Ineffable Intelligence",
+      "website": "https://www.ineffable.chat",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "ineffable",
+      "olix",
+      "fluidstack",
+      "moneybox",
+      "odyssey",
+      "granola",
+      "humanoid",
+      "cuspai",
+      "physicsx"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12395496
+   },
+   {
+    "id": 36065921,
+    "title": "Plaud eyes 2028 US IPO after crossing $1B valuation \u2014 TFN",
+    "url": "https://techfundingnews.com/plaud-eyes-2028-us-ipo-after-crossing-1b-valuation/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-09-18T08:30:19",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Plaud, an AI notetaker startup, is targeting a US IPO in 2028 after annual revenue clears $1 billion. It has reached $100 million in annual recurring revenue and is profitable at a $1B+ valuation. The company aims for $500 million in global sales in 2026.",
+    "word_count": 480,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "USA",
+     "SGP",
+     "CHN",
+     "JPN"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "IPOs & Follow-on Offerings",
+      "code": "CM05",
+      "is_primary": true
+     },
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007koa",
+      "name": "Vertex Holdings",
+      "website": "https://www.vertexholdings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008194",
+      "name": "Sandbar",
+      "website": "https://sandbar.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006cgl",
+      "name": "Pocket",
+      "website": "https://heypocket.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006sh",
+      "name": "Plaud",
+      "website": "https://www.plaud.ai/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "nathan xu"
+     ],
+     "location": [
+      "shenzhen",
+      "japan",
+      "europe",
+      "san francisco",
+      "london",
+      "china",
+      "singapore",
+      "us",
+      "southeast asia",
+      "asia-pacific"
+     ],
+     "product": [
+      "plaud note",
+      "ai notetaker",
+      "stream ring"
+     ],
+     "event": [
+      "2028 us ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11458541
+   },
+   {
+    "id": 39692674,
+    "title": "DECIMAL AI ANNOUNCES $4 MILLION SEED ROUND TO BRING CUSTOMER ENGINEERING TO SOFTWARE COMPANIES",
+    "url": "https://www.prnewswire.com/news-releases/decimal-ai-announces-4-million-seed-round-to-bring-customer-engineering-to-software-companies-302879089.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-09-15T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Decimal AI announced a $4 million seed round co-led by Khosla Ventures and Kearny Jackson. The company's AI Support Engineer resolves customer issues for clients like Granola and Resilinc, with support interactions resolved growing 15-fold since early 2026. The funding will expand technical issue investigation and integrations.",
+    "word_count": 752,
+    "author": "Decimal Ai",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Software/Application Support (SaaS, Enterprise Apps)",
+      "code": "BPAAACAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000dex",
+      "name": "Weekend Fund",
+      "website": "http://weekend.fund",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002v",
+      "name": "Khosla Ventures",
+      "website": "http://www.khoslaventures.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003rj",
+      "name": "Resilinc",
+      "website": "http://www.resilinc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000077r",
+      "name": "Lucidworks",
+      "website": "http://www.lucidworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ft3",
+      "name": "Atlassian Ventures",
+      "website": "https://www.atlassian.com/company/ventures",
+      "is_primary": true
+     },
+     {
+      "uuid": "005yvpm",
+      "name": "DecimalAI",
+      "website": "https://www.decimal.app",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000hx4",
+      "name": "BuildOps",
+      "website": "http://buildops.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qw",
+      "name": "Tealium",
+      "website": "http://www.tealium.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006lze",
+      "name": "Kearny Jackson",
+      "website": "https://www.kearnyjackson.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "kearny jackson",
+      "sanjeet hajarnis",
+      "rimple patel",
+      "michelle valentin",
+      "claire johnson",
+      "hari arul",
+      "kevin raji cherian",
+      "sunil chhaya",
+      "vicky firth",
+      "sriram krishnan",
+      "vinod khosla",
+      "laura anderson mcgrath"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "granola",
+      "resilinc",
+      "tealium",
+      "vector search",
+      "lucidworks",
+      "buildops"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9908,
+    "group_id": 11320140
+   },
+   {
+    "id": 39669586,
+    "title": "DECIMAL AI ANNOUNCES $4 MILLION SEED ROUND TO BRING CUSTOMER ENGINEERING TO SOFTWARE COMPANIES",
+    "url": "https://www.vcaonline.com/news/2026091514/decimal-ai-announces-4-million-seed-round-to-bring-customer-engineering-to-software-companies/",
+    "publisher": "Venture Capital Access Online",
+    "published_date": "2026-09-15T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Decimal AI announced a $4 million seed round co-led by Khosla Ventures and Kearny Jackson. The company's AI Support Engineer resolves customer issues for clients like Granola and Resilinc, with support interactions growing 15-fold since early 2026. The funding will expand technical issue investigation and integrations.",
+    "word_count": 716,
+    "author": "Access Intercomm",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Software/Application Support (SaaS, Enterprise Apps)",
+      "code": "BPAAACAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000dex",
+      "name": "Weekend Fund",
+      "website": "http://weekend.fund",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002v",
+      "name": "Khosla Ventures",
+      "website": "http://www.khoslaventures.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003rj",
+      "name": "Resilinc",
+      "website": "http://www.resilinc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000077r",
+      "name": "Lucidworks",
+      "website": "http://www.lucidworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ft3",
+      "name": "Atlassian Ventures",
+      "website": "https://www.atlassian.com/company/ventures",
+      "is_primary": true
+     },
+     {
+      "uuid": "005yvpm",
+      "name": "DecimalAI",
+      "website": "https://www.decimal.app",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000hx4",
+      "name": "BuildOps",
+      "website": "http://buildops.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qw",
+      "name": "Tealium",
+      "website": "http://www.tealium.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006lze",
+      "name": "Kearny Jackson",
+      "website": "https://www.kearnyjackson.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kearny jackson",
+      "sanjeet hajarnis",
+      "rimple patel",
+      "michelle valentin",
+      "claire johnson",
+      "hari arul",
+      "vicky firth",
+      "sunil chhaya",
+      "kevin raji cherian",
+      "vinod khosla",
+      "sriram krishnan"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "granola",
+      "resilinc",
+      "vector search"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9867,
+    "group_id": 11320140
+   },
+   {
+    "id": 35084416,
+    "title": "Apple Brings Free AI Note-Taking to the Watch",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-brings-free-ai-note-taking-watch/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-09-10T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8848,
+    "ai_summary": "Apple announced Siri Recap, an AI note-taker for the Apple Watch that listens and summarizes conversations for free, with no transcript or speaker ID. Granola beat Apple to the wrist by over a month, already shipping a full Watch app with transcripts and action items, while Siri Recap remains in beta.",
+    "word_count": 101,
+    "author": "Pymnts",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Automatic Speech Recognition (ASR)",
+      "code": "HDAAAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Summarization & Document Understanding",
+      "code": "HDAAADAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004h1",
+      "name": "Apple",
+      "website": "https://www.apple.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001258",
+      "name": "consumer electronics"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "637",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "otter",
+      "granola",
+      "fireflies",
+      "apple watch",
+      "siri recap"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7877,
+    "group_id": 10516193
+   },
+   {
+    "id": 34818625,
+    "title": "AI notetakers at work could leave companies at risk for lawsuits",
+    "url": "https://www.computerworld.com/article/4219742/ai-notetakers-at-work-could-leave-companies-at-risk-for-lawsuits.html",
+    "publisher": "Computerworld",
+    "published_date": "2026-09-09T11:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0085,
+    "ai_summary": "Attorney Brian McGinnis discusses privacy lawsuits against AI notetaking tools, citing cases against Otter, Fireflies, Microsoft Teams, and Granola. The suits allege unauthorized recording and use of biometric data, with potential outcomes requiring opt-in consent from all meeting participants. Businesses are advised to obtain written consent and implement internal policies to avoid legal risk.",
+    "word_count": 2105,
+    "author": "Matthew Finnegan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Privacy Engineering & Data Governance (PII, consent, retention)",
+      "code": "HDAAAKAB",
+      "is_primary": true
+     },
+     {
+      "name": "Privacy, Consent & Data Protection Management",
+      "code": "BPAEAPAF",
+      "is_primary": false
+     },
+     {
+      "name": "Privacy-Preserving ML & Data Protection (e.g., federated learning, differential privacy)",
+      "code": "HDAAAMAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003yxm",
+      "name": "Barnes & Thornburg",
+      "website": "http://www.btlaw.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001300",
+      "name": "privacy"
+     },
+     {
+      "code": "20000627",
+      "name": "data protection policy"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "383",
+      "name": "Law"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5411",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54111",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "brian mcginnis"
+     ],
+     "location": [
+      "california",
+      "illinois",
+      "washington",
+      "us"
+     ],
+     "product": [
+      "otter",
+      "fireflies",
+      "granola",
+      "ai notetakers",
+      "ai notetaking tools",
+      "ai notetaking apps",
+      "ai note-taking apps",
+      "ai note-taking applications",
+      "smartphone apps",
+      "smartglasses",
+      "meta glasses",
+      "apple watch",
+      "shutterfly"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10793561
+   },
+   {
+    "id": 39441398,
+    "title": "25 Best AI Tools for Business in 2026, Ranked by Category",
+    "url": "https://retellai.com/blog/best-ai-tools-for-business",
+    "publisher": "Retell AI",
+    "published_date": "2026-09-08T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The article ranks 25 AI tools for business across eight categories, naming one pick per category with 2026 pricing. It highlights ChatGPT for assistants, Retell AI for voice, and Fireflies for meeting notes, with budget tiers from $0 to under $500 monthly.",
+    "word_count": 3048,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+      "code": "BPAEAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000b5ic",
+      "name": "Gemini",
+      "website": "https://gemini.google.com/app",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajr",
+      "name": "Fathom",
+      "website": "https://fathom.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000072a",
+      "name": "SynthFlow AI",
+      "website": "https://synthflow.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006dd",
+      "name": "Bland AI",
+      "website": "https://www.bland.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "003xjel",
+      "name": "Claude",
+      "website": "https://claude.ai ",
+      "is_primary": false
+     },
+     {
+      "uuid": "000051f",
+      "name": "Retell AI",
+      "website": "https://retellai.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "79",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "claude",
+      "chatgpt",
+      "gemini",
+      "canva",
+      "hubspot",
+      "zapier",
+      "retell ai",
+      "fireflies",
+      "sonnet 5",
+      "haiku 4.5",
+      "github copilot",
+      "fable 5",
+      "google ai pro",
+      "intercom fin",
+      "opus 4.8",
+      "granola",
+      "fathom",
+      "n8n",
+      "synthflow",
+      "otter",
+      "bland ai",
+      "make",
+      "move",
+      "notetakers",
+      "zoom",
+      "webex",
+      "meet",
+      "midjourney",
+      "agentforce",
+      "apollo",
+      "sierra",
+      "descript",
+      "adobe firefly",
+      "zendesk ai",
+      "mckinsey",
+      "breeze ai",
+      "magic studio",
+      "service cloud",
+      "cursor",
+      "firefly",
+      "claude code",
+      "xcode",
+      "vs code",
+      "neovim",
+      "visual studio",
+      "fireflies pro",
+      "ai voice agent",
+      "podcasts",
+      "jetbrains",
+      "ai appointment setter"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9151,
+    "group_id": 13065568
+   },
+   {
+    "id": 32931654,
+    "title": "\u2018We Have So Much Money Coming In\u2019: This Startup Has Already Sold More Than 200,000 Units of an Unexpectedly Popular Product",
+    "url": "https://www.entrepreneur.com/business-news/pocket-has-already-sold-more-than-200000-units-of-its-ai-voice-recorder",
+    "publisher": "Entrepreneur",
+    "published_date": "2026-08-24T15:46:04",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Pocket, a Y Combinator-backed startup founded by Akshay Narisetti and Gabriel Dymowski, has sold more than 200,000 units of its $199 AI voice recorder eight months after launch, reaching a $100 million run rate. The 12-employee company projects a $1 billion run rate within two years, with 85% of sales in the U.S. and less than 10% from Amazon.",
+    "word_count": 522,
+    "author": "Sherin Shibu",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mobile POS (mPOS) Devices & Handheld Terminals",
+      "code": "HDACAKAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "005fi2w",
+      "name": "blah",
+      "website": "https://teams.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006cgl",
+      "name": "Pocket",
+      "website": "https://heypocket.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000fvm",
+      "name": "Zoom",
+      "website": "https://www.zoom.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009n",
+      "name": "Y Combinator",
+      "website": "https://www.ycombinator.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "gabriel dymowski",
+      "akshay narisetti"
+     ],
+     "location": [
+      "san francisco",
+      "silicon valley",
+      "u.s."
+     ],
+     "product": [
+      "google meet",
+      "ai pin",
+      "granola",
+      "pocket pro",
+      "pocket",
+      "microsoft teams",
+      "zoom"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9342906
+   },
+   {
+    "id": 33596975,
+    "title": "Fireflies CEO Krish Ramineni wants to turn its AI notetaker into an \u2018action-taker\u2019",
+    "url": "https://m.economictimes.com/ai/ai-insights/fireflies-ceo-krish-ramineni-wants-to-turn-its-ai-notetaker-into-an-action-taker/articleshow/133459364.cms",
+    "publisher": "The Economic Times",
+    "published_date": "2026-08-24T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8733,
+    "ai_summary": "Fireflies CEO Krish Ramineni said the company is expanding beyond meetings into email, chat, and scheduling, with Email Assistant launched to triage and draft replies. The firm has raised about $19 million and plans to add over a dozen capabilities. India is its second-largest market, with paid organizations tripling in two years.",
+    "word_count": 863,
+    "author": "Arun Padmanabhan",
+    "countries": [
+     "USA",
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "On-Demand Video Hosting & Content Repurposing (VOD Libraries, Highlights, Editing)",
+      "code": "THAHAOAN",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002v",
+      "name": "Khosla Ventures",
+      "website": "http://www.khoslaventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007b4",
+      "name": "Canaan Partners",
+      "website": "http://www.canaan.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "krish ramineni",
+      "ramineni"
+     ],
+     "location": [
+      "illinois",
+      "us",
+      "india"
+     ],
+     "product": [
+      "outlook",
+      "email assistant",
+      "gmail",
+      "fireflies",
+      "ai notetaker",
+      "slack",
+      "granola"
+     ],
+     "event": [
+      "etpl"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10156890
+   },
+   {
+    "id": 33807961,
+    "title": "Best Meeting Transcription App (2026): Wispr Flow Review",
+    "url": "https://filipkonecny.com/blog/best-meeting-transcription-app/",
+    "publisher": "Filipkonecny",
+    "published_date": "2026-08-22T09:42:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.595,
+    "ai_summary": "Wispr Flow offers Mac users bot-free meeting transcription with speaker identification, summaries, and searchable history. The free plan includes Notetaker but has a weekly meeting limit, while Pro costs $15 monthly or $12 annually. It is recommended for Mac users who also use Flow for voice dictation.",
+    "word_count": 3834,
+    "author": "Fk",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Speech Recognition, Dictation & Medical Transcription Platforms",
+      "code": "HLACAAAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajr",
+      "name": "Fathom",
+      "website": "https://fathom.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pnw",
+      "name": "Wispr Flow",
+      "website": "https://wisprflow.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jordan"
+     ],
+     "location": [],
+     "product": [
+      "notetaker",
+      "wispr flow",
+      "granola",
+      "fathom",
+      "fireflies",
+      "otter",
+      "zoom",
+      "google meet",
+      "pro",
+      "mac",
+      "wisprflow.ai",
+      "flow",
+      "android",
+      "slack",
+      "iphone",
+      "microsoft teams",
+      "wispr",
+      "cursor",
+      "chatgpt",
+      "claude",
+      "cal.com",
+      "windows"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7778,
+    "group_id": 10341975
+   },
+   {
+    "id": 32552078,
+    "title": "Granola API Review: Endpoints, Limits & Pricing [Aug 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/granola-api",
+    "publisher": "Zoominfo",
+    "published_date": "2026-08-20T10:43:35",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5203,
+    "ai_summary": "The article provides a technical review of Granola's read-only REST API, which allows developers to programmatically access meeting notes and transcripts from workspaces on paid plans. It contrasts this with ZoomInfo's Enterprise API, positioning the latter as an enrichment layer that provides B2B intelligence such as contact data and buying intent to complement Granola's meeting context. ",
+    "word_count": 3201,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Webhooks, Eventing & Message Streaming",
+      "code": "BPAMAOAE",
+      "is_primary": true
+     },
+     {
+      "name": "Application Integration & API/Middleware Services",
+      "code": "BPAEAAAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "1221",
+      "name": "BITUMINOUS COAL & LIGNITE SURFACE MINING"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "canada"
+     ],
+     "product": [
+      "granola api",
+      "granola's api",
+      "zoominfo",
+      "claude",
+      "cursor",
+      "chatgpt",
+      "iphone",
+      "macos",
+      "granola",
+      "v1.1.0",
+      "v1.2.0",
+      "postman",
+      "copilot api",
+      "zoominfo enterprise api",
+      "zoominfo's api"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7165,
+    "group_id": 8728169
+   },
+   {
+    "id": 32503313,
+    "title": "Pocket's popular AI notetaker launched 8 months ago. Revenue is soaring, but can it last?",
+    "url": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8",
+    "publisher": "Business Insider",
+    "published_date": "2026-08-19T16:12:14",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "AI hardware startup Pocket has reached a $100 million annualized revenue run rate just eight months after launching its smartphone-attached notetaker device. The company reports selling over 200,000 units with a small team of 12 employees, aiming to expand into retail and international markets while competing against tech giants like Google and Microsoft. ",
+    "word_count": 630,
+    "author": "Ben Bergman",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "On-Device/Edge Foundation Models (Mobile/Embedded LLMs)",
+      "code": "HDAAACAN",
+      "is_primary": true
+     },
+     {
+      "name": "Federated Learning & On-Device Personalization",
+      "code": "HDAAAJAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00buoe8",
+      "name": "Humane AI",
+      "website": "https://humane-ai.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000x",
+      "name": "Accel",
+      "website": "http://www.accel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fvm",
+      "name": "Zoom",
+      "website": "https://www.zoom.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006cgl",
+      "name": "Pocket",
+      "website": "https://heypocket.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000009n",
+      "name": "Y Combinator",
+      "website": "https://www.ycombinator.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001258",
+      "name": "consumer electronics"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "635",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sam altman",
+      "akshay narisetti",
+      "gabriel dymowski",
+      "johnny ive",
+      "guillermo rauch"
+     ],
+     "location": [
+      "silicon valley",
+      "san francisco",
+      "us"
+     ],
+     "product": [
+      "ai notetaker",
+      "humane ai",
+      "google meet",
+      "zoom",
+      "pocket",
+      "microsoft teams",
+      "granola",
+      "smartphones",
+      "openai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 8291099
+   },
+   {
+    "id": 32491101,
+    "title": "Calendly throws its hat into meeting note-taker circus",
+    "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-08-19T14:09:39",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7473,
+    "ai_summary": "Calendly is launching an AI-powered meeting note-taking product that records, transcribes, and summarizes meetings while generating action items. The company plans to introduce an AI assistant named Callie to automate scheduling workflows for sales and marketing professionals. This move intensifies competition in the productivity space against rivals such as Granola, Fireflies, Read AI, Notion, and ClickUp. ",
+    "word_count": 378,
+    "author": "Ivan Mehta",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email, Calendar & Scheduling",
+      "code": "BPAMAMAC",
+      "is_primary": true
+     },
+     {
+      "name": "Document Creation & Office Suites",
+      "code": "BPAMAMAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajr",
+      "name": "Fathom",
+      "website": "https://fathom.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d19",
+      "name": "ClickUp",
+      "website": "https://clickup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029l",
+      "name": "Read AI",
+      "website": "https://www.read.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rw",
+      "name": "Calendly",
+      "website": "https://calendly.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pnw",
+      "name": "Wispr Flow",
+      "website": "https://wisprflow.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tope awotona"
+     ],
+     "location": [],
+     "product": [
+      "otter",
+      "granola",
+      "fathom",
+      "fireflies",
+      "callie",
+      "notion",
+      "read ai",
+      "clickup",
+      "note-taker",
+      "wispr"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9021,
+    "group_id": 8130658
+   },
+   {
+    "id": 32445812,
+    "title": "VCs Fund AI Agents' Second-Order Fallout Before It Hits",
+    "url": "https://www.forbes.com/sites/josipamajic/2026/08/18/vcs-fund-ai-agents-second-order-fallout-before-it-hits/",
+    "publisher": "Forbes",
+    "published_date": "2026-08-18T17:45:13",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4438,
+    "ai_summary": "Venture capital firm Betaworks is actively investing its $66 million Fund 3.0 into startups that address the technical and organizational challenges created by the emerging agentic AI economy. The firm identifies a significant gap between individual user gains and measurable organizational ROI, targeting solutions in areas such as agent infrastructure, mental load management, and workforce redesign. This strategy reflects a broader market shift where commoditized open-source models are pushing value toward applications and user loyalty rather than underlying technology. ",
+    "word_count": 1142,
+    "author": "Josipa Majic Predin",
+    "countries": [
+     "USA",
+     "CHN"
+    ],
+    "industries": [
+     {
+      "name": "Accelerators & Incubators (Investor-Operated)",
+      "code": "FSANAAAM",
+      "is_primary": true
+     },
+     {
+      "name": "Model Compression & Optimization (Quantization, Distillation, Pruning)",
+      "code": "HDAAACAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajr",
+      "name": "Fathom",
+      "website": "https://fathom.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fvm",
+      "name": "Zoom",
+      "website": "https://www.zoom.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002ve",
+      "name": "Betaworks",
+      "website": "https://www.betaworks.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002ud",
+      "name": "DeepSeek",
+      "website": "https://deepseek.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0024h78",
+      "name": "Otter",
+      "website": "http://getotter.co/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000039n",
+      "name": "Hugging Face",
+      "website": "https://huggingface.co",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jordan crook",
+      "majic predin",
+      "ying tang",
+      "crook"
+     ],
+     "location": [
+      "u.s.",
+      "china",
+      "shanghai new expo center",
+      "shanghai, china"
+     ],
+     "product": [
+      "chatgpt",
+      "deepseek r1",
+      "granola",
+      "zoom",
+      "google meet",
+      "otter",
+      "fathom"
+     ],
+     "event": [
+      "waic (world artificial intelligence conference) 2025"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9078975
+   },
+   {
+    "id": 32447728,
+    "title": "O que a IA responde quando perguntam pela sua marca?",
+    "url": "https://exame.com/marketing/o-que-a-ia-responde-quando-perguntam-pela-sua-marca/",
+    "publisher": "Exame",
+    "published_date": "2026-08-18T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.666,
+    "ai_summary": "The article analyzes the rise of Generative Engine Optimization (GEO) as a new marketing paradigm where AI systems influence consumer decisions, shifting focus from traditional search engine optimization. It cites research indicating that AI-generated summaries significantly reduce clicks on traditional organic links, forcing brands to adapt their content strategies to be understood by generative models. The piece uses Balenciaga's sponsorship of independent creators as an example of building brand presence in external sources that feed into AI responses. ",
+    "word_count": 1203,
+    "author": "Marc Tawil",
+    "countries": [
+     "BRA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Terminology, Style Guide & Brand Voice Management",
+      "code": "MPAAANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000kwy",
+      "name": "Whatnot",
+      "website": "https://www.whatnot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000na",
+      "name": "Substack",
+      "website": "https://www.substack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ryg",
+      "name": "Ahrefs",
+      "website": "https://ahrefs.com/about",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003hxv",
+      "name": "Pew Research Center",
+      "website": "http://pewresearch.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pm",
+      "name": "T-Mobile",
+      "website": "https://www.t-mobile.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002d7",
+      "name": "Uber",
+      "website": "http://www.uber.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000z2j",
+      "name": "Balenciaga",
+      "website": "https://www.balenciaga.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000009",
+      "name": "Polymarket",
+      "website": "https://polymarket.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "marc tawil",
+      "rafael rez",
+      "rez"
+     ],
+     "location": [
+      "brasil"
+     ],
+     "product": [
+      "granola",
+      "whatnot",
+      "uber",
+      "chatgpt",
+      "t-mobile",
+      "ios 14",
+      "cacau show",
+      "soda italiana",
+      "tiago abravanel"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.818,
+    "group_id": 7787373
+   },
+   {
+    "id": 32385377,
+    "title": "Wispr Flow's $280 Million Bet: $2 Billion Valuation Meets a Real Accuracy Test",
+    "url": "https://www.ainvest.com/news/wispr-flow-280-million-bet-2-billion-valuation-meets-real-accuracy-test-2608/",
+    "publisher": "AInvest",
+    "published_date": "2026-08-17T19:12:37",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.679,
+    "ai_summary": "Wispr Flow secured $280 million in Series B funding, tripling its valuation to $2 billion as it attempts to validate its Canto speech recognition technology. The company faces pressure to prove that Canto can reduce error rates to 5-10% in noisy environments against intensifying competition from rivals like Willow and Fireflies. Success depends on converting this improved accuracy into enterprise adoption and sustainable monetization to justify the premium valuation. ",
+    "word_count": 868,
+    "author": "I Am Ai Agent Valeria",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0244scm",
+      "name": "Superwhisper",
+      "website": "https://superwhisper.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029l",
+      "name": "Read AI",
+      "website": "https://www.read.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pnw",
+      "name": "Wispr Flow",
+      "website": "https://wisprflow.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "valeria"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "willow",
+      "canto",
+      "fireflies",
+      "superwhisper",
+      "aqua",
+      "monolouge",
+      "granola",
+      "read ai",
+      "oasis ring",
+      "note-taker"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7414179
+   },
+   {
+    "id": 32336847,
+    "title": "AI Product Marketing: When, Why, and How to Start",
+    "url": "https://runway.com/resources/ai-product-marketing",
+    "publisher": "Runway",
+    "published_date": "2026-08-14T17:40:35",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "AI is increasingly integrated into product marketing, enhancing tasks such as customer research, content creation, and visual production, with 80% of product marketing managers using AI regularly as of 2026. The shift from traditional video and visual production to AI tools accelerates processes, allowing marketers to generate assets swiftly compared to previous methods. Tools like ChatGPT and Runway are cited as key players in transforming marketing workflows. ",
+    "word_count": 2236,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Programmatic Display & Video (DSP/RTB)",
+      "code": "BPAFACAC",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Culture & Workplace Practices",
+      "code": "WT04",
+      "is_primary": false
+     },
+     {
+      "name": "Sustainability & ESG",
+      "code": "SD09",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006f8",
+      "name": "Dovetail",
+      "website": "https://dovetail.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000031i",
+      "name": "Crayon",
+      "website": "http://www.crayon.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000wor",
+      "name": "Gamma",
+      "website": "https://gamma.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000004",
+      "name": "Perplexity",
+      "website": "https://www.perplexity.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000296",
+      "name": "Klue",
+      "website": "http://klue.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005sv",
+      "name": "Descript",
+      "website": "https://www.descript.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008l",
+      "name": "Free Games",
+      "website": "https://runway.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "003xjel",
+      "name": "Claude",
+      "website": "https://claude.ai ",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20000283",
+      "name": "market research"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541860",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "claude",
+      "canva",
+      "chatgpt",
+      "crayon",
+      "runway",
+      "perplexity",
+      "granola",
+      "klue",
+      "figma",
+      "gamma",
+      "descript",
+      "adobe firefly",
+      "synthesia",
+      "semrush",
+      "ahrefs",
+      "dovetail",
+      "agent",
+      "silverside ai",
+      "reshoot product app"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8494,
+    "group_id": 7421082
+   },
+   {
+    "id": 32139125,
+    "title": "ChatGPT Already Knows Who It\u2019ll Recommend Before It Searches",
+    "url": "https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/",
+    "publisher": "Search Engine Journal",
+    "published_date": "2026-08-14T12:00:06",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5962,
+    "ai_summary": "An analysis of ChatGPT's search behavior reveals that the model generates its own brand shortlists before executing web searches, significantly increasing the likelihood of those brands being cited in final answers. The research indicates that appearing in these pre-generated queries is approximately 33 times more valuable than merely being found via search, with citation rates dropping sharply for pages ranked lower in retrieval groups.",
+    "word_count": 3548,
+    "author": "Suganthan Mohanadasan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Search Engines",
+      "code": "BPAMAAAB",
+      "is_primary": true
+     },
+     {
+      "name": "Search, Retrieval & Semantic Ranking (BM25/vector, hybrid)",
+      "code": "HDAAADAB",
+      "is_primary": false
+     },
+     {
+      "name": "SEO Analytics, Reporting & Attribution (KPIs, Dashboards, Forecasting)",
+      "code": "BPAFAJAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000d4",
+      "name": "Fin",
+      "website": "https://fin.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ajr",
+      "name": "Fathom",
+      "website": "https://fathom.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000825",
+      "name": "Limitless AI (formerly Rewind AI)",
+      "website": "https://www.limitless.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00068pi",
+      "name": "Notion AI",
+      "website": "http://notion.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e7h",
+      "name": "Mem",
+      "website": "https://get.mem.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "627",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51929",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk",
+      "uae",
+      "dubai"
+     ],
+     "product": [
+      "granola",
+      "fireflies",
+      "intercom fin",
+      "fathom",
+      "notion ai otter",
+      "otter",
+      "ai meeting assistant",
+      "ai meeting notes",
+      "zendesk ai",
+      "mem",
+      "ai based live chat software",
+      "ai based live chat support software",
+      "eufy s1 pro",
+      "duolingo",
+      "zoho books",
+      "dreame x50",
+      "roborock",
+      "saros",
+      "betterhelp",
+      "kinsta",
+      "freshbooks",
+      "babbel busuu",
+      "wave sage",
+      "talkspace",
+      "narwal",
+      "xero",
+      "ada",
+      "quickbooks",
+      "car and driver",
+      "freo z10",
+      "electric suvs",
+      "cloudways",
+      "wordpress",
+      "brightside",
+      "decagon",
+      "lingq",
+      "sierra",
+      "pimsleur speak lingq",
+      "notion ai",
+      "pimsleur",
+      "hostinger siteground",
+      "hub starter",
+      "kwiziq",
+      "babbel",
+      "saros 10r",
+      "robot vacuum",
+      "help scout",
+      "travel insurance",
+      "arabian ranches",
+      "meal kit",
+      "chatgpt plus"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7002,
+    "group_id": 7765155
+   },
+   {
+    "id": 32084855,
+    "title": "Gemini is getting over a dozen new connected apps \u2013 here\u2019s the list",
+    "url": "https://9to5google.com/2026/08/13/gemini-is-getting-over-a-dozen-new-connected-apps-heres-the-list/",
+    "publisher": "9to5Google",
+    "published_date": "2026-08-13T14:50:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google announced that its AI assistant Gemini will integrate with over a dozen new third-party applications, including Ticketmaster, Angi, and Zocdoc, over the next few weeks. The expansion covers categories such as productivity, entertainment, and local services, while also extending existing OpenTable support to UK users. These additions join Gemini's current ecosystem of integrated tools like Canva and WhatsApp. ",
+    "word_count": 146,
+    "author": "Ben Schoon",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000b5ic",
+      "name": "Gemini",
+      "website": "https://gemini.google.com/app",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m5obv",
+      "name": "Google",
+      "website": "https://about.google",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006dcz",
+      "name": "Angi",
+      "website": "https://www.angi.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000snq",
+      "name": "Zocdoc",
+      "website": "http://www.zocdoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000211d",
+      "name": "Ticketmaster",
+      "website": "https://www.ticketmaster.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000292",
+      "name": "GetYourGuide",
+      "website": "https://www.getyourguide.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002t8",
+      "name": "Fever",
+      "website": "https://www.feverup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001182",
+      "name": "social media"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "ben"
+     ],
+     "location": [
+      "us",
+      "uk"
+     ],
+     "product": [
+      "ticketmaster",
+      "canva",
+      "angi",
+      "zocdoc",
+      "pandora",
+      "whatsapp",
+      "granola",
+      "iheartradio",
+      "instacart",
+      "thumbtack",
+      "localiza",
+      "getyourguide",
+      "wix",
+      "fever",
+      "opentable",
+      "github",
+      "otter",
+      "google home",
+      "bluesky",
+      "instagram",
+      "threads"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7443,
+    "group_id": 6892587
+   },
+   {
+    "id": 32049748,
+    "title": "10 AI Tools Quietly Taking Over Every Industry in 2026",
+    "url": "https://www.simplilearn.com/ai-tools-taking-over-every-industry-article",
+    "publisher": "Simplilearn.com",
+    "published_date": "2026-08-13T10:26:28",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The article outlines ten AI tools currently transforming professional workflows across various industries, including Granola, NotebookLM by Google, Lovable, and Replit. These platforms enable users to automate tasks such as meeting summarization, code generation, data analytics, and voice agent deployment, significantly reducing manual effort and development time. The report highlights how these technologies are shifting startup economics and operational efficiency by allowing non-technical founders and solo operators to build complex applications rapidly. ",
+    "word_count": 1707,
+    "author": "Tl Dr",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m5obv",
+      "name": "Google",
+      "website": "https://about.google",
+      "is_primary": true
+     },
+     {
+      "uuid": "000006s",
+      "name": "CodeRabbit",
+      "website": "https://coderabbit.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000am",
+      "name": "ThoughtSpot",
+      "website": "https://www.thoughtspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006q5",
+      "name": "Vapi",
+      "website": "https://vapi.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "003mx48",
+      "name": "Screen Studio",
+      "website": "https://screen.studio",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "lovable",
+      "granola",
+      "notebooklm",
+      "wispr flow",
+      "aider",
+      "replit agent",
+      "android",
+      "iphone",
+      "notion",
+      "slack",
+      "mac",
+      "windows",
+      "screen studio",
+      "vapi",
+      "thoughtspot",
+      "coderabbit"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7891,
+    "group_id": 6927013
+   },
+   {
+    "id": 32026521,
+    "title": "Google Gemini Expands Connected Apps With OpenTable, Ticketmaster and More",
+    "url": "https://www.gadgets360.com/ai/news/google-gemini-adds-third-party-apps-and-services-11904111",
+    "publisher": "Gadgets 360",
+    "published_date": "2026-08-13T09:04:39",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google is expanding its Gemini AI assistant with integrations for third-party services such as OpenTable, Ticketmaster, and Zocdoc to enable users to book reservations and manage tasks directly through the platform. The company also reported that Gemini has surpassed 1 billion monthly users across Android and iOS devices. Additionally, Google announced plans to replace Google Assistant with Gemini on Android devices starting September 4. ",
+    "word_count": 310,
+    "author": "Sucharita Ganguly",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Consumer Messaging Apps",
+      "code": "BPAMACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00055hh",
+      "name": "Localiza",
+      "website": "https://www.localiza.com/brasil/pt-br",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004ydt",
+      "name": "iHeartRadio",
+      "website": "http://iheart.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002fji",
+      "name": "OpenTable",
+      "website": "http://opentable.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000211d",
+      "name": "Ticketmaster",
+      "website": "https://www.ticketmaster.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000292",
+      "name": "GetYourGuide",
+      "website": "https://www.getyourguide.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002t8",
+      "name": "Fever",
+      "website": "https://www.feverup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "gemini",
+      "fever",
+      "pandora",
+      "localiza",
+      "thumbtack",
+      "angi",
+      "getyourguide",
+      "zocdoc",
+      "granola",
+      "iheartradio",
+      "wix",
+      "android",
+      "otter.ai",
+      "earphones",
+      "macos",
+      "ticketmaster",
+      "headphones",
+      "ios",
+      "google assistant",
+      "opentable",
+      "wear os smartwatches"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9582,
+    "group_id": 6368817
+   },
+   {
+    "id": 32032746,
+    "title": "Gemini is about to work with a lot more of your favorite apps",
+    "url": "https://www.androidauthority.com/google-gemini-connected-apps-3698047/",
+    "publisher": "Android Authority",
+    "published_date": "2026-08-13T07:12:17",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google announced new integrations for its Gemini AI app with services such as Ticketmaster, Wix, and Otter.ai to enable users to complete tasks directly within the conversation. This move supports Google's goal of making Gemini more action-oriented, following the milestone of the app reaching 1 billion monthly active users. The new connections are scheduled to roll out over the next few weeks. ",
+    "word_count": 558,
+    "author": "",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Social, Community & Creator Platform Feeds",
+      "code": "HDAAAGAD",
+      "is_primary": true
+     },
+     {
+      "name": "General-Purpose Social Networks",
+      "code": "BPAMABAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002tqe",
+      "name": "Pandora",
+      "website": "https://www.pandora.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000b5ic",
+      "name": "Gemini",
+      "website": "https://gemini.google.com/app",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000snq",
+      "name": "Zocdoc",
+      "website": "http://www.zocdoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002fji",
+      "name": "OpenTable",
+      "website": "http://opentable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000211d",
+      "name": "Ticketmaster",
+      "website": "https://www.ticketmaster.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002t8",
+      "name": "Fever",
+      "website": "https://www.feverup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000572",
+      "name": "trend"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "shimul sood",
+      "adamya sharma"
+     ],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "gemini",
+      "pandora",
+      "ticketmaster",
+      "thumbtack",
+      "angi",
+      "otter.ai",
+      "iheartradio",
+      "fever",
+      "zocdoc",
+      "getyourguide",
+      "opentable",
+      "localiza",
+      "granola",
+      "wix"
+     ],
+     "event": [
+      "made by google event"
+     ]
+    },
+    "newsworthiness_score": 0.8283,
+    "group_id": 7075225
+   },
+   {
+    "id": 31917532,
+    "title": "Growing Line of Litigation Involving AI Note-Takers Exposes Risks",
+    "url": "https://natlawreview.com/article/ai-note-taking-tools-silent-recording-and-consent-problem",
+    "publisher": "The National Law Review",
+    "published_date": "2026-08-12T21:56:03",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0122,
+    "ai_summary": "A class action lawsuit, Chamberlain v. Granola, Inc., has been filed in the Northern District of California alleging that AI note-taker Granola illegally records meetings without participant consent and uses data for model training by default. This case joins similar pending litigation against competitors Otter.ai and Fireflies.ai, highlighting a growing legal conflict over privacy, wiretapping laws, and biometric data collection in AI transcription services. ",
+    "word_count": 2076,
+    "author": "Brian J.",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "eDiscovery, Litigation Support & Expert Witness Services",
+      "code": "BPAKAHAD",
+      "is_primary": true
+     },
+     {
+      "name": "Retrieval-Augmented Generation (RAG), Vector Databases & Knowledge Grounding",
+      "code": "HDAAACAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     },
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000282",
+      "name": "legal service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "brian j. mcginnis",
+      "mariana renke",
+      "owen agho",
+      "parrinello",
+      "cruz"
+     ],
+     "location": [
+      "california",
+      "florida",
+      "u.s.",
+      "n.d. cal.",
+      "illinois",
+      "c.d. ill.",
+      "northern district of california"
+     ],
+     "product": [
+      "fireflies.ai",
+      "zoom",
+      "otter.ai",
+      "google meet",
+      "microsoft teams",
+      "ai note-taking tools",
+      "granola"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6827685
+   },
+   {
+    "id": 31875617,
+    "title": "Gemini's next wave of app integrations focuses on productivity, entertainment, and lifestyle",
+    "url": "https://www.androidauthority.com/gemini-new-app-integrations-3697867/",
+    "publisher": "Android Authority",
+    "published_date": "2026-08-12T16:27:48",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google is expanding its Gemini AI connected app ecosystem with new integrations across productivity, entertainment, music, and lifestyle categories. The update includes partnerships with companies such as Wix, OpenTable, Ticketmaster, Pandora, and Angi to allow users to perform tasks like booking reservations and editing websites directly through the assistant. These features are scheduled for a phased rollout over the coming weeks. ",
+    "word_count": 305,
+    "author": "",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Social, Community & Creator Platform Feeds",
+      "code": "HDAAAGAD",
+      "is_primary": true
+     },
+     {
+      "name": "Tours, Activities & Experiences Booking Platforms",
+      "code": "BPAMAIAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Live Shopping & Commerce Streaming Platforms",
+      "code": "MPACACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002tqe",
+      "name": "Pandora",
+      "website": "https://www.pandora.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m5obv",
+      "name": "Google",
+      "website": "https://about.google",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006dcz",
+      "name": "Angi",
+      "website": "https://www.angi.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002fji",
+      "name": "OpenTable",
+      "website": "http://opentable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000211d",
+      "name": "Ticketmaster",
+      "website": "https://www.ticketmaster.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002t8",
+      "name": "Fever",
+      "website": "https://www.feverup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001293",
+      "name": "streaming service"
+     },
+     {
+      "code": "20001182",
+      "name": "social media"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "632",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "516210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "brady snyder"
+     ],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "pandora",
+      "angi",
+      "granola",
+      "wix",
+      "iheartradio",
+      "pixel buds pro 2",
+      "pixel watch 5",
+      "zocdoc",
+      "otter.ai",
+      "localiza",
+      "ticketmaster",
+      "thumbtack",
+      "fever",
+      "gemini",
+      "opentable",
+      "pixel 11 series"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9118,
+    "group_id": 7249194
+   },
+   {
+    "id": 33604065,
+    "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+    "publisher": "blog.google",
+    "published_date": "2026-08-12T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Google announced new connected apps for Gemini, including Granola, Otter.ai, Wix, Fever, GetYourGuide, and others. The rollout will occur over the next few weeks, covering productivity, local, music, and home categories.",
+    "word_count": 180,
+    "author": "Mai Lowe",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Destination/Activity Booking Marketplaces (Tours & Tickets Aggregators)",
+      "code": "THAKAAAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00055hh",
+      "name": "Localiza",
+      "website": "https://www.localiza.com/brasil/pt-br",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eb4",
+      "name": "Wix",
+      "website": "http://www.wix.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004ydt",
+      "name": "iHeartRadio",
+      "website": "http://iheart.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002fji",
+      "name": "OpenTable",
+      "website": "http://opentable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000211d",
+      "name": "Ticketmaster",
+      "website": "https://www.ticketmaster.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000292",
+      "name": "GetYourGuide",
+      "website": "https://www.getyourguide.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002t8",
+      "name": "Fever",
+      "website": "https://www.feverup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "pandora",
+      "granola",
+      "iheartradio",
+      "wix",
+      "zocdoc",
+      "fever",
+      "otter.ai",
+      "getyourguide",
+      "localiza",
+      "ticketmaster",
+      "gemini",
+      "thumbtack",
+      "opentable (uk)"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6472,
+    "group_id": 10160741
+   },
+   {
+    "id": 31430307,
+    "title": "Takeaways from the California Lawsuit Agaist Granola AI Notetakin",
+    "url": "https://natlawreview.com/article/ai-meeting-tools-face-wiretapping-wake-call",
+    "publisher": "The National Law Review",
+    "published_date": "2026-08-06T22:32:16",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0057,
+    "ai_summary": "A California federal lawsuit has been filed against AI notetaking provider Granola, alleging the company's software recorded meeting participants without notice or consent and used meeting contents by default for commercial purposes including AI model training. The complaint combines multiple privacy legal theories, including claims under the federal Electronic Communications Privacy Act and the California Invasion of Privacy Act. The case highlights growing regulatory and legal risks for companies deploying AI transcription tools, emphasizing that consent and transparency must be built into workflows rather than treated as an afterthought.",
+    "word_count": 284,
+    "author": "Kathryn M.",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Ethical Data Sourcing, Consent & Data Provenance",
+      "code": "HDAAAMAI",
+      "is_primary": true
+     },
+     {
+      "name": "AI Privacy Engineering & Data Governance (PII, consent, retention)",
+      "code": "HDAAAKAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     },
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": false
+     },
+     {
+      "name": "Reputational Damage",
+      "code": "RK06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001300",
+      "name": "privacy"
+     },
+     {
+      "code": "20000122",
+      "name": "civil law"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "383",
+      "name": "Law"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561492",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "california"
+     ],
+     "product": [
+      "ai-enabled collaboration products",
+      "meeting bots"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6196635
+   },
+   {
+    "id": 31427575,
+    "title": "Granola lawsuit raises concerns over AI note-taking app privacy",
+    "url": "https://www.computerworld.com/article/4206255/granola-lawsuit-raises-concerns-over-ai-note-taking-app-privacy.html",
+    "publisher": "Computerworld",
+    "published_date": "2026-08-06T15:21:33",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0023,
+    "ai_summary": "A privacy lawsuit was filed July 30 in a US District Court for the Northern District of California against AI note-taking app maker Granola, alleging the company \"purposefully\" designed its software to record and transcribe workplace conversations without requiring disclosure to all participants, violating the California Invasion of Privacy Act. The class action complaint, brought by Florida resident Tarra Chamberlain, also claims Granola by default uses transcription data for commercial purposes including AI model training. The case follows a similar ongoing lawsuit against Otter.ai and highlights broader privacy concerns surrounding AI note-taking tools in enterprise environments.",
+    "word_count": 663,
+    "author": "Mikael Markander",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Privacy Management (Consent, DSAR, RoPA)",
+      "code": "HDADAFAH",
+      "is_primary": true
+     },
+     {
+      "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+      "code": "BPAEAHAG",
+      "is_primary": false
+     },
+     {
+      "name": "Retrieval-Augmented Generation (RAG), Vector Databases & Knowledge Grounding",
+      "code": "HDAAACAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     },
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001300",
+      "name": "privacy"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "519290",
+      "name": "Information"
+     },
+     {
+      "code": "51929",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "enza iannopollo",
+      "tarra chamberlain",
+      "eumi k. lee"
+     ],
+     "location": [
+      "florida",
+      "california"
+     ],
+     "product": [
+      "zoom",
+      "otter",
+      "fellow",
+      "google meet",
+      "granola",
+      "fireflies",
+      "microsoft teams"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6195571
+   },
+   {
+    "id": 31557060,
+    "title": "The Wave Continues to Build",
+    "url": "https://www.hklaw.com/en/insights/publications/2026/08/the-wave-continues-to-build",
+    "publisher": "Hklaw",
+    "published_date": "2026-08-06T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4905,
+    "ai_summary": "Two new privacy class action cases filed in late July 2026 demonstrate that AI-related wiretap litigation is accelerating and expanding into workplaces and restaurant telephone systems. In Chamberlain v. Granola, Inc., a plaintiff alleges the company's AI notetaking application secretly intercepted Microsoft Teams and Zoom communications without consent, advancing a novel theory against non-party class members. In Thompson v. SoundHound AI, Inc., a plaintiff alleges the company's restaurant phone AI intercepted calls before any human greeting, routing communications through SoundHound's servers for real-time transcription. Both cases raise novel legal questions around federal statutory claims and consent requirements that organizations deploying AI voice tools must consider.",
+    "word_count": 714,
+    "author": "Caitlin F. Saladrigas",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Confidential AI & Privacy-Preserving ML (federated learning, MPC, HE, TEEs)",
+      "code": "HDAAAKAI",
+      "is_primary": true
+     },
+     {
+      "name": "Incident Response & Case Management",
+      "code": "HDADAGAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     },
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003n",
+      "name": "SoundHound",
+      "website": "https://soundhound.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000128",
+      "name": "international court and tribunal"
+     },
+     {
+      "code": "20000282",
+      "name": "legal service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "6i4dB6",
+      "name": "Sensitive Topics"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "383",
+      "name": "Law"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561492",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "561422",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56142",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ashley shively",
+      "ambriz",
+      "thompson"
+     ],
+     "location": [
+      "california",
+      "florida",
+      "n.d. cal."
+     ],
+     "product": [
+      "zoom",
+      "microsoft teams",
+      "soundhound ai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6347942
+   },
+   {
+    "id": 31561544,
+    "title": "Trumpet Launches Copilot: AI Execution Agents, Vibe Coding, and MCP Client for Revenue Teams",
+    "url": "https://www.01net.it/trumpet-launches-copilot-ai-execution-agents-vibe-coding-and-mcp-client-for-revenue-teams/",
+    "publisher": "01net",
+    "published_date": "2026-08-04T09:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Trumpet, a London-based Digital Sales Room platform, launched Copilot \u2014 an AI execution layer that enables revenue teams to build Sales Rooms, create content, and manage buyer-facing cycles through natural-language-controlled AI agents. The platform includes Canvas (a vibe coding feature) and an MCP client connecting HubSpot, Gong, Salesforce, Granola, Sybill, and Notion to provide hyper-personalized deal and customer data. Trusted by 15,000 revenue teams including HubSpot, Gong, Personio, and Stripe, the company is recognized as the fastest-trending sales enablement tool globally on G2.",
+    "word_count": 560,
+    "author": "Business Wire",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+      "code": "BPAEAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "Financial Services Personalization (Banking, Investing, Insurance)",
+      "code": "HDAAAGAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000058n",
+      "name": "Gong",
+      "website": "https://www.gong.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000035s",
+      "name": "Sybill AI",
+      "website": "https://www.sybill.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048f4",
+      "name": "trumpet",
+      "website": "https://www.sendtrumpet.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8741",
+      "name": "SERVICES-MANAGEMENT SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "rory sadler",
+      "jens stockel",
+      "nick telson-sillett",
+      "charlotte platts"
+     ],
+     "location": [
+      "london"
+     ],
+     "product": [
+      "copilot",
+      "trumpet",
+      "mcp client",
+      "canvas"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6272144
+   },
+   {
+    "id": 31241233,
+    "title": "Wispr Flow preps AI meeting notetaker to challenge Otter, Fireflies",
+    "url": "https://www.techbuzz.ai/articles/wispr-flow-preps-ai-meeting-notetaker-to-challenge-otter-fireflies",
+    "publisher": "Techbuzz",
+    "published_date": "2026-08-03T16:42:02",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5518,
+    "ai_summary": "Wispr Flow, an AI-powered voice dictation startup, has updated its terms of service to include meeting transcription, automated summaries, and action item extraction features, signaling an imminent entry into the crowded meeting notetaker market. The move places the company in direct competition with established players including Otter.ai, Fireflies, and Granola, which have built enterprise deals and integrations with major platforms. The meeting intelligence market commands $20 to $30 per user per month, significantly higher than voice dictation subscriptions, potentially offering Wispr a more scalable revenue model despite the challenges of competing against entrenched incumbents with established user habits.",
+    "word_count": 619,
+    "author": "The Tech Buzz Team",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Prompt Engineering, Orchestration & LLMOps Tooling",
+      "code": "HDAAACAD",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     },
+     {
+      "name": "AI & Automation in Customer Service (Chatbots, Agent Assist)",
+      "code": "EDABACAO",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pnw",
+      "name": "Wispr Flow",
+      "website": "https://wisprflow.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "meeting notetaker",
+      "fireflies",
+      "granola",
+      "otter.ai",
+      "otter",
+      "notion",
+      "google meet",
+      "grammarly",
+      "zoom"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 5586309
+   },
+   {
+    "id": 30913907,
+    "title": "Custify adds integrations with Pylon, Maxio, Groove for better customer visibility",
+    "url": "https://www.24-7pressrelease.com/press-release/537350/custify-adds-integrations-with-pylon-maxio-groove-for-better-customer-visibility",
+    "publisher": "24-7 Press Release",
+    "published_date": "2026-08-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Custify, a customer success platform for SaaS companies, announced four new native integrations with Pylon, Maxio, Groove, and Granola, bringing support tickets, billing data, revenue signals, and AI meeting notes into its Customer 360 Profile. The integrations allow CSMs to track support ticket volume, MRR/ARR metrics, and billing events alongside health scores to identify at-risk accounts before churn occurs. CEO Philipp Wolf said the integrations place support and billing signals directly where CSMs are already working, enabling earlier intervention on customer risk.",
+    "word_count": 361,
+    "author": "",
+    "countries": [
+     "ROU"
+    ],
+    "industries": [
+     {
+      "name": "Customer Service, Support & Contact Center CRM",
+      "code": "HDAEAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "CPQ (Configure-Price-Quote) & Quote-to-Cash CRM Extensions",
+      "code": "HDAEAFAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006rx8",
+      "name": "Groove",
+      "website": "https://www.groovehq.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00086cg",
+      "name": "Custify SRL",
+      "website": "https://www.custify.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000uc",
+      "name": "Pylon",
+      "website": "https://www.usepylon.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002wrh",
+      "name": "Maxio",
+      "website": "https://www.maxio.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "philipp wolf",
+      "vicky kalbande"
+     ],
+     "location": [
+      "romania",
+      "bucharest"
+     ],
+     "product": [
+      "maxio",
+      "pylon",
+      "groove",
+      "granola",
+      "slack",
+      "customer 360",
+      "email"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8496,
+    "group_id": 5380286
+   },
+   {
+    "id": 32340358,
+    "title": "Granola CEO Refuses Enterprise Surveillance Deals \u2014 AI Note",
+    "url": "https://www.machinebrief.com/news/granola-ceo-refuses-enterprise-deals-employee-privacy-ai-note-taking-july-2026",
+    "publisher": "Machinebrief",
+    "published_date": "2026-07-31T13:07:15",
+    "sentiment": "Negative",
+    "sentiment_score": 0.216,
+    "ai_summary": "Granola CEO Chris Pedregal announced that the company has declined enterprise contracts requiring admin surveillance access to employee meeting notes, positioning individual ownership of data as a core product philosophy. This stance differentiates Granola from competitors like Fireflies, Otter, and Microsoft Copilot, which typically offer administrative oversight features for compliance and productivity tracking. The decision highlights a strategic tension between user privacy preferences and the procurement demands of enterprise buyers who often require such surveillance capabilities. ",
+    "word_count": 488,
+    "author": "Machine Brief",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Digital Experience Monitoring & Management (DEX/DEM, AIOps for EUC)",
+      "code": "BPAEAIAF",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Reputational Damage",
+      "code": "RK06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002qj",
+      "name": "Otter.ai",
+      "website": "https://otter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lxa7u",
+      "name": "Microsoft Copilot",
+      "website": "https://copilot.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006vz",
+      "name": "Fireflies.ai",
+      "website": "http://fireflies.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "chris pedregal"
+     ],
+     "location": [],
+     "product": [
+      "otter",
+      "fireflies",
+      "granola",
+      "microsoft copilot",
+      "fathom"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7416613
+   },
+   {
+    "id": 30794145,
+    "title": "This AI notetaker won't sell surveillance to your boss",
+    "url": "https://www.platformer.news/granola-chris-pedregal-interview/",
+    "publisher": "Platformer",
+    "published_date": "2026-07-30T23:59:21",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1706,
+    "ai_summary": "In a Platformer podcast interview, Chris Pedregal, co-founder and CEO of AI notetaker company Granola, discussed the company's privacy-first approach to workplace AI tools, including its decision to keep meeting notes private by default and refuse employer access to transcripts. The company, valued at $1.5 billion with approximately 70-80 employees, is researching automatic deletion of verbatim transcripts and developing enhanced transcripts designed for AI agents. Pedregal predicted that AI transcription will likely become the default in work meetings and expressed optimism about the broader AI revolution, describing current AI tools as only '5 percent' into the transformation of how people work.",
+    "word_count": 5859,
+    "author": "Casey Newton",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Augmented Analytics & AI-Assisted BI (NLQ/NLG, Insights)",
+      "code": "HDAEAMAD",
+      "is_primary": false
+     },
+     {
+      "name": "Self-Service BI & Data Visualization",
+      "code": "HDAEAMAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "chris pedregal",
+      "sam stephenson",
+      "thomas paul mann",
+      "casey newton",
+      "pedregal",
+      "newton",
+      "casey",
+      "patty",
+      "sam garson",
+      "chris",
+      "sam",
+      "sergey",
+      "larry"
+     ],
+     "location": [
+      "america"
+     ],
+     "product": [
+      "granola",
+      "slack",
+      "socratic",
+      "zoom",
+      "mac",
+      "google meet",
+      "platformer",
+      "apple juice",
+      "claude",
+      "codex",
+      "cursor",
+      "gmail",
+      "spreadsheets",
+      "gui",
+      "personal computer",
+      "chatgpt",
+      "jira"
+     ],
+     "event": [
+      "google meets"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 5317385
+   },
+   {
+    "id": 30606922,
+    "title": "Granola AI notepad launches on Apple Watch, bringing one-tap meeting notes to your wrist",
+    "url": "https://macdailynews.com/2026/07/30/granola-ai-notepad-launches-on-apple-watch-bringing-one-tap-meeting-notes-to-your-wrist/",
+    "publisher": "MacDailyNews",
+    "published_date": "2026-07-30T16:00:33",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "AI note-taking startup Granola launched its meeting notepad app on Apple Watch on July 28, 2026, enabling users to capture and transcribe conversations with a single tap without needing a phone or laptop. The watchOS app records offline and syncs to the paired iPhone where AI processes audio into structured notes including highlights, decisions, and action items. The launch positions Granola in the growing market for discreet AI capture tools, following the company's prior unicorn milestone after a $125 million Series C led by Index Ventures.",
+    "word_count": 458,
+    "author": "Macdailynews Webmaster",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "637",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "chris pedregal"
+     ],
+     "location": [],
+     "product": [
+      "iphone",
+      "apple watch",
+      "windows",
+      "ios",
+      "granola ai notepad",
+      "ipados",
+      "macos",
+      "granola",
+      "watchos 11",
+      "mac",
+      "phone",
+      "watchos"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7599,
+    "group_id": 4979540
+   },
+   {
+    "id": 30509421,
+    "title": "Granola launched an Apple Watch app \u2014 here\u2019s the best watch to buy for it",
+    "url": "https://mashable.com/tech/granola-apple-watch-app",
+    "publisher": "Mashable",
+    "published_date": "2026-07-29T11:41:56",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Granola has launched an Apple Watch app that enables users to record and transcribe meetings directly from their wrist without needing to use their phone, available free starting today. The app syncs notes automatically to iPhone and computer, offers gentle reminder notifications before scheduled meetings, and can be added to the watch face for quick access during spontaneous conversations. The article recommends the Apple Watch Ultra 3 as the optimal pairing for heavy Granola use due to its up to 42-hour battery life, which can handle back-to-back meeting recordings that would drain standard Apple Watch models.",
+    "word_count": 360,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Smartwatches",
+      "code": "CRACAIAA",
+      "is_primary": true
+     },
+     {
+      "name": "Sleep Tracking Devices (Wearables & Non-wearables)",
+      "code": "CRACAQAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "637",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "stan schroeder"
+     ],
+     "location": [],
+     "product": [
+      "apple watch",
+      "iphone",
+      "granola",
+      "phone",
+      "computer",
+      "watchos 11"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.699,
+    "group_id": 4715470
+   },
+   {
+    "id": 30454879,
+    "title": "AI Notetakers Have Reached the Wrist. Big Privacy Questions Are Now at Hand",
+    "url": "https://www.inc.com/georgia-fearn/ai-notetakers-have-reached-the-wrist-big-privacy-questions-are-now-at-hand/91381033",
+    "publisher": "Inc.",
+    "published_date": "2026-07-28T20:46:08",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6936,
+    "ai_summary": "Granola, an AI note-taking startup, launched a free Apple Watch app on Tuesday that lets workers record and transcribe workplace conversations from their wrists during meetings, conference sessions, and office interactions. The app requires a paired iPhone and watchOS 11 or later, with audio syncing through the iPhone to produce transcripts and structured notes accessible on mobile and desktop. The company, which raised $125 million in Series C funding in March valuing it at $1.5 billion, reported that during testing, mobile meeting capture among Apple Watch users increased 50 percent, shifting usage almost entirely from iPhone to Watch.",
+    "word_count": 453,
+    "author": "Georgia Fearn",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Model Hosting, Serving & Inference Platforms",
+      "code": "HDAAACAB",
+      "is_primary": true
+     },
+     {
+      "name": "Business Intelligence, Reporting & Visualization Services",
+      "code": "BPAEAHAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "feature",
+     "label": "Feature"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "627",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "chris pedregal",
+      "mordy golding",
+      "ron holloway",
+      "seth goldman",
+      "patty arvielo"
+     ],
+     "location": [],
+     "product": [
+      "iphone",
+      "apple watch",
+      "ai notetakers"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9094,
+    "group_id": 5886225
+   },
+   {
+    "id": 30312983,
+    "title": "Apple Watch just gained a brand-new app for AI meeting notes",
+    "url": "https://9to5mac.com/2026/07/28/granola-meeting-notepad-comes-to-watchos-as-apple-watch-becomes-an-ai-device/",
+    "publisher": "9to5Mac",
+    "published_date": "2026-07-28T14:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Granola, an AI-powered meeting notepad app known for its Mac application, is expanding to Apple Watch today with a watchOS app designed for capturing notes during in-person conversations such as one-on-ones, whiteboard sessions, and coffee meetings. The Apple Watch app requires one tap to start note-taking with visual and audio confirmation, and notes sync across iPhone, Mac, and Windows for review or editing. The launch positions Apple Watch as an increasingly viable platform for third-party AI tools, arriving alongside Apple's own watchOS 27 AI enhancements including an upgraded Siri experience.",
+    "word_count": 259,
+    "author": "Zac Hall",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+      "code": "HDAAAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Smartwatches",
+      "code": "CRACAIAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "granola",
+      "iphone",
+      "apple watch",
+      "facetime",
+      "mac",
+      "zoom",
+      "windows",
+      "watchos",
+      "google meet",
+      "watchos 27",
+      "watchos 11"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7332,
+    "group_id": 5030834
+   },
+   {
+    "id": 29734725,
+    "title": "Granola launches an Apple Watch app",
+    "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+    "publisher": "TechCrunch",
+    "published_date": "2026-07-28T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9854,
+    "ai_summary": "AI note-taking app Granola has launched an Apple Watch app that allows users to record and transcribe meetings without needing their smartphones, with the app functioning as a watch face and syncing with the existing iOS app launched last year. The company reported that internal testing showed a significant shift in usage from iOS to the Watch among employees with Apple Watches. Granola, which achieved unicorn status earlier this year after raising a $125 million Series C round led by Index Ventures, opted to build a Watch app rather than integrate with additional hardware products.",
+    "word_count": 241,
+    "author": "Ivan Mehta",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Health Monitoring Wearables (ECG, BP, SpO2, CGM-compatible)",
+      "code": "CRACAIAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000076",
+      "name": "Index Ventures",
+      "website": "http://www.indexventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000024b",
+      "name": "Granola",
+      "website": "https://www.granola.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "635",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "56142",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "chris pedregal"
+     ],
+     "location": [],
+     "product": [
+      "apple watch",
+      "monlogue",
+      "ios",
+      "smartphones"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.768,
+    "group_id": 4715470
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

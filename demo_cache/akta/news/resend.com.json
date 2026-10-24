@@ -1,0 +1,1729 @@
+{
+ "fetched_at": "2026-10-24T11:46:35",
+ "params": {
+  "company": "resend.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 12,
+  "limit": 50,
+  "offset": 0,
+  "count": 12,
+  "data": [
+   {
+    "id": 40429386,
+    "title": "Jason\u2019s Takes on This Week\u2019s 20VC: Loyalty Changed for Good, Agents Now Pick Your Vendors, and When to Take the $2 Billion",
+    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-loyalty-changed-for-good-agents-now-pick-your-vendors-and-when-to-take-the-2-billion/",
+    "publisher": "Saastr",
+    "published_date": "2026-10-11T15:09:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.3909,
+    "ai_summary": "Jason Lemkin discusses ten tech stories from 20VC, including a CRO moving to a competitor, agents picking vendors, and a $2 billion Listen Labs sale. He argues that the culture of loyalty has changed, and that founders should take a $2 billion offer if the company isn't generational.",
+    "word_count": 1821,
+    "author": "Jason Lemkin",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000st6",
+      "name": "Fly.io",
+      "website": "https://fly.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002e5r",
+      "name": "SendGrid",
+      "website": "http://www.sendgrid.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002z",
+      "name": "Cognition",
+      "website": "https://cognition.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002og",
+      "name": "Listen Labs",
+      "website": "https://www.listenlabs.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ou",
+      "name": "Railway",
+      "website": "https://railway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c9m",
+      "name": "Render",
+      "website": "https://render.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000006i",
+      "name": "Factory",
+      "website": "https://factory.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "chris degnan",
+      "dev ittycheria",
+      "guillermo rauch",
+      "rory",
+      "harry",
+      "jason",
+      "dev",
+      "harry stebbings",
+      "rory o\u2019driscoll",
+      "jason lemkin"
+     ],
+     "location": [
+      "europe",
+      "us",
+      "delaware"
+     ],
+     "product": [
+      "vercel",
+      "railway",
+      "fly.io",
+      "render",
+      "resend",
+      "beam",
+      "voice",
+      "sendgrid",
+      "listen labs",
+      "openrouter",
+      "saastr",
+      "20vc",
+      "ama",
+      "groq",
+      "cro confidential"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9893,
+    "group_id": 14040956
+   },
+   {
+    "id": 39992244,
+    "title": "Reliable Email Delivery Solutions - Verified Market Reports",
+    "url": "https://www.verifiedmarketreports.com/blog/best-transactional-email-service-5-providers-for-reliable-receipts-password-resets-and-alerts-in-2026/",
+    "publisher": "Verifiedmarketreports",
+    "published_date": "2026-10-07T04:24:08",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9092,
+    "ai_summary": "A comparison of five transactional email services in 2026 evaluates SendPulse, Postmark, Resend, Amazon SES, and SendGrid on pricing, free plans, and features. SendPulse offers the largest free plan at 12,000 emails monthly, while Amazon SES is cheapest at $0.10 per 1,000 emails. The guide recommends SendPulse for most growing businesses.",
+    "word_count": 2719,
+    "author": "Verified Market Reports",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email Marketing Services (Campaigns, Deliverability, Lifecycle)",
+      "code": "BPAFAKAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002e5r",
+      "name": "SendGrid",
+      "website": "http://www.sendgrid.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002pa4",
+      "name": "SendPulse",
+      "website": "https://sendpulse.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "keith y.",
+      "ryan k.",
+      "iddy h.",
+      "wouter r.",
+      "amir h."
+     ],
+     "location": [
+      "americas",
+      "europe",
+      "asia",
+      "san francisco",
+      "aws region"
+     ],
+     "product": [
+      "sendpulse",
+      "sendgrid",
+      "microsoft outlook",
+      "amazon ses",
+      "chatgpt",
+      "postmark",
+      "capterra",
+      "resend",
+      "react email",
+      "gmail",
+      "lambda",
+      "essentials",
+      "mailtrap",
+      "eventbridge",
+      "mailgun",
+      "enterprise",
+      "amazon simple email service",
+      "pro",
+      "twilio",
+      "premier"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8968,
+    "group_id": 13616389
+   },
+   {
+    "id": 40720873,
+    "title": "Resend vs SendGrid vs Amazon SES: 2026 Pricing Compared",
+    "url": "https://tech-insider.org/resend-vs-sendgrid-vs-amazon-ses-2026/",
+    "publisher": "Tech Insider",
+    "published_date": "2026-09-21T22:17:17",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5029,
+    "ai_summary": "Resend, SendGrid, and Amazon SES are compared on pricing, API design, and deliverability for 2026. Amazon SES's a la carte rate is cheapest at $0.10 per 1,000 emails, while Resend and SendGrid charge higher per-email costs. The comparison covers use cases and migration steps.",
+    "word_count": 5461,
+    "author": "Marcus Chen",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email Marketing Services (Campaigns, Deliverability, Lifecycle)",
+      "code": "BPAFAKAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002e5r",
+      "name": "SendGrid",
+      "website": "http://www.sendgrid.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "marcus chen",
+      "alex"
+     ],
+     "location": [
+      "aws region",
+      "us"
+     ],
+     "product": [
+      "resend",
+      "sendgrid",
+      "amazon ses",
+      "pro",
+      "essentials",
+      "s3",
+      "dynamodb",
+      "cloudwatch",
+      "lambda",
+      "vercel",
+      "iam",
+      "ses",
+      "eventbridge",
+      "sns",
+      "django",
+      "react",
+      "laravel",
+      "go",
+      "cognito",
+      "terraform",
+      "aws lambda",
+      "twilio",
+      "essentials plan",
+      "fly.io",
+      "render",
+      "next.js",
+      "sweepstakes",
+      "social casinos"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8178,
+    "group_id": 14249104
+   },
+   {
+    "id": 40720840,
+    "title": "Giving Your AI Agent an Email Address Is Now a Real Product Category",
+    "url": "https://startupfortune.com/giving-your-ai-agent-an-email-address-is-now-a-real-product-category/",
+    "publisher": "Startup Fortune",
+    "published_date": "2026-09-06T09:35:07",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7019,
+    "ai_summary": "AgentMail raised $6 million in seed funding in March 2026, led by General Catalyst, to provide AI agents with durable inboxes. The company has delivered over 100 million emails and serves more than 500 B2B customers. The article contrasts this with existing email APIs like Postmark, Resend, and AWS SES for agent email needs.",
+    "word_count": 916,
+    "author": "Julian Lim",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000kod",
+      "name": "Mailgun",
+      "website": "http://www.mailgun.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008z8g",
+      "name": "Mailtrap",
+      "website": "https://mailtrap.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000215u",
+      "name": "AgentMail",
+      "website": "https://agentmail.to",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002e5r",
+      "name": "SendGrid",
+      "website": "http://www.sendgrid.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "michael kim",
+      "paul copplestone",
+      "adi singh",
+      "paul graham",
+      "haakam aujla",
+      "karim atiyeh",
+      "dharmesh shah",
+      "elon musk"
+     ],
+     "location": [
+      "san francisco",
+      "minnesota"
+     ],
+     "product": [
+      "agentmail",
+      "mailgun",
+      "postmark",
+      "resend",
+      "mailtrap",
+      "sendgrid",
+      "amazon ses",
+      "cursor",
+      "twilio",
+      "aws compute",
+      "claude desktop",
+      "vs code",
+      "claude",
+      "xai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9041,
+    "group_id": 10491354
+   },
+   {
+    "id": 33339161,
+    "title": "Madrona Announces the 2026 Intelligent Applications 40, Recognizing the World's Leading Private AI Companies",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/madrona-announces-the-2026-intelligent-applications-40-recognizing-the-worlds-leading-private-ai-companies",
+    "publisher": "Financial Post",
+    "published_date": "2026-08-31T17:02:17",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Madrona released its 2026 Intelligent Applications 40 list of top private AI companies, with 40 winners across four funding stages. The companies have raised $410 billion total, with Anthropic, OpenAI, and Databricks accounting for $377 billion. The winners will be honored at the IA40 Summit in Seattle on September 29\u201330.",
+    "word_count": 736,
+    "author": "Business Wire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": true
+     },
+     {
+      "name": "Responsible AI, Security & Privacy Platforms (Safety, Guardrails, PII)",
+      "code": "HDAEANAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000nci",
+      "name": "Clarify AI",
+      "website": "https://clarify.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bf7",
+      "name": "Fable",
+      "website": "https://fablesecurity.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02c1xcy",
+      "name": "JetStream Security",
+      "website": "https://jetstream.security",
+      "is_primary": false
+     },
+     {
+      "uuid": "00pyqmx",
+      "name": "Roadrunner AI",
+      "website": "https://www.roadrunnerai.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q2",
+      "name": "Yutori",
+      "website": "https://yutori.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005b",
+      "name": "Madrona",
+      "website": "https://www.madrona.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "bret taylor",
+      "qasar younis",
+      "palmer luckey",
+      "matt mcilwain",
+      "clay bavor",
+      "caleb bushner"
+     ],
+     "location": [
+      "seattle",
+      "the bay area"
+     ],
+     "product": [
+      "wispr flow",
+      "serval",
+      "granola",
+      "elevenlabs",
+      "clay",
+      "lovable",
+      "fal",
+      "resend",
+      "vercel",
+      "sierra",
+      "cognition",
+      "town",
+      "simile",
+      "coderabbit",
+      "roadrunner",
+      "yutori",
+      "paper",
+      "heygen",
+      "gradial",
+      "ramp",
+      "pierre",
+      "profound",
+      "turbopuffer",
+      "cartesia",
+      "clarify",
+      "mastra",
+      "linear",
+      "applied intuition",
+      "jetstream security",
+      "gamma",
+      "anduril",
+      "browserbase",
+      "uipath",
+      "legora",
+      "clickhouse",
+      "fireflies.ai",
+      "snowflake",
+      "together ai",
+      "fireworks ai",
+      "rover",
+      "listen labs",
+      "smartsheet",
+      "baseten",
+      "fable security",
+      "runway",
+      "openrouter",
+      "gimlet labs",
+      "zed industries",
+      "statsig",
+      "openevidence"
+     ],
+     "event": [
+      "ia40 summit",
+      "summit"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9946287
+   },
+   {
+    "id": 33342447,
+    "title": "Madrona Announces the 2026 Intelligent Applications 40, Recognizing the World's Leading Private AI Companies",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-8-31-madrona-announces-the-2026-intelligent-applications-40-recognizing-the-worlds-leading-private-ai-companies",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-08-31T17:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Madrona released its 2026 IA40 list of 40 private AI companies, with 23 repeat winners (58% rate). The winners have raised $410 billion total, with Anthropic, OpenAI, and Databricks accounting for $377 billion. The list highlights agentic applications, trust and governance, and a widening capital gap at the frontier.",
+    "word_count": 753,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Responsible AI, AI Governance & Compliance Services",
+      "code": "BPAEAHAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000nci",
+      "name": "Clarify AI",
+      "website": "https://clarify.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bf7",
+      "name": "Fable",
+      "website": "https://fablesecurity.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02c1xcy",
+      "name": "JetStream Security",
+      "website": "https://jetstream.security",
+      "is_primary": false
+     },
+     {
+      "uuid": "00pyqmx",
+      "name": "Roadrunner AI",
+      "website": "https://www.roadrunnerai.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q2",
+      "name": "Yutori",
+      "website": "https://yutori.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005b",
+      "name": "Madrona",
+      "website": "https://www.madrona.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "bret taylor",
+      "qasar younis",
+      "palmer luckey",
+      "matt mcilwain",
+      "clay bavor"
+     ],
+     "location": [
+      "seattle",
+      "the bay area"
+     ],
+     "product": [
+      "serval",
+      "sierra",
+      "wispr flow",
+      "heygen",
+      "elevenlabs",
+      "coderabbit",
+      "clay",
+      "cartesia",
+      "fable security",
+      "turbopuffer",
+      "jetstream security",
+      "applied intuition",
+      "granola",
+      "lovable",
+      "cognition",
+      "gradial",
+      "vercel",
+      "baseten",
+      "clickhouse",
+      "openrouter",
+      "profound",
+      "roadrunner",
+      "resend",
+      "pierre",
+      "mastra",
+      "browserbase",
+      "yutori",
+      "zed industries",
+      "gimlet labs",
+      "legora",
+      "simile",
+      "anduril",
+      "fireflies.ai zed industries",
+      "gamma",
+      "openevidence",
+      "fireworks",
+      "fal",
+      "town",
+      "linear",
+      "snowflake",
+      "smartsheet"
+     ],
+     "event": [
+      "ia40 summit",
+      "2026 intelligent applications 40",
+      "ia40",
+      "2026 ia40"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9947986
+   },
+   {
+    "id": 33343235,
+    "title": "Madrona Announces the 2026 Intelligent Applications 40, Recognizing the World's Leading Private AI Companies",
+    "url": "https://www.businesswire.com/news/home/20260831892719/en/Madrona-Announces-the-2026-Intelligent-Applications-40-Recognizing-the-Worlds-Leading-Private-AI-Companies",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-08-31T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Madrona released its 2026 IA40 list of top private AI companies, with 40 winners across four funding stages. The list includes 23 repeat winners, a 58% rate, and companies have raised $410 billion total, with Anthropic, OpenAI, and Databricks accounting for $377 billion. Winners will be honored at the IA40 Summit in Seattle on September 29\u201330.",
+    "word_count": 685,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Open-Source Model Ecosystems & Model Marketplaces",
+      "code": "HDAAACAM",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000nci",
+      "name": "Clarify AI",
+      "website": "https://clarify.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bf7",
+      "name": "Fable",
+      "website": "https://fablesecurity.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "02c1xcy",
+      "name": "JetStream Security",
+      "website": "https://jetstream.security",
+      "is_primary": false
+     },
+     {
+      "uuid": "00pyqmx",
+      "name": "Roadrunner AI",
+      "website": "https://www.roadrunnerai.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q2",
+      "name": "Yutori",
+      "website": "https://yutori.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005b",
+      "name": "Madrona",
+      "website": "https://www.madrona.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "bret taylor",
+      "qasar younis",
+      "palmer luckey",
+      "matt mcilwain",
+      "clay bavor",
+      "caleb bushner"
+     ],
+     "location": [
+      "seattle",
+      "the bay area"
+     ],
+     "product": [
+      "wispr flow",
+      "serval",
+      "elevenlabs",
+      "granola",
+      "resend",
+      "clay",
+      "fal",
+      "lovable",
+      "roadrunner",
+      "sierra",
+      "vercel",
+      "cognition",
+      "town",
+      "yutori",
+      "coderabbit",
+      "heygen",
+      "simile",
+      "gradial",
+      "ramp",
+      "paper",
+      "pierre",
+      "profound",
+      "turbopuffer",
+      "cartesia",
+      "clarify",
+      "mastra",
+      "linear",
+      "applied intuition",
+      "anduril",
+      "gamma",
+      "browserbase",
+      "jetstream security",
+      "clickhouse",
+      "legora",
+      "fireflies.ai",
+      "together ai",
+      "baseten",
+      "fireworks ai",
+      "listen labs",
+      "fable security",
+      "openrouter",
+      "gimlet labs",
+      "zed industries",
+      "openevidence"
+     ],
+     "event": [
+      "ia40 summit",
+      "summit"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9946287
+   },
+   {
+    "id": 32605805,
+    "title": "Ilias Ism Named the True New King of SEO",
+    "url": "https://www.financialcontent.com/article/abnewswire-2026-8-21-ilias-ism-named-the-true-new-king-of-seo",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-08-21T09:20:03",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ilias Ism, founder of MagicSpace SEO, has been recognized as the 'King of SEO' for product-led companies based on over 100 public video audits and measurable results for SaaS clients. This designation distinguishes his practical, data-driven approach from previous symbolic claims by competitors such as Kasra Dash and David G. Quaid. ",
+    "word_count": 744,
+    "author": "",
+    "countries": [
+     "CHE",
+     "BEL",
+     "GBR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Technical SEO (Audits, Crawl/Indexing, Site Architecture)",
+      "code": "BPAFAJAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006skv",
+      "name": "Nomad List",
+      "website": "https://nomadlist.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000bd63",
+      "name": "Typefully",
+      "website": "https://typefully.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000cfgp",
+      "name": "Officient",
+      "website": "http://www.officient.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007tsh",
+      "name": "Chatbase",
+      "website": "http://www.chatbase.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "0026c1s",
+      "name": "MagicSpace SEO",
+      "website": "https://magicspace.agency/",
+      "is_primary": true
+     },
+     {
+      "uuid": "000awrj",
+      "name": "LinkDR",
+      "website": "https://linkdr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cz",
+      "name": "Framer",
+      "website": "https://framer.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "627",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "ilias ism",
+      "neil patel",
+      "kasra dash",
+      "david g. quaid",
+      "marc lou",
+      "brian c. lovett",
+      "pieter levels",
+      "ilias"
+     ],
+     "location": [
+      "switzerland",
+      "united states"
+     ],
+     "product": [
+      "shipfast",
+      "chatbase",
+      "typefully",
+      "nomad list",
+      "resend",
+      "framer",
+      "cal.com",
+      "aiseotracker",
+      "genppt",
+      "linkdr",
+      "seo roast",
+      "ai seo tracker"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8799,
+    "group_id": 9122401
+   },
+   {
+    "id": 35647082,
+    "title": "Daring Fireball: Auth.md -- an Open Protocol for Agent Registration From WorkOS",
+    "url": "https://daringfireball.net/linked/2026/06/28/workos-auth-md",
+    "publisher": "Daring Fireball",
+    "published_date": "2026-06-28T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.908,
+    "ai_summary": "WorkOS introduced Auth.md, an open protocol for AI agents to register with services via a single Markdown file. The protocol specifies user registration flows, supported flows, exposed scopes, and credential issuance. Cloudflare, Firecrawl, and Resend have already adopted it.",
+    "word_count": 119,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Identity, Access & Secrets Management for AI Systems (IAM for agents/models)",
+      "code": "HDAAAKAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000026b",
+      "name": "Firecrawl",
+      "website": "https://www.firecrawl.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005r8",
+      "name": "WorkOS",
+      "website": "https://workos.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "599",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "auth.md",
+      "resend"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6612,
+    "group_id": 11606688
+   },
+   {
+    "id": 40720659,
+    "title": "Best Amazon SES Alternatives in 2026 (Honest Comparison)",
+    "url": "https://www.brevo.com/blog/amazon-ses-alternatives/",
+    "publisher": "Brevo",
+    "published_date": "2026-05-20T16:57:47",
+    "sentiment": "Negative",
+    "sentiment_score": 0.242,
+    "ai_summary": "The article compares Amazon SES alternatives in 2026, noting SES's high setup complexity and hidden costs. Brevo, Postmark, and Resend are highlighted as top choices for different use cases, with Brevo offering the most complete all-in-one platform. Migration to Brevo is described as taking under 30 minutes.",
+    "word_count": 1589,
+    "author": "Numa Des Borderiesnuma Des Borderies Is Content Director At Brevo",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email Marketing Services (Campaigns, Deliverability, Lifecycle)",
+      "code": "BPAFAKAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000v2m",
+      "name": "Brevo",
+      "website": "https://www.brevo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000kod",
+      "name": "Mailgun",
+      "website": "http://www.mailgun.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00065fa",
+      "name": "Intuit Mailchimp",
+      "website": "http://www.mailchimp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002e5r",
+      "name": "SendGrid",
+      "website": "http://www.sendgrid.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000ahg3",
+      "name": "SMTP2GO",
+      "website": "https://www.smtp2go.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "brevo",
+      "postmark",
+      "amazon ses",
+      "sendy",
+      "ses",
+      "aws ses",
+      "smtp2go",
+      "resend",
+      "mailgun",
+      "sendgrid",
+      "mailchimp transactional",
+      "mandrill"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7619,
+    "group_id": 14249042
+   },
+   {
+    "id": 24833985,
+    "title": "Top Transactional Email Tools to Improve Deliverability",
+    "url": "https://viasocket.com/discovery/blog/gityl6/transactional-email-software/9-transactional-email-tools-for-better-deliverability",
+    "publisher": "Viasocket",
+    "published_date": "2026-05-12T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The article reviews various transactional email tools, detailing their features, strengths, and ideal use cases. It compares SendGrid, Mailgun, Postmark, Amazon SES, SparkPost, Brevo, Resend, SMTP2GO, and other platforms based on deliverability, control, ease of use, and technical requirements. ",
+    "word_count": 2086,
+    "author": "Dhwanil Bhavsar",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email Marketing Services (Campaigns, Deliverability, Lifecycle)",
+      "code": "BPAFAKAB",
+      "is_primary": true
+     },
+     {
+      "name": "Email Marketing Services (Campaign Strategy, Design, Deliverability)",
+      "code": "MPAAAIAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000v2m",
+      "name": "Brevo",
+      "website": "https://www.brevo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000kod",
+      "name": "Mailgun",
+      "website": "http://www.mailgun.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002e5r",
+      "name": "SendGrid",
+      "website": "http://www.sendgrid.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000ahg3",
+      "name": "SMTP2GO",
+      "website": "https://www.smtp2go.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00038rr",
+      "name": "SparkPost",
+      "website": "https://www.sparkpost.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000233",
+      "name": "telecommunication service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5182",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "mailgun",
+      "sendgrid",
+      "postmark",
+      "brevo",
+      "sparkpost",
+      "amazon ses",
+      "resend",
+      "smtp2go"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9137,
+    "group_id": 662202
+   },
+   {
+    "id": 24214158,
+    "title": "Best Postmark alternatives for transactional email (2026)",
+    "url": "https://www.brevo.com/blog/postmark-alternatives/",
+    "publisher": "Brevo",
+    "published_date": "2026-04-27T04:31:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.4003,
+    "ai_summary": "This is a buyer\u2019s guide comparing transactional email service providers as alternatives to Postmark, published by Brevo (formerly Sendinblue) as a product comparison and recommendation piece. The article evaluates seven providers\u2014Brevo, Resend, Amazon SES, SendGrid, Mailgun, MailerSend, and Mandrill\u2014across pricing, features, free tiers, API capabilities, and deliverability metrics. Brevo recommends itself as the best all-in-one alternative, highlighting lower pricing, a more generous free tier (9,000 emails/month versus Postmark's 100/month), and integrated marketing tools; Resend is recommended for React developers; and Amazon SES for high-volume senders with technical infrastructure.",
+    "word_count": 2892,
+    "author": "Lea Mengeslea Menges Is An Seo Content Manager At Brevo",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email Marketing Services (Campaigns, Deliverability, Lifecycle)",
+      "code": "BPAFAKAB",
+      "is_primary": true
+     },
+     {
+      "name": "Ad Networks & Exchanges (Programmatic RTB)",
+      "code": "BPAMALAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [],
+    "company_mentions": [
+     {
+      "uuid": "0007x51",
+      "name": "MailerSend",
+      "website": "https://www.mailersend.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000kod",
+      "name": "Mailgun",
+      "website": "http://www.mailgun.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000v2m",
+      "name": "Brevo",
+      "website": "https://www.brevo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "006hvh6",
+      "name": "Brevo",
+      "website": "https://www.brevo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002e5r",
+      "name": "SendGrid",
+      "website": "http://www.sendgrid.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000knnb",
+      "name": "Postmark",
+      "website": "https://postmark-usa.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000bj6",
+      "name": "Resend",
+      "website": "https://resend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008qf",
+      "name": "Amazon Web Services",
+      "website": "https://s3.eu-west-1.amazonaws.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000blu",
+      "name": "Sinch",
+      "website": "https://www.sinch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "stephen day",
+      "tatiana lebedeva",
+      "pat b."
+     ],
+     "location": [],
+     "product": [
+      "postmark",
+      "brevo",
+      "sendgrid",
+      "resend",
+      "sendinblue",
+      "woo",
+      "mailgun",
+      "amazon ses",
+      "mailersend",
+      "mandrill",
+      "mailchimp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9303,
+    "group_id": 1535837
+   }
+  ],
+  "credits_consumed": 0.22
+ },
+ "mode": "LIVE"
+}

@@ -1,0 +1,549 @@
+{
+ "fetched_at": "2026-10-24T11:45:35",
+ "params": {
+  "company": "monday.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "000003l",
+   "firmographic": {
+    "name": "monday.com",
+    "legal_name": "monday.com Ltd.",
+    "website": "monday.com",
+    "company_type": {
+     "code": "public",
+     "label": "Public"
+    },
+    "ticker": "NASDAQ:MNDY",
+    "founded_year": 2014,
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "public",
+     "label": "Public"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/03/991a7dca-a493-55ef-b9ca-d02de3833531.png",
+    "akta_rank": 3395
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "month": 6,
+       "year": 2026
+      },
+      "business_focus": "Venture capital investments in AI startups",
+      "name": "monday Ventures",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "adjacent_operating_subsidiary",
+       "label": "Adjacent Operating Subsidiary"
+      }
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Q1 2026 revenue, representing 24% year-over-year growth",
+      "source": [
+       "https://www.foreignpolicyjournal.com/2026/06/15/monday-com-nasdaq-mndy-launches-ai-work-platform-to-drive-workflow-automation-and-sustain-revenue-growth/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$351.3 million"
+     },
+     {
+      "description": "Full-year 2026 revenue guidance raised after Q1 beat",
+      "source": [
+       "https://seekingalpha.com/article/4917434-mondaycom-buyback-backstop-and-ai-pricing-reset?source=feed_all_articles"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$1.466-$1.474 billion"
+     },
+     {
+      "description": "Trailing twelve-month revenue",
+      "source": [
+       "https://finance.yahoo.com/markets/stocks/articles/monday-coms-cro-sells-838-023501911.html?ref=biztoc.com"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$1.30 billion"
+     },
+     {
+      "description": "Q1 2026 revenue growth year-over-year",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-mndy/mondaycom/news/why-mondaycom-mndy-is-up-92-after-q1-beat-ai-monetization-br"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "24%"
+     },
+     {
+      "description": "Record operating margin in Q1 2026",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-mndy/mondaycom/news/why-mondaycom-mndy-is-up-92-after-q1-beat-ai-monetization-br"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "14%"
+     },
+     {
+      "description": "Record free cash flow margin in Q1 2026",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-mndy/mondaycom/news/why-mondaycom-mndy-is-up-92-after-q1-beat-ai-monetization-br"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "29%"
+     },
+     {
+      "description": "Cash, cash equivalents, and marketable securities at end of Q1 2026",
+      "source": [
+       "https://www.foreignpolicyjournal.com/2026/06/15/monday-com-nasdaq-mndy-launches-ai-work-platform-to-drive-workflow-automation-and-sustain-revenue-growth/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$1.21 billion"
+     },
+     {
+      "description": "Share repurchases in Q1 2026, approximately 10% of shares outstanding",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-mndy/mondaycom/news/why-mondaycom-mndy-is-up-92-after-q1-beat-ai-monetization-br"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$553 million"
+     },
+     {
+      "description": "Net revenue retention rate",
+      "source": [
+       "https://stockstory.org/us/stocks/nasdaq/mndy/news/earnings/mondaycom-nasdaqmndy-posts-better-than-expected-sales-in-q1-cy2026-stock-jumps-209percent"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "114%"
+     },
+     {
+      "description": "Customers with more than $500K in ARR, up 74% year-over-year - record quarter for enterprise customer additions",
+      "source": [
+       "https://www.stocktitan.net/news/MNDY/monday-com-announces-first-quarter-2026-pi8co2pstx16.html"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "99 customers"
+     },
+     {
+      "description": "Total customers globally according to company website",
+      "source": [
+       "https://monday.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "250,000+"
+     },
+     {
+      "description": "Of Fortune 500 companies use monday.com according to company website",
+      "source": [
+       "https://monday.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "60%"
+     },
+     {
+      "description": "Organizations running their work on monday.com platform",
+      "source": [
+       "https://monday.com/w/departments/pmo"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "225,000"
+     },
+     {
+      "description": "Asia-Pacific market share of quarterly revenue ($351.3M quarterly revenue)",
+      "source": [
+       "https://www.businesstimes.com.sg/singapore/ai-work-platform-monday-com-use-singapore-its-second-asia-pacific-hq"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "8%"
+     },
+     {
+      "description": "EMEA year-on-year revenue growth in 2025",
+      "source": [
+       "https://techrseries.com/artificial-intelligence/monday-com-appoints-ben-barnett-general-manager-of-emea-to-drive-next-phase-of-regional-growth/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "26%"
+     },
+     {
+      "description": "AI-driven increase in output per developer since 2025",
+      "source": [
+       "https://finance.yahoo.com/markets/stocks/article/mondaycom-stock-soars-on-revenue-jump-raised-outlook-143235111.html"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "32%"
+     },
+     {
+      "description": "AI credits contributing to net new ARR as part of new seats-plus-credits pricing model",
+      "source": [
+       "https://seekingalpha.com/article/4917434-mondaycom-buyback-backstop-and-ai-pricing-reset?source=feed_all_articles"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "10%"
+     },
+     {
+      "description": "Single-day stock rally following Q1 2026 earnings release",
+      "source": [
+       "https://intellectia.ai/blog/monday-com-stock-ai-platform-analysis-2026"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "26%"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 17,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Mindsprint and monday.com announced a strategic partnership combining monday.com's AI work platform capabilities with Mindsprint's expertise in process re-engineering and enterprise transformation. The collaboration delivers integrated solutions spanning IT Service Management, CRM, and Work Management unified within the monday.com ecosystem. Partnership aims to help organizations reduce operational complexity, break down silos, and drive transformation through real-time insights and agile ways of working.",
+      "name": "Mindsprint",
+      "source": [
+       "https://cxotoday.com/media-coverage/mindsprint-and-monday-com-partner-to-power-integrated-digital-operations/?utm_source=rss&utm_medium=rss&utm_campaign=mindsprint-and-monday-com-partner-to-power-integrated-digital-operations"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000624q"
+     },
+     {
+      "announced_on": {
+       "day": 16,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "monday.com is integrated as a partner plugin in Microsoft's Copilot Cowork platform, which is now generally available to all Microsoft 365 Copilot users worldwide. The platform combines Microsoft's Copilot with Anthropic's Claude AI tools and includes partner plugins from monday.com, Miro, Moodys, Adobe, Atlassian, Box, and Canva. monday.com holds 5.05% of global ChatGPT impressions according to advertising research.",
+      "name": "Microsoft",
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000026e"
+     },
+     {
+      "announced_on": {
+       "day": 30,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Bengaluru Police partnered with Monday Ventures and Aeos to launch an AI-powered multilingual feature in their Namma 112 emergency helpline. The technology, developed in partnership with Monday Ventures and Aeos, removes language barriers by supporting over 10 Indian and foreign languages. Monday Ventures is monday.com's $200 million venture capital arm focused on AI startups.",
+      "name": "Aeos (via monday Ventures)",
+      "source": [
+       "https://timesofindia.indiatimes.com/city/bengaluru/first-in-india-ai-powered-namma-112-goes-multilingual/articleshow/130620599.cms"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "000velc"
+     },
+     {
+      "description": "monday.com integrates Anthropic's Claude AI models through one-click connectors, enabling users to access Claude capabilities within the monday.com workflow. monday.com was featured as a case study at Anthropic's Code with Claude developer event showcasing how companies are reshaping development teams around Claude Code. Anthropic's Claude Cowork product competes with Monday.com's AI agent positioning.",
+      "name": "Anthropic",
+      "source": [
+       "https://techrseries.com/artificial-intelligence/monday-com-appoints-ben-barnett-general-manager-of-emea-to-drive-next-phase-of-regional-growth/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "description": "monday.com integrates OpenAI's ChatGPT through one-click connectors, enabling users to access ChatGPT capabilities within monday.com workflows. Monday.com holds 5.05% of global ChatGPT impressions and eight of the top 10 advertisers on ChatGPT are B2B SaaS brands.",
+      "name": "OpenAI",
+      "source": [
+       "https://techrseries.com/artificial-intelligence/monday-com-appoints-ben-barnett-general-manager-of-emea-to-drive-next-phase-of-regional-growth/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000008"
+     },
+     {
+      "description": "monday.com integrates Google Gemini through one-click connectors and offers Google Calendar, Google Drive, and Gmail integrations. monday.com MCP (Model Context Protocol) enables connectivity to Google AI ecosystem tools.",
+      "name": "Google",
+      "source": [
+       "https://techrseries.com/artificial-intelligence/monday-com-appoints-ben-barnett-general-manager-of-emea-to-drive-next-phase-of-regional-growth/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000r9"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Launched the AI Work Platform in May 2026, embedding native AI agents (monday agents), Agent Factory no-code builder, monday sidekick, and monday vibe into core architecture, described by the company as the biggest transformation in its history.",
+      "source": [
+       "https://monday.com/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Introduced seats-plus-credits pricing model in May 2026, hybridizing per-seat subscriptions with AI consumption credits to address per-seat SaaS collapse concerns and capture AI workload monetization.",
+      "source": [
+       "https://seekingalpha.com/article/4917434-mondaycom-buyback-backstop-and-ai-pricing-reset?source=feed_all_articles"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 11,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Agreed to acquire OneAI in May 2026 to add voice agent capabilities to the platform, expanding multimodal AI coverage alongside text, image, and code.",
+      "source": [
+       "https://www.stocktitan.net/news/MNDY/monday-com-announces-first-quarter-2026-pi8co2pstx16.html"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched monday Ventures in June 2026 with up to $200M allocated to AI startup investments, with $50M initially deployed across Blocks.diy, Guidde, and NanoCo, building ecosystem and pipeline.",
+      "source": [
+       "https://pulse2.com/monday-com-launches-200-million-venture-capital-arm-focused-on-ai-startups/"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "day": 14,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Designated Singapore as second Asia-Pacific headquarters alongside Sydney in June 2026, opening October 2025, appointing Chris Jordan to lead operations and targeting expansion beyond SMEs into family conglomerates across Southeast Asia and India.",
+      "source": [
+       "https://beamstart.com/news/mondaycom-names-chris-jordan-to-17816855976554"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Repurchased approximately $553 million of shares (roughly 10% of shares outstanding) in Q1 2026 against a backdrop of multiple securities class action lawsuits alleging misstatements during the September 2025-February 2026 period.",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-mndy/mondaycom/news/why-mondaycom-mndy-is-up-92-after-q1-beat-ai-monetization-br"
+      ],
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "monday.com repositioned as an AI Work Platform, describing this as the biggest change in company history, enabling people and AI agents to work together across all workflows and departments with native AI agents.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260506463102/en/monday.com-Goes-All-In-on-AI-From-Work-Management-Platform-to-AI-Work-Platform"
+      ],
+      "title": "AI Work Platform Transformation",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "description": "monday.com appointed Chris Jordan to lead its Singapore operations, establishing the city as its second Asia Pacific headquarters alongside existing operations to accelerate growth across Southeast Asia and India.",
+      "source": [
+       "https://beamstart.com/news/mondaycom-names-chris-jordan-to-17816855976554"
+      ],
+      "title": "Singapore APAC Headquarters",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "description": "monday.com promoted Ben Barnett to General Manager for Europe, the Middle East, and Africa, based in London, overseeing the company's EMEA go-to-market strategy and strategic partnerships.",
+      "source": [
+       "https://bdaily.co.uk/articles/2026/06/13/mondaycom-promotes-emea-chief"
+      ],
+      "title": "Ben Barnett EMEA Promotion",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "description": "monday.com launched a new seats-plus-credits pricing model, described as the biggest change in its history, aligning revenue with AI-driven workload consumption.",
+      "source": [
+       "https://seekingalpha.com/article/4917434-mondaycom-buyback-backstop-and-ai-pricing-reset?source=feed_all_articles"
+      ],
+      "title": "Seats-Plus-Credits Pricing Model Launch",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "description": "monday.com launched monday Ventures, a new venture capital arm with plans to invest up to $200 million in artificial intelligence startups as part of its strategic shift from work management to AI-agent platform.",
+      "source": [
+       "https://pulse2.com/monday-com-launches-200-million-venture-capital-arm-focused-on-ai-startups/"
+      ],
+      "title": "Monday Ventures Launch",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Singapore established as second APAC headquarters in June 2026 after October 2025 office opening, with Chris Jordan appointed to lead; current APAC contributes only 8% of quarterly revenue, signaling significant runway versus the 26% EMEA YoY growth benchmark.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Acquisition of OneAI in May 2026 adds voice agent capabilities, expanding AI modality coverage beyond text and image into audio workflows including meeting intelligence and voice-driven interactions.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Seats-plus-credits pricing introduced May 2026 enables monetization of AI workload consumption; AI credits already contributed 10% of net new ARR in Q1 2026, opening a usage-based revenue stream distinct from per-seat subscriptions.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "monday Ventures ($200M fund, $50M initially deployed) invests across AI agent, cybersecurity, and enterprise data infrastructure startups, while partnership with Microsoft Copilot Cowork positions monday.com as a default work layer inside the Microsoft AI ecosystem.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Enterprise customers with $500K+ ARR grew 74% YoY with 99 added in Q1 2026, and APAC expansion explicitly targets family conglomerates beyond the historical SME base, signaling a deliberate upmarket and segment expansion.",
+      "type": {
+       "code": "new_customer_segment",
+       "label": "New Customer Segment"
+      }
+     },
+     {
+      "description": "Ben Barnett promoted to General Manager EMEA and Chris Jordan appointed to lead Singapore in mid-2026; EMEA headcount exceeds 2,250 with London office alone at 370+, indicating continued sales expansion despite flat overall headcount guidance.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

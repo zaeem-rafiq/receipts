@@ -1,0 +1,810 @@
+{
+ "fetched_at": "2026-10-24T11:46:29",
+ "params": {
+  "company": "cal.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 6,
+  "limit": 50,
+  "offset": 0,
+  "count": 6,
+  "data": [
+   {
+    "id": 40464386,
+    "title": "7 Best Chili Piper Alternatives for B2B Teams [July 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/chili-piper-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-12T23:26:14",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8032,
+    "ai_summary": "Seven B2B demand conversion alternatives to Chili Piper are presented, including ZoomInfo, LeanData, RevenueHero, Default, Calendly, HubSpot Meetings, and Cal.com. Each addresses specific gaps such as Salesforce-native routing, HubSpot integration, or self-serve scheduling. The guide recommends selecting based on team needs, with pricing and features detailed for each.",
+    "word_count": 7111,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Appointment Setting & Sales Development (SDR/BDR) Services",
+      "code": "BPAFAKAD",
+      "is_primary": true
+     },
+     {
+      "name": "Email, Calendar & Scheduling",
+      "code": "BPAMAMAC",
+      "is_primary": false
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000cr3",
+      "name": "LeanData",
+      "website": "http://www.leandata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000efr",
+      "name": "Default",
+      "website": "https://www.default.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006rw",
+      "name": "Calendly",
+      "website": "https://calendly.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c8z",
+      "name": "Cal.com",
+      "website": "https://cal.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00021bi",
+      "name": "Chili Piper",
+      "website": "http://www.chilipiper.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000211q",
+      "name": "RevenueHero",
+      "website": "https://www.revenuehero.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "toby carrington",
+      "jerry wilson"
+     ],
+     "location": [
+      "territory",
+      "canada",
+      "oregon",
+      "washington",
+      "california",
+      "us west"
+     ],
+     "product": [
+      "chili piper",
+      "zoominfo",
+      "revenuehero",
+      "leandata",
+      "calendly",
+      "default",
+      "hubspot",
+      "chilical",
+      "cal.com",
+      "hubspot meetings",
+      "gtm studio",
+      "claude",
+      "chatgpt",
+      "6sense",
+      "zoominfo lite",
+      "apollo.io",
+      "abm lite",
+      "websights lite",
+      "gtm workspace",
+      "chrome extension",
+      "traction complete",
+      "sweep",
+      "notifyplus",
+      "kronologic",
+      "bookafy",
+      "zapier",
+      "clearbit",
+      "salesforce",
+      "slack",
+      "breakout",
+      "knock ai",
+      "concierge",
+      "apollo",
+      "distro",
+      "notetaker ai",
+      "chat ai",
+      "youcanbook.me",
+      "acuity scheduling",
+      "klarna",
+      "cirrus insight"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.754,
+    "group_id": 14076276
+   },
+   {
+    "id": 40534773,
+    "title": "Framer Stories: Cal.com runs its site without dev bottlenecks",
+    "url": "https://www.framer.com/stories/calcom/",
+    "publisher": "Framer",
+    "published_date": "2026-10-12T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Cal.com migrated its website to Framer, giving its design team full control over components and layouts without code. The move eliminated CMS bottlenecks, allowing anyone to publish pages in minutes and doubling efficiency. The site now includes native server-side performance, A/B testing, and AI-powered translations.",
+    "word_count": 340,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Low-Code/No-Code Application Platforms",
+      "code": "HDAEAKAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000c8z",
+      "name": "Cal.com",
+      "website": "https://cal.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000cz",
+      "name": "Framer",
+      "website": "https://framer.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "c\u00e9dric van ravesteijn",
+      "peer richelsen"
+     ],
+     "location": [],
+     "product": [
+      "framer",
+      "figma",
+      "jira"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7323,
+    "group_id": 14121939
+   },
+   {
+    "id": 33787405,
+    "title": "Whop Partners with SpaceXAI to Revolutionize Business Creation with Full Stack API",
+    "url": "https://third-news.com/article/2b0c8c68-a7a2-11f1-8ae0-9ca3ba08e13f",
+    "publisher": "Third News",
+    "published_date": "2026-09-03T14:17:17",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Whop announced a partnership with SpaceXAI, introducing a full-stack API to simplify business creation and management. The integration allows Grok users to manage businesses via natural language and developers to access Whop's infrastructure through Cursor. Whop reports over $5 billion earned annually by users across 145 countries.",
+    "word_count": 1122,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Professional & Business Services Marketplaces (Freelancers, SMB Services)",
+      "code": "BPAMAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "Integration-Centric Low-Code (Workflow + iPaaS)",
+      "code": "HDAEAKAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000356",
+      "name": "Whop",
+      "website": "https://whop.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0058cz2",
+      "name": "Grok",
+      "website": "https://grok.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c8z",
+      "name": "Cal.com",
+      "website": "https://cal.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "005a3q8",
+      "name": "Cursor",
+      "website": "https://cursor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000006",
+      "name": "SpaceXAI",
+      "website": "https://x.ai",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "621",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "steven schwartz"
+     ],
+     "location": [
+      "usa",
+      "new york",
+      "145 countries"
+     ],
+     "product": [
+      "grok",
+      "cursor"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9872,
+    "group_id": 10326375
+   },
+   {
+    "id": 33481268,
+    "title": "AI Is Exposing The Open Source Ecosystem\u2019s Remediation Gap",
+    "url": "https://sdtimes.com/open-source/ai-is-exposing-the-open-source-ecosystems-remediation-gap/",
+    "publisher": "SD Times",
+    "published_date": "2026-08-31T16:38:13",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0193,
+    "ai_summary": "AI is accelerating vulnerability discovery in open source, but remediation lags, creating a backlog. Cal.com moved its flagship product to a proprietary license to protect customer data. Security debt now affects 82% of organizations, up from 74%.",
+    "word_count": 1448,
+    "author": "Rob Nalen",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Patch & Remediation Orchestration",
+      "code": "HDADAHAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000c8z",
+      "name": "Cal.com",
+      "website": "https://cal.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "rob nalen"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "software",
+      "commercial software",
+      "open source"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10058403
+   },
+   {
+    "id": 39441192,
+    "title": "AI Scheduling Assistant with Cal.com",
+    "url": "https://retellai.com/blog/cal-coms-preset-tools",
+    "publisher": "Retell AI",
+    "published_date": "2026-06-17T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Cal.com offers AI scheduling preset tools that automate appointment booking, reducing manual scheduling and conflicts. The integration with Retell AI enables AI voice agents to manage scheduling in real time, freeing B2B teams to focus on client engagement. Use cases include receptionist, appointment setter, lead qualification, and team coordination.",
+    "word_count": 979,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Email, Calendar & Scheduling",
+      "code": "BPAMAMAC",
+      "is_primary": true
+     },
+     {
+      "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+      "code": "HDAAAFAC",
+      "is_primary": false
+     },
+     {
+      "name": "Appointment Setting, Dispatch & Scheduling Centers",
+      "code": "BPAAAAAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000c8z",
+      "name": "Cal.com",
+      "website": "https://cal.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000051f",
+      "name": "Retell AI",
+      "website": "https://retellai.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "607",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "retell ai"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7345,
+    "group_id": 13065560
+   },
+   {
+    "id": 35536904,
+    "title": "7 Solo Startup Tools That Feel Like a Team",
+    "url": "https://chrysilioschrysiliouentreprenurialscholarship.com/7-software-tools-that-make-running-a-solo-startup-feel-like-a-team-effort/",
+    "publisher": "Chrysilioschrysiliouentreprenurialscholarship",
+    "published_date": "2026-05-12T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9346,
+    "ai_summary": "Seven software tools are recommended for solo startups to create a team-like operation: Notion for documentation, Linear for project management, Zapier or n8n for automation, help desk software for support, GitHub Copilot for coding, and Cal.com for scheduling. The article advises assigning each tool a specific role and building a lean stack that scales as the business grows.",
+    "word_count": 2335,
+    "author": "Chrysilios Chrysiliou",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Work Management & Collaboration Suites",
+      "code": "BPAMAMAG",
+      "is_primary": true
+     },
+     {
+      "name": "Project & Task Management",
+      "code": "BPAMAMAF",
+      "is_primary": false
+     },
+     {
+      "name": "Workflow Automation & No-Code Collaboration",
+      "code": "BPAMAMAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c8z",
+      "name": "Cal.com",
+      "website": "https://cal.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007nj",
+      "name": "Linear",
+      "website": "https://linear.app/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002k7",
+      "name": "Notion",
+      "website": "https://www.notion.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "chrysilios chrysiliou"
+     ],
+     "location": [],
+     "product": [
+      "notion",
+      "zapier",
+      "linear",
+      "n8n",
+      "github copilot",
+      "support software",
+      "help desk",
+      "startup"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6816,
+    "group_id": 11553929
+   }
+  ],
+  "credits_consumed": 0.16
+ },
+ "mode": "LIVE"
+}

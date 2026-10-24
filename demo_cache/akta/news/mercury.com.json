@@ -1,0 +1,7022 @@
+{
+ "fetched_at": "2026-10-24T11:45:46",
+ "params": {
+  "company": "mercury.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 183,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42291148,
+    "title": "Mercury launches payroll tied to banking",
+    "url": "https://thepaypers.com/fintech/news/mercury-launches-mercury-payroll-integrating-payroll-with-banking",
+    "publisher": "The Paypers",
+    "published_date": "2026-10-23T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.7969,
+    "ai_summary": "Mercury launched Mercury Payroll, combining payroll, benefits, and compliance with its banking accounts across all 50 US states. The product covers W-2 and 1099 payroll, health benefits, and 401(k) plans, with setup taking about 15 minutes. It is free for eligible customers until end of 2026, with pricing from 2027.",
+    "word_count": 526,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Payroll Software & Payroll-as-a-Service (SaaS)",
+      "code": "BPACAIAB",
+      "is_primary": true
+     },
+     {
+      "name": "Embedded Payroll, Earned Wage Access & Benefits Finance",
+      "code": "FSAGALAI",
+      "is_primary": false
+     },
+     {
+      "name": "Payroll Tax Filing, Compliance & Remittance",
+      "code": "BPACAIAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     },
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541214",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "pranav kashyap"
+     ],
+     "location": [
+      "colorado",
+      "pennsylvania",
+      "us"
+     ],
+     "product": [
+      "mercury payroll",
+      "command"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9493,
+    "group_id": 15073806
+   },
+   {
+    "id": 41717088,
+    "title": "Mercury Launches AI-Native Payroll",
+    "url": "https://techrseries.com/hiring/mercury-launches-ai-native-payroll/",
+    "publisher": "TecHR",
+    "published_date": "2026-10-21T09:21:29",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury launched Mercury Payroll, integrating payroll into its banking platform for over 450,000 customers. The service handles W-2 and 1099 payments, tax compliance, and benefits, with setup in under 15 minutes. It uses AI agent Command to simplify payroll tasks.",
+    "word_count": 676,
+    "author": "Business Wire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Embedded Payroll, Earned Wage Access & Benefits Finance",
+      "code": "FSAGALAI",
+      "is_primary": true
+     },
+     {
+      "name": "Employer Payroll Processing (SMB & Enterprise)",
+      "code": "FSAMAKAA",
+      "is_primary": false
+     },
+     {
+      "name": "Payroll Tax Filing, Compliance & Remittance",
+      "code": "BPACAIAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541214",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "immad akhund",
+      "elizabeth andora"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "mercury payroll",
+      "mercury command"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9165,
+    "group_id": 15073806
+   },
+   {
+    "id": 41617550,
+    "title": "Bill Gross Launches Idealab.ai to Scale Business Ideas",
+    "url": "https://www.startupresearcher.com/news/bill-gross-launches-idealab-ai-to-scale-business-ideas",
+    "publisher": "Startup Researcher",
+    "published_date": "2026-10-20T22:00:23",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bill Gross launched Idealab.ai on October 19, 2026, in Pasadena, California, applying AI to his entrepreneurship methodology. The platform makes over 1.2 million business ideas freely searchable and aims to help connect founders with $100 million in potential funding. Its long-term goal is to catalyze 1,000,000 new businesses and 100,000,000 new jobs.",
+    "word_count": 576,
+    "author": "",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Entrepreneurship Foundations & Startup Basics",
+      "code": "EDAMAHAA",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise AI Data & Knowledge Platforms (Vector Databases, Knowledge Graphs)",
+      "code": "HDAEANAH",
+      "is_primary": false
+     },
+     {
+      "name": "SME Lending & Working Capital Platforms",
+      "code": "FSAGAJAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lw7oj",
+      "name": "RAISE US",
+      "website": "https://www.raiseus.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lw869",
+      "name": "Flat6Labs",
+      "website": "https://www.flat6labs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000n4k",
+      "name": "Idealab",
+      "website": "http://www.idealab.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "003x5f8",
+      "name": "Global Entrepreneurship Network",
+      "website": "https://www.genglobal.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000566",
+      "name": "Endeavor",
+      "website": "http://www.endeavor.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cdg",
+      "name": "Janngo",
+      "website": "https://www.janngo.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "519290",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bill gross",
+      "gina raimondo",
+      "jeff hoffman",
+      "dr. michael crow"
+     ],
+     "location": [
+      "pasadena, california"
+     ],
+     "product": [
+      "idealab.ai",
+      "preseen"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.994,
+    "group_id": 14792091
+   },
+   {
+    "id": 41622647,
+    "title": "Mercury Integrates Payroll Capabilities Into Entrepreneur Ac\u2026",
+    "url": "https://www.pymnts.com/back-office/payroll/2026/mercury-integrates-ai-powered-payroll-capabilities-into-entrepreneur-accounts/",
+    "publisher": "PYMNTS.com",
+    "published_date": "2026-10-20T20:24:04",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury launched AI-powered payroll on Oct. 20, letting founders pay employees and contractors from their existing account. The feature integrates with Mercury's banking, cards, invoicing, and AI agent, aiming to simplify payroll tasks and compliance. The company raised $200 million in May at a $5.2 billion valuation.",
+    "word_count": 401,
+    "author": "Pymnts",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Embedded Payroll, Earned Wage Access & Benefits Finance",
+      "code": "FSAGALAI",
+      "is_primary": true
+     },
+     {
+      "name": "SME Banking Suite (Business Accounts, Invoicing, Payroll Integrations)",
+      "code": "FSAGAAAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541214",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "karen webster",
+      "immad akhund"
+     ],
+     "location": [],
+     "product": [
+      "mercury command",
+      "mercury payroll",
+      "cards",
+      "bill pay"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.934,
+    "group_id": 15073806
+   },
+   {
+    "id": 41623469,
+    "title": "Mercury Launches AI-Native Payroll",
+    "url": "https://www.businesswire.com/news/home/20261020220473/en/Mercury-Launches-AI-Native-Payroll",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-10-20T15:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury launched Mercury Payroll, integrating payroll into its banking platform for over 450,000 customers. The service handles W-2 and 1099 payroll, tax compliance, and benefits, with AI automation via Mercury Command. It is free through end of 2026, then $100 monthly plus $50 per person paid.",
+    "word_count": 1023,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Embedded Payroll, Earned Wage Access & Benefits Finance",
+      "code": "FSAGALAI",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll Tax Filing, Compliance & Remittance",
+      "code": "BPACAIAC",
+      "is_primary": false
+     },
+     {
+      "name": "Workforce Benefits Administration (Enrollment & Deductions)",
+      "code": "BPACAIAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541214",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "immad akhund"
+     ],
+     "location": [
+      "san francisco",
+      "u.s."
+     ],
+     "product": [
+      "mercury payroll",
+      "mercury command",
+      "ai-native payroll",
+      "mercury debit cards",
+      "mercury",
+      "io card"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9304,
+    "group_id": 15073806
+   },
+   {
+    "id": 41646165,
+    "title": "Bill Gross\u2019s Free Business Ideas Solve the Wrong Problem",
+    "url": "https://businessmodelanalyst.com/idealab-ai-free-business-ideas-founder-bottleneck/",
+    "publisher": "Business Model Analyst",
+    "published_date": "2026-10-20T12:38:54",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Bill Gross launched Idealab.ai on October 19, offering 1.2 million AI-generated business ideas for free. The platform's monetization relies on a paid vendor shelf and funding gate, not the ideas themselves. Gross's own research found timing and execution more critical than ideas.",
+    "word_count": 2392,
+    "author": "Flavia Moura",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI-Powered Tutoring & Study Assistant Platforms",
+      "code": "EDANAGAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lw7oj",
+      "name": "RAISE US",
+      "website": "https://www.raiseus.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lw869",
+      "name": "Flat6Labs",
+      "website": "https://www.flat6labs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000n4k",
+      "name": "Idealab",
+      "website": "http://www.idealab.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004nj",
+      "name": "Caltech",
+      "website": "http://www.caltech.edu",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002hc",
+      "name": "Imperial College London",
+      "website": "http://imperial.ac.uk",
+      "is_primary": false
+     },
+     {
+      "uuid": "003x5f8",
+      "name": "Global Entrepreneurship Network",
+      "website": "https://www.genglobal.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fuz",
+      "name": "Arizona State University",
+      "website": "http://www.asu.edu",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cdg",
+      "name": "Janngo",
+      "website": "https://www.janngo.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "53",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bill gross",
+      "alan murray",
+      "gross"
+     ],
+     "location": [
+      "pasadena",
+      "america",
+      "san francisco",
+      "united states",
+      "us",
+      "africa",
+      "south america",
+      "the middle east"
+     ],
+     "product": [
+      "idealab.ai",
+      "claude",
+      "polsia",
+      "cloudflare",
+      "tickets.com",
+      "citysearch",
+      "goto.com"
+     ],
+     "event": [
+      "masters of scale summit",
+      "ted talk"
+     ]
+    },
+    "newsworthiness_score": 0.9936,
+    "group_id": 14792091
+   },
+   {
+    "id": 40932898,
+    "title": "Jamie Dimon Draws the Line: Why Chase Is Blocking AI Agents From Your Bank Account",
+    "url": "https://www.webpronews.com/jamie-dimon-draws-the-line-why-chase-is-blocking-ai-agents-from-your-bank-account/",
+    "publisher": "WebProNews",
+    "published_date": "2026-10-16T12:42:13",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0206,
+    "ai_summary": "JPMorgan Chase CEO Jamie Dimon said on the third-quarter earnings call that outside AI agents will not get direct access to customer accounts, citing risk. The bank permits read-only data sharing via approved connectors but blocks credential-based logins for autonomous actions. This policy follows similar steps by Amazon and reflects concerns over scale and liability.",
+    "word_count": 979,
+    "author": "Sara Donnelly",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": true
+     },
+     {
+      "name": "Identity, Access & Secrets Management for AI Systems (IAM for agents/models)",
+      "code": "HDAAAKAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cr",
+      "name": "Bank of America",
+      "website": "https://www.bankofamerica.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jamie dimon",
+      "torsten sl\u00f8k",
+      "dimon"
+     ],
+     "location": [],
+     "product": [
+      "muse",
+      "instinct",
+      "smart cash",
+      "chatgpt",
+      "plaid",
+      "hugging face"
+     ],
+     "event": [
+      "third-quarter earnings call"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14137410
+   },
+   {
+    "id": 40446411,
+    "title": "8 personal banking tasks you should automate to save time and money",
+    "url": "https://billingsgazette.com/news/nation-world/business/personal-finance/article_1c3ba67a-c64f-5c12-83a6-f4d33e494106.html",
+    "publisher": "Billings Gazette",
+    "published_date": "2026-10-10T13:54:45",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury outlines eight personal banking tasks to automate, including savings transfers, bill payments, and investment contributions. The article highlights benefits such as fewer missed payments, consistent saving, and reduced decision fatigue. It also notes AI can categorize transactions and flag unusual activity.",
+    "word_count": 1359,
+    "author": "Sandy Yong For Mercury",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Savings Automation & Goal-Based Savings",
+      "code": "FSAGADAC",
+      "is_primary": true
+     },
+     {
+      "name": "Recurring Billing & AutoPay Management",
+      "code": "FSAMAJAE",
+      "is_primary": false
+     },
+     {
+      "name": "Risk, Fraud & Transaction Monitoring (Behavioral, Velocity, Controls)",
+      "code": "FSAGAAAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003o9i",
+      "name": "Column",
+      "website": "https://column.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000b84d",
+      "name": "Choice Financial",
+      "website": "http://choicefinancialgroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000287",
+      "name": "personal finance and investment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "392",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "410",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52218",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52232",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "subscriptions",
+      "utilities",
+      "insurance",
+      "401(k)",
+      "clothing",
+      "groceries",
+      "individual retirement account (ira)"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7241,
+    "group_id": 14056436
+   },
+   {
+    "id": 39986659,
+    "title": "8 Selected Neo Banks for Cryptocurrency and Fiat Currency Corporate Fund Management",
+    "url": "https://financefeeds.com/ko/best-neobank-crypto-fiat-treasury/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:40",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8599,
+    "ai_summary": "Eight neo-banks are profiled for managing corporate fiat and cryptocurrency funds, including Coinbase Business, BVNK, Kraken Financial, Wirex Business, Revolut Business, FV Bank, Mercury, and SoFi. Each platform offers varying levels of custody, trading, and stablecoin settlement, with suitability depending on integration depth and regulatory needs.",
+    "word_count": 979,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS",
+     "DEU",
+     "FRA",
+     "ESP",
+     "ITA",
+     "PRT",
+     "JPN",
+     "KOR",
+     "THA",
+     "IDN",
+     "MYS",
+     "PHL",
+     "VNM",
+     "IND",
+     "CHN",
+     "BRA",
+     "MEX",
+     "ARG",
+     "COL",
+     "PER",
+     "CHL",
+     "ECU",
+     "VEN",
+     "BOL",
+     "PRY",
+     "URY",
+     "GUY",
+     "SUR",
+     "FRA"
+    ],
+    "industries": [
+     {
+      "name": "Crypto/Web3 Neobanks",
+      "code": "FSABAFAG",
+      "is_primary": true
+     },
+     {
+      "name": "Custody Technology Platforms (Custody-as-a-Service)",
+      "code": "FSADACAB",
+      "is_primary": false
+     },
+     {
+      "name": "Crypto Payments & Stablecoin Settlement Platforms",
+      "code": "BPAMAFAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00071tn",
+      "name": "Kraken Financial",
+      "website": "http://krakenfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "\uc601\uad6d",
+      "\ubbf8\uad6d",
+      "africa",
+      "eu",
+      "us"
+     ],
+     "product": [
+      "openpayd"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8532,
+    "group_id": 13531961
+   },
+   {
+    "id": 39986657,
+    "title": "8 Recommended New Banks for Managing Cryptocurrencies and Fiat Currencies",
+    "url": "https://financefeeds.com/zh/8-best-neobanks-crypto-fiat-treasury/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:38",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9194,
+    "ai_summary": "Eight new banks are recommended for managing cryptocurrencies and fiat currencies, including Coinbase Business, BVNK, Kraken Financial, Wirex Business, Revolut Business, FV Bank, Mercury, and SoFi. Each platform offers varying levels of integration, with Coinbase, BVNK, Kraken, and Wirex providing deep crypto-native services, while Revolut, FV Bank, and Mercury suit hybrid businesses, and SoFi targets large enterprises.",
+    "word_count": 249,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Crypto/Web3 Neobanks",
+      "code": "FSABAFAG",
+      "is_primary": true
+     },
+     {
+      "name": "Embedded FX & Cross-Border Treasury",
+      "code": "FSAGALAG",
+      "is_primary": false
+     },
+     {
+      "name": "Crypto Custody & Exchange Wallet Services (Integrated)",
+      "code": "FSADAAAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000026",
+      "name": "Kraken",
+      "website": "https://www.kraken.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "africa",
+      "eu",
+      "us"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9421,
+    "group_id": 13531961
+   },
+   {
+    "id": 39986660,
+    "title": "8 \u0e19\u0e35\u0e42\u0e2d\u0e41\u0e1a\u0e07\u0e01\u0e4c\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e04\u0e25\u0e31\u0e07\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e04\u0e23\u0e34\u0e1b\u0e42\u0e15\u0e41\u0e25\u0e30\u0e40\u0e07\u0e34\u0e19\u0e2a\u0e14",
+    "url": "https://financefeeds.com/th/neobank-crypto-fiat-business-treasury/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:36",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5713,
+    "ai_summary": "Eight neobanks are evaluated for businesses managing crypto and cash, including Coinbase Business, BVNK, Kraken Financial, and Wirex Business. Coinbase Business and BVNK offer comprehensive crypto asset management, while Revolut Business and Mercury suit hybrid use. SoFi is recommended for large enterprises needing US banking infrastructure with stablecoin settlement.",
+    "word_count": 276,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Portfolio Management Systems (PMS), Rebalancing & Analytics (Crypto)",
+      "code": "FSADAHAE",
+      "is_primary": true
+     },
+     {
+      "name": "Treasury, Cash Management & Liquidity Tools (Sweeps, Cash Concentration)",
+      "code": "FSAGAAAG",
+      "is_primary": false
+     },
+     {
+      "name": "Fiat On/Off-Ramps & Payment Rails (Exchange-Operated)",
+      "code": "FSADAAAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00071tn",
+      "name": "Kraken Financial",
+      "website": "http://krakenfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "90",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "52",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "mercury",
+      "revolut business",
+      "sofi",
+      "wirex business"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8454,
+    "group_id": 13531961
+   },
+   {
+    "id": 39986662,
+    "title": "8 Melhores Neobanks para Tesourarias Cripto e Fiat",
+    "url": "https://financefeeds.com/pt/melhores-neobanks-tesouraria-cripto-fiat/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:35",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9089,
+    "ai_summary": "Eight neobanks are evaluated for managing corporate crypto and fiat treasuries, with Coinbase Business, BVNK, Kraken Financial, and Wirex Business offering the most comprehensive crypto custody, trading, stablecoin payments, and settlement. Revolut Business, FV Bank, and Mercury suit hybrid users, while SoFi provides regulated US banking with stablecoin settlement. Eligibility, jurisdiction, and fee structures vary across platforms.",
+    "word_count": 1327,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS",
+     "EU"
+    ],
+    "industries": [
+     {
+      "name": "Treasury Management & Corporate Crypto Yield Programs",
+      "code": "FSADAHAL",
+      "is_primary": true
+     },
+     {
+      "name": "Crypto Custody & Exchange Wallet Services (Integrated)",
+      "code": "FSADAAAG",
+      "is_primary": false
+     },
+     {
+      "name": "Reserve Management, Custody & Segregated Accounts (Backing Infrastructure)",
+      "code": "FSADADAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000026",
+      "name": "Kraken",
+      "website": "https://www.kraken.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "66",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6029",
+      "name": "COMMERCIAL BANKS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "singapura",
+      "austr\u00e1lia",
+      "eua",
+      "reino unido",
+      "africa",
+      "eu",
+      "us"
+     ],
+     "product": [
+      "pyusd",
+      "revolut",
+      "ethereum",
+      "sofiusd",
+      "usdt",
+      "usdc",
+      "wirex business"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7776,
+    "group_id": 13531961
+   },
+   {
+    "id": 39986658,
+    "title": "8 migliori neobank per tesorerie cripto e fiat",
+    "url": "https://financefeeds.com/it/migliori-neobank-tesorerie-cripto-fiat/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:33",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9921,
+    "ai_summary": "Eight neobanks are evaluated for corporate treasury management of crypto and fiat, with Coinbase Business, BVNK, Kraken Financial, and Wirex Business highlighted for crypto-native treasury. Revolut Business, FV Bank, and Mercury suit hybrid use, while SoFi offers regulated US banking with stablecoin settlement. Pre-onboarding checks on custody, fees, and jurisdiction are advised.",
+    "word_count": 1295,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Treasury Management & Corporate Crypto Yield Programs",
+      "code": "FSADAHAL",
+      "is_primary": true
+     },
+     {
+      "name": "Crypto/Web3 Neobanks",
+      "code": "FSABAFAG",
+      "is_primary": false
+     },
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00071tn",
+      "name": "Kraken Financial",
+      "website": "http://krakenfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "singapore",
+      "australia",
+      "stati uniti",
+      "regno unito",
+      "usa",
+      "africa",
+      "eu",
+      "us"
+     ],
+     "product": [
+      "pennyguard",
+      "pyusd"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7834,
+    "group_id": 13531961
+   },
+   {
+    "id": 39986663,
+    "title": "8 beste Neobanken f\u00fcr Krypto- und Fiat-Treasuries",
+    "url": "https://financefeeds.com/de/beste-neobanken-krypto-fiat-treasury/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:31",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Eight neobanks are evaluated for managing crypto and fiat corporate treasuries, with Coinbase Business, BVNK, Kraken Financial, and Wirex Business offering the most comprehensive crypto custody, trading, and stablecoin payments. Revolut Business, FV Bank, and Mercury suit hybrid users, while SoFi targets large enterprises needing regulated US banking infrastructure.",
+    "word_count": 1110,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Treasury Management & Corporate Crypto Yield Programs",
+      "code": "FSADAHAL",
+      "is_primary": true
+     },
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": false
+     },
+     {
+      "name": "B2B Crypto Payouts, Mass Payments & Treasury Disbursements",
+      "code": "FSADAIAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00071tn",
+      "name": "Kraken Financial",
+      "website": "http://krakenfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000171",
+      "name": "business finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "singapur",
+      "australien",
+      "usa",
+      "eur",
+      "usd",
+      "gbp",
+      "us-bundesstaaten",
+      "africa",
+      "eu",
+      "us"
+     ],
+     "product": [
+      "firmenkarten",
+      "sofiusd"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7811,
+    "group_id": 13531961
+   },
+   {
+    "id": 39986668,
+    "title": "8 meilleures n\u00e9obanques pour tr\u00e9sorerie crypto et fiat",
+    "url": "https://financefeeds.com/fr/meilleures-neobanques-tresorerie-crypto-fiat/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:29",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Eight neobanks are profiled for corporate treasury management of crypto and fiat, including Coinbase Business, BVNK, Kraken Financial, Wirex Business, Revolut Business, FV Bank, Mercury, and SoFi. Each offers varying levels of crypto custody, trading, and stablecoin payments, with eligibility and jurisdictional restrictions noted. The article advises verifying legal entities, protections, and withdrawal limits before integration.",
+    "word_count": 1374,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Crypto/Web3 Neobanks",
+      "code": "FSABAFAG",
+      "is_primary": true
+     },
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": false
+     },
+     {
+      "name": "Crypto Custody & Exchange Wallet Services (Integrated)",
+      "code": "FSADAAAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00071tn",
+      "name": "Kraken Financial",
+      "website": "http://krakenfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "singapour",
+      "australie",
+      "royaume-uni",
+      "\u00e9tats-unis",
+      "africa",
+      "eu",
+      "us"
+     ],
+     "product": [
+      "sofiusd",
+      "ethereum",
+      "pyusd"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7878,
+    "group_id": 13531961
+   },
+   {
+    "id": 39986666,
+    "title": "8 mejores neobancos para tesorer\u00edas cripto y fiat",
+    "url": "https://financefeeds.com/es/mejores-neobancos-tesoreria-cripto-fiat/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T18:35:26",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7898,
+    "ai_summary": "Eight neobanks are profiled for corporate treasury management of crypto and fiat, including Coinbase Business, BVNK, Kraken Financial, Wirex Business, Revolut Business, FV Bank, Mercury, and SoFi. Each platform offers varying levels of crypto custody, stablecoin payments, and fiat integration, with eligibility and jurisdictional restrictions noted.",
+    "word_count": 1294,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Qualified Custody (Banks/Trust Companies)",
+      "code": "FSADACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Crypto Custody & Exchange Wallet Services (Integrated)",
+      "code": "FSADAAAG",
+      "is_primary": false
+     },
+     {
+      "name": "Mint/Redeem, Issuance APIs & Treasury Operations Platforms",
+      "code": "FSADADAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00071tn",
+      "name": "Kraken Financial",
+      "website": "http://krakenfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "australia",
+      "singapur",
+      "ee. uu.",
+      "el reino unido",
+      "eu",
+      "africa",
+      "us"
+     ],
+     "product": [
+      "pyusd",
+      "revolut",
+      "ethereum",
+      "usdt"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7693,
+    "group_id": 13531961
+   },
+   {
+    "id": 39897556,
+    "title": "8 Neobanks for Crypto and Fiat Business Treasuries Compared",
+    "url": "https://financefeeds.com/8-best-neobanks-for-managing-both-crypto-and-fiat-business-treasuries/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-10-06T15:10:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8624,
+    "ai_summary": "Eight neobanks are compared for managing crypto and fiat business treasuries, with Coinbase Business, BVNK, Kraken Financial, and Wirex Business offering the deepest crypto custody and settlement. Revolut Business, FV Bank, and Mercury suit hybrid operators, while SoFi provides regulated U.S. banking infrastructure. Eligibility, jurisdiction, and fee structures vary across platforms.",
+    "word_count": 1086,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA",
+     "SGP",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Treasury Management & Corporate Crypto Yield Programs",
+      "code": "FSADAHAL",
+      "is_primary": true
+     },
+     {
+      "name": "Custody Technology Platforms (Custody-as-a-Service)",
+      "code": "FSADACAB",
+      "is_primary": false
+     },
+     {
+      "name": "Clearing, Settlement & Trade Processing",
+      "code": "FSADAJAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007w",
+      "name": "BVNK",
+      "website": "https://bvnk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003km",
+      "name": "Wirex",
+      "website": "https://wirexapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00071tn",
+      "name": "Kraken Financial",
+      "website": "http://krakenfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007gz",
+      "name": "FV Bank",
+      "website": "https://www.fvbank.us/#/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "tobi opeyemi amure"
+     ],
+     "location": [
+      "singapore",
+      "australia",
+      "u.s.",
+      "united kingdom",
+      "africa",
+      "eu",
+      "us"
+     ],
+     "product": [
+      "corporate cards",
+      "ethereum"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7616,
+    "group_id": 13531961
+   },
+   {
+    "id": 39398283,
+    "title": "Charter must be \u2018top priority\u2019 for fintechs pursuing it: Mercury exec",
+    "url": "https://www.bankingdive.com/news/chartering-must-be-top-priority-fintechs-mercury-bank-jon-auxier-sofi/831810/",
+    "publisher": "Banking Dive",
+    "published_date": "2026-09-30T18:59:52",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury Bank CEO Jon Auxier said a fintech's charter pursuit must be its top priority, as it affects operations. Mercury applied for a national bank charter in December, and SoFi's charter enabled its growth from 3 million to 15.8 million customers. Auxier expects Mercury to become fully chartered by late 2027.",
+    "word_count": 517,
+    "author": "Gabrielle Saulsbery",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Retail-focused Neobanks (Mass Market)",
+      "code": "FSABAFAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     },
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ep",
+      "name": "SoFi",
+      "website": "https://www.sofi.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000068h",
+      "name": "Square",
+      "website": "https://squareup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jon auxier",
+      "eric schuppenhauer",
+      "richard rosenthal"
+     ],
+     "location": [
+      "philadelphia"
+     ],
+     "product": [],
+     "event": [
+      "fintech conference"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13025285
+   },
+   {
+    "id": 39224820,
+    "title": "Mercury Gives Invisible Pressures of Money a Physical Form \u2014 LBB",
+    "url": "https://lbbonline.com/news/mercury-money-is-your-material",
+    "publisher": "LBBOnline",
+    "published_date": "2026-09-29T16:10:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury unveiled a new campaign with MATTE Projects, treating money as a physical material to highlight its intelligent banking ecosystem. The campaign includes films 'Give It Shape' and 'Mercury Spend,' and will air on live sports, streaming TV, cinema, and in-flight video.",
+    "word_count": 462,
+    "author": "Matte Projects",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Creative & Brand Campaign Development",
+      "code": "BPAFAAAB",
+      "is_primary": true
+     },
+     {
+      "name": "Creative Concepting & Campaign Development",
+      "code": "BPAFAEAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007psg",
+      "name": "Ways & Means",
+      "website": "https://www.ways-means.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "005c5bz",
+      "name": "The Smugglers MMXX",
+      "website": "https://smugglers.pro",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009sv8",
+      "name": "MATTE Projects",
+      "website": "https://matteprojects.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02m13nb",
+      "name": "Chemistry Film",
+      "website": "https://www.chemistryfilm.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541890",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "matthew rowean",
+      "thierry ambraisse"
+     ],
+     "location": [],
+     "product": [
+      "mobland",
+      "lioness",
+      "tulsa king",
+      "mercury spend",
+      "cinema",
+      "give it shape",
+      "in-flight video"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8353,
+    "group_id": 12848909
+   },
+   {
+    "id": 40232353,
+    "title": "\ud83e\udde0 Agent Wars: The agentic bank run?",
+    "url": "https://fintechbrainfood.com/p/agentic-bank-run",
+    "publisher": "Fintechbrainfood",
+    "published_date": "2026-09-29T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0317,
+    "ai_summary": "Meta's Muse personal agent has drawn bank attention, raising concerns about deposit flight and disintermediation. McKinsey estimates that 5-10% of balances moving to better rates could cut deposit profits by 20% or more. Banks should prepare for agents to become the default financial interface.",
+    "word_count": 3126,
+    "author": "Simon Taylor",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Digital Banking & Neobank Platforms",
+      "code": "BPAMAFAD",
+      "is_primary": true
+     },
+     {
+      "name": "Mass-Market Consumer Deposit Banking (Checking/Savings)",
+      "code": "FSABAAAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Disruptions",
+      "code": "RK04",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     },
+     {
+      "name": "Volatility & Risk Appetite",
+      "code": "MD04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "003qagv",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000km8",
+      "name": "Insurify",
+      "website": "http://insurify.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002uu",
+      "name": "Plaid",
+      "website": "https://plaid.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000999",
+      "name": "Allstate",
+      "website": "http://www.allstate.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000k7",
+      "name": "Robinhood",
+      "website": "https://www.robinhood.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000db",
+      "name": "Apollo",
+      "website": "https://www.apollo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "83",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6029",
+      "name": "COMMERCIAL BANKS, NEC"
+     },
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "torsten slok",
+      "dave birch",
+      "angela strange",
+      "pensioner"
+     ],
+     "location": [
+      "us",
+      "philippines",
+      "uk"
+     ],
+     "product": [
+      "muse",
+      "shop pay",
+      "moderntreasury.com",
+      "plaid",
+      "modern treasury",
+      "stripe link",
+      "paypal",
+      "car insurance",
+      "perplexity",
+      "gemini",
+      "insurance",
+      "subscription",
+      "mobile",
+      "chatgpt",
+      "mobile app",
+      "agent",
+      "ai apps"
+     ],
+     "event": [
+      "agent wars"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12653481
+   },
+   {
+    "id": 39608477,
+    "title": "Best Neobanks for Global Fiat & Crypto Enterprises (2026)",
+    "url": "https://www.onesafe.io/blog/best-neobanks-global-fiat-crypto-2026",
+    "publisher": "OneSafe",
+    "published_date": "2026-09-29T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8412,
+    "ai_summary": "OneSafe is the only neobank offering hybrid fiat-crypto services with Fireblocks custody and DAO permissions, while Mercury, Revolut Business, and AirWallex lack crypto rails. The evaluation of 30+ neobanks found OneSafe the strongest for Web3 teams, with Mercury for U.S. startups and Revolut for multi-currency trade.",
+    "word_count": 1320,
+    "author": "Written Bycontent Research Teampublished Onsep",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Crypto/Web3 Neobanks",
+      "code": "FSABAFAG",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Asset Custody & Key Management (MPC, HSM, Wallet Infra)",
+      "code": "FSAGAMAB",
+      "is_primary": false
+     },
+     {
+      "name": "Custodial Wallets & Hosted Accounts (exchange/fintech custody, omnibus wallets)",
+      "code": "FSAPACAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0009nxu",
+      "name": "OneSafe Technologies",
+      "website": "https://www.onesafe.io/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000r8",
+      "name": "Airwallex",
+      "website": "http://www.airwallex.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5221",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "maksym sakharov"
+     ],
+     "location": [
+      "europe",
+      "u.s.",
+      "ghana",
+      "ofac-sanctioned countries"
+     ],
+     "product": [
+      "mercury",
+      "novo",
+      "airwallex",
+      "neobanks",
+      "neobank",
+      "brex",
+      "onesafe",
+      "deobanks",
+      "revolut",
+      "revolut business",
+      "bank"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9678,
+    "group_id": 13290919
+   },
+   {
+    "id": 38879603,
+    "title": "Why AI models favor fintechs over traditional banks",
+    "url": "https://www.americanbanker.com/news/why-ai-models-favor-fintechs-over-traditional-banks",
+    "publisher": "American Banker",
+    "published_date": "2026-09-24T18:53:15",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.498,
+    "ai_summary": "A study of 2,160 conversations with ChatGPT, Gemini, and Perplexity found that large language models recommended fintechs Mercury, Bluevine, and Wise far more often than traditional banks for small-business banking. Fintechs received 1,345 recommendations versus banks' 452, with Mercury cited 383 times. The report suggests banks must improve their online content legibility to compete with AI models.",
+    "word_count": 1349,
+    "author": "Penny Crosman",
+    "countries": [],
+    "industries": [
+     {
+      "name": "SME Banking Suite (Business Accounts, Invoicing, Payroll Integrations)",
+      "code": "FSAGAAAI",
+      "is_primary": true
+     },
+     {
+      "name": "Financial Services Personalization (Banking, Investing, Insurance)",
+      "code": "HDAAAGAH",
+      "is_primary": false
+     },
+     {
+      "name": "SME/Business Neobanks",
+      "code": "FSABAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003nb",
+      "name": "JP Morgan",
+      "website": "https://www.jpmorgan.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00n5y17",
+      "name": "AIVO - AI Visibility Intelligence",
+      "website": "https://www.tryaivo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002om",
+      "name": "Wise",
+      "website": "https://wise.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000dns",
+      "name": "Huntington National Bank",
+      "website": "http://www.huntington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003tx",
+      "name": "Bluevine",
+      "website": "http://www.bluevine.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ajw",
+      "name": "Synovus",
+      "website": "https://www.synovus.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5223",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     },
+     {
+      "code": "6022",
+      "name": "STATE COMMERCIAL BANKS"
+     },
+     {
+      "code": "6163",
+      "name": "LOAN BROKERS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tim de rosen",
+      "paul sheals",
+      "john a. thompson",
+      "thompson",
+      "de rosen"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "mercury",
+      "bluevine",
+      "wise"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8626,
+    "group_id": 12393368
+   },
+   {
+    "id": 35444533,
+    "title": "Mercury Launches Intelligent Accounting with Mercury Books",
+    "url": "https://globalfintechseries.com/banking/mercury-launches-intelligent-accounting-with-mercury-books/",
+    "publisher": "Globalfintechseries",
+    "published_date": "2026-09-17T11:13:54",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury launched Mercury Books, double-entry accounting software built into its banking platform. The AI-powered tool categorizes and reconciles banking, card, invoicing, and bill pay activity in real time, with no manual entry. It supports accrual and cash basis reporting and integrates with external platforms like Stripe and PayPal.",
+    "word_count": 719,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "SME Accounting, Bookkeeping & Close Automation",
+      "code": "FSAGAJAH",
+      "is_primary": true
+     },
+     {
+      "name": "Reconciliation, Ledgering & Money Movement Ops (Sub-ledgers, Settlement, Reporting)",
+      "code": "FSAGALAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000272",
+      "name": "accountancy and auditing"
+     },
+     {
+      "code": "20000171",
+      "name": "business finance"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541219",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541211",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "immad akhund",
+      "hugh cumming",
+      "vena"
+     ],
+     "location": [],
+     "product": [
+      "mercury books"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8543,
+    "group_id": 11455911
+   },
+   {
+    "id": 35353335,
+    "title": "Column Adds Card Issuing and Global Banking to Stablecoin Platform: Guest Post by Blockonomi",
+    "url": "https://coinmarketcap.com/community/articles/6aabb1edfad5a173167a3ce9/",
+    "publisher": "CoinMarketCap",
+    "published_date": "2026-09-17T09:26:42",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Column launched four financial infrastructure products covering stablecoins, card issuing, global banking, and multicurrency accounts. The tools are already processing billions of dollars for fintech firms like Ramp, Brex, and Mercury. Co-founder William Hockey said the release completes years of work building a single platform for businesses.",
+    "word_count": 553,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Cross-Border FX, Multi-Currency & Treasury for Payments",
+      "code": "FSAGABAK",
+      "is_primary": true
+     },
+     {
+      "name": "Card Issuing Platforms (Issuer Processing)",
+      "code": "FSAGABAD",
+      "is_primary": false
+     },
+     {
+      "name": "Multi-Currency Accounts, Wallets & FX Management (Consumer/SME)",
+      "code": "FSAGAKAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000vg",
+      "name": "Brex",
+      "website": "https://brex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000yo",
+      "name": "Kapital",
+      "website": "https://kapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003o9i",
+      "name": "Column",
+      "website": "https://column.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004yg",
+      "name": "Mastercard",
+      "website": "http://www.mastercard.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004c1",
+      "name": "Slash",
+      "website": "https://www.slash.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000027n",
+      "name": "Bilt",
+      "website": "https://www.bilt.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52221",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "william hockey"
+     ],
+     "location": [
+      "mongolia",
+      "u.s.",
+      "united states",
+      "140 countries"
+     ],
+     "product": [
+      "usdt",
+      "sofiusd",
+      "usdc",
+      "solana",
+      "stablecoins",
+      "rlusd",
+      "pyusd",
+      "swift",
+      "issuer processor",
+      "usdp",
+      "fednow",
+      "stablecoin",
+      "multicurrency accounts",
+      "usdg",
+      "sepa instant",
+      "cards"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9773,
+    "group_id": 11427354
+   },
+   {
+    "id": 35329455,
+    "title": "Banking's Biggest Infrastructure Cycle",
+    "url": "https://futurumgroup.com/insights/fis-targets-bankings-biggest-infrastructure-cycle-in-decades/?utm_source=rss&utm_medium=rss&utm_campaign=fis-targets-bankings-biggest-infrastructure-cycle-in-decades",
+    "publisher": "Futurum",
+    "published_date": "2026-09-16T12:21:43",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "FIS secured core banking for a newly formed $100 billion-plus bank and signed five de novo banks in 1H 2026, including Mercury. The FDIC approved 14 deposit insurance applications through April 2026, double the prior year, and FIS captured a significant share. FIS's enterprise platform strategy has completed proofs of value with two top-fifteen U.S. banks.",
+    "word_count": 1186,
+    "author": "Keith Kirkpatrick",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core Banking & Ledger Systems (Cloud Core, Deposits, Accounts)",
+      "code": "FSAGAAAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007wj",
+      "name": "FIS",
+      "website": "http://www.fisglobal.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6035",
+      "name": "SAVINGS INSTITUTION, FEDERALLY CHARTERED"
+     },
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     },
+     {
+      "code": "6022",
+      "name": "STATE COMMERCIAL BANKS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "peter boyer",
+      "stephanie ferris"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "mercury",
+      "point solutions"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11317650
+   },
+   {
+    "id": 39668682,
+    "title": "Mercury Launches Intelligent Accounting with Mercury Books",
+    "url": "https://www.morningstar.com/news/business-wire/20260916850195/mercury-launches-intelligent-accounting-with-mercury-books",
+    "publisher": "Morningstar",
+    "published_date": "2026-09-16T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury launched Mercury Books, AI-powered double-entry accounting software built into its banking platform. The software automatically categorizes and reconciles transactions from banking, cards, invoicing, and bill pay, with external platform integrations. It is free for Mercury business customers through end of 2026, then $35 per month.",
+    "word_count": 947,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "SME Accounting, Bookkeeping & Close Automation",
+      "code": "FSAGAJAH",
+      "is_primary": true
+     },
+     {
+      "name": "Embedded Tax, Accounting & Invoicing Finance",
+      "code": "FSAGALAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000171",
+      "name": "business finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541219",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54121",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "immad akhund",
+      "celeste carswell"
+     ],
+     "location": [],
+     "product": [
+      "mercury books",
+      "mercury debit cards",
+      "io card"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9213,
+    "group_id": 11455911
+   },
+   {
+    "id": 35124990,
+    "title": "FIS Builds Core Banking Momentum Across New $100 Billion Bank an",
+    "url": "https://www.gurufocus.com/news/9081828/fis-builds-core-banking-momentum-across-new-100-billion-bank-and-five-new-charters",
+    "publisher": "Gurufocus",
+    "published_date": "2026-09-15T13:00:20",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "FIS reported continued momentum in its banking franchise, signing five new banks in the first half of 2026, including Mercury, and securing a core banking relationship for a newly created institution with over $100 billion in assets. The company also highlighted its enterprise platform strategy for progressive modernization, with two top fifteen U.S. banks completing proofs of value.",
+    "word_count": 920,
+    "author": "Business Wire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core Banking & Ledger Systems (Cloud Core, Deposits, Accounts)",
+      "code": "FSAGAAAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     },
+     {
+      "code": "6029",
+      "name": "COMMERCIAL BANKS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "peter boyer",
+      "stephanie ferris"
+     ],
+     "location": [
+      "u.s.",
+      "jacksonville, florida"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11317650
+   },
+   {
+    "id": 34981600,
+    "title": "(Sm)all banks should compete on technology, not fear it",
+    "url": "https://finance.yahoo.com/technology/articles/sm-banks-compete-technology-not-143831523.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-09-12T14:38:31",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2791,
+    "ai_summary": "Community banks should compete on technology rather than fear stablecoins, as data shows no significant deposit outflows. Deposits grew 26% to $482 billion from 2019 to 2026, and only $6.6 trillion in deposits are theoretically exposed, not observed. The real risk is losing transaction data and fee revenue to fintech platforms.",
+    "word_count": 435,
+    "author": "John D Agostino",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mass-Market Consumer Deposit Banking (Checking/Savings)",
+      "code": "FSABAAAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     },
+     {
+      "name": "Market-Structure Changes",
+      "code": "II05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002jux",
+      "name": "American Bankers Association",
+      "website": "http://www.aba.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "84",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "brokered cds",
+      "stablecoin",
+      "money-market funds",
+      "stablecoins",
+      "checking accounts"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11129481
+   },
+   {
+    "id": 39007101,
+    "title": "Fintech companies are applying to become banks. Here's what it takes to become one",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5955727/fintech-companies-are-applying-to-become-banks-heres-what-it-takes-to-become-one",
+    "publisher": "NPR",
+    "published_date": "2026-09-11T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5859,
+    "ai_summary": "Fintech companies are applying for bank charters, with Mercury filing last year and receiving conditional approval from one regulator. The OCC has approved 14 applications through August, double the 2025 total. Applicants seek FDIC insurance, Fed discount window access, and a Fed master account.",
+    "word_count": 738,
+    "author": "Wailin Wong Ricky Mulvey",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Financial Services Regulators (Banking, Securities, Insurance)",
+      "code": "BPAIAOAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r6",
+      "name": "PayPal",
+      "website": "https://www.paypal.com/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003dhh",
+      "name": "Federal Deposit Insurance Corporation",
+      "website": "https://fdic.gov",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005i",
+      "name": "Klarna",
+      "website": "http://www.klarna.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003ug4",
+      "name": "Federal Reserve System",
+      "website": "https://www.federalreserve.gov",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "wailin wong",
+      "ricky mulvey",
+      "immad akhund",
+      "michele alt",
+      "michel martin"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "payment apps",
+      "fed master account",
+      "zelle",
+      "paypal"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10914812
+   },
+   {
+    "id": 34832202,
+    "title": "Balance vs Mercury: How Treasury Platforms and Business Banking Differ for Companies Optimizing Cash Across Many Accounts",
+    "url": "https://globalfintechseries.com/banking/balance-vs-mercury-how-treasury-platforms-and-business-banking-differ-for-companies-optimizing-cash-across-many-accounts/",
+    "publisher": "Globalfintechseries",
+    "published_date": "2026-09-10T10:58:05",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5032,
+    "ai_summary": "Balance Cash, a treasury platform, contrasts with single-institution banking like Mercury, arguing they serve different company structures. Balance optimizes idle cash across existing banks without consolidation, while Mercury consolidates cash into one institution. The article advises finance teams to choose based on their entity and bank count.",
+    "word_count": 1563,
+    "author": "Globenewswire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Treasury, Cash Management & Liquidity Tools (Sweeps, Cash Concentration)",
+      "code": "FSAGAAAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002ja6",
+      "name": "Balance",
+      "website": "https://www.balancecash.io/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6029",
+      "name": "COMMERCIAL BANKS, NEC"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "stan markuze",
+      "hugh cumming",
+      "markuze"
+     ],
+     "location": [],
+     "product": [
+      "mercury",
+      "balance cash"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7739,
+    "group_id": 10798626
+   },
+   {
+    "id": 34906838,
+    "title": "Mercury gets FDIC nod",
+    "url": "https://finance.yahoo.com/economy/policy/articles/mercury-gets-fdic-nod-080715591.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-09-10T08:07:15",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury Bank received a conditional nod for deposit insurance from the FDIC, more than 260 days after applying. The Salt Lake City-based bank must provide $300 million in initial paid-in capital and submit background information for senior executives. The bank is projected to open next year, pending Federal Reserve approval.",
+    "word_count": 455,
+    "author": "Gabrielle Saulsbery",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Licensing, Registration & Fit-and-Proper Compliance",
+      "code": "FSAFAOAO",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     },
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002xo3",
+      "name": "Office of the Comptroller of the Currency",
+      "website": "http://occ.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003dhh",
+      "name": "Federal Deposit Insurance Corporation",
+      "website": "https://fdic.gov",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "66",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52218",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     },
+     {
+      "code": "6035",
+      "name": "SAVINGS INSTITUTION, FEDERALLY CHARTERED"
+     },
+     {
+      "code": "6022",
+      "name": "STATE COMMERCIAL BANKS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jon auxier",
+      "immad akhund",
+      "jonathan gould"
+     ],
+     "location": [
+      "salt lake city",
+      "america"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9621,
+    "group_id": 11019484
+   },
+   {
+    "id": 40232354,
+    "title": "Bank Charters Explained: National Bank vs ILC vs Trust Bank",
+    "url": "https://fintechbrainfood.com/p/not-all-charters",
+    "publisher": "Fintechbrainfood",
+    "published_date": "2026-09-10T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5573,
+    "ai_summary": "Fintech companies are applying for federal bank charters, with over 30 firms filing in 2026. The three types\u2014full national bank, industrial loan company, and trust bank\u2014offer different benefits and trade-offs, including FDIC insurance, parent company restrictions, and Federal Reserve access. The Fed's queue for direct account access remains paused for uninsured trust banks.",
+    "word_count": 3859,
+    "author": "Brainfood by Simon Taylor",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Licensing, Registration & Fit-and-Proper Compliance",
+      "code": "FSAFAOAO",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r6",
+      "name": "PayPal",
+      "website": "https://www.paypal.com/home",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000alb",
+      "name": "Block",
+      "website": "https://block.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000z55",
+      "name": "Nubank",
+      "website": "https://www.nubank.com.br",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005tn",
+      "name": "Revolut",
+      "website": "http://www.revolut.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00yrdrz",
+      "name": "Augustus",
+      "website": "https://www.augustus.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033z",
+      "name": "Upstart",
+      "website": "https://upstart.com/about",
+      "is_primary": false
+     },
+     {
+      "uuid": "00esd23",
+      "name": "Erebor",
+      "website": "http://erebor.bank",
+      "is_primary": false
+     },
+     {
+      "uuid": "000028z",
+      "name": "bunq",
+      "website": "https://www.bunq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6021",
+      "name": "NATIONAL COMMERCIAL BANKS"
+     },
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonathan gould",
+      "dodd-frank",
+      "jake garn",
+      "diogo m\u00f3nica",
+      "michael hsu",
+      "bowman",
+      "harsh sinha"
+     ],
+     "location": [
+      "us",
+      "salt lake city",
+      "utah",
+      "nevada",
+      "america",
+      "new york",
+      "wyoming",
+      "uk",
+      "washington",
+      "kansas city",
+      "anchorage",
+      "san francisco",
+      "san diego"
+     ],
+     "product": [
+      "fednow",
+      "moderntreasury.com",
+      "synapse",
+      "fedwire",
+      "erebor",
+      "ach",
+      "stablecoins",
+      "x",
+      "modern treasury",
+      "circle",
+      "tidal",
+      "proto",
+      "bitcoin mining rigs",
+      "cash app",
+      "stellantis",
+      "square",
+      "nissan",
+      "webbank",
+      "nelnet",
+      "paypal",
+      "m0",
+      "stablecoin",
+      "mgusd",
+      "ripple",
+      "ilc",
+      "mercury",
+      "token router",
+      "accounting platform"
+     ],
+     "event": [
+      "nerdcon"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10914812
+   },
+   {
+    "id": 34957682,
+    "title": "Meet the Fintech Startups Rewriting the Rules of Money",
+    "url": "https://www.globalbrandsmagazine.com/new-fintech-startups/",
+    "publisher": "Global Brands Magazine",
+    "published_date": "2026-09-07T10:31:25",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Global fintech venture funding rose 22.7% year on year to about $28.6 billion in the first half of 2026, with fewer deals but larger valuations. Ramp, Mercury, and Airwallex led, with valuations reaching $44 billion, $5.2 billion, and $11 billion respectively. Investors are backing AI-driven financial infrastructure and business banking.",
+    "word_count": 1189,
+    "author": "Anna Louis",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS",
+     "EUR"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r8",
+      "name": "Airwallex",
+      "website": "http://www.airwallex.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002ej",
+      "name": "TCV",
+      "website": "http://www.tcv.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "64",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "525990",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "europe",
+      "uk",
+      "new york",
+      "us"
+     ],
+     "product": [
+      "app",
+      "ramp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10440019
+   },
+   {
+    "id": 33927773,
+    "title": "Neobanks on Rented Rails: The Synapse Collapse Shows Who Really Collects the Toll",
+    "url": "https://www.ainvest.com/news/neobanks-rented-rails-synapse-collapse-shows-collects-toll-2609/",
+    "publisher": "AInvest",
+    "published_date": "2026-09-04T17:02:17",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0297,
+    "ai_summary": "Synapse, a middleware for fintechs, filed for bankruptcy in April 2024, leaving over 100,000 customers without access to $265 million. The FDIC ruled that nonbank failures do not trigger payouts, and sponsor banks like Metropolitan Commercial Bank exited BaaS relationships. The article argues that only a chartered bank holding deposits and reconciling ledgers retains the recurring economics.",
+    "word_count": 858,
+    "author": "Anders Mirofollow",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "BaaS Platforms & Sponsor Bank Enablement",
+      "code": "FSAGALAA",
+      "is_primary": true
+     },
+     {
+      "name": "Reconciliation, Ledgering & Money Movement Ops (Sub-ledgers, Settlement, Reporting)",
+      "code": "FSAGALAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Financial Distress & Restructuring",
+      "code": "RK07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003yt7",
+      "name": "Evolve Bank & Trust",
+      "website": "https://www.getevolved.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003o9i",
+      "name": "Column",
+      "website": "https://column.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003jsu",
+      "name": "Metropolitan Commercial Bank",
+      "website": "http://www.metropolitanbankny.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000vg",
+      "name": "Brex",
+      "website": "https://brex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003ug4",
+      "name": "Federal Reserve System",
+      "website": "https://www.federalreserve.gov",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000174",
+      "name": "bankruptcy"
+     },
+     {
+      "code": "20000182",
+      "name": "financially distressed company"
+     },
+     {
+      "code": "20000274",
+      "name": "banking"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "65",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "neobank",
+      "synapse",
+      "column",
+      "yotta",
+      "evolve",
+      "synapsesyn",
+      "mercury",
+      "brex"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10426056
+   },
+   {
+    "id": 41816288,
+    "title": "Sure That Your Digital Banking for Small Business Is Competitive? Think Again",
+    "url": "https://thefinancialbrand.com/news/banking-technology/think-your-banks-digital-services-for-small-business-are-competitive-think-again-199354",
+    "publisher": "Thefinancialbrand",
+    "published_date": "2026-09-02T16:39:54",
+    "sentiment": "Negative",
+    "sentiment_score": 0.022,
+    "ai_summary": "Major banks are improving small business digital services, including payments, invoicing, and cash flow tools, to compete with fintechs. Keynova's study found 73% of banks offer digital invoicing, and only three offer instant payments. Experts urge smaller institutions to adopt these capabilities to maintain competitiveness.",
+    "word_count": 1340,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "SME Cash Management & Payments (Merchant, ACH/Wires, Payroll)",
+      "code": "FSABABAD",
+      "is_primary": true
+     },
+     {
+      "name": "SME Banking Suite (Business Accounts, Invoicing, Payroll Integrations)",
+      "code": "FSAGAAAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00031d6",
+      "name": "Chase",
+      "website": "https://www.chase.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000031n",
+      "name": "Rho",
+      "website": "https://rho.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "000841a",
+      "name": "Keynova",
+      "website": "https://www.keynovagroup.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005bu",
+      "name": "U.S. Bancorp",
+      "website": "http://www.usbank.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000vg",
+      "name": "Brex",
+      "website": "https://brex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003tx",
+      "name": "Bluevine",
+      "website": "http://www.bluevine.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005wc",
+      "name": "Citizens Bank",
+      "website": "https://www.citizensbank.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b42",
+      "name": "Autobooks",
+      "website": "http://autobooks.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004oc",
+      "name": "Relay",
+      "website": "https://relayfi.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000274",
+      "name": "banking"
+     },
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20001172",
+      "name": "small and medium enterprise"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52211",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522110",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6029",
+      "name": "COMMERCIAL BANKS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "susan foulds",
+      "steve cocheo",
+      "foulds"
+     ],
+     "location": [],
+     "product": [
+      "autobooks",
+      "quickbooks",
+      "brex",
+      "mercury",
+      "bluevine",
+      "relay",
+      "melio",
+      "credit card",
+      "invoicing"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15392705
+   },
+   {
+    "id": 33636538,
+    "title": "Shares of Neobank Mercury to be Available on Republic Europe",
+    "url": "https://www.crowdfundinsider.com/2026/09/304636-shares-of-neobank-mercury-to-be-available-on-republic-europe/",
+    "publisher": "CrowdFund Insider",
+    "published_date": "2026-09-01T15:46:55",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9531,
+    "ai_summary": "Republic Europe announced a secondary offering of Mercury neobank shares on its platform. Mercury, which has over 300,000 customers and $650 million in annualized revenue, received conditional bank approval. Republic is assembling an SPV for investors to buy shares from an existing investor.",
+    "word_count": 205,
+    "author": "Jd Alois",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Secondary Offerings & Share Sales (Secondary Placements)",
+      "code": "FSACAAAG",
+      "is_primary": true
+     },
+     {
+      "name": "SME/Business Neobanks",
+      "code": "FSABAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000b5",
+      "name": "Republic",
+      "website": "http://republic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "mercury",
+      "neobank"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10179390
+   },
+   {
+    "id": 33142333,
+    "title": "\u4ece Coinbase \u5230 Hugging Face\uff0c\u675c\u5170\u7279\u7684\u521b\u6295\u7248\u56fe\u6709\u591a\u786c\u6838\uff1f",
+    "url": "https://www.chaincatcher.com/article/2286200",
+    "publisher": "\u94fe\u6355\u624b ChainCatcher",
+    "published_date": "2026-08-28T08:22:38",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Sports media personality Joe Pompliano reported on X that Kevin Durant and partner Rich Kleiman invested about $250,000 in open-source AI platform Hugging Face, with Thirty Five Ventures participating in its 2018 seed and 2019 Series A rounds. If Nvidia's reported $12.9 billion acquisition is finalized, the stake would return over 240 times, exceeding Durant's 2026-27 salary of about $43.9 million.",
+    "word_count": 910,
+    "author": "\u6df1\u6f6eTechflow",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Early-Stage Venture Capital (Series A/B)",
+      "code": "FSANAAAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002rse",
+      "name": "Overtime",
+      "website": "https://overtime.tv/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006uw4",
+      "name": "35V",
+      "website": "https://www.thirtyfiveventures.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002yk",
+      "name": "WHOOP",
+      "website": "http://www.whoop.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000y",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000k7",
+      "name": "Robinhood",
+      "website": "https://www.robinhood.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000028y",
+      "name": "Rubrik",
+      "website": "http://rubrik.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000039n",
+      "name": "Hugging Face",
+      "website": "https://huggingface.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008rb",
+      "name": "Postmates",
+      "website": "https://postmates.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000201",
+      "name": "leveraged buyout"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kevin durant",
+      "rich kleiman",
+      "joe pompliano",
+      "lebron james",
+      "stephen curry",
+      "durant"
+     ],
+     "location": [
+      "silicon valley",
+      "us"
+     ],
+     "product": [
+      "hugging face",
+      "postmates",
+      "rubrik",
+      "whoop",
+      "overtime"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9789331
+   },
+   {
+    "id": 33124442,
+    "title": "Taktile: How AI Decisioning Takes Centre Stage in Fintech",
+    "url": "https://fintechmagazine.com/news/taktile-how-ai-decisioning-takes-centre-stage-in-fintech",
+    "publisher": "of FinTech & Banking News",
+    "published_date": "2026-08-27T14:10:30",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Taktile, a Berlin and New York-founded AI decisioning platform, closed a US$110 million Series C led by Goldman Sachs Alternatives in June 2026, with participation from Balderton Capital, Index Ventures, Tiger Global, Y Combinator and Dig Ventures, bringing total funding to $184 million. The company reports 95% automation in B2B underwriting and a 75% drop in AML false positives, serving Mercury, Monzo, Faire, Pleo and an unnamed insurer. It is also allocating US$20 million to Latin America, including a new S\u00e3o Paulo office.",
+    "word_count": 1001,
+    "author": "Maya Derrick",
+    "countries": [
+     "DEU",
+     "USA",
+     "GBR",
+     "BRA",
+     "ROU"
+    ],
+    "industries": [
+     {
+      "name": "Model Risk Management & AI Governance (validation, monitoring, explainability)",
+      "code": "FSAGAFAL",
+      "is_primary": true
+     },
+     {
+      "name": "Safety, Alignment & Content Moderation (Guardrails, Red Teaming)",
+      "code": "HDAAACAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004jt",
+      "name": "Balderton Capital",
+      "website": "http://www.balderton.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002lk2",
+      "name": "faire.ai",
+      "website": "https://www.faire.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qyj",
+      "name": "Goldman Sachs Alternatives",
+      "website": "https://www.gsam.com/content/gsam/us/en/advisors/resources/investment-ideas/alternatives.html",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008u",
+      "name": "Monzo",
+      "website": "https://monzo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009n",
+      "name": "Y Combinator",
+      "website": "https://www.ycombinator.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000076",
+      "name": "Index Ventures",
+      "website": "http://www.indexventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000hu",
+      "name": "Tiger Global Management",
+      "website": "https://www.tigerglobal.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002dx",
+      "name": "Taktile",
+      "website": "https://www.taktile.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005p6",
+      "name": "DIG Ventures",
+      "website": "http://dig.ventures",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "maik taro wehmeyer",
+      "maximilian eber",
+      "maya derrick"
+     ],
+     "location": [
+      "berlin",
+      "london",
+      "s\u00e3o paulo",
+      "ia\u0219i",
+      "latam",
+      "new york",
+      "us",
+      "latin america",
+      "european"
+     ],
+     "product": [
+      "sentilink",
+      "taktile"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9782226
+   },
+   {
+    "id": 33035656,
+    "title": "Tokenized Treasury Yields: 4 Ways Startups Replace Cash",
+    "url": "https://financefeeds.com/top-ways-tokenized-treasury-yields-are-replacing-traditional-cash-reserves-in-startup-treasuries/",
+    "publisher": "FinanceFeeds",
+    "published_date": "2026-08-26T12:02:59",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5503,
+    "ai_summary": "An explainer outlines how startups are using tokenized Treasury funds to replace part of their traditional cash reserves, citing Mercury Treasury, Rho, Arc, Aspire, BENJI and Fireblocks. It covers four strategies: earning yield on surplus runway, faster blockchain settlement, programmable collateral, and automated treasury workflows. It notes the lack of FDIC insurance, redemption gates, jurisdictional limits, and other risks.",
+    "word_count": 764,
+    "author": "Tobi Opeyemi Amure",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Tokenized Treasury, Money Market & Cash Management Products",
+      "code": "FSADAEAB",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise Payments & Tokenized Money (stablecoins, tokenized deposits, CBDC rails)",
+      "code": "FSAPAIAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": false
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000031n",
+      "name": "Rho",
+      "website": "https://rho.co",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002s",
+      "name": "BlackRock",
+      "website": "http://www.blackrock.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ve",
+      "name": "Aspire",
+      "website": "https://aspireapp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000004j",
+      "name": "Circle",
+      "website": "https://www.circle.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000m",
+      "name": "Franklin Templeton",
+      "website": "http://www.franklintempleton.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002tu",
+      "name": "Fireblocks",
+      "website": "https://www.fireblocks.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001279",
+      "name": "cryptocurrency"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "london",
+      "u.s."
+     ],
+     "product": [
+      "benji",
+      "buidl",
+      "usyc",
+      "fireblocks",
+      "stablecoins"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9195,
+    "group_id": 9563637
+   },
+   {
+    "id": 33057532,
+    "title": "Gen Z is turning their side hustles into businesses. These financial tools can help",
+    "url": "https://www.cnbc.com/select/financial-products-gen-z-entrepreneurs-need/",
+    "publisher": "CNBC",
+    "published_date": "2026-08-25T20:13:02",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A CNBC Select guide recommends financial tools for Gen Z entrepreneurs transitioning side hustles into businesses, citing a U.S. Bank survey finding 49% of Gen Zers would rather build a business than buy an existing one. It covers business formation services like Bizee, Northwest Registered Agent and ZenBusiness, crowdfunding platforms including Indiegogo, Kickstarter and Kiva, business bank accounts such as Novo and Mercury, and business credit cards including the U.S. Bank Triple Cash Rewards, Ink Business Preferred and American Express Business Platinum.",
+    "word_count": 2983,
+    "author": "Jasmin Suknanan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Private Banking Business Owners & Entrepreneur Solutions (Liquidity Events, Pre-IPO)",
+      "code": "FSABADAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": true
+     },
+     {
+      "name": "Consumer Behaviour & Spending",
+      "code": "MM05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004hh4",
+      "name": "Northwest Registered Agent",
+      "website": "http://www.northwestregisteredagent.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ydy",
+      "name": "Indiegogo",
+      "website": "http://www.indiegogo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ij2",
+      "name": "ZenBusiness",
+      "website": "https://www.zenbusiness.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "004kfa9",
+      "name": "Bizee",
+      "website": "https://bizee.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003oob",
+      "name": "US Bank",
+      "website": "https://www.usbank.com/index.html",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002nzi",
+      "name": "Novo",
+      "website": "https://www.novo.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009va",
+      "name": "Kiva",
+      "website": "http://kiva.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561499",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8741",
+      "name": "SERVICES-MANAGEMENT SERVICES"
+     },
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s.",
+      "140 countries",
+      "u.s"
+     ],
+     "product": [
+      "zenbusiness",
+      "registered agent service",
+      "bizee",
+      "video games",
+      "slack",
+      "audio",
+      "home",
+      "apple pay",
+      "phones and accessories",
+      "transferwise",
+      "google pay",
+      "quickbooks",
+      "zapier",
+      "stripe",
+      "shopify",
+      "music",
+      "xero",
+      "freshbooks",
+      "io credit card",
+      "ink business preferred\u00ae credit card",
+      "dashpass",
+      "business platinum card",
+      "chatgpt business",
+      "amex centurion lounges",
+      "priority pass",
+      "dell technologies",
+      "fine hotels + resorts",
+      "wireless telephone service",
+      "chatgpt business*"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8002,
+    "group_id": 9622044
+   },
+   {
+    "id": 32839426,
+    "title": "How to close $100K-$1M deals, step by step",
+    "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+    "publisher": "Lenny Rachitsky",
+    "published_date": "2026-08-23T12:31:43",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Jen Abel, co-founder of JJellyfish and GM at State Affairs, provides a detailed walkthrough of the 15-step enterprise sales cycle in a podcast episode. The discussion covers strategies for executive outreach, pilot structures, and negotiation tactics to close high-value deals ranging from $100K to $1M.",
+    "word_count": 417,
+    "author": "Lenny Rachitsky",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005hgi",
+      "name": "State Affairs",
+      "website": "https://stateaffairs.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ma",
+      "name": "Palantir Technologies",
+      "website": "http://www.palantir.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004eso",
+      "name": "Lemlist",
+      "website": "https://lemlist.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000432",
+      "name": "SpaceX",
+      "website": "https://www.spacex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006f9k",
+      "name": "JJELLYFISH",
+      "website": "https://www.jjellyfish.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005r8",
+      "name": "WorkOS",
+      "website": "https://workos.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     },
+     {
+      "code": "8741",
+      "name": "SERVICES-MANAGEMENT SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jen abel",
+      "jason lemkin",
+      "lenny may"
+     ],
+     "location": [],
+     "product": [
+      "workos",
+      "mercury"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.75,
+    "group_id": 9294336
+   },
+   {
+    "id": 32613469,
+    "title": "What Is Unit Economics? the Founder\u2019s Framework",
+    "url": "https://businessmodelanalyst.com/what-is-unit-economics/",
+    "publisher": "Business Model Analyst",
+    "published_date": "2026-08-21T09:10:12",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5016,
+    "ai_summary": "The article explains the concept of unit economics as a framework for assessing the profitability of individual business units, such as customers or transactions, by comparing lifetime value against acquisition costs. It emphasizes that static benchmarks like the 3:1 LTV:CAC ratio are insufficient without considering cohort behavior, cash recovery timing, and correct unit definition across different business models. The text provides a roadmap for founders to measure, diagnose, and improve these metrics using tools like the Business Model Canvas. ",
+    "word_count": 3209,
+    "author": "Daniel Pereira",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Pricing, Revenue & Commercial Analytics",
+      "code": "BPAHALAM",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Business-Model Evolution",
+      "code": "II03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00078bz",
+      "name": "Tory Burch Foundation",
+      "website": "http://www.toryburchfoundation.org/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e8q",
+      "name": "Paddle",
+      "website": "https://paddle.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "coffee",
+      "subscription",
+      "ltv",
+      "rideshare",
+      "dtc brands",
+      "dtc",
+      "marketplace customer"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.868,
+    "group_id": 9137707
+   },
+   {
+    "id": 32822565,
+    "title": "Mercury\u2019s \u201cSoftware, Not a Bank\u201d Fintech Playbook: Partner Banks, Compliance vs Risk, Onboarding, Culture, and Fundraising Momentum",
+    "url": "https://app.dealroom.co/news/note/mercury-s-software-not-a-bank-fintech-playbook-partner-banks-compliance-vs-risk-onboarding-culture-and-fundraising-momentum",
+    "publisher": "Dealroom.co",
+    "published_date": "2026-08-21T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5706,
+    "ai_summary": "Mercury operates as a software layer for business banking, partnering with institutions like Choice Financial and Evolve Bank & Trust to manage customer deposits while avoiding the regulatory burdens of holding a bank charter. The article outlines the company's operational strategies, including its approach to compliance versus risk management, remote work culture, and fundraising tactics focused on creating investor momentum. ",
+    "word_count": 327,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Embedded/Platform Neobanks (Banking-as-a-Feature)",
+      "code": "FSABAFAF",
+      "is_primary": true
+     },
+     {
+      "name": "Merchant Cash Advance & Revenue-Based Financing Enablement",
+      "code": "FSAGALAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     },
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003yt7",
+      "name": "Evolve Bank & Trust",
+      "website": "https://www.getevolved.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000b84d",
+      "name": "Choice Financial",
+      "website": "http://choicefinancialgroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522299",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6153",
+      "name": "SHORT-TERM BUSINESS CREDIT INSTITUTIONS"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.7776,
+    "group_id": 9283215
+   },
+   {
+    "id": 32583998,
+    "title": "Fintech investment continues to focus on large private deals",
+    "url": "https://www.americanbanker.com/news/fintech-investment-continues-to-focus-on-large-private-deals",
+    "publisher": "American Banker",
+    "published_date": "2026-08-20T10:30:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7158,
+    "ai_summary": "Fintech private equity fundraising in the first half of 2026 is characterized by fewer but significantly larger deals, with the average round size increasing 21% to $23.2 million despite a drop in total deal volume. Major rounds from companies like Ramp, Airwallex, Mercury, and Slash drove much of this value, while digital banking saw increased funding totals even as deal counts fell. Meanwhile, the fintech IPO market has slowed due to unfavorable public valuations, leading many large firms to remain private or pursue secondary sales. ",
+    "word_count": 710,
+    "author": "Melinda Lucy",
+    "countries": [
+     "USA",
+     "BRA",
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Financial Services / Fintech Growth Equity",
+      "code": "FSANACAE",
+      "is_primary": true
+     },
+     {
+      "name": "SME Lending & Working Capital Platforms",
+      "code": "FSAGAJAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000r8",
+      "name": "Airwallex",
+      "website": "http://www.airwallex.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000bx",
+      "name": "PayPay",
+      "website": "https://paypay.ne.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ici",
+      "name": "CB Insights",
+      "website": "http://cbinsights.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000p8",
+      "name": "PitchBook",
+      "website": "http://www.pitchbook.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000028",
+      "name": "BitGo",
+      "website": "https://www.bitgo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004c1",
+      "name": "Slash",
+      "website": "https://www.slash.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000e6b",
+      "name": "Agibank",
+      "website": "https://agibank.com.br",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004dt9",
+      "name": "PicPay",
+      "website": "https://www.picpay.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "69",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "rudy yang"
+     ],
+     "location": [
+      "u.s.",
+      "japan",
+      "new york",
+      "brazil"
+     ],
+     "product": [
+      "plaid",
+      "monzo",
+      "stripe",
+      "paypay",
+      "digital banking",
+      "picpay",
+      "revolut"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.945,
+    "group_id": 8953107
+   },
+   {
+    "id": 32495784,
+    "title": "Natural Secures $100M Credit Facility to Scale Payments for AI Agents",
+    "url": "https://aijourn.com/natural-secures-100m-credit-facility-to-scale-payments-for-ai-agents/",
+    "publisher": "Aijourn",
+    "published_date": "2026-08-19T16:23:47",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Natural secured a $100 million credit facility from Upper90 Capital Management to fund the growing capital requirements of its payments infrastructure for AI agents. This financing supports Natural's strategy to provide credit and transactional capabilities as AI agents increasingly participate in the global economy, following over $40 million in prior equity raised from investors such as Brex and Vercel. ",
+    "word_count": 498,
+    "author": "Cision Pr Newswire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Merchant-of-Record (MoR) & Payment Facilitation (PayFac) Infrastructure",
+      "code": "FSAGABAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Debt Financing",
+      "code": "CM02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0003jlm",
+      "name": "Upper90",
+      "website": "https://www.upper90.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029g",
+      "name": "Privy",
+      "website": "https://www.privy.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000vg",
+      "name": "Brex",
+      "website": "https://brex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000021a",
+      "name": "Human Capital",
+      "website": "https://human.capital/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008t",
+      "name": "Forerunner",
+      "website": "http://forerunnerventures.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cd",
+      "name": "Bridge",
+      "website": "https://www.bridge.xyz",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003qgag",
+      "name": "Natural",
+      "website": "https://www.natural.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ky",
+      "name": "Abstract",
+      "website": "https://www.abstract.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dallin rosdahl",
+      "kahlil lalji"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 8187883
+   },
+   {
+    "id": 32446369,
+    "title": "Mercury Launches Exclusive Mutual Fund Products with Morgan Stanley Investment Management and State Street Investment Management",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-8-18-mercury-launches-exclusive-mutual-fund-products-with-morgan-stanley-investment-management-and-state-street-investment-management",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-08-18T18:46:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury announced the launch of two exclusive mutual fund products, MCRYX and MRGXX, developed in partnership with Morgan Stanley Investment Management and State Street Investment Management. These offerings are designed to help startups and scaling businesses earn competitive yields on idle cash while maintaining liquidity and conservative risk profiles. The launch aims to provide institutional-quality treasury solutions directly within Mercury's platform amid high volumes of venture capital. ",
+    "word_count": 961,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "SME Lending & Working Capital Platforms",
+      "code": "FSAGAJAA",
+      "is_primary": true
+     },
+     {
+      "name": "Treasury & Liquidity Operations (Cash Positioning, Funding, Collateral Ops)",
+      "code": "FSABALAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009jd",
+      "name": "Morgan Stanley Investment Management",
+      "website": "https://www.morganstanley.com/im",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000coi",
+      "name": "State Street Global Advisors",
+      "website": "https://www.ssga.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000381",
+      "name": "mutual funds"
+     },
+     {
+      "code": "20001162",
+      "name": "asset management"
+     },
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "52",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "525910",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     },
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dan kang",
+      "scott wachs",
+      "kim hochfeld"
+     ],
+     "location": [
+      "us",
+      "53 states and territories"
+     ],
+     "product": [
+      "mcryx",
+      "mercury treasury",
+      "mrgxx",
+      "msift",
+      "io card"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9544,
+    "group_id": 7786548
+   },
+   {
+    "id": 35049042,
+    "title": "Mercury Launches Exclusive Mutual Fund Products with Morgan Stanley Investment Management and State Street Investment Management",
+    "url": "https://www.morningstar.com/news/business-wire/20260818155735/mercury-launches-exclusive-mutual-fund-products-with-morgan-stanley-investment-management-and-state-street-investment-management",
+    "publisher": "Morningstar",
+    "published_date": "2026-08-18T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Mercury launched two exclusive Treasury funds with Morgan Stanley and State Street Investment Management, including MCRYX, an ultra-short bond fund yielding up to 3.88% net. The funds target startups and scaling businesses, with MRGXX, a government money market share class, available in coming weeks. Mercury plans to introduce Treasury Ladders later this year.",
+    "word_count": 975,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Money Market Funds & Ultra-Short Duration",
+      "code": "FSAAAHAK",
+      "is_primary": true
+     },
+     {
+      "name": "Money Market Funds",
+      "code": "FSAAAEAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009jd",
+      "name": "Morgan Stanley Investment Management",
+      "website": "https://www.morganstanley.com/im",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000044f",
+      "name": "State Street",
+      "website": "https://www.statestreet.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000coi",
+      "name": "State Street Global Advisors",
+      "website": "https://www.ssga.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000381",
+      "name": "mutual funds"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52591",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5259",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dan kang",
+      "kim hochfeld",
+      "scott wachs",
+      "celeste carswell"
+     ],
+     "location": [
+      "us",
+      "53 states and territories"
+     ],
+     "product": [
+      "mcryx",
+      "mercury treasury",
+      "mrgxx",
+      "msift",
+      "io card"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9797,
+    "group_id": 7786548
+   },
+   {
+    "id": 32349592,
+    "title": "OpenAI\u2019s Head of Design: This is the best time in history to be a designer",
+    "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+    "publisher": "Lenny Rachitsky",
+    "published_date": "2026-08-16T12:31:42",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ian Silber, OpenAI\u2019s Head of Product Design, discusses the current landscape for designers and how AI is transforming engineering and product development. He outlines OpenAI's design philosophy for products like ChatGPT and Codex, emphasizing where human insight remains superior to AI capabilities. The conversation also covers hiring strategies and the future evolution of ChatGPT into a broader super app. ",
+    "word_count": 540,
+    "author": "Lenny Rachitsky",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002xam",
+      "name": "Instagram",
+      "website": "https://www.instagram.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "002iwce",
+      "name": "Artifact",
+      "website": "https://artifact.news",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005r8",
+      "name": "WorkOS",
+      "website": "https://workos.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001248",
+      "name": "cosmetics"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "648",
+      "name": "Genres"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54142",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "ian silber",
+      "elena verna",
+      "marc andreessen",
+      "andrew mason",
+      "mike krieger",
+      "kevin weil",
+      "nabeel hyatt",
+      "sam altman",
+      "jenny wen",
+      "joel lewenstein",
+      "kevin systrom",
+      "andrew ambrosino"
+     ],
+     "location": [],
+     "product": [
+      "chatgpt",
+      "codex",
+      "reels",
+      "mercury",
+      "workos"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8427,
+    "group_id": 7279411
+   },
+   {
+    "id": 34129839,
+    "title": "Deep Dive: The US Expense/Spend Management Companies Directory",
+    "url": "https://www.linkedin.com/pulse/deep-dive-us-expensespend-management-companies-directory-sam-boboev-l4g7e",
+    "publisher": "LinkedIn",
+    "published_date": "2026-08-16T08:00:07",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5829,
+    "ai_summary": "A directory of 22 US spend management companies is presented, covering SMB and mid-market card platforms, spend management tools, enterprise T&E suites, AP automation, and travel expense tools. Each company's license type, card networks, card types, features, and regional coverage are detailed, with an accompanying Excel file for filtering and comparison.",
+    "word_count": 906,
+    "author": "Sam Boboev",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Expense Management & Employee Reimbursements",
+      "code": "FSAGAJAE",
+      "is_primary": false
+     },
+     {
+      "name": "Accounts Payable Automation & Supplier Payments",
+      "code": "FSAGAJAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000031n",
+      "name": "Rho",
+      "website": "https://rho.co",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r8",
+      "name": "Airwallex",
+      "website": "http://www.airwallex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000lh6",
+      "name": "BILL",
+      "website": "http://www.bill.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044o",
+      "name": "Light",
+      "website": "https://light.inc",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000vg",
+      "name": "Brex",
+      "website": "https://brex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004c1",
+      "name": "Slash",
+      "website": "https://www.slash.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000fae",
+      "name": "Expensify",
+      "website": "https://we.are.expensify.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000006u",
+      "name": "Navan",
+      "website": "https://navan.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000pp",
+      "name": "Ramp",
+      "website": "https://ramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522210",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52221",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5223",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6159",
+      "name": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+     },
+     {
+      "code": "6153",
+      "name": "SHORT-TERM BUSINESS CREDIT INSTITUTIONS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sam boboev",
+      "ricardo espinosa l\u00f3pez",
+      "sam"
+     ],
+     "location": [
+      "france",
+      "uk",
+      "us",
+      "europe"
+     ],
+     "product": [
+      "visa corporate cards",
+      "mastercard",
+      "visa",
+      "onekloudx",
+      "webexpenses",
+      "mastercard cashback card"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8045,
+    "group_id": 10552750
+   },
+   {
+    "id": 32147082,
+    "title": "Mercury launches Spend platform for scaling teams | The Paypers",
+    "url": "https://thepaypers.com/fintech/news/mercury-launches-spend-platform-for-scaling-teams",
+    "publisher": "The Paypers",
+    "published_date": "2026-08-14T12:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8386,
+    "ai_summary": "Mercury has launched Mercury Spend, a new budgeting and expense management platform designed for companies managing growing teams and spending volumes. The system automates transaction categorization, receipt collection, and policy enforcement while integrating with existing accounting systems to streamline financial oversight. ",
+    "word_count": 368,
+    "author": "Claudia Pincovski",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Expense Management & Employee Reimbursements",
+      "code": "FSAGAJAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000v7",
+      "name": "Mercury",
+      "website": "https://mercury.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "simone bodmer-turner"
+     ],
+     "location": [],
+     "product": [
+      "mercury spend",
+      "io card",
+      "mercury command"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8229,
+    "group_id": 6862898
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

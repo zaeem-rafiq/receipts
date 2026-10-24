@@ -1,0 +1,2307 @@
+{
+ "fetched_at": "2026-10-24T11:47:58",
+ "params": {
+  "company": "posthog.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 15,
+  "limit": 50,
+  "offset": 0,
+  "count": 15,
+  "data": [
+   {
+    "id": 39895687,
+    "title": "9 Best Privacy-First Analytics Platforms 2026",
+    "url": "https://www.analyticsinsight.net/technology/9-best-privacy-first-analytics-platforms-2026",
+    "publisher": "Analytics Insight",
+    "published_date": "2026-10-06T14:00:39",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Nine privacy-first analytics platforms are profiled, including Matomo, Fathom, Plausible, and PostHog, which track pageviews and conversions without cookies or personal identifiers. Pricing ranges from free tiers to \u20ac22 per month, with options for self-hosting and GDPR compliance. The platforms aim to reduce consent-banner friction and data compliance overhead.",
+    "word_count": 1858,
+    "author": "Market Trends",
+    "countries": [
+     "FRA",
+     "DEU",
+     "NLD"
+    ],
+    "industries": [
+     {
+      "name": "Attribution, Measurement, Analytics & Incrementality",
+      "code": "BPAMALAF",
+      "is_primary": true
+     },
+     {
+      "name": "Privacy, Consent & Data Protection Management",
+      "code": "BPAEAPAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000remb",
+      "name": "Pirsch",
+      "website": "https://pirsch.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008okp",
+      "name": "Fathom Analytics",
+      "website": "https://usefathom.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007uv7",
+      "name": "Matomo",
+      "website": "https://matomo.org",
+      "is_primary": true
+     },
+     {
+      "uuid": "000qzpc",
+      "name": "Simple Analytics",
+      "website": "https://www.simpleanalytics.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007hu4",
+      "name": "Plausible Analytics",
+      "website": "https://www.plausible.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002nq9",
+      "name": "Umami",
+      "website": "https://umami.is/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001300",
+      "name": "privacy"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "195",
+      "name": "Family and Relationships"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "frankfurt",
+      "eu",
+      "amsterdam",
+      "germany"
+     ],
+     "product": [
+      "matomo",
+      "wordpress",
+      "simple analytics",
+      "fathom analytics",
+      "google analytics",
+      "convertkit",
+      "plausible analytics",
+      "google tag manager",
+      "vue.js",
+      "copilot",
+      "next.js",
+      "claude",
+      "posthog",
+      "cabin",
+      "pirsch",
+      "umami",
+      "counter",
+      "codex",
+      "ga4",
+      "cursor",
+      "black ops 7",
+      "doom",
+      "call of duty"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7854,
+    "group_id": 13530416
+   },
+   {
+    "id": 33873569,
+    "title": "In the AI Gold Rush, the Boring Tools May Win",
+    "url": "https://hackernoon.com/in-the-ai-gold-rush-the-boring-tools-may-win?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-09-04T02:27:40",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5538,
+    "ai_summary": "The author argues that PostHog and Supabase are more valuable than AI tools for SaaS development, comparing them to shovel sellers in the California Gold Rush. Supabase provides a relational database and authentication, while PostHog offers product analytics and session replay. The author suggests founders should focus on these boring tools rather than chasing the next AI model.",
+    "word_count": 1172,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Developer Tooling & SDK Platforms",
+      "code": "BPAMAOAD",
+      "is_primary": true
+     },
+     {
+      "name": "Database-as-a-Service (DBaaS) Platforms",
+      "code": "HDAEAAAN",
+      "is_primary": false
+     },
+     {
+      "name": "API-First Backend Platforms (BaaS/mBaaS & Serverless Backends)",
+      "code": "HDAEAKAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00002sr",
+      "name": "Supabase",
+      "website": "https://supabase.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "611",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "sam brannan",
+      "levi strauss",
+      "brannan"
+     ],
+     "location": [
+      "san francisco",
+      "california"
+     ],
+     "product": [
+      "pressmegpt",
+      "instantladybirddeed",
+      "posthog",
+      "google analytics 4",
+      "supabase",
+      "wordpress",
+      "ga4",
+      "postgres",
+      "saas"
+     ],
+     "event": [
+      "california gold rush"
+     ]
+    },
+    "newsworthiness_score": 0.9335,
+    "group_id": 10384285
+   },
+   {
+    "id": 33838747,
+    "title": "The Software Factory Myth: Why AI Agents Haven\u2019t Delivered True Production Lines",
+    "url": "https://www.webpronews.com/the-software-factory-myth-why-ai-agents-havent-delivered-true-production-lines/",
+    "publisher": "WebProNews",
+    "published_date": "2026-09-03T20:42:15",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2578,
+    "ai_summary": "Major engineering organizations including LaunchDarkly, Cloudflare, Vercel, and Uber published detailed accounts of software factory systems in August and September 2026. These systems handle non-trivial codebases, with Uber reporting 70% of pull requests tied to agents. However, skepticism persists, as many deployments may accelerate bugs rather than deliver true manufacturing systems.",
+    "word_count": 1387,
+    "author": "Victoria Mossi",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Prompt Engineering, Orchestration & LLMOps Tooling",
+      "code": "HDAAACAD",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000o8",
+      "name": "LaunchDarkly",
+      "website": "https://launchdarkly.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rs",
+      "name": "Cloudflare",
+      "website": "http://www.cloudflare.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005so",
+      "name": "CloudBees",
+      "website": "http://www.cloudbees.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mb26g",
+      "name": "uber technologies inc.",
+      "website": "https://er.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000006i",
+      "name": "Factory",
+      "website": "https://factory.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00021m1",
+      "name": "HumanLayer",
+      "website": "https://www.humanlayer.dev/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005nph",
+      "name": "ZDNET",
+      "website": "http://www.zdnet.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004xa8",
+      "name": "VentureBeat",
+      "website": "https://venturebeat.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "essay",
+     "label": "Essay"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dex horthy",
+      "joe mckendrick",
+      "moritz plassnig",
+      "nmitchem",
+      "igor ostrovsky",
+      "chamath palihapitiya",
+      "addy osmani",
+      "bob bemer"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10364135
+   },
+   {
+    "id": 31233838,
+    "title": "Top Amplitude Alternatives and Competitors to Evaluate in 2026",
+    "url": "https://aijourn.com/top-amplitude-alternatives-and-competitors-to-evaluate-in-2026/",
+    "publisher": "Aijourn",
+    "published_date": "2026-08-04T07:36:51",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "This article provides a comparison of five product analytics platforms as alternatives to Amplitude, examining how changes in data volumes, AI capabilities, and governance requirements are reshaping buying decisions. The reviewed platforms include ThinkingAI (highlighted for agentic analytics and self-hosted deployment), Mixpanel (for event-based analytics), PostHog (for open-source developer tooling), Heap (for automatic event capture), and Pendo (for in-app guidance and digital adoption). The article emphasizes that operational differences such as deployment flexibility, pricing structure, and connection between insight and action are becoming key differentiators as the product analytics market evolves.",
+    "word_count": 996,
+    "author": "Aij Writing Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Mix Modeling, Attribution & Propensity Scoring",
+      "code": "HDAAAHAH",
+      "is_primary": true
+     },
+     {
+      "name": "Experiment Tracking, Metadata & Model Registry",
+      "code": "HDAAABAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008ji",
+      "name": "Amplitude",
+      "website": "http://amplitude.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000az5",
+      "name": "Heap",
+      "website": "https://heap.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000bi",
+      "name": "Pendo",
+      "website": "http://www.pendo.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003i2",
+      "name": "Mixpanel",
+      "website": "https://mixpanel.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5182",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "brandon nader",
+      "aij"
+     ],
+     "location": [],
+     "product": [
+      "amplitude",
+      "mixpanel",
+      "posthog",
+      "thinkingai",
+      "pendo",
+      "heap heap"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9351,
+    "group_id": 5705975
+   },
+   {
+    "id": 30344375,
+    "title": "Weave Raises $13.5M Series A Fix the AI Coding Crisis by Killing Tokenmaxxing",
+    "url": "https://aijourn.com/weave-raises-13-5m-series-a-fix-the-ai-coding-crisis-by-killing-tokenmaxxing/",
+    "publisher": "Aijourn",
+    "published_date": "2026-07-28T18:04:24",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4677,
+    "ai_summary": "Weave, a startup building an 'engineering-intelligence layer' to measure AI coding productivity and ROI, has raised a $13.5 million Series A round led by Standard Capital, with participation from Y Combinator, Moonfire, Burst Capital, IrregEx, and the Agent Fund. The company addresses a growing crisis where companies are spending billions on AI coding tools without visibility into actual returns, with its platform currently measuring over 2 million code contributions across 20,000 engineers at more than 500 companies including Robinhood, PostHog, Reducto, and Telnyx. The funding will position Weave as the system of record for the AI era, helping finance and engineering leaders track hybrid human-AI workforce productivity and optimize token spending.",
+    "word_count": 769,
+    "author": "Aij Contributor",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": true
+     },
+     {
+      "name": "Model Development & Training Platforms (AutoML, Notebooks, Feature Stores)",
+      "code": "HDAEANAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002emf",
+      "name": "Weave",
+      "website": "https://weaveos.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000082e",
+      "name": "Reducto",
+      "website": "https://reducto.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004jh",
+      "name": "Moonfire Ventures",
+      "website": "https://moonfire.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003tppt",
+      "name": "Standard Capital",
+      "website": "https://www.standardcap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003mxyx",
+      "name": "Agent Fund",
+      "website": "https://agentfund.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009n",
+      "name": "Y Combinator",
+      "website": "https://www.ycombinator.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000k7",
+      "name": "Robinhood",
+      "website": "https://www.robinhood.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003xih",
+      "name": "Burst Capital",
+      "website": "https://burst.vc",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "adam cohen",
+      "david casem",
+      "dalton caldwell",
+      "casem"
+     ],
+     "location": [],
+     "product": [
+      "weave",
+      "reducto",
+      "robinhood",
+      "posthog"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 5061028
+   },
+   {
+    "id": 40464403,
+    "title": "7 Best mParticle Alternatives for Data Teams [2026]",
+    "url": "https://pipeline.zoominfo.com/sales/mparticle-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-22T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5933,
+    "ai_summary": "Seven mParticle alternatives are compared, including ZoomInfo, Tealium, Twilio Segment, RudderStack, Hightouch, PostHog, and Insider. Each addresses specific mParticle limitations such as enterprise-only pricing, limited integrations, or lack of native messaging. The guide recommends tools for B2B intelligence, enterprise governance, and affordable deployment.",
+    "word_count": 6955,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Data Platforms (CDP) & Identity Resolution",
+      "code": "BPAFAFAD",
+      "is_primary": true
+     },
+     {
+      "name": "Real-Time / Streaming Data Integration (CDC & Event Streaming)",
+      "code": "HDAEACAB",
+      "is_primary": false
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00ehsw6",
+      "name": "Insider One",
+      "website": "https://insiderone.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002abb",
+      "name": "mParticle",
+      "website": "http://mparticle.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qw",
+      "name": "Tealium",
+      "website": "http://www.tealium.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eix",
+      "name": "Hightouch",
+      "website": "https://www.hightouch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000069c",
+      "name": "RudderStack",
+      "website": "https://rudderstack.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "henry schuck",
+      "dominik facher"
+     ],
+     "location": [
+      "northeast"
+     ],
+     "product": [
+      "mparticle",
+      "posthog",
+      "tealium",
+      "zoominfo",
+      "hightouch",
+      "insider",
+      "rudderstack",
+      "twilio segment",
+      "redshift",
+      "databricks",
+      "snowflake",
+      "bigquery",
+      "klarna",
+      "hbo max",
+      "marks & spencer",
+      "rbi",
+      "popeyes",
+      "burger king",
+      "tim hortons",
+      "chatgpt",
+      "anthropic claude",
+      "apollo.io",
+      "lusha",
+      "zoominfo lite",
+      "abm lite",
+      "abm enterprise",
+      "websights lite",
+      "salesforce data cloud",
+      "adobe experience platform",
+      "usercentrics",
+      "onetrust",
+      "didomi",
+      "audiencestream cdp",
+      "eventstream",
+      "customer.io",
+      "segment",
+      "census",
+      "customer studio",
+      "mixpanel",
+      "amplitude",
+      "sentry",
+      "braze",
+      "insider one",
+      "fullstory",
+      "launchdarkly",
+      "bloomreach",
+      "airship",
+      "salesforce",
+      "agent one",
+      "whatsapp",
+      "moengage",
+      "amperity",
+      "instory",
+      "customerlabs",
+      "architect journey canvas"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.812,
+    "group_id": 14076279
+   },
+   {
+    "id": 29342833,
+    "title": "PostHog's James Hawkins on AI-Native Software",
+    "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/posthog-s-james-hawkins-on-ai-native-software",
+    "publisher": "StartupHub.ai",
+    "published_date": "2026-07-22T16:04:48",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9979,
+    "ai_summary": "PostHog, a product analytics company that launched through Y Combinator's W20 cohort, is undergoing a strategic pivot toward building \"AI-native self-driving software\" that can autonomously solve problems in the product development lifecycle. Co-CEO James Hawkins explained the shift was driven by the potential of LLMs, with the goal of shipping AI systems capable of fundamentally solving user jobs rather than just providing insights. The company is developing intent-capture systems and advanced clustering techniques to enable AI to iterate on products by analyzing customer feedback, support tickets, and product meetings.",
+    "word_count": 1011,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     },
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Research, Development & Innovation",
+      "code": "SD08",
+      "is_primary": true
+     },
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "james hawkins",
+      "blomfield",
+      "hawkins",
+      "tim"
+     ],
+     "location": [
+      "european"
+     ],
+     "product": [
+      "desktop product"
+     ],
+     "event": [
+      "yc w20"
+     ]
+    },
+    "newsworthiness_score": 0.7645,
+    "group_id": 4831086
+   },
+   {
+    "id": 40464400,
+    "title": "7 Best Segment Alternatives in 2026",
+    "url": "https://pipeline.zoominfo.com/sales/segment-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-07-21T22:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6211,
+    "ai_summary": "Seven customer data platform alternatives to Twilio Segment are presented, each targeting a specific gap such as B2B intelligence, mobile infrastructure, or tag management. The alternatives include ZoomInfo, mParticle, Tealium, RudderStack, Hightouch, PostHog, and CustomerLabs, with pricing and use cases detailed.",
+    "word_count": 6294,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Data Platforms (CDP) & Identity Resolution",
+      "code": "BPAFAFAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002abb",
+      "name": "mParticle",
+      "website": "http://mparticle.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qw",
+      "name": "Tealium",
+      "website": "http://www.tealium.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eix",
+      "name": "Hightouch",
+      "website": "https://www.hightouch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000rfce",
+      "name": "CustomerLabs CDP",
+      "website": "https://www.customerlabs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000069c",
+      "name": "RudderStack",
+      "website": "https://rudderstack.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dominik facher",
+      "william kenimer",
+      "toby carrington",
+      "chelsea kenyon",
+      "henry schuck"
+     ],
+     "location": [
+      "us",
+      "european"
+     ],
+     "product": [
+      "zoominfo",
+      "hightouch",
+      "mparticle",
+      "posthog",
+      "tealium",
+      "rudderstack",
+      "customerlabs",
+      "twilio segment",
+      "twilio",
+      "segment",
+      "roas",
+      "salesforce",
+      "whatsapp",
+      "hubspot",
+      "claude",
+      "chatgpt",
+      "roku",
+      "fire tv",
+      "chorus",
+      "ios",
+      "chat",
+      "android",
+      "unity",
+      "xbox",
+      "zoominfo lite",
+      "smart tv",
+      "abm lite",
+      "unify",
+      "connected tv",
+      "rokt",
+      "idsync",
+      "adobe launch",
+      "google tag manager",
+      "usercentrics",
+      "didomi",
+      "onetrust",
+      "redshift",
+      "snowflake",
+      "mobile app",
+      "google ads",
+      "databricks",
+      "bigquery",
+      "audiencestream",
+      "eventstream",
+      "census",
+      "postgres",
+      "mixpanel",
+      "zoho",
+      "tiktok",
+      "shopify/woocommerce",
+      "linkedin",
+      "pos systems",
+      "dinmo",
+      "safari",
+      "shopify",
+      "agency lite",
+      "woocommerce",
+      "meta",
+      "agency premium"
+     ],
+     "event": [
+      "daily events"
+     ]
+    },
+    "newsworthiness_score": 0.8085,
+    "group_id": 4925990
+   },
+   {
+    "id": 35669874,
+    "title": "Kiponos vs PostHog Feature Flags \u2014 Product Analytics Suite vs Operational Config Trees (Architecture)",
+    "url": "https://dev.to/kiponos/kiponos-vs-posthog-feature-flags-product-analytics-suite-vs-operational-config-trees-21oo",
+    "publisher": "DEV Community",
+    "published_date": "2026-07-09T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5432,
+    "ai_summary": "The article argues that PostHog feature flags should stay on product surfaces, while operational config like fraud thresholds and circuit breakers should use Kiponos. It warns that analytics SDKs on authorization filters add latency and failure modes, and recommends migrating block_score, failure_rate_threshold, and max_threads to Kiponos.",
+    "word_count": 2076,
+    "author": "Report Abuse",
+    "countries": [],
+    "industries": [
+     {
+      "name": "LiveOps Tooling, Remote Config, Feature Flags & Experimentation (A/B)",
+      "code": "MPAFAFAO",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "003pjqn",
+      "name": "Kiponos.io",
+      "website": "https://kiponos.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "plantier"
+     ],
+     "location": [],
+     "product": [
+      "posthog",
+      "kiponos",
+      "fraudauthfilter",
+      "pricinghero",
+      "pricing_hero_v2",
+      "tomcat",
+      "clickhouse"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9063,
+    "group_id": 11615245
+   },
+   {
+    "id": 26340217,
+    "title": "PostHog Review: Product Analytics + Session Replay + Feature Flags in One Platform",
+    "url": "https://quasa.io/video/posthog-review-product-analytics-session-replay-feature-flags-in-one-platform",
+    "publisher": "Quasa is a metaverse that unites people",
+    "published_date": "2026-06-18T11:01:15",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The article presents a review of PostHog, an open-source product operating system that consolidates analytics, session replay, and feature flags into a single platform. It highlights the software's ability to replace fragmented tools like Mixpanel and Amplitude while offering privacy-first, self-hostable options for various team sizes. The review notes both advantages, such as cost-effectiveness and developer experience, and downsides related to enterprise features and complexity. ",
+    "word_count": 358,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "API-First Backend Platforms (BaaS/mBaaS & Serverless Backends)",
+      "code": "HDAEAKAH",
+      "is_primary": true
+     },
+     {
+      "name": "Managed Databases (Relational/NoSQL/In-Memory DBaaS)",
+      "code": "HDABAAAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000559r",
+      "name": "QUASA",
+      "website": "https://quasa.io/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "eu/us"
+     ],
+     "product": [
+      "posthog",
+      "mixpanel",
+      "sentry",
+      "heap",
+      "amplitude",
+      "launchdarkly"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7428,
+    "group_id": 7812970
+   },
+   {
+    "id": 25977888,
+    "title": "Indian VCs turn to US AI startups in search of bigger returns - The Economic Times",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-vcs-turn-to-us-ai-startups-in-search-of-bigger-returns/articleshow/131754506.cms",
+    "publisher": "The Times of India",
+    "published_date": "2026-06-16T00:30:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5026,
+    "ai_summary": "Indian VC firms including Peak XV Partners, NuVentures, DeVC, and Activate are increasingly investing in US-based AI startups founded by non-Indians, seeking higher returns amid limited opportunities in India's AI sector. In 2025, Peak XV Partners invested in more than 10 US-based AI startups such as Supabase and PostHog, while NuVentures directed approximately 90% of its investments toward US AI companies. Investors cited insufficient innovative AI companies in India capable of delivering outsized returns, prompting firms to expand their US presence and compete against marquee US investors.",
+    "word_count": 1050,
+    "author": "Swathi Moorthy",
+    "countries": [
+     "IND",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Multi-Sector / Generalist Growth Equity",
+      "code": "FSANACAO",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Deal Flow & Volume Statistics",
+      "code": "CM10",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000044h",
+      "name": "Activate",
+      "website": "https://www.activate.org/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000utr",
+      "name": "AnswersAI",
+      "website": "https://answersai.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000n",
+      "name": "ElevenLabs",
+      "website": "http://elevenlabs.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002sr",
+      "name": "Supabase",
+      "website": "https://supabase.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006rn",
+      "name": "DeVC",
+      "website": "https://www.devc.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0005nkj",
+      "name": "NuVentures",
+      "website": "https://nuventures.vc/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000023",
+      "name": "Peak XV Partners",
+      "website": "https://www.peakxv.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pnw",
+      "name": "Wispr Flow",
+      "website": "https://wisprflow.ai",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "525990",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "523999",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     },
+     {
+      "code": "6799",
+      "name": "INVESTORS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "swathi moorthy",
+      "venk krishnan",
+      "aakrit vaish",
+      "aakash kumar",
+      "zhou li",
+      "venky harinarayan",
+      "vinay dube"
+     ],
+     "location": [
+      "india",
+      "us",
+      "iran"
+     ],
+     "product": [
+      "elevenlabs",
+      "wispr flow",
+      "supabase",
+      "posthog",
+      "mythos 5",
+      "fable 5",
+      "solarsquare"
+     ],
+     "event": [
+      "us-iran peace deal"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 453914
+   },
+   {
+    "id": 40493456,
+    "title": "14 Best AI Marketing apps and tools you can't miss in 2026 (free + paid)",
+    "url": "https://composio.dev/content/best-ai-marketing-tool-app",
+    "publisher": "Composio",
+    "published_date": "2026-06-08T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A list of 14 AI marketing tools for 2026 covers workflow automation, social media, asset creation, analytics, CRM, and SEO. Each tool includes a description, ideal user, pricing, and reviews, with Composio, Manus, and Lovable highlighted as top picks.",
+    "word_count": 4727,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Technology (MarTech) Strategy & Stack Advisory",
+      "code": "MPAAAFAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": false
+     },
+     {
+      "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+      "code": "BPAFAFAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000ryg",
+      "name": "Ahrefs",
+      "website": "https://ahrefs.com/about",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008mba",
+      "name": "Buffer",
+      "website": "https://buffer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002ga",
+      "name": "Manus AI",
+      "website": "https://manus.im",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002em",
+      "name": "Composio",
+      "website": "https://composio.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000l1",
+      "name": "Canva",
+      "website": "http://www.canva.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000kf",
+      "name": "Profound",
+      "website": "https://www.tryprofound.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "connor nowinski",
+      "rani kubersky",
+      "jasper"
+     ],
+     "location": [],
+     "product": [
+      "claude",
+      "composio",
+      "codex",
+      "posthog",
+      "hubspot",
+      "klaviyo",
+      "ahrefs",
+      "creatify",
+      "canva",
+      "cowork",
+      "tiktok",
+      "gemini",
+      "chatgpt",
+      "youtube",
+      "instagram",
+      "manus",
+      "veed",
+      "google docs",
+      "slack",
+      "flint",
+      "g2",
+      "capterra",
+      "lovable",
+      "clay",
+      "gtm",
+      "crms",
+      "supabase",
+      "hubspot breeze",
+      "breeze",
+      "copilot",
+      "buffer",
+      "perplexity",
+      "mixpanel",
+      "hotjar",
+      "google ai experiences",
+      "segment",
+      "profound",
+      "jasper",
+      "shopify"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7956,
+    "group_id": 6061088
+   },
+   {
+    "id": 26338910,
+    "title": "How Founders Are Moving Boldly Into The Agentic Enterprise: Startup Summit Insights",
+    "url": "https://www.salesforce.com/blog/small-business/annual-startup-summit-insights/",
+    "publisher": "Salesforce",
+    "published_date": "2026-05-21T13:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce hosted its 2nd annual Startup Summit, bringing together founders, CXOs, and venture capital firms to explore how AI agents are transforming startup operations and scaling strategies. Anthropic shared how it scaled from $1 billion to over $30 billion in revenue within 18 months, highlighting the need for deliberate focus on core values and adaptability during hyper-growth. Salesforce also announced a $50 million fund to support developers building agentic solutions through its new AgentExchange platform.",
+    "word_count": 2082,
+    "author": "Sharif Karmally",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Corporate Accelerators & Startup Programs",
+      "code": "FSANAHAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000bk2",
+      "name": "Slack",
+      "website": "http://www.slack.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005e3",
+      "name": "Owner",
+      "website": "https://owner.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000lh",
+      "name": "Recall.ai",
+      "website": "https://recall.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002e18",
+      "name": "SaaStr",
+      "website": "http://www.saastr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000034",
+      "name": "Writer",
+      "website": "http://writer.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000205",
+      "name": "new product or service"
+     },
+     {
+      "code": "20000736",
+      "name": "scientific innovation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "kate jensen",
+      "kris billmaier",
+      "amelia lerutte",
+      "jevan lenox",
+      "kyle norton",
+      "tim glaser",
+      "amanda zhu",
+      "kristin pierce",
+      "saastr",
+      "rob seaman",
+      "tyler carlson",
+      "jeanne dewitt grosser"
+     ],
+     "location": [
+      "americas"
+     ],
+     "product": [
+      "agentforce",
+      "saastr",
+      "vercel",
+      "recall.ai",
+      "slack",
+      "agent builder",
+      "v0",
+      "salesforce launchpad",
+      "agentexchange",
+      "launchpad"
+     ],
+     "event": [
+      "startup summit",
+      "salesforce startup summit"
+     ]
+    },
+    "newsworthiness_score": 0.8999,
+    "group_id": 2439892
+   },
+   {
+    "id": 25499854,
+    "title": "Best LLMOps platforms in 2026 compared",
+    "url": "https://www.braintrust.dev/articles/best-llmops-platforms-2025",
+    "publisher": "Braintrust",
+    "published_date": "2026-05-16T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "This article provides a comprehensive comparison of five LLMOps platforms in 2026: Braintrust, PostHog, LangSmith, Weights & Biases, and TrueFoundry, evaluating them across seven dimensions including evaluation capabilities, observability, integration ecosystem, production readiness, collaboration, cost efficiency, and developer experience. The analysis identifies three defining trends for 2026: evaluation-first development replacing ad-hoc testing, observability beyond basic logging with full tracing and cost attribution, and unified development workflows that integrate prompt management, evaluation, and monitoring in single platforms. Braintrust is highlighted as the leading evaluation-first platform, with customers reporting 30%+ accuracy improvements and 10x faster development velocity, while other platforms serve specific use cases such as PostHog for product teams needing integrated analytics and LangSmith for LangChain users.",
+    "word_count": 2285,
+    "author": "Braintrust Team",
+    "countries": [],
+    "industries": [
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": true
+     },
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": false
+     },
+     {
+      "name": "AI Observability, Monitoring & Evaluation Platforms (Drift, Quality, Safety)",
+      "code": "HDAEANAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005bf",
+      "name": "Braintrust",
+      "website": "https://www.braintrust.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000wx",
+      "name": "Weights & Biases",
+      "website": "https://www.wandb.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008mk",
+      "name": "TrueFoundry",
+      "website": "http://truefoundry.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "instacart",
+      "vercel",
+      "airtable",
+      "notion",
+      "stripe",
+      "posthog",
+      "langgraph",
+      "instructor",
+      "langsmith",
+      "langchain",
+      "autogen",
+      "loop",
+      "crewai",
+      "cloudflare",
+      "opentelemetry",
+      "braintrust",
+      "truefoundry",
+      "llmops",
+      "deepseek",
+      "mlops"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 5059243
+   },
+   {
+    "id": 40465531,
+    "title": "Top Pendo Alternatives for 2026",
+    "url": "https://pipeline.zoominfo.com/sales/pendo-alternatives",
+    "publisher": "Zoominfo",
+    "published_date": "2026-05-01T00:42:30",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.515,
+    "ai_summary": "Pendo alternatives for 2026 include ZoomInfo, WalkMe, Userpilot, Appcues, PostHog, and Hopscotch, each targeting specific gaps like B2B account intelligence, multi-application adoption, or transparent pricing. ZoomInfo offers free-to-start pricing, while Userpilot starts at $299/month, and PostHog is open-source with a large free tier.",
+    "word_count": 6173,
+    "author": "Henry Schuckceo",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Enterprise Application UX, Portals & Low-Code Extensions",
+      "code": "BPAEAGAM",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00009qo",
+      "name": "Userpilot",
+      "website": "https://userpilot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007e5",
+      "name": "Seismic",
+      "website": "https://seismic.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000bi",
+      "name": "Pendo",
+      "website": "http://www.pendo.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004de",
+      "name": "WalkMe",
+      "website": "http://www.walkme.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000iq",
+      "name": "PostHog",
+      "website": "https://posthog.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000amy",
+      "name": "Appcues",
+      "website": "https://www.appcues.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000i36",
+      "name": "Clearbit",
+      "website": "https://clearbit.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a26",
+      "name": "Whatfix",
+      "website": "https://whatfix.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000055",
+      "name": "Apollo.io",
+      "website": "https://www.apollo.io",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000209",
+      "name": "products and services"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "henry schuck"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "pendo",
+      "hopscotch",
+      "zoominfo",
+      "posthog",
+      "walkme",
+      "appcues",
+      "servicenow",
+      "workday",
+      "userpilot",
+      "apollo.io",
+      "clearbit",
+      "whatfix",
+      "salesforce",
+      "sap enable now",
+      "chameleon",
+      "heap",
+      "intercom",
+      "marketo",
+      "hubspot",
+      "orchestrate",
+      "userguiding",
+      "amplitude",
+      "mixpanel",
+      "statsig",
+      "launchdarkly",
+      "userflow",
+      "zapier",
+      "segment",
+      "adobe express",
+      "chrome extension"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8239,
+    "group_id": 512558
+   }
+  ],
+  "credits_consumed": 0.25
+ },
+ "mode": "LIVE"
+}

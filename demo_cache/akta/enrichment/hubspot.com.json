@@ -1,0 +1,602 @@
+{
+ "fetched_at": "2026-10-24T11:47:40",
+ "params": {
+  "company": "hubspot.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "0000izw",
+   "firmographic": {
+    "name": "HubSpot",
+    "legal_name": "HubSpot, Inc.",
+    "website": "hubspot.com",
+    "company_type": {
+     "code": "public",
+     "label": "Public"
+    },
+    "ticker": "NYSE:HUBS",
+    "founded_year": 2006,
+    "company_description": "HubSpot is a publicly traded CRM and customer platform provider (NYSE: HUBS) serving 299,458 customers across 135+ countries as of Q1 2026. Founded in 2006 and headquartered in Cambridge, Massachusetts, the company reported Q1 2026 revenue of $881 million (up 23% YoY), full-year 2026 guidance of $3.700-3.708 billion, ARR of $3.45 billion, non-GAAP operating margin of 20.6-20.7% (pulling forward the 2027 target by a full year), and 83.7% gross margin. Yamini Rangan has served as CEO since September 2021.\n\nThe product architecture centers on a Smart CRM core surrounded by six functional hubs (Marketing, Sales, Service, Content, Data, Revenue) unified through a shared data layer. The platform is powered by Breeze AI, which embeds autonomous agents (Customer Agent, Prospecting Agent, Data Agent) across the customer journey and adds proprietary Answer Engine Optimization (AEO) tooling for AI-search visibility. Technical infrastructure runs on AWS (including AWS Graviton5-powered instances), exposes a Model Context Protocol server for external AI agent access, supports REST APIs with OAuth 2.0, and is enriched by data assets from the Clearbit acquisition. A proprietary HubSpot Media portfolio (The Hustle, My First Million, Trends, Starter Story) reaches approximately 2.9 million YouTube subscribers as a top-of-funnel acquisition engine.\n\nHubSpot employs a hybrid go-to-market combining product-led growth (free CRM tier), inside sales for mid-market customers, and field sales for enterprise accounts, distributed through a partner ecosystem of 4,000+ organizations and a marketplace of 2,000+ certified integrations. Revenue is primarily subscription-based with tiered pricing (Starter, Professional, Enterprise) augmented by professional services, partner ecosystem revenue, and a new outcome-based pricing model for AI features introduced in May 2026. Recent acquisitions (Cacheflow, XFunnel, Evolve, Starter Story) and strategic angel investments in AI-native startups (JustAI, Fonio.ai, Archestra.AI) signal an explicit M&A-led expansion into commerce, AI search, and agentic capabilities.",
+    "company_description_short": "HubSpot is a publicly traded CRM and customer platform provider serving 299,458 customers across 135+ countries with a multi-hub suite (Marketing, Sales, Service, Content, Data, Revenue) unified by Smart CRM and Breeze AI agents, monetized through tiered subscriptions, freemium PLG, and a growing partner ecosystem.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "public",
+     "label": "Public"
+    },
+    "headcount_range": "5001-10000",
+    "logo_url": "https://files.akta.pro/logos/00/00/iz/0a4f46ca-455a-5f60-94d2-06b911afa998.png",
+    "akta_rank": 56
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    },
+    "valuation_estimate": {
+     "code": "over_25b",
+     "label": "$25B+"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "month": 11,
+       "year": 2025
+      },
+      "business_focus": "Machine learning and mobile technology specializing in dating and relationship advice",
+      "name": "Evolve",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "adjacent_operating_subsidiary",
+       "label": "Adjacent Operating Subsidiary"
+      }
+     },
+     {
+      "acquired_on": {
+       "month": 10,
+       "year": 2025
+      },
+      "business_focus": "Answer Engine Optimization (AEO) capabilities",
+      "name": "XFunnel",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "adjacent_operating_subsidiary",
+       "label": "Adjacent Operating Subsidiary"
+      },
+      "uuid": "003vbxu"
+     },
+     {
+      "acquired_on": {
+       "month": 10,
+       "year": 2024
+      },
+      "business_focus": "Subscription billing and CPQ software for commerce capabilities",
+      "name": "Cacheflow",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "adjacent_operating_subsidiary",
+       "label": "Adjacent Operating Subsidiary"
+      },
+      "uuid": "000094p"
+     },
+     {
+      "acquired_on": {
+       "month": 2,
+       "year": 2026
+      },
+      "business_focus": "Creator-led entrepreneurship media brand with audience of 1.6M+ followers",
+      "name": "Starter Story",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0007kwk"
+     },
+     {
+      "acquired_on": {
+       "month": 2,
+       "year": 2026
+      },
+      "business_focus": "Entrepreneurship media brand with 10,000+ paid members",
+      "name": "Starter Story",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0007kwk"
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Q1 2026 customer base grew to 299,458 customers, up 16% YoY",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "299,000+ customers"
+     },
+     {
+      "description": "Global presence across marketing, sales, and service operations",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "135+ countries"
+     },
+     {
+      "description": "Annual Recurring Revenue (ARR) as of Q1 2026",
+      "source": [
+       "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$3.45 billion"
+     },
+     {
+      "description": "Q1 2026 revenue, up 23% YoY. Full-year 2026 guidance raised to $3.700-$3.708 billion",
+      "source": [
+       "https://news.alphastreet.com/hubspot-hubs-grows-q1-revenue-23-as-ai-product-push-starts-showing-up-in-margins/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$881 million"
+     },
+     {
+      "description": "Q1 2026 revenue growth rate, demonstrating sustained expansion",
+      "source": [
+       "https://news.alphastreet.com/hubspot-hubs-grows-q1-revenue-23-as-ai-product-push-starts-showing-up-in-margins/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "23% YoY revenue growth"
+     },
+     {
+      "description": "HubSpot pulled forward its 2027 margin target by a full year, achieving 20.6-20.7% non-GAAP operating margin in Q1 2026",
+      "source": [
+       "https://pipeline.zoominfo.com/sales/mixmax-alternatives"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "20.6-20.7% operating margin"
+     },
+     {
+      "description": "Average subscription revenue per customer, up 6% YoY",
+      "source": [
+       "https://news.alphastreet.com/hubspot-hubs-grows-q1-revenue-23-as-ai-product-push-starts-showing-up-in-margins/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$11,722"
+     },
+     {
+      "description": "Combined YouTube audience through HubSpot Media portfolio including The Hustle, My First Million, Trends, and Starter Story acquisitions",
+      "source": [
+       "https://martech.org/hubspot-supercharges-its-media-engine-by-buying-starter-story/"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "2.9 million subscribers"
+     },
+     {
+      "description": "Strong gross profit margin indicating pricing power and operational efficiency",
+      "source": [
+       "https://za.investing.com/news/company-news/hubspot-stock-hits-52week-low-at-17287-usd-93CH-4335418"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "83.7% gross margin"
+     },
+     {
+      "description": "HubSpot customers acquire 129% more leads after just one year",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "129% more leads"
+     },
+     {
+      "description": "HubSpot customers close 36% more deals after one year of use",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "36% more deals closed"
+     },
+     {
+      "description": "HubSpot customers see 37% improvement in ticket closure rates",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "37% improvement in ticket closure rates"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 23,
+       "month": 2,
+       "year": 2026
+      },
+      "description": "HubSpot acquired Starter Story, a bootstrapped media company focused on entrepreneurs with 1.6M+ followers and 10,000+ paid members. The acquisition brings Starter Story into HubSpot Media's portfolio alongside The Hustle, My First Million, and Trends, expanding HubSpot's combined YouTube network to 2.9 million subscribers. Founder Pat Walls, COO Sam Walls, and producer Gus Tiffer joined HubSpot along with the audience.",
+      "name": "Starter Story",
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0007kwk"
+     },
+     {
+      "announced_on": {
+       "day": 11,
+       "month": 10,
+       "year": 2024
+      },
+      "description": "HubSpot acquired Cacheflow, a provider of subscription billing and CPQ (configure, price, quote) software, to enhance its Commerce Hub platform. The acquisition aims to accelerate revenue management capabilities and streamline the quote-to-cash process for customers, with Cacheflow's team integrating into HubSpot's Commerce Hub division.",
+      "name": "Cacheflow",
+      "source": [
+       "https://www.hubspot.com/company-news/welcoming-cacheflow-to-hubspot?hubs_content-cta=homepage-banner&hubs_content=www.hubspot.com"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000094p"
+     },
+     {
+      "announced_on": {
+       "day": 31,
+       "month": 10,
+       "year": 2025
+      },
+      "description": "HubSpot announced its intention to acquire XFunnel to enhance Answer Engine Optimization (AEO) capabilities within its marketing tools. The acquisition aims to improve how businesses optimize their presence across AI-generated answers and adapt to the evolving AI-driven marketing landscape.",
+      "name": "XFunnel",
+      "source": [
+       "https://www.hubspot.com/company-news/hubspot-to-acquire-xfunnel"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "003vbxu"
+     },
+     {
+      "announced_on": {
+       "day": 1,
+       "month": 12,
+       "year": 2023
+      },
+      "description": "HubSpot acquired Clearbit in December 2023 to integrate its data enrichment and buyer-intent signal capabilities into its CRM platform. This enables better account scoring and personalized customer journey orchestration for enterprise clients.",
+      "name": "Clearbit",
+      "source": [
+       "https://www.openpr.com/news/4513730/customer-intent-prediction-market-overview-key-trends"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000i36"
+     },
+     {
+      "announced_on": {
+       "day": 13,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "Anthropic launched Claude for Small Business, integrating with HubSpot alongside QuickBooks, PayPal, Canva, DocuSign, Google Workspace, and Microsoft 365. The integration enables small businesses to automate workflows like sales campaigns and customer management directly within HubSpot using Claude AI capabilities.",
+      "name": "Anthropic",
+      "source": [
+       "https://dynamicbusiness.com/topics/news/anthropic-launches-claude-for-small-business-with-quickbooks-paypal-hubspot-and-canva-integrations.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "description": "HubSpot runs on AWS infrastructure with data centers in US East and Frankfurt, Germany. AWS Graviton5-powered instances deliver up to 60% faster MySQL queries for HubSpot. Graviton now powers over half of new AWS CPU capacity and 98% of top 1,000 EC2 customers.",
+      "name": "Amazon Web Services (AWS)",
+      "source": [
+       "https://www.ainvest.com/news/amazon-aws-cut-agentic-ai-compute-costs-25-graviton5-race-2606/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00008qf"
+     },
+     {
+      "announced_on": {
+       "day": 15,
+       "month": 5,
+       "year": 2026
+      },
+      "description": "OneMetric, a HubSpot Elite Partner specializing in CRM implementation and AI-led go-to-market systems, opened a Dubai office to support rising MENA demand. The Dubai office serves as regional hub for customer engagement, partner collaboration, and market development.",
+      "name": "OneMetric",
+      "source": [
+       "https://www.globenewswire.com/news-release/2026/05/15/3296177/0/en/OneMetric-Opens-Dubai-Office-to-Support-Rising-MENA-Demand-for-HubSpot-and-AI-Led-GTM-Transformation.html"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "0006vrf"
+     },
+     {
+      "description": "ZoomInfo built a complementary MCP integration with HubSpot that enriches CRM data with verified B2B contacts, company information, and intent signals. The integration writes enriched data directly into HubSpot CRM properties and supports workflows triggered by record creation, deal-stage changes, and intent signals.",
+      "name": "ZoomInfo",
+      "source": [
+       "https://finance.yahoo.com/media-advertising/articles/mntn-mntn-launches-hubspot-integration-183152395.html"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000pe2"
+     },
+     {
+      "description": "Siloy, an Elite Solutions Partner, noted that HubSpot becoming an increasingly strategic platform for growing mid-market and enterprise organizations means customers need partners with skill, quality, and confidence to support them long-term.",
+      "name": "Siloy",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "02ioyzi"
+     },
+     {
+      "description": "Engaging.io CEO noted that HubSpot's platform and roadmap into the future is the strongest CRM offering, and together they're able to represent a virtually unbeatable CRM & implementation offering to a global market.",
+      "name": "Engaging.io",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "strategic_tier": "Minor",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "000i48z"
+     },
+     {
+      "description": "HubSpot's partner ecosystem includes 4,000+ approved partners including VCs, accelerators, and incubators that recommend HubSpot for Startups to their portfolio companies. The Solutions Partner Program has 3,954+ partner agencies.",
+      "name": "4,000+ Approved Partner Organizations",
+      "source": [
+       "https://legal.hubspot.com/privacy-policy"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      }
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "day": 6,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "HubSpot launched its 'agentic customer platform' integrating a data layer and intelligence layer with Breeze AI agents to automate marketing, sales, and service workflows, formally repositioning the company beyond CRM into agentic AI orchestration.",
+      "source": [
+       "https://smallbiztrends.com/hubspot-unveils-ai-powered-platform-for-seamless-business-operations/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 23,
+       "month": 2,
+       "year": 2026
+      },
+      "description": "HubSpot acquired Starter Story, a bootstrapped entrepreneur media brand with 1.6M+ followers and 10,000+ paid members, bringing it into the HubSpot Media portfolio alongside The Hustle, My First Million, and Trends to expand the proprietary top-of-funnel audience engine.",
+      "source": [
+       "https://pulse2.com/hubspot-acquires-entrepreneur-media-brand-starter-story/"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 31,
+       "month": 10,
+       "year": 2025
+      },
+      "description": "HubSpot announced its intention to acquire XFunnel to integrate Answer Engine Optimization (AEO) capabilities into its marketing tools, positioning the platform for brand visibility across AI-generated search results.",
+      "source": [
+       "https://www.hubspot.com/company-news/hubspot-to-acquire-xfunnel"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 11,
+       "month": 10,
+       "year": 2024
+      },
+      "description": "HubSpot acquired Cacheflow, a subscription billing and CPQ provider, to enhance the Commerce Hub platform with quote-to-cash automation, subscription billing, and revenue reporting capabilities.",
+      "source": [
+       "https://www.hubspot.com/company-news/welcoming-cacheflow-to-hubspot?hubs_content-cta=homepage-banner&hubs_content=www.hubspot.com"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 1,
+       "month": 11,
+       "year": 2023
+      },
+      "description": "HubSpot acquired Clearbit to integrate data enrichment and buyer-intent signal capabilities into its CRM, enabling account scoring and personalized customer journey orchestration that underpins Breeze Intelligence.",
+      "source": [
+       "https://www.openpr.com/news/4513730/customer-intent-prediction-market-overview-key-trends"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 5,
+       "year": 2026
+      },
+      "description": "HubSpot shifted AI features to outcome-based and usage-based pricing (AI credits), with Customer Agent comprising roughly 60% of AI credit consumption and credit consumption up 67% quarter-over-quarter, marking a material evolution of the revenue model.",
+      "source": [
+       "https://www.hubspot.com/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "HubSpot Inc. shareholders approved an amendment to the 2024 Stock Option and Incentive Plan that increases reserved shares by 2,300,000, approved by 35.2 million votes. Five directors were elected to serve as Class III directors for one-year terms, and PricewaterhouseCoopers LLP was ratified as the independent auditor for fiscal year 2026. Shareholders also approved a bylaw amendment allowing stockholders owning 10% or more of outstanding common stock to call special meetings.",
+      "source": [
+       "https://in.investing.com/news/sec-filings/hubspot-shareholders-approve-stock-plan-amendment-and-board-elections-93CH-5458102"
+      ],
+      "title": "Stock Plan Amendment and Board Elections",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "description": "Law firm Johnson Fistel, PLLP announced an investigation into HubSpot, Inc. regarding potential federal securities law violations following the company's Q1 2026 earnings disclosure on May 7, 2026. HubSpot reported revenue of $881 million, up 23% year-over-year, but also disclosed near-term execution challenges related to artificial intelligence integration, pricing and packaging changes, and go-to-market transitions that resulted in slower Q2 start and extended sales cycles. Following these disclosures, HubSpot's stock price declined sharply.",
+      "source": [
+       "https://www.globenewswire.com/news-release/2026/05/11/3291916/0/en/HubSpot-Inc-Shareholders-Are-Encouraged-to-Reach-Out-to-Johnson-Fistel-for-More-Information-About-Potentially-Recovering-Their-Losses.html"
+      ],
+      "title": "Securities Law Investigation",
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "In May 2026 HubSpot transitioned AI features to outcome-based and usage-based pricing (AI credits), with AI credit consumption up 67% QoQ, signaling intent to capture incremental value from agentic automation rather than relying solely on seat-based subscriptions.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "Management highlighted strong growth in Germany and the United Kingdom as international priorities; OneMetric (a HubSpot Elite Partner) opened a Dubai office in May 2026 to support rising MENA demand, signaling partner-led geographic expansion into the Middle East.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Aggressive acquisition cadence across 2024-2026 (Cacheflow, Clearbit, Frame AI, Dashworks, XFunnel, Evolve, Starter Story) plus strategic angel investments in JustAI, Fonio.ai, and Archestra.AI in June 2026 indicate an explicit M&A-led expansion strategy into AI, commerce, and content capabilities.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "Launch of AEO (Answer Engine Optimization) Beta tools and XFunnel acquisition in October 2025 represent expansion into a new product category optimizing brand visibility for AI-generated answers, opening a net-new addressable market adjacent to traditional SEO.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "HubSpot Marketplace has grown to 2,000+ integrations, complemented by the Model Context Protocol server enabling external AI agents to access HubSpot data with full API parity, evidencing a deliberate ecosystem buildout to extend distribution through third-party developers.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "The MNTN Connected TV integration announced in June 2026 is the first CTV platform to feed performance attribution data into HubSpot CRM at the contact level, opening a new acquisition channel for B2B and SaaS marketers entering television for the first time.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

@@ -1,0 +1,6306 @@
+{
+ "fetched_at": "2026-10-24T11:47:37",
+ "params": {
+  "company": "vanta.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 96,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 41535579,
+    "title": "Best Continuous Compliance Monitoring Software (2026)",
+    "url": "https://securityboulevard.com/2026/10/best-continuous-compliance-monitoring-software-2026/",
+    "publisher": "Security Boulevard",
+    "published_date": "2026-10-20T04:52:46",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Seceon's aiCompliance CMX360 is ranked the best continuous compliance monitoring software for hybrid clouds in 2026, as it maps live SIEM and XDR telemetry to 40+ frameworks and supports air-gapped deployment. The platform reduces manual compliance effort by up to 90% and audit findings by 70%.",
+    "word_count": 3859,
+    "author": "Anurag Singh",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Cloud Compliance, Audit & Continuous Controls Monitoring (CCM/GRC)",
+      "code": "HDABAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Continuous Controls Monitoring (CCM)",
+      "code": "HDADAHAE",
+      "is_primary": false
+     },
+     {
+      "name": "Cloud Security Logging, SIEM/SOAR & Threat Detection",
+      "code": "HDABAHAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000474a",
+      "name": "Qualys",
+      "website": "https://www.qualys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ye",
+      "name": "ServiceNow",
+      "website": "http://www.servicenow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003evr",
+      "name": "Seceon",
+      "website": "http://www.seceon.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000cg3",
+      "name": "Palo Alto Networks",
+      "website": "http://www.paloaltonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "608",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "australia",
+      "india"
+     ],
+     "product": [
+      "seceon aicompliance cmx360",
+      "wiz",
+      "servicenow",
+      "vanta",
+      "cortex cloud",
+      "drata",
+      "qualys",
+      "microsoft defender for cloud",
+      "purview compliance manager",
+      "continuous compliance monitoring software",
+      "prisma cloud",
+      "cmx360",
+      "ndr",
+      "qualys policy audit",
+      "palo alto networks cortex cloud",
+      "azure arc",
+      "fedramp",
+      "soar",
+      "azure",
+      "aws",
+      "microsoft defender",
+      "siem",
+      "seceon cmx360",
+      "grc software",
+      "cloud posture products",
+      "dora",
+      "cloud accounts",
+      "pci dss v4.0",
+      "seceon open threat management platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8612,
+    "group_id": 14984034
+   },
+   {
+    "id": 40257019,
+    "title": "The One Piece Of Cybersecurity Advice Every Business Should Follow? Experts Weigh In",
+    "url": "https://techround.co.uk/cybersecurity/the-one-piece-of-cybersecurity-advice-every-business-should-follow-experts-weigh-in/",
+    "publisher": "TechRound",
+    "published_date": "2026-10-09T13:10:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.179,
+    "ai_summary": "Experts on cybersecurity offer advice for businesses during Cybersecurity Awareness Month, covering topics like verifying supplier bank details, continuous identity verification, and passkeys. They also highlight AI-driven threats and the need for real-time visibility and adaptation. The advice emphasizes practical, behavior-focused measures over generic training.",
+    "word_count": 3086,
+    "author": "Les-Leigh A",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "General Cybersecurity Awareness (All Employees)",
+      "code": "EDABAGAA",
+      "is_primary": true
+     },
+     {
+      "name": "Access Management (SSO, MFA, Passwordless)",
+      "code": "HDADAAAA",
+      "is_primary": false
+     },
+     {
+      "name": "Security Awareness & Phishing Simulation (Email/Collab-focused)",
+      "code": "HDADAKAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000mkm",
+      "name": "YEO Messaging",
+      "website": "https://www.yeomessaging.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000m1",
+      "name": "Prove",
+      "website": "http://www.prove.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000009b",
+      "name": "Veeam Software",
+      "website": "http://www.veeam.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ki",
+      "name": "Keepit",
+      "website": "https://www.keepit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lx9wt",
+      "name": "ArgusEye",
+      "website": "https://arguseye.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mrpai",
+      "name": "AskDocDoc",
+      "website": "https://askdocdoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "025p8kj",
+      "name": "NORTHSTAR INTELLIGENCE LTD",
+      "website": "https://www.northstar-intelligence.co.uk/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000g2",
+      "name": "Yubico",
+      "website": "http://www.yubico.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "608",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "518210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "harvey dhillon",
+      "sarah bone",
+      "jackson schultz",
+      "tim williams",
+      "lianne potter",
+      "jon lucas",
+      "kim larsen",
+      "cheryl martin",
+      "khushboo kashyap",
+      "nic sarginson",
+      "paul speciale",
+      "simon lawrence",
+      "mary ann miller",
+      "evgenii arsentev",
+      "ray heffer"
+     ],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "asos app",
+      "microsoft 365",
+      "car"
+     ],
+     "event": [
+      "cybersecurity awareness month"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13830509
+   },
+   {
+    "id": 39999378,
+    "title": "2026\u2019s 9 Best Vanta Alternatives",
+    "url": "https://aijourn.com/2026s-9-best-vanta-alternatives/",
+    "publisher": "Aijourn",
+    "published_date": "2026-10-07T13:42:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4771,
+    "ai_summary": "Nine Vanta alternatives are ranked for 2026, with Scytale leading due to AI automation and dedicated GRC expert support. Pricing models vary from per-framework tiers to bundled plans, and G2 ratings range from 4.5 to 4.9. The list advises matching the alternative to the specific compliance gap a team faces.",
+    "word_count": 3783,
+    "author": "Aij Writing Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "GRC Platforms & Workflow Automation",
+      "code": "HDADAIAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005kt",
+      "name": "Thoropass",
+      "website": "https://thoropass.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02ma76t",
+      "name": "optro, inc. (fka auditboard, inc.)",
+      "website": "https://www.auditboard.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000bg",
+      "name": "OneTrust",
+      "website": "https://www.onetrust.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005j6",
+      "name": "Scrut Automation",
+      "website": "https://www.scrut.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002aa",
+      "name": "Hyperproof",
+      "website": "https://www.hyperproof.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "vanta",
+      "scytale",
+      "sprinto",
+      "secureframe",
+      "drata",
+      "onetrust",
+      "thoropass",
+      "optro",
+      "scrut automation",
+      "fedramp",
+      "cmmc",
+      "hyperproof",
+      "grc platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8259,
+    "group_id": 13622922
+   },
+   {
+    "id": 39688091,
+    "title": "Vanta CEO Christina Cacioppo on France, AI, and compliance",
+    "url": "https://www.frenchtechjournal.com/vanta-ceo-christina-cacioppo-on-frances-engineer-forward-buyers-slow-procurement-and-free-as-a-puppy-software/",
+    "publisher": "The French Tech Journal",
+    "published_date": "2026-10-01T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9932,
+    "ai_summary": "Vanta CEO Christina Cacioppo discussed the company's growth in Europe and France, citing AI-driven demand for security compliance. Vanta reported over $300 million in annual recurring revenue, triple its level two years earlier, and a $4.15 billion valuation after a $150 million Series D. She noted AI tools adopted without security review drive much of this demand.",
+    "word_count": 2188,
+    "author": "Chris O'Brien",
+    "countries": [
+     "FRA",
+     "USA",
+     "GBR",
+     "IRL"
+    ],
+    "industries": [
+     {
+      "name": "Regulatory Compliance Management (RegTech)",
+      "code": "BPAEAPAB",
+      "is_primary": true
+     },
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     },
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000003i",
+      "name": "Wellington Management",
+      "website": "http://wellington.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000h",
+      "name": "Mistral AI",
+      "website": "https://mistral.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004sg",
+      "name": "Dust",
+      "website": "https://dust.tt",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "christina cacioppo",
+      "erik goldman",
+      "cc",
+      "jeff bezos"
+     ],
+     "location": [
+      "london",
+      "europe",
+      "dublin",
+      "france",
+      "paris",
+      "san francisco",
+      "united states",
+      "u.s.",
+      "berlin",
+      "new york",
+      "silicon valley"
+     ],
+     "product": [
+      "harvey",
+      "snowflake",
+      "dust",
+      "cursor",
+      "duolingo",
+      "mistral",
+      "ramp",
+      "vanta",
+      "gemini",
+      "copilot"
+     ],
+     "event": [
+      "vanta event"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13401173
+   },
+   {
+    "id": 39119230,
+    "title": "8 Criteria for Evaluating Privacy Software in 2026: RoPA, DPIA, and More",
+    "url": "https://hackernoon.com/8-criteria-for-evaluating-privacy-software-in-2026-ropa-dpia-and-more?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-09-28T15:15:38",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.503,
+    "ai_summary": "Eight criteria for evaluating privacy software in 2026 are outlined, covering RoPA, DPIA, data inventory, DSAR, security integration, consent, regulatory coverage, and breach notification. The article emphasizes that no platform covers all criteria equally and advises focusing on the two or three features most critical to an organization's program.",
+    "word_count": 1248,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Privacy Management (Consent, DSAR, RoPA)",
+      "code": "HDADAFAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000627",
+      "name": "data protection policy"
+     },
+     {
+      "code": "20000631",
+      "name": "personal data collection policy"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk",
+      "us states",
+      "us"
+     ],
+     "product": [
+      "vanta",
+      "platform",
+      "privacy software",
+      "privacy suite"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.888,
+    "group_id": 12753542
+   },
+   {
+    "id": 38745011,
+    "title": "How Enterprises Evaluate Third-party Risk Management Platforms in 2026",
+    "url": "https://hackernoon.com/how-enterprises-evaluate-third-party-risk-management-platforms-in-2026?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-09-23T05:32:34",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5158,
+    "ai_summary": "The article outlines eight criteria for evaluating third-party risk management platforms, including automated vendor discovery, inherent risk scoring, and continuous monitoring. It emphasizes that vendors should build their own inventory and integrate with procurement and risk registers. The piece advises using these questions to test shortlisted platforms before commitment.",
+    "word_count": 1190,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Third-Party/Vendor Risk Management (TPRM/VRM)",
+      "code": "HDADAIAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "52",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "tprm platform",
+      "vanta",
+      "tprm software",
+      "platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12195176
+   },
+   {
+    "id": 38713253,
+    "title": "Third-party data breaches rose 60% in a year. Most vendor reviews still happen once.",
+    "url": "https://nwitimes.com/news/nation-world/business/article_43aaf8f9-c1e9-570e-8b35-449a5bf3f162.html",
+    "publisher": "nwitimes.com",
+    "published_date": "2026-09-22T15:30:06",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0485,
+    "ai_summary": "Vanta's guide explains that third-party data breaches rose 60% year-over-year, with 48% of breaches involving a third party. It argues that point-in-time vendor reviews are insufficient and advocates continuous risk monitoring, citing that 86% of leaders are concerned about supply chain risks.",
+    "word_count": 1350,
+    "author": "Sarah Cottone",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Third-Party/Vendor Risk Management (TPRM/VRM)",
+      "code": "HDADAIAE",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00053wx",
+      "name": "Stacker",
+      "website": "https://stacker.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5616",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "51821",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "connor snyder",
+      "snyder"
+     ],
+     "location": [
+      "northwest indiana"
+     ],
+     "product": [
+      "tprm"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12101385
+   },
+   {
+    "id": 38702178,
+    "title": "Third-party data breaches rose 60% in a year. Most vendor reviews still happen once.",
+    "url": "https://billingsgazette.com/news/nation-world/business/article_106b0914-65dd-5bd7-90ce-8d8d45dbc770.html",
+    "publisher": "Billings Gazette",
+    "published_date": "2026-09-21T16:12:57",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1177,
+    "ai_summary": "Third-party data breaches rose 60% in a year, and most vendor reviews still happen once. The article notes that most vendor reviews occur once, and that third-party data breaches rose 60% in a year.",
+    "word_count": 1507,
+    "author": "Sarah Cottone For Vanta",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Third-Party/Vendor Risk Management (TPRM/VRM)",
+      "code": "HDADAIAE",
+      "is_primary": true
+     },
+     {
+      "name": "Third-Party Risk, Vendor Due Diligence & Supply Chain Compliance",
+      "code": "BPAEAPAG",
+      "is_primary": false
+     },
+     {
+      "name": "Third-Party/Vendor Risk Management (TPRM) & Due Diligence",
+      "code": "BPAKADAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "518210",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7374",
+      "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sarah cottone",
+      "billings man"
+     ],
+     "location": [
+      "yellowstone",
+      "miles city",
+      "montana",
+      "billings",
+      "central connecticut",
+      "red lodge"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12073324
+   },
+   {
+    "id": 37264542,
+    "title": "How Enterprises Evaluate Risk Software in 2026: a Criteria-led Guide",
+    "url": "https://hackernoon.com/how-enterprises-evaluate-risk-software-in-2026-a-criteria-led-guide?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-09-21T14:42:06",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5409,
+    "ai_summary": "The guide outlines eight criteria for evaluating risk software, including continuous risk identification, AI risk coverage, inherent versus residual scoring, and mapping to controls. It emphasizes that software must keep pace with risks and provide current answers on demand, with Vanta's approach highlighted.",
+    "word_count": 1159,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "GRC Platforms & Workflow Automation",
+      "code": "HDADAIAA",
+      "is_primary": true
+     },
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "vanta",
+      "risk software",
+      "platforms",
+      "risk management software",
+      "platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9388,
+    "group_id": 11907451
+   },
+   {
+    "id": 36139336,
+    "title": "Top 10 Best Cloud Compliance Tools in 2026",
+    "url": "https://cybersecuritynews.com/best-cloud-compliance-tools/",
+    "publisher": "Cyber Security News",
+    "published_date": "2026-09-18T07:59:08",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The article reviews ten cloud compliance tools, distinguishing between technical posture scanners and audit-automation platforms. It recommends pairing one from each category, such as Prowler with Vanta or Drata, and notes that PCI DSS 4.0 requires continuous control validation.",
+    "word_count": 1458,
+    "author": "Kavichselvankavichselvan Is A Cybersecurity Enthusiast",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Cloud Compliance, Audit & Continuous Controls Monitoring (CCM/GRC)",
+      "code": "HDABAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Cloud Security Posture Management (CSPM)",
+      "code": "HDADADAB",
+      "is_primary": false
+     },
+     {
+      "name": "Controls & Continuous Compliance Monitoring",
+      "code": "HDADAIAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000w8g",
+      "name": "Prowler",
+      "website": "https://prowler.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006vy",
+      "name": "Tenable",
+      "website": "http://www.tenable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000474a",
+      "name": "Qualys",
+      "website": "https://www.qualys.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002eh",
+      "name": "Wiz",
+      "website": "https://www.wiz.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00095nh",
+      "name": "Prisma Cloud",
+      "website": "https://www.paloaltonetworks.com/prisma/cloud",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005j6",
+      "name": "Scrut Automation",
+      "website": "https://www.scrut.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000d44",
+      "name": "Orca Security",
+      "website": "https://orca.security",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "619",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "541513",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "palo alto"
+     ],
+     "product": [
+      "vanta",
+      "prowler",
+      "wiz",
+      "drata",
+      "orca",
+      "defender for cloud",
+      "scrut",
+      "prisma cloud",
+      "purview compliance manager",
+      "tenable",
+      "qualys",
+      "cnapp compliance",
+      "cnapp",
+      "defender",
+      "prisma",
+      "purview",
+      "tenable scale"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9618,
+    "group_id": 11561930
+   },
+   {
+    "id": 35702248,
+    "title": "Compliance automation startup Comp AI raises $34M to push into security",
+    "url": "https://siliconangle.com/2026/09/17/compliance-automation-startup-comp-ai-raises-34m-to-push-into-security/",
+    "publisher": "SiliconANGLE",
+    "published_date": "2026-09-17T13:00:21",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Comp AI raised $34 million in a Series A round led by Roo Capital and Grand Ventures. The compliance automation startup will use the funds to expand its software into real-time security monitoring and control validation. The company reports annual recurring revenue multiplied 15 times over the past year.",
+    "word_count": 531,
+    "author": "Duncan Riley",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Controls & Continuous Compliance Monitoring",
+      "code": "HDADAIAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005rqp",
+      "name": "Roo Capital",
+      "website": "https://www.roocapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000097e",
+      "name": "Grand Ventures",
+      "website": "http://grandvcp.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000evz",
+      "name": "Comp AI",
+      "website": "https://trycomp.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006agr",
+      "name": "OSS Capital L.P.",
+      "website": "https://OSS.Capital/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "513210",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "claudio fuentes",
+      "john furrier",
+      "lewis carhart",
+      "dave vellante",
+      "mariano fuentes",
+      "david cramer"
+     ],
+     "location": [
+      "miami",
+      "new york"
+     ],
+     "product": [
+      "thecube",
+      "thecubeai.com"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9831,
+    "group_id": 11456257
+   },
+   {
+    "id": 34989968,
+    "title": "Top 10 HIPAA Compliance Service Providers Health Systems Trust in 2027",
+    "url": "https://techbullion.com/top-10-hipaa-compliance-service-providers-health-systems-trust-in-2027/",
+    "publisher": "TechBullion",
+    "published_date": "2026-09-14T07:25:52",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5505,
+    "ai_summary": "Ten HIPAA compliance service providers for health systems are profiled, including Bacancy Technology, Compliancy Group, and ClearDATA. Selection criteria include hospital experience, security rule depth, BAA management, and software capability. The article notes the proposed Security Rule update would make multi-factor authentication and full ePHI encryption mandatory, with OMB targeting July 2027 for final action.",
+    "word_count": 1767,
+    "author": "Anamta Shehzadi",
+    "countries": [
+     "IND",
+     "USA",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+      "code": "HLACAJAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": false
+     },
+     {
+      "name": "Encryption, Key Management & Hardware Security Modules (HSM)",
+      "code": "HLACAJAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": true
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006yn6",
+      "name": "Accountable",
+      "website": "http://www.accountablehq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000f9lz",
+      "name": "ComplyAssistant",
+      "website": "https://www.complyassistant.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00057dr",
+      "name": "Bacancy",
+      "website": "https://www.bacancytechnology.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "000058y",
+      "name": "Compliancy Group",
+      "website": "https://compliancy-group.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002aa",
+      "name": "Hyperproof",
+      "website": "https://www.hyperproof.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bkd",
+      "name": "ClearDATA",
+      "website": "https://www.cleardata.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000b4v",
+      "name": "Paubox",
+      "website": "https://www.paubox.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000vvh3",
+      "name": "HIPAA One",
+      "website": "http://www.hipaaone.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000278",
+      "name": "health care provider"
+     },
+     {
+      "code": "20001354",
+      "name": "healthcare industry"
+     },
+     {
+      "code": "20000463",
+      "name": "health organization"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "85",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "62",
+      "name": "Health Care and Social Assistance"
+     },
+     {
+      "code": "6221",
+      "name": "Health Care and Social Assistance"
+     },
+     {
+      "code": "62111",
+      "name": "Health Care and Social Assistance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8000",
+      "name": "SERVICES-HEALTH SERVICES"
+     },
+     {
+      "code": "8060",
+      "name": "SERVICES-HOSPITALS"
+     },
+     {
+      "code": "8071",
+      "name": "SERVICES-MEDICAL LABORATORIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "san francisco, california",
+      "iselin, new jersey",
+      "greenlawn, new york",
+      "austin, texas",
+      "seattle, washington",
+      "fort worth, texas",
+      "salt lake city, utah",
+      "san francisco / bengaluru",
+      "india",
+      "usa",
+      "uk",
+      "australia"
+     ],
+     "product": [
+      "paubox",
+      "sprinto",
+      "cleardata",
+      "software platforms",
+      "vanta",
+      "scheduling tools",
+      "telemedicine platforms",
+      "cyberhealth",
+      "hipaa one",
+      "hipaa",
+      "complyassistant",
+      "hitrust",
+      "microsoft 365",
+      "bacancy technology",
+      "google workspace"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11250668
+   },
+   {
+    "id": 35097406,
+    "title": "AI vendors can change their risk profile between reviews, and most oversight programs never notice",
+    "url": "https://nwitimes.com/news/nation-world/business/article_25144f1a-2ab1-5bae-9377-e0f5602011a1.html",
+    "publisher": "nwitimes.com",
+    "published_date": "2026-09-14T03:26:26",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0456,
+    "ai_summary": "Vanta's State of Trust Report found 65% of organizations' agentic AI use outpaces their understanding, creating governance gaps. The article argues traditional third-party risk management fails because AI vendors change risk profiles between reviews, and it proposes continuous monitoring, AI-driven analysis, unified GRC, and expanded ecosystem visibility.",
+    "word_count": 1552,
+    "author": "Sarah Cottone",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": true
+     },
+     {
+      "name": "Third-Party Model/Vendor Risk & Supply-Chain Assurance",
+      "code": "HDAAAMAK",
+      "is_primary": false
+     },
+     {
+      "name": "Model Monitoring, Drift & Behavioral Anomaly Detection",
+      "code": "HDAAAKAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000762",
+      "name": "identification technology"
+     },
+     {
+      "code": "20001230",
+      "name": "environmental, social and governance policy (ESG)"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "evan rowse"
+     ],
+     "location": [
+      "portage",
+      "chicago",
+      "northwest indiana",
+      "northwest indiana beach",
+      "indiana"
+     ],
+     "product": [
+      "ai tools"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11304250
+   },
+   {
+    "id": 35096633,
+    "title": "AI vendors can change their risk profile between reviews, and most oversight programs never notice",
+    "url": "https://billingsgazette.com/news/nation-world/business/article_31572b75-8c30-567b-8416-214b9c7bae14.html",
+    "publisher": "Billings Gazette",
+    "published_date": "2026-09-14T03:26:26",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0634,
+    "ai_summary": "Vanta's guide outlines third-party risk management challenges for AI vendors, noting that vendors can change risk profiles between reviews. It cites Vanta's State of Trust Report, where 65% of organizations said agentic AI use outpaces understanding. The guide recommends continuous monitoring, AI-driven risk analysis, and unified GRC oversight.",
+    "word_count": 1500,
+    "author": "Sarah Cottone For Vanta",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Third-Party Model/Vendor Risk & Supply-Chain Assurance",
+      "code": "HDAAAMAK",
+      "is_primary": true
+     },
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": false
+     },
+     {
+      "name": "Third-Party/Vendor Risk Management (TPRM/VRM)",
+      "code": "HDADAIAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000762",
+      "name": "identification technology"
+     },
+     {
+      "code": "20001230",
+      "name": "environmental, social and governance policy (ESG)"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "54161",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "evan rowse"
+     ],
+     "location": [],
+     "product": [
+      "ai tools",
+      "ai systems"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9732,
+    "group_id": 11304250
+   },
+   {
+    "id": 34645288,
+    "title": "Best SOC 2 Software in 2026: 10 Platforms Ranked by Audit-Readiness",
+    "url": "https://aijourn.com/best-soc-2-software-in-2026-10-platforms-ranked-by-audit-readiness/",
+    "publisher": "Aijourn",
+    "published_date": "2026-09-09T09:24:56",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8652,
+    "ai_summary": "A 2026 ranking identifies Scytale as the top SOC 2 compliance platform due to its combination of AI-driven automation and hands-on GRC expert support, followed by Scrut Automation and Secureframe. The evaluation scores ten platforms on criteria including continuous control monitoring, evidence automation, and multi-framework coverage to determine which tools best prepare organizations for an AICPA attestation. While these platforms streamline evidence collection and monitoring, the report emphasizes that only an independent CPA firm can issue the final SOC 2 report after an observation window.",
+    "word_count": 2131,
+    "author": "Aij Thought Leader",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) Platforms",
+      "code": "BPAEAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Controls & Continuous Compliance Monitoring",
+      "code": "HDADAIAH",
+      "is_primary": false
+     },
+     {
+      "name": "Internal Audit & SOX Compliance Services",
+      "code": "BPAHABAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005kt",
+      "name": "Thoropass",
+      "website": "https://thoropass.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02ma76t",
+      "name": "optro, inc. (fka auditboard, inc.)",
+      "website": "https://www.auditboard.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005j6",
+      "name": "Scrut Automation",
+      "website": "https://www.scrut.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002aa",
+      "name": "Hyperproof",
+      "website": "https://www.hyperproof.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pbu",
+      "name": "Centraleyes",
+      "website": "http://www.centraleyes.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000272",
+      "name": "accountancy and auditing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5616",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "541219",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "scytale",
+      "secureframe",
+      "thoropass",
+      "centraleyes",
+      "drata",
+      "vanta",
+      "sprinto",
+      "scrut automation",
+      "auditboard",
+      "hyperproof",
+      "soc 2 software",
+      "optro",
+      "azure devops",
+      "scrut",
+      "soc 2 compliance software",
+      "soc 2",
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10615867
+   },
+   {
+    "id": 34195721,
+    "title": "2026's Best ISO 27001 Software for Australia: 10 Platforms",
+    "url": "https://itwire.com/guest-articles/guest-reviews/2026s-best-iso-27001-software-for-australia-10-platforms",
+    "publisher": "iTWire",
+    "published_date": "2026-09-09T03:38:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8696,
+    "ai_summary": "A guide compares 10 ISO 27001 software platforms for Australian buyers, weighing them against IRAP, the Essential Eight, the Privacy Act, and APRA CPS 234. It notes that no platform performs an IRAP assessment, and data residency is a key local criterion. Scytale is recommended for first-time certifiers needing expert GRC support.",
+    "word_count": 4186,
+    "author": "Guest Writer",
+    "countries": [
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) Platforms",
+      "code": "BPAEAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Privacy, Consent & Data Protection Management",
+      "code": "BPAEAPAF",
+      "is_primary": false
+     },
+     {
+      "name": "Regulatory Compliance Management (RegTech)",
+      "code": "BPAEAPAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005kt",
+      "name": "Thoropass",
+      "website": "https://thoropass.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006b7",
+      "name": "ISMS.online",
+      "website": "https://www.isms.online",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000jy",
+      "name": "Optro",
+      "website": "https://optro.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005j6",
+      "name": "Scrut Automation",
+      "website": "https://www.scrut.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002aa",
+      "name": "Hyperproof",
+      "website": "https://www.hyperproof.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "658",
+      "name": "Travel"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "australia",
+      "uk",
+      "us",
+      "frankfurt",
+      "australian",
+      "london",
+      "eu",
+      "european"
+     ],
+     "product": [
+      "iso 27001 software",
+      "iso 27001",
+      "app 11",
+      "scytale",
+      "vanta",
+      "secureframe",
+      "sprinto",
+      "thoropass",
+      "hyperproof",
+      "isms.online",
+      "drata",
+      "optro",
+      "scrut automation",
+      "platform",
+      "auditboard",
+      "nis 2",
+      "sox",
+      "erm",
+      "esg"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8577,
+    "group_id": 10594853
+   },
+   {
+    "id": 33181614,
+    "title": "The Best ISO 27001 Software in Australia, According to 6 Buying Criteria (2026 Guide)",
+    "url": "https://itwire.com/guest-articles/guest-reviews/the-best-iso-27001-software-in-australia-according-to-6-buying-criteria-2026-guide",
+    "publisher": "iTWire",
+    "published_date": "2026-08-28T05:32:55",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6113,
+    "ai_summary": "A buyer's guide evaluates seven ISO 27001 compliance platforms in Australia against six criteria, including ISO 27001:2022 coverage, continuous monitoring between surveillance audits, cross-framework mapping to SOC 2 and the Essential Eight, connectors, JAS-ANZ audit handover and data residency. Scytale is ranked highest, with Vanta, Drata, Sprinto, ISMS.online and Scrut Automation also reviewed.",
+    "word_count": 3517,
+    "author": "Guest Writer",
+    "countries": [
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006b7",
+      "name": "ISMS.online",
+      "website": "https://www.isms.online",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005j6",
+      "name": "Scrut Automation",
+      "website": "https://www.scrut.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "605",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "australia",
+      "us",
+      "frankfurt",
+      "eu",
+      "australian",
+      "europe"
+     ],
+     "product": [
+      "iso 27001 software",
+      "isms platform",
+      "iso 27001 compliance software",
+      "identity platform",
+      "scytale",
+      "vanta",
+      "drata",
+      "sox",
+      "sprinto",
+      "secureframe",
+      "g2",
+      "scrut automation",
+      "isms.online",
+      "stripe",
+      "azure devops",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.812,
+    "group_id": 9817450
+   },
+   {
+    "id": 32706311,
+    "title": "'Everybody's Become a Builder': AI Creating New Security Problem",
+    "url": "https://www.benzinga.com/markets/private-markets/26/08/61368572/everyones-become-a-builder-vanta-warns-ai-is-upending-enterprise-security",
+    "publisher": "Benzinga",
+    "published_date": "2026-08-21T20:37:14",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0308,
+    "ai_summary": "Vanta reports that the adoption of AI tools has led to a 300% year-over-year increase in non-technical employees taking on software development and automation roles. This shift creates significant cybersecurity challenges as companies struggle to monitor \"shadow AI\" usage and the expanding network of autonomous agents accessing corporate data. Vanta is responding by deploying its own AI agents to automate security compliance, seeing a 250% rise in daily users for its solution.",
+    "word_count": 657,
+    "author": "Caroline Ryan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "LLM/GenAI Guardrails & Safety Controls (policy, filtering, routing)",
+      "code": "HDAAAKAD",
+      "is_primary": true
+     },
+     {
+      "name": "Regulatory Readiness & Audit Automation (e.g., EU AI Act, NIST AI RMF, ISO/IEC 42001)",
+      "code": "HDAAAMAE",
+      "is_primary": false
+     },
+     {
+      "name": "Responsible AI, AI Governance & Compliance Services",
+      "code": "BPAEAHAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": false
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003wk",
+      "name": "Benzinga",
+      "website": "http://www.benzinga.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jeremy epling"
+     ],
+     "location": [],
+     "product": [
+      "vanta agent"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9203498
+   },
+   {
+    "id": 32605574,
+    "title": "Filler: Who Answers When Your Website Doesn't Cover the Topic ?",
+    "url": "https://hackernoon.com/filler-who-answers-when-your-website-doesnt-cover-the-topic?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-08-21T06:12:12",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4203,
+    "ai_summary": "An analysis of how AI assistants respond to business buyers reveals that vendor websites are frequently bypassed in favor of third-party sources, particularly when addressing implementation details and customer experience. Testing against Vanta showed that while the company dominated answers regarding technical mechanics, its content was absent from responses concerning limitations, pricing, and implementation challenges, which were instead filled by consultancy Cavanex or unsourced assertions. The findings suggest that vendors risk losing influence over buyer perception if they do not proactively address topics that competitors and consultancies can easily discuss. ",
+    "word_count": 1896,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer, Marketing & Sales Consulting",
+      "code": "BPAHACAG",
+      "is_primary": true
+     },
+     {
+      "name": "Retail Execution Technology & Services (SFA, Planogram, Image Recognition)",
+      "code": "MPAAAJAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00228xa",
+      "name": "Covanex",
+      "website": "https://covanex.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003gfb",
+      "name": "Forrester",
+      "website": "http://www.forrester.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000283",
+      "name": "market research"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541910",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561312",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "vanta",
+      "okta",
+      "secureframe",
+      "drata",
+      "github",
+      "cavanex"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7303,
+    "group_id": 9122004
+   },
+   {
+    "id": 32605133,
+    "title": "Decrypt Compliance Accelerates SOC 2 Audits for Cloud-Native SaaS and AI Startups",
+    "url": "https://www.prlog.org/13165966-decrypt-compliance-accelerates-soc-2-audits-for-cloud-native-saas-and-ai-startups.html",
+    "publisher": "PRLog",
+    "published_date": "2026-08-21T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Decrypt Compliance announced an enhanced SOC 2 audit acceleration program designed to help B2B SaaS and AI startups complete audits in 3 to 6 weeks. The service integrates with automation platforms like Vanta, Drata, and Secureframe to streamline evidence collection and reduce administrative friction for engineering teams. This initiative aims to help early-stage companies meet enterprise security requirements faster without disrupting their product roadmaps. ",
+    "word_count": 1217,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000b7q6",
+      "name": "Decrypt Compliance",
+      "website": "https://www.decrypt.cpa",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [],
+    "naics_codes": [
+     {
+      "code": "541870",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "raymond cheng",
+      "l. ron hubbard",
+      "sharon pinkenson",
+      "carl resnick",
+      "tilden moschetti",
+      "grant hill"
+     ],
+     "location": [
+      "california",
+      "england",
+      "united states",
+      "san jose",
+      "china",
+      "orlando fl",
+      "india",
+      "australia",
+      "hong kong",
+      "los angeles",
+      "dubsdread"
+     ],
+     "product": [
+      "vanta",
+      "secureframe",
+      "drata",
+      "intelligent",
+      "phinge"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9116275
+   },
+   {
+    "id": 32817537,
+    "title": "Top 10 GRC tools in Australia for 2026",
+    "url": "https://independentaustralia.net/about-ia/sponsored-display/top10-grc-tools-in-australia-for-2026,21450",
+    "publisher": "Independent Australia",
+    "published_date": "2026-08-20T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6112,
+    "ai_summary": "The article ranks the top 10 Governance, Risk, and Compliance (GRC) software tools for Australian organizations in 2026, driven by regulatory changes such as the expiration of transitional relief for APRA's CPS 230 standard. It evaluates platforms like Scytale, Sentrient, Protecht, and Vanta based on their suitability for local regulations, data sovereignty, and specific operational needs ranging from workplace safety to international security certifications. ",
+    "word_count": 3217,
+    "author": "Independent Australia",
+    "countries": [
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "GRC Platforms & Workflow Automation",
+      "code": "HDADAIAA",
+      "is_primary": true
+     },
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00028xi",
+      "name": "Camms",
+      "website": "http://www.cammsgroup.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000e9rc",
+      "name": "Protecht",
+      "website": "https://www.protechtgroup.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00009ye",
+      "name": "ServiceNow",
+      "website": "http://www.servicenow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00093pj",
+      "name": "Sentrient",
+      "website": "https://www.sentrient.com.au/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006z5a",
+      "name": "Donesafe",
+      "website": "http://www.donesafe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000dxs",
+      "name": "Workiva",
+      "website": "http://www.workiva.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008g7",
+      "name": "MetricStream",
+      "website": "http://www.metricstream.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20001230",
+      "name": "environmental, social and governance policy (ESG)"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "dave hughes",
+      "tina yong"
+     ],
+     "location": [
+      "australia",
+      "adelaide",
+      "u.s.",
+      "australian"
+     ],
+     "product": [
+      "scytale",
+      "protecht",
+      "metricstream",
+      "vanta",
+      "workiva",
+      "sentrient",
+      "pali grc",
+      "hsi donesafe",
+      "camms",
+      "servicenow grc",
+      "lahebo",
+      "power bi",
+      "dynamics 365",
+      "servicenow",
+      "jira",
+      "aws",
+      "okta"
+     ],
+     "event": [
+      "election inquiry"
+     ]
+    },
+    "newsworthiness_score": 0.993,
+    "group_id": 9280502
+   },
+   {
+    "id": 33227077,
+    "title": "AI in risk management: Practical applications and considerations",
+    "url": "https://www.kq2.com/stacker-ai/2026/08/19/ai-in-risk-management-practical-applications-and-considerations/",
+    "publisher": "KQ2",
+    "published_date": "2026-08-19T08:47:26",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8197,
+    "ai_summary": "A guide from Vanta, an agentic trust platform, outlines how AI can improve risk management across identification, scoring, mitigation tracking and reporting, citing a 2026 GRC Engineer report finding 59% of practitioners rely on spreadsheets or custom tools. It warns that AI amplifies existing program weaknesses and lists governance challenges including defensible scoring, algorithmic bias, data security and explainability.",
+    "word_count": 1502,
+    "author": "Breaking News Alerts",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Enterprise AI Governance, Risk & Compliance Platforms (Model Risk, Audit, Policies)",
+      "code": "HDAEANAE",
+      "is_primary": true
+     },
+     {
+      "name": "Responsible AI Policy, Controls & Workflow Management",
+      "code": "HDAAAMAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jill henriques"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9845692
+   },
+   {
+    "id": 32820588,
+    "title": "6 Best AI Compliance Tools of 2026, Ranked",
+    "url": "https://impakter.com/best-ai-compliance-tools-of-2026-6-platforms-ranked-by-ai-capability/",
+    "publisher": "Impakter",
+    "published_date": "2026-08-19T08:35:47",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9915,
+    "ai_summary": "The article ranks six AI compliance software platforms\u2014Scytale, Drata, Vanta, Centraleyes, Sprinto, and Secureframe\u2014based on their automation depth and integration capabilities for 2026. It highlights that Scytale leads the list due to its agentic AI handling unprompted work and expert review layers, while noting significant user complaints regarding interface usability and pricing transparency across competitors like Drata and Vanta.",
+    "word_count": 2384,
+    "author": "Hannah Fischer-Lauder",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Responsible AI, AI Governance & Compliance Services",
+      "code": "BPAEAHAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Regulatory Readiness & Audit Automation (e.g., EU AI Act, NIST AI RMF, ISO/IEC 42001)",
+      "code": "HDAAAMAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pbu",
+      "name": "Centraleyes",
+      "website": "http://www.centraleyes.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "europe"
+     ],
+     "product": [
+      "scytale",
+      "ai compliance tools",
+      "platforms",
+      "drata",
+      "vanta",
+      "sprinto",
+      "secureframe",
+      "centraleyes",
+      "impakter.com",
+      "tool",
+      "compliance tool"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9559,
+    "group_id": 9282648
+   },
+   {
+    "id": 32821787,
+    "title": "AI in risk management: Practical applications and considerations",
+    "url": "https://kvia.com/stacker-ai/2026/08/19/ai-in-risk-management-practical-applications-and-considerations/",
+    "publisher": "KVIA",
+    "published_date": "2026-08-19T08:19:22",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8212,
+    "ai_summary": "Vanta published a guide detailing how artificial intelligence can be embedded into the full risk management life cycle to replace fragmented, manual processes with continuous, data-driven systems. The article outlines specific AI applications for identifying risks, scoring them consistently, tracking mitigation efforts, and generating real-time reports, while noting that successful implementation requires mature governance standards. It also highlights potential challenges such as algorithmic bias and security exposure associated with using AI in this context. ",
+    "word_count": 1502,
+    "author": "Breaking News Alerts",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Regulatory Readiness & Audit Automation (e.g., EU AI Act, NIST AI RMF, ISO/IEC 42001)",
+      "code": "HDAAAMAE",
+      "is_primary": true
+     },
+     {
+      "name": "Third-Party/Vendor Risk & Due Diligence",
+      "code": "BPAHAFAG",
+      "is_primary": false
+     },
+     {
+      "name": "Model Risk Management & AI Governance (validation, monitoring, explainability)",
+      "code": "FSAGAFAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jill henriques"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9282756
+   },
+   {
+    "id": 32471389,
+    "title": "Best ISO 27001 Tools and Software for UK Businesses (2026) \u2014 Retail Technology Innovation Hub",
+    "url": "https://retailtechinnovationhub.com/home/2026/8/18/best-iso-27001-tools-and-software-how-to-choose-for-your-uk-business-8-top-picks",
+    "publisher": "Retail Technology Innovation Hub",
+    "published_date": "2026-08-19T04:00:44",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5732,
+    "ai_summary": "The article evaluates eight ISO 27001 compliance tools and software platforms tailored for UK businesses, categorizing them into automation platforms, GRC suites, toolkits, and free options. It provides detailed reviews of vendors including Scytale, Vanta, Drata, SureCloud, and ISOvA, comparing their features, pricing models, and suitability for different organizational maturity levels. The piece concludes with a strategic framework for selecting the right solution based on whether a company is pursuing its first certification or managing an established governance programme. ",
+    "word_count": 3011,
+    "author": "Contributed Article",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Application Security Testing (SAST/DAST/IAST/SCA)",
+      "code": "HDADACAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006hed",
+      "name": "SureCloud",
+      "website": "https://www.surecloud.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006b7",
+      "name": "ISMS.online",
+      "website": "https://www.isms.online",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lwozv",
+      "name": "High Table",
+      "website": "https://hightable.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002wqk7",
+      "name": "ISOvA",
+      "website": "https://isova.co.uk",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "626",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "3843",
+      "name": "DENTAL EQUIPMENT & SUPPLIES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk",
+      "texas",
+      "london",
+      "frankfurt"
+     ],
+     "product": [
+      "sprinto",
+      "scytale",
+      "isova",
+      "vanta",
+      "surecloud",
+      "drata",
+      "hightable",
+      "microsoft 365",
+      "microsoft office",
+      "sharepoint",
+      "uk toolkits",
+      "isms.online",
+      "cyber essentials",
+      "software",
+      "compliance platform"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8258,
+    "group_id": 9074351
+   },
+   {
+    "id": 32368419,
+    "title": "GDPR in its 8th year: experts offer their thoughts on data protection regulation today",
+    "url": "https://aijourn.com/gdpr-in-its-8th-year-experts-offer-their-thoughts-on-data-protection-regulation-today/",
+    "publisher": "Aijourn",
+    "published_date": "2026-08-17T14:55:19",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Experts from Vanta, PagerDuty, Pipedrive, and Bitpace reflect on the lasting impact of GDPR eight years after its implementation, emphasizing its role in establishing data governance standards. The article highlights how GDPR principles have evolved to address modern challenges such as AI integration, cyber resilience, and specific industry needs like those in crypto. Industry leaders argue that treating compliance as an ongoing discipline rather than a one-time exercise is critical for maintaining trust and operational maturity. ",
+    "word_count": 999,
+    "author": "Aij Writing Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Responsible AI, AI Governance & Compliance Services",
+      "code": "BPAEAHAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Ethical Data Sourcing, Consent & Data Provenance",
+      "code": "HDAAAMAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005pf",
+      "name": "PagerDuty",
+      "website": "http://www.pagerduty.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003fbr",
+      "name": "Bitpace",
+      "website": "https://www.bitpace.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000ipj",
+      "name": "Pipedrive",
+      "website": "https://www.pipedrive.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "matt cooper",
+      "sean evers",
+      "lee fredricks",
+      "can taner"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9091755
+   },
+   {
+    "id": 33233126,
+    "title": "Best 11 SOC 2 Compliance Software for Fast-Growing Companies in 2026",
+    "url": "https://securityboulevard.com/2026/08/best-11-soc-2-compliance-software-for-fast-growing-companies-in-2026/",
+    "publisher": "Security Boulevard",
+    "published_date": "2026-08-14T23:48:15",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9844,
+    "ai_summary": "A Centraleyes guide evaluates 11 SOC 2 compliance platforms for fast-growing companies in 2026, citing rising third-party assurance demand and Verizon's 2026 DBIR finding that 48% of analyzed breaches involved third parties. It recommends evidence reuse, continuous monitoring, multi-framework mapping, and auditor collaboration, and names Centraleyes, Vanta, Drata, Secureframe, Hyperproof, Thoropass, Sprinto, Scrut, Scytale, Optro and Delve.",
+    "word_count": 2099,
+    "author": "Rebecca Kappel",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": true
+     },
+     {
+      "name": "Controls & Continuous Compliance Monitoring",
+      "code": "HDADAIAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005kt",
+      "name": "Thoropass",
+      "website": "https://thoropass.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000jy",
+      "name": "Optro",
+      "website": "https://optro.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002aa",
+      "name": "Hyperproof",
+      "website": "https://www.hyperproof.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005j6",
+      "name": "Scrut Automation",
+      "website": "https://www.scrut.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pbu",
+      "name": "Centraleyes",
+      "website": "http://www.centraleyes.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541519",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "rebecca kappel"
+     ],
+     "location": [],
+     "product": [
+      "soc 2",
+      "iso 27001",
+      "centraleyes",
+      "vanta",
+      "optro",
+      "drata",
+      "thoropass",
+      "sprinto",
+      "scytale",
+      "hyperproof",
+      "delve",
+      "auditboard"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8917,
+    "group_id": 9849537
+   },
+   {
+    "id": 32401580,
+    "title": "Compute Exchange",
+    "url": "https://www.linkedin.com/company/compute-exchange",
+    "publisher": "LinkedIn",
+    "published_date": "2026-08-13T13:17:54",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Compute Exchange has achieved SOC 2 Type II compliance, validating that its security controls and operational integrity are consistently enforced over an extended period. The company credited Prescient Security and Vanta for guiding it through the audit and certification process. ",
+    "word_count": 126,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Compliance, Risk & Audit Management (SOC 2/ISO/PCI)",
+      "code": "HDABANAK",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0004zs3",
+      "name": "Compute Exchange",
+      "website": "https://compute.exchange",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006bvv",
+      "name": "Prescient Security",
+      "website": "https://prescientsecurity.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "compute"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.811,
+    "group_id": 7430805
+   },
+   {
+    "id": 32026587,
+    "title": "What is Tokenmaxxing, and why should businesses care about it?",
+    "url": "https://www.techradar.com/pro/what-is-tokenmaxxing-and-why-should-businesses-care-about-it",
+    "publisher": "TechRadar",
+    "published_date": "2026-08-13T08:59:47",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.278,
+    "ai_summary": "The article defines 'tokenmaxxing' as the practice of over-engineering AI prompts to maximize output, a trend driven by corporate pressure to prove ROI on generative AI investments. This behavior is linked to significant security risks, including the rise of unmanaged 'shadow AI' tools that bypass governance and expose sensitive data. The author argues that businesses must align procurement speeds with AI innovation and implement stricter monitoring to mitigate these cybersecurity threats. ",
+    "word_count": 903,
+    "author": "Iccha Sethi",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "LLM/GenAI Guardrails & Safety Controls (policy, filtering, routing)",
+      "code": "HDAAAKAD",
+      "is_primary": true
+     },
+     {
+      "name": "Model Risk Management & AI Governance (validation, monitoring, explainability)",
+      "code": "FSAGAFAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000022h",
+      "name": "Meta",
+      "website": "https://www.meta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000323v",
+      "name": "TechRadar",
+      "website": "https://www.techradar.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "003xjel",
+      "name": "Claude",
+      "website": "https://claude.ai ",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "iccha sethi"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "claude"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7072771
+   },
+   {
+    "id": 31981412,
+    "title": "The AI governance confidence gap: Why trust in AI is running ahead of the capacity to govern it",
+    "url": "https://localnews8.com/stacker-ai/2026/08/12/the-ai-governance-confidence-gap-why-trust-in-ai-is-running-ahead-of-the-capacity-to-govern-it/",
+    "publisher": "Local News 8",
+    "published_date": "2026-08-12T17:41:06",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0536,
+    "ai_summary": "A study by Axipro highlights a significant imbalance in AI governance hiring, revealing that for every governance role, companies are hiring seven AI builder roles. The report found that fewer than 30% of governance job postings referenced the EU AI Act, suggesting a disconnect between organizational roles and regulatory requirements. As the EU's transparency obligations loom, organizations face pressure to align governance functions with the expected timeline while managing increasing hiring challenges. ",
+    "word_count": 1351,
+    "author": "Breaking News Alerts",
+    "countries": [
+     "BEL",
+     "FRA",
+     "DEU",
+     "IRL",
+     "ITA",
+     "NLD",
+     "ESP",
+     "SWE"
+    ],
+    "industries": [
+     {
+      "name": "Responsible AI, AI Governance & Compliance Services",
+      "code": "BPAEAHAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Model Risk Management & AI Governance (validation, monitoring, explainability)",
+      "code": "FSAGAFAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": false
+     },
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000jgbi",
+      "name": "Axipro",
+      "website": "http://www.axipro.ch",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "france",
+      "germany",
+      "ireland",
+      "sweden",
+      "spain",
+      "belgium",
+      "italy",
+      "europe",
+      "dublin",
+      "netherlands",
+      "us"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7098553
+   },
+   {
+    "id": 31907806,
+    "title": "Vanta Names Sarah Scharf Chief Marketing Officer as Trust Becomes the Defining Challenge of the AI Era",
+    "url": "https://aithority.com/security/vanta-names-sarah-scharf-chief-marketing-officer-as-trust-becomes-the-defining-challenge-of-the-ai-era/",
+    "publisher": "AiThority",
+    "published_date": "2026-08-12T13:34:05",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Vanta has appointed Sarah Scharf as Chief Marketing Officer, a role through which she will oversee the entire marketing organization. Under her leadership, Vanta aims to address the growing importance of trust in AI systems, particularly as the company has recently surpassed $300 million in annual recurring revenue. This milestone highlights Vanta's expansion and leadership in the AI governance space. ",
+    "word_count": 412,
+    "author": "Business Wire",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Search, Discovery & Ranking Personalization",
+      "code": "HDAAAGAE",
+      "is_primary": true
+     },
+     {
+      "name": "IT Procurement, Lifecycle & Asset Management Services",
+      "code": "BPAEABAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "C-Suite Appointments & Departures",
+      "code": "LG01",
+      "is_primary": true
+     },
+     {
+      "name": "Sustainability & ESG",
+      "code": "SD09",
+      "is_primary": false
+     },
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sarah scharf",
+      "christina cacioppo",
+      "gou rao"
+     ],
+     "location": [],
+     "product": [
+      "android",
+      "google play"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7749205
+   },
+   {
+    "id": 31854626,
+    "title": "$4 billion Vanta has a new CMO who wants to make security compliance marketing 'a little zingier'",
+    "url": "https://www.businessinsider.com/vanta-promotes-sarah-scharf-cmo-2026-8",
+    "publisher": "Business Insider",
+    "published_date": "2026-08-12T11:00:01",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Security-compliance software startup Vanta has promoted Sarah Scharf from VP of marketing to CMO, tasking her with repositioning the brand as a \"trust company\" and modernizing its internal marketing operations. The promotion comes as Vanta seeks to differentiate itself in the security sector through playful branding while leveraging AI tools for content creation and customer engagement. ",
+    "word_count": 513,
+    "author": "Lara O'Reilly",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Federation & Identity Standards (SAML/OIDC/OAuth, Federation Hubs)",
+      "code": "HDADAAAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "C-Suite Appointments & Departures",
+      "code": "LG01",
+      "is_primary": true
+     },
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": false
+     },
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000c6o",
+      "name": "GitHub",
+      "website": "https://github.com/c-klex",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bs",
+      "name": "Snowflake",
+      "website": "https://www.snowflake.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6200",
+      "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sarah scharf",
+      "sarah ashdown"
+     ],
+     "location": [
+      "san francisco"
+     ],
+     "product": [
+      "midjourney"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.908,
+    "group_id": 9105625
+   },
+   {
+    "id": 31707817,
+    "title": "Seamless.AI Features: Complete Breakdown [Aug 2026]",
+    "url": "https://pipeline.zoominfo.com/sales/seamless-ai-features",
+    "publisher": "Zoominfo",
+    "published_date": "2026-08-11T12:12:28",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5996,
+    "ai_summary": "Seamless.AI is presented as a B2B sales intelligence platform utilizing real-time AI search to verify and deliver contact data, operating across Data Engine, Engagement Hub, and Automation Network pillars. The article details its feature set including Prospector, Connect, and Autopilot while highlighting gaps in conversation intelligence and native CRM integrations compared to competitor ZoomInfo. It concludes by positioning ZoomInfo as a comprehensive alternative that fills these functional voids through its GTM Context Graph, Chorus conversation intelligence, and native ecosystem integrations. ",
+    "word_count": 4314,
+    "author": "Dominik Facherchief Product Officer",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000p8t",
+      "name": "Twilio",
+      "website": "https://www.twilio.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000cl5",
+      "name": "Bombora",
+      "website": "http://bombora.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007e5",
+      "name": "Seismic",
+      "website": "https://seismic.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "127",
+      "name": "Careers"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51929",
+      "name": "Information"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "north america",
+      "na"
+     ],
+     "product": [
+      "zoominfo",
+      "seamless.ai",
+      "bombora",
+      "twilio",
+      "prospector",
+      "zapier",
+      "linkedin",
+      "gtm studio",
+      "crm enrich",
+      "connect",
+      "chrome extension",
+      "ai assistant",
+      "nlp",
+      "buyer intent",
+      "chrome web store",
+      "gmail",
+      "autopilot",
+      "api",
+      "outlook",
+      "chatgpt",
+      "cursor",
+      "vs code",
+      "claude desktop",
+      "claude code",
+      "mixmax",
+      "salesloft",
+      "my contacts",
+      "hubspot",
+      "engagement hub",
+      "openapi",
+      "outreach",
+      "zoominfo intent",
+      "websights",
+      "chorus",
+      "gtm workspace",
+      "zoominfo gtm studio",
+      "zoominfo lite",
+      "claude",
+      "websights lite",
+      "apis",
+      "databricks",
+      "mcp",
+      "meta"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.755,
+    "group_id": 6979233
+   },
+   {
+    "id": 32315112,
+    "title": "Aragon AI Revenue 2025: $10M ARR (Bootstrapped)",
+    "url": "https://getlatka.com/companies/aragon.ai",
+    "publisher": "B2B SaaS Blog",
+    "published_date": "2026-08-10T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Aragon AI has achieved $10 million in annual recurring revenue (ARR) and is currently profitable with over one million users. The company, headquartered in the Bay Area, aims to disrupt the professional photography market by replacing traditional camera manufacturers like Nikon, Sony, and Canon through AI technology. Its investor backing includes prominent venture capital firms such as Neo and Sequoia. ",
+    "word_count": 66,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Content Authenticity, Watermarking & Deepfake Detection",
+      "code": "HDAAAKAK",
+      "is_primary": true
+     },
+     {
+      "name": "Camera & Lens Retail (Photo Cameras, Lenses & Optical Accessories)",
+      "code": "CRACAHAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     },
+     {
+      "name": "Research, Development & Innovation",
+      "code": "SD08",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000qad",
+      "name": "Dropbox DocSend",
+      "website": "https://www.docsend.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003o4",
+      "name": "Sony",
+      "website": "https://www.sony.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eeg",
+      "name": "Nikon",
+      "website": "https://www.nikon.co.jp/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000yp",
+      "name": "Neo",
+      "website": "http://www.neo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003u",
+      "name": "Sequoia Capital",
+      "website": "http://www.sequoiacap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005qyo",
+      "name": "Aragon.ai",
+      "website": "https://aragon.ai/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000fl3",
+      "name": "Kodak",
+      "website": "http://kodak.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005our",
+      "name": "Canon",
+      "website": "https://global.canon",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "the bay area"
+     ],
+     "product": [
+      "nikon",
+      "kodak",
+      "sony",
+      "canon"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8143,
+    "group_id": 7428958
+   },
+   {
+    "id": 31554925,
+    "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026",
+    "url": "https://abc17news.com/stacker-cybersecurity-privacy/2026/08/07/5-cybersecurity-regulations-healthcare-organizations-cant-afford-to-overlook-in-2026/",
+    "publisher": "ABC17NEWS",
+    "published_date": "2026-08-08T04:39:31",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7341,
+    "ai_summary": "Regulatory agencies and standards bodies are increasingly prioritizing cybersecurity in healthcare, focusing on protecting sensitive patient information from threats. Key frameworks like HIPAA, NIST CSF, HITECH, HITRUST, and ISO/IEC 27001 are essential for compliance, with organizations needing to determine which to implement based on their specific data and risk profiles. As the intersection of healthcare and cybersecurity continues to evolve, organizations must adapt to maintain compliance and protect patient data effectively. ",
+    "word_count": 1798,
+    "author": "Breaking News Alerts",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+      "code": "HLACAJAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Threat Detection & Response (EDR/XDR/NDR) for Healthcare Environments",
+      "code": "HLACAJAF",
+      "is_primary": false
+     },
+     {
+      "name": "Consent, Privacy Management & Patient Identity (CIAM/Consent)",
+      "code": "HLACAJAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": true
+     },
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": false
+     },
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561621",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "faisal khan"
+     ],
+     "location": [
+      "u.s.",
+      "eu"
+     ],
+     "product": [
+      "hitrust",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7348975
+   },
+   {
+    "id": 31504668,
+    "title": "SOC 2 Policies: What Founders Actually Need to Write",
+    "url": "https://securityboulevard.com/2026/08/soc-2-policies-what-founders-actually-need-to-write/",
+    "publisher": "Security Boulevard",
+    "published_date": "2026-08-07T16:30:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4203,
+    "ai_summary": "The article provides a strategic guide for founders on implementing SOC 2 compliance, emphasizing the necessity of writing specific security policies to satisfy enterprise procurement requirements and audit standards. It details ten core policies required for attestation and outlines the operational roles and costs associated with compliance automation platforms like Vanta, Drata, and Secureframe. ",
+    "word_count": 1917,
+    "author": "Deepak Gupta",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003ukx",
+      "name": "AICPA",
+      "website": "https://www.aicpa-cima.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000g45",
+      "name": "LoginRadius",
+      "website": "http://www.loginradius.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "deepak gupta"
+     ],
+     "location": [],
+     "product": [
+      "loginradius",
+      "soc 2",
+      "vanta",
+      "secureframe",
+      "drata"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9169,
+    "group_id": 9106166
+   },
+   {
+    "id": 31362316,
+    "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
+    "url": "https://www.techtimes.com/articles/323241/20260805/akamai-uncovers-ai-browser-exploits-cve-rates-hit-16-enterprises.htm",
+    "publisher": "Tech Times",
+    "published_date": "2026-08-05T20:36:41",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0637,
+    "ai_summary": "AI security researchers at Akamai Technologies released their Enterprise AI Usage Risk Report, documenting three attack classes \u2014 vibe hacking, CursorJacking, and CometJacking \u2014 that exploit trust relationships built into AI tools rather than attacking traditional network perimeters. The report found that 16.3% of AI browser extensions in enterprise environments carry known security vulnerabilities, while nearly half of all enterprise AI activity flows through unmanaged personal accounts outside security team visibility. Akamai simultaneously launched Workforce Protector, a browser-layer security product built on its LayerX acquisition, to address the visibility and governance gaps the research identified.",
+    "word_count": 2886,
+    "author": "Scott Mccain",
+    "countries": [
+     "USA",
+     "GBR",
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Prompt Security & Injection Defense",
+      "code": "HDAAAKAE",
+      "is_primary": true
+     },
+     {
+      "name": "Security Analytics & Detection Engineering",
+      "code": "HDADAGAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Cybersecurity Incidents",
+      "code": "RK05",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     },
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": false
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00kdh2i",
+      "name": "Novee Security",
+      "website": "https://novee.security",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bi",
+      "name": "Akamai",
+      "website": "https://www.akamai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000004",
+      "name": "Perplexity",
+      "website": "https://www.perplexity.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003n6",
+      "name": "Zscaler",
+      "website": "https://www.zscaler.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000vl",
+      "name": "Ox Security",
+      "website": "https://www.ox.security",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002ok",
+      "name": "Cato Networks",
+      "website": "http://www.catonetworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029t",
+      "name": "LayerX",
+      "website": "https://www.layerxsecurity.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "02joy9l",
+      "name": "Cursor",
+      "website": "https://www.cursor.sh",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "56162",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "eshed",
+      "michelle levy",
+      "ofer wolf"
+     ],
+     "location": [
+      "uk"
+     ],
+     "product": [
+      "cursor",
+      "github copilot",
+      "workforce protector",
+      "claude",
+      "chatgpt",
+      "gemini",
+      "microsoft copilot",
+      "comet",
+      "chrome",
+      "gemini 2.5 pro",
+      "meta llama",
+      "purview",
+      "layerx",
+      "chrome extensions"
+     ],
+     "event": [
+      "rsac 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6159320
+   },
+   {
+    "id": 32821896,
+    "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026",
+    "url": "https://kioncentralcoast.com/stacker-cybersecurity-privacy/2026/08/04/5-cybersecurity-regulations-healthcare-organizations-cant-afford-to-overlook-in-2026/",
+    "publisher": "Kioncentralcoast",
+    "published_date": "2026-08-05T00:24:15",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7344,
+    "ai_summary": "Vanta, an agentic trust platform, outlines five key cybersecurity frameworks\u2014NIST CSF, HIPAA, HITECH, HITRUST, and ISO/IEC 27001\u2014that healthcare organizations must prioritize to protect protected health information. The article details the specific requirements and overlaps of these regulations, noting recent updates such as HHS proposals for mandatory encryption under HIPAA. It advises healthcare entities to adopt automated compliance management tools to streamline multi-framework adoption and reduce operational burdens. ",
+    "word_count": 1798,
+    "author": "Breaking News Alerts",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+      "code": "HLACAJAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00035i2",
+      "name": "National Institute of Standards and Technology",
+      "website": "https://www.nist.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00045bz",
+      "name": "International Organization for Standardization",
+      "website": "http://www.iso.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "000bv4d",
+      "name": "International Electrotechnical Commission",
+      "website": "http://www.iec.ch",
+      "is_primary": false
+     },
+     {
+      "uuid": "000528w",
+      "name": "U.S. Department of Health & Human Services",
+      "website": "http://www.hhs.gov",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "faisal khan"
+     ],
+     "location": [
+      "u.s.",
+      "eu"
+     ],
+     "product": [
+      "hitrust",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9282818
+   },
+   {
+    "id": 32813389,
+    "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026",
+    "url": "https://kernvalleysun.com/premium/stacker/stories/5-cybersecurity-regulations-healthcare-organizations-can039t-afford-to-overlook-in-2026,76632?",
+    "publisher": "Kernvalleysun",
+    "published_date": "2026-08-04T14:35:04",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5813,
+    "ai_summary": "Vanta outlines five critical cybersecurity frameworks\u2014NIST CSF, HIPAA, HITECH, HITRUST, and ISO/IEC 27001\u2014that healthcare organizations must prioritize to protect protected health information. The article details the specific requirements of each framework, noting that while some are mandatory regulations like HIPAA, others are voluntary standards that help streamline compliance and security posture. It advises organizations to evaluate their data sensitivity and operational scope to select the most effective combination of these frameworks. ",
+    "word_count": 1814,
+    "author": "Sarah Cottone For Vanta",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+      "code": "HLACAJAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00035i2",
+      "name": "National Institute of Standards and Technology",
+      "website": "https://www.nist.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00045bz",
+      "name": "International Organization for Standardization",
+      "website": "http://www.iso.org",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "faisal khan"
+     ],
+     "location": [
+      "u.s.",
+      "eu"
+     ],
+     "product": [
+      "hitrust",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9277863
+   },
+   {
+    "id": 32316437,
+    "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026",
+    "url": "https://pontevedrarecorder.com/premium/stacker/stories/5-cybersecurity-regulations-healthcare-organizations-can039t-afford-to-overlook-in-2026,187127",
+    "publisher": "Pontevedrarecorder",
+    "published_date": "2026-08-04T14:35:04",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5859,
+    "ai_summary": "Vanta, an agentic trust platform, outlines five critical cybersecurity regulations and frameworks\u2014NIST CSF, HIPAA, HITECH, HITRUST, and ISO/IEC 27001\u2014that healthcare organizations must navigate to protect protected health information. The article details the specific requirements of each framework, noting that while HIPAA and HITECH are mandatory for covered entities, others like HITRUST and ISO/IEC 27001 are often adopted voluntarily to streamline compliance and enhance security postures. It emphasizes the strategic value of cross-mapping control evidence across these overlapping standards to reduce operational duplication. ",
+    "word_count": 1814,
+    "author": "Sarah Cottone For Vanta",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+      "code": "HLACAJAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00053wx",
+      "name": "Stacker",
+      "website": "https://stacker.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000086",
+      "name": "cyber crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "faisal khan"
+     ],
+     "location": [
+      "u.s.",
+      "eu"
+     ],
+     "product": [
+      "hitrust",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 7428192
+   },
+   {
+    "id": 31551332,
+    "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026",
+    "url": "https://www.suffolkcountynews.net/premium/stacker/stories/5-cybersecurity-regulations-healthcare-organizations-can039t-afford-to-overlook-in-2026,126159",
+    "publisher": "Suffolkcountynews",
+    "published_date": "2026-08-04T14:35:04",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5852,
+    "ai_summary": "The article discusses five key cybersecurity regulations and frameworks\u2014NIST CSF, HIPAA, HITECH, HITRUST, and ISO/IEC 27001\u2014that healthcare organizations should prioritize in 2026 to protect protected health information (PHI). It details the requirements, scope, and strategic considerations of each regulation and framework. The article emphasizes the importance of aligning compliance efforts across multiple standards to enhance security posture and streamline processes.",
+    "word_count": 1814,
+    "author": "Sarah Cottone For Vanta",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+      "code": "HLACAJAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": true
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "608",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561621",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "faisal khan"
+     ],
+     "location": [
+      "u.s.",
+      "eu"
+     ],
+     "product": [
+      "hitrust",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6351092
+   },
+   {
+    "id": 31379941,
+    "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026",
+    "url": "https://news.halstonmedia.com/mahopac-news/premium/stacker/stories/5-cybersecurity-regulations-healthcare-organizations-can039t-afford-to-overlook-in-2026,90705",
+    "publisher": "Halstonmedia",
+    "published_date": "2026-08-04T14:35:04",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5852,
+    "ai_summary": "This article examines five key cybersecurity frameworks and regulations\u2014NIST CSF, HIPAA, HITECH, HITRUST, and ISO/IEC 27001\u2014that healthcare organizations should prioritize when managing protected health information (PHI). Produced by Vanta, the piece explains each framework's requirements, overlaps, and strategic considerations for organizations evaluating which compliance path to pursue. The article emphasizes that HIPAA and HITECH establish the regulatory baseline in the U.S., while HITRUST bridges broad requirements with specific implementation guidance, and recommends that organizations map their compliance efforts across frameworks to reduce duplication and build a stronger security posture.",
+    "word_count": 1814,
+    "author": "Sarah Cottone For Vanta",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+      "code": "HLACAJAJ",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Data Privacy & Cybersecurity Regulation",
+      "code": "RC07",
+      "is_primary": true
+     },
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "faisal khan"
+     ],
+     "location": [
+      "u.s.",
+      "eu"
+     ],
+     "product": [
+      "hitrust",
+      "iso 27001"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 6019258
+   },
+   {
+    "id": 30961471,
+    "title": "Vanta Review: AI Agent for Security & Compliance | Quasa",
+    "url": "https://quasa.io/video/vanta-review-ai-agent-for-security-compliance-quasa",
+    "publisher": "Quasa is a metaverse that unites people",
+    "published_date": "2026-07-31T14:04:58",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Vanta is an AI-powered platform that automates security compliance, risk management, and trust operations for organizations by integrating with various tech stack tools. The system continuously monitors controls, automatically collects evidence, and utilizes an AI agent to assist with policy drafting, questionnaires, and audit preparation. ",
+    "word_count": 296,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Cloud Compliance, Audit & Continuous Controls Monitoring (CCM/GRC)",
+      "code": "HDABAHAI",
+      "is_primary": true
+     },
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541513",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "vanta"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.841,
+    "group_id": 7690295
+   },
+   {
+    "id": 30608232,
+    "title": "AI Agents Are Driving Measurable Value To CRM Operations",
+    "url": "https://www.forrester.com/blogs/ai-agents-are-driving-measurable-value-to-crm-operations/",
+    "publisher": "Forrester",
+    "published_date": "2026-07-30T10:55:16",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A report by Forrester Research finds that AI agents are delivering measurable business value to CRM operations by increasing productivity, lowering costs, and enabling scalable execution across customer service and sales functions.",
+    "word_count": 580,
+    "author": "Kate Leggett",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006bo",
+      "name": "Engine",
+      "website": "http://www.engine.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000vi",
+      "name": "Siemens",
+      "website": "https://sw.siemens.com/en-us",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02lx9v6",
+      "name": "Sephora",
+      "website": "https://www.sephora.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "56142",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "561422",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.8379,
+    "group_id": 5216984
+   },
+   {
+    "id": 40529701,
+    "title": "Descript SOC 2: What the Compliance Certification Covers",
+    "url": "https://www.descript.com/blog/article/descript-is-now-soc-2-compliant",
+    "publisher": "Descript",
+    "published_date": "2026-07-29T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Descript announced SOC 2 Type I compliance, audited as of December 15, 2020, covering security, confidentiality, and privacy. The company expects SOC 2 Type II certification in 2021, and the certification is available to Enterprise clients.",
+    "word_count": 703,
+    "author": "Chris Zald\u00faa",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005sv",
+      "name": "Descript",
+      "website": "https://www.descript.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000627",
+      "name": "data protection policy"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jay leboeuf",
+      "sunny rochiramani"
+     ],
+     "location": [],
+     "product": [
+      "descript"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8286,
+    "group_id": 14408069
+   },
+   {
+    "id": 29275943,
+    "title": "Cloud Combinator partners with Vanta to deliver AI security and compliance for AWS startups (Sponsored)",
+    "url": "https://www.eu-startups.com/2026/07/cloud-combinator-partners-with-vanta-to-deliver-ai-security-and-compliance-for-aws-startups-sponsored/",
+    "publisher": "EU-Startups",
+    "published_date": "2026-07-21T09:05:31",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Cloud Combinator, an AWS Advanced Tier Services Partner specializing in data, AI, and ML for startups across EMEA, has partnered with Vanta, an agentic trust platform, to deliver AI security and compliance solutions for AWS-based startups through the AWS BOX Program. The joint solution aims to address the growing complexity of AI compliance driven by the EU AI Act and ISO/IEC 42001, offering startups a 60-day path from first review to readiness without the cost of building in-house expertise. The partnership positions AI compliance as a competitive differentiator for enterprise sales rather than a growth blocker.",
+    "word_count": 575,
+    "author": "Ethan Conroy",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Regulatory Readiness & Audit Automation (e.g., EU AI Act, NIST AI RMF, ISO/IEC 42001)",
+      "code": "HDAAAMAE",
+      "is_primary": true
+     },
+     {
+      "name": "Cloud Landing Zone & Architecture (Network, IAM, Governance)",
+      "code": "BPAEACAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02i72ga",
+      "name": "CLOUD COMBINATOR LTD",
+      "website": "https://cloudcombinator.ai/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5415",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "anton nazaruk"
+     ],
+     "location": [
+      "emea"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.8676,
+    "group_id": 4855178
+   },
+   {
+    "id": 35683631,
+    "title": "RAISE Summit 2026: AI\u2019s Infrastructure Reckoning",
+    "url": "https://www.frenchtechjournal.com/raise-summit-2026-ai-infrastructure-reckoning/",
+    "publisher": "The French Tech Journal",
+    "published_date": "2026-07-15T00:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5523,
+    "ai_summary": "The 3rd RAISE Summit in Paris focused on AI infrastructure, with a $20B compute deal between OpenAI and Cerebras and a 200MW European data center buildout. Executives cited efficiency gains and agentic AI, but warned that physical infrastructure remains a bottleneck. The event doubled in size and will move to a larger venue in 2027.",
+    "word_count": 1681,
+    "author": "Chris O'Brien",
+    "countries": [
+     "FRA",
+     "SWE",
+     "FIN",
+     "NOR"
+    ],
+    "industries": [
+     {
+      "name": "AI Compute Cloud & GPU-as-a-Service",
+      "code": "HDAAAAAK",
+      "is_primary": true
+     },
+     {
+      "name": "HPC / AI-Optimized Data Center Facilities",
+      "code": "HDABACAJ",
+      "is_primary": false
+     },
+     {
+      "name": "AI Datacenter Power, Cooling & Racks (liquid cooling, power delivery)",
+      "code": "HDAAAAAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ku",
+      "name": "Cerebras Systems",
+      "website": "https://cerebras.ai",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000064j",
+      "name": "Vertiv",
+      "website": "https://www.Vertiv.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ye",
+      "name": "ServiceNow",
+      "website": "http://www.servicenow.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000r9",
+      "name": "Google",
+      "website": "https://www.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006cu",
+      "name": "FedEx",
+      "website": "http://www.fedex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000by",
+      "name": "Goldman Sachs",
+      "website": "https://www.goldmansachs.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "596",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "599",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "541513",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "3576",
+      "name": "COMPUTER COMMUNICATIONS EQUIPMENT"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andrew feldman",
+      "sachin katti",
+      "grant lee",
+      "josh wolfe",
+      "scott wu",
+      "jordan topoleski",
+      "emmanuel macron",
+      "katti",
+      "kavitha mariappan",
+      "may habib",
+      "marco argenti",
+      "vishal talwar",
+      "amin vahdat",
+      "paolo guglielmini",
+      "giordano albertazzi",
+      "anton osika",
+      "hadrien de cournon",
+      "mark cuban"
+     ],
+     "location": [
+      "norway",
+      "finland",
+      "europe",
+      "lyon",
+      "france",
+      "paris",
+      "silicon valley",
+      "carrousel du louvre",
+      "asia",
+      "us",
+      "louvre",
+      "palais des congr\u00e8s"
+     ],
+     "product": [
+      "phi-6",
+      "codex",
+      "x",
+      "frontier"
+     ],
+     "event": [
+      "raise summit"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 2928697
+   },
+   {
+    "id": 27490215,
+    "title": "Vanta: Interview With CRO Stevie Case About The Automated Trust Management Platform",
+    "url": "https://pulse2.com/vanta-profile-stevie-case-interview/",
+    "publisher": "Pulse 2.0",
+    "published_date": "2026-07-13T12:00:23",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "In an interview with Pulse 2.0, Vanta CRO Stevie Case discussed the company's AI-powered trust management platform that automates security compliance for standards like SOC 2, ISO 27001, HIPAA, and GDPR. Vanta announced a $150 million Series D funding round in July, valuing the company at $4.15 billion, alongside the acquisition of Riskey, a real-time third-party risk monitoring pioneer, and the launch of over 350 features including AI agents and AI-powered Trust Centers. The company has scaled to support 14,000 companies of all sizes, including enterprise customers like Ramp, Duolingo, Atlassian, and Snowflake, and recently opened a new office in London while expanding its sales team.",
+    "word_count": 1510,
+    "author": "Amit Chowdhry",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Business Intelligence, Reporting & Visualization Services",
+      "code": "BPAEAHAD",
+      "is_primary": true
+     },
+     {
+      "name": "Account Opening, KYC/AML & Customer Due Diligence (CDD/EDD)",
+      "code": "FSABALAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Executive Commentary & Interviews",
+      "code": "LG05",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0008mlx",
+      "name": "Riskey",
+      "website": "https://riskey.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "53",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "56162",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "561621",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "stevie case",
+      "christina",
+      "christina capaccio",
+      "case"
+     ],
+     "location": [
+      "austin, texas",
+      "london"
+     ],
+     "product": [
+      "killcreek",
+      "vanta",
+      "riskey",
+      "snowflake",
+      "vanta ai",
+      "duolingo",
+      "ramp",
+      "vanta ai agent"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7989,
+    "group_id": 2963197
+   },
+   {
+    "id": 32808759,
+    "title": "Vanta and Carahsoft Announce Vanta\u2019s Achievement of FedRAMP\u00ae 20x Class C Certification",
+    "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/vanta-and-carahsoft-announce-vantas-achievement-of-fedramp-20x-class-c-certification/2381909",
+    "publisher": "The Manila Times ",
+    "published_date": "2026-07-10T00:10:49",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Vanta has achieved FedRAMP 20x Class C Certification for its Government Cloud offering, a milestone announced in partnership with distributor Carahsoft Technology Corp. This authorization enables U.S. Federal agencies to leverage Vanta's automated trust management platform to enhance continuous compliance and risk management. The certification allows Vanta to better serve both government clients and commercial customers pursuing similar compliance efforts.",
+    "word_count": 678,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Cloud Identity & Access Management Infrastructure (IAM/IdP/MFA)",
+      "code": "HDABAHAF",
+      "is_primary": true
+     },
+     {
+      "name": "Federation & Identity Standards (SAML/OIDC/OAuth, Federation Hubs)",
+      "code": "HDADAAAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Regulatory Approvals & Certifications",
+      "code": "RC01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000crt",
+      "name": "Carahsoft Technology",
+      "website": "http://www.carahsoft.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "618",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "morgan kaplan",
+      "brian o\u2019donnell",
+      "mary lange",
+      "david patterson"
+     ],
+     "location": [
+      "san francisco",
+      "reston"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9702,
+    "group_id": 9274939
+   },
+   {
+    "id": 32329762,
+    "title": "The 10 Best AI Tools for SOC 2 Compliance in 2026",
+    "url": "https://hackernoon.com/the-10-best-ai-tools-for-soc-2-compliance-in-2026",
+    "publisher": "HackerNoon",
+    "published_date": "2026-07-09T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9744,
+    "ai_summary": "The article ranks the top ten AI platforms for SOC 2 compliance in 2026, highlighting Scytale as the leading solution due to its combination of automated evidence collection with expert human review. It details how tools like Drata, Vanta, and Secureframe utilize autonomous agents to streamline continuous monitoring and questionnaire automation for thousands of customers. The guide emphasizes that successful implementation requires balancing AI efficiency with human verification to ensure audit-ready evidence.",
+    "word_count": 2602,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Enterprise AI Governance, Risk & Compliance Platforms (Model Risk, Audit, Policies)",
+      "code": "HDAEANAE",
+      "is_primary": true
+     },
+     {
+      "name": "Security Audits & Compliance (ISO 27001, SOC 2, PCI DSS, HIPAA, SOX)",
+      "code": "BPAKADAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     },
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008wj",
+      "name": "Sprinto",
+      "website": "https://www.sprinto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008q7",
+      "name": "Secureframe",
+      "website": "https://secureframe.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005kt",
+      "name": "Thoropass",
+      "website": "https://thoropass.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003ijdq",
+      "name": "Controllo",
+      "website": "https://controllo.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00048dd",
+      "name": "Scytale",
+      "website": "https://scytale.ai/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000284",
+      "name": "Drata",
+      "website": "https://drata.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002aa",
+      "name": "Hyperproof",
+      "website": "https://www.hyperproof.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005j6",
+      "name": "Scrut Automation",
+      "website": "https://www.scrut.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ss",
+      "name": "Vanta",
+      "website": "https://vanta.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pbu",
+      "name": "Centraleyes",
+      "website": "http://www.centraleyes.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000229",
+      "name": "computer security"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7373",
+      "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+     }
+    ],
+    "entities": {
+     "person": [
+      "steve beyatte"
+     ],
+     "location": [],
+     "product": [
+      "scytale",
+      "vanta",
+      "sprinto",
+      "thoropass",
+      "drata",
+      "secureframe",
+      "controllo",
+      "hyperproof",
+      "centraleyes",
+      "scrut automation",
+      "soc 2"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9232,
+    "group_id": 9093588
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

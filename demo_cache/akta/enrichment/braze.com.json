@@ -1,0 +1,625 @@
+{
+ "fetched_at": "2026-10-24T11:45:57",
+ "params": {
+  "company": "braze.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "000033p",
+   "firmographic": {
+    "name": "Braze",
+    "legal_name": "Braze, Inc.",
+    "website": "braze.com",
+    "company_type": {
+     "code": "public",
+     "label": "Public"
+    },
+    "ticker": "NASDAQ:BRZE",
+    "founded_year": 2011,
+    "company_description": "Braze is a publicly traded customer engagement platform (NASDAQ: BRZE) founded in 2011 and headquartered in New York, serving more than 2,600 brands across retail and eCommerce, financial services, travel and hospitality, media and entertainment, gaming, on-demand services, and QSR. The company's core proposition is unifying first-party customer data, AI-driven decisioning, and cross-channel message orchestration (email, mobile push, SMS/RCS, WhatsApp, web, in-app, and paid media) into a single platform used by brands to run personalized lifecycle marketing campaigns at scale, processing 4.5 trillion messages and 17.9 billion personalized AI decisions annually.\n\nThe platform is built on a composable architecture spanning the Braze Data Platform (zero-copy activation against Snowflake, Databricks, AWS, Google Cloud, Azure), BrazeAI (Decisioning Studio powered by OfferFit's multi-agent reinforcement learning, Agent Console, Operator, and Creative Studio with Figma/Canva), Canvas journey orchestration, and Reporting & Analytics. Braze monetizes through tiered annual and multi-year subscriptions (Go, Select, Pro, Enterprise) priced on Monthly Active Users, supplemented by a usage-based Action Credits model for message volume and AI products, and by professional services. Distribution combines direct enterprise field sales, inside sales, a self-service PLG motion for startups, and the 2,100+ partner Braze Alloys network.\n\nGo-to-market spans enterprise, mid-market, and SMB tiers globally with offices in New York, London, Austin, Sydney, and regional operations in the Philippines and Japan. The company holds three consecutive years as a Gartner Magic Quadrant Leader for Multichannel Marketing Hubs, a 2026 Forrester Wave Leader for Email Marketing Service Providers, and a 110% dollar-based net retention rate. Recent strategic emphasis has shifted toward AI monetization via the OfferFit integration, agentic AI tools, a $100M share repurchase program announced March 2026, and operational scaling ahead of a targeted FY2029 profitability milestone.",
+    "company_description_short": "Braze is a publicly traded customer engagement platform that unifies first-party data, AI-powered decisioning, and cross-channel messaging, serving 2,600+ brands across retail, financial services, media, gaming, and other verticals with tiered subscription plus usage-based pricing.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "public",
+     "label": "Public"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/33/6dace55c-0bda-5b3f-a77b-d0e831fd63e9.png",
+    "akta_rank": 2260
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "500m_1b",
+     "label": "$500M-$1B"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "acquired_on": {
+       "year": 2023
+      },
+      "business_focus": "Customer engagement platform operations in Australia and New Zealand; regional reseller and customer service",
+      "name": "North Star (operating as Braze Australia)",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "regional_market_entity",
+       "label": "Regional Market Entity"
+      }
+     },
+     {
+      "acquired_on": {
+       "month": 6,
+       "year": 2025
+      },
+      "business_focus": "AI optimization and multi-agent reinforcement learning engine for enhanced personalization capabilities",
+      "name": "OfferFit Inc.",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "00005mu"
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Over 2,600 brands trust Braze for secure and reliable performance at scale",
+      "source": [
+       "https://www.braze.com/product/overview"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "2,600+"
+     },
+     {
+      "description": "Full fiscal year 2026 revenue, representing 24.4% year-over-year growth",
+      "source": [
+       "https://www.theglobeandmail.com/investing/markets/stocks/CRM/pressreleases/2289771/salesforce-vs-braze-which-technology-stock-is-a-better-buy-in-2026/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$738.2 million"
+     },
+     {
+      "description": "Messages and other Canvas actions in 2025",
+      "source": [
+       "https://www.braze.com/product/overview"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "4.5 trillion"
+     },
+     {
+      "description": "Personalized AI decisions made in 2025",
+      "source": [
+       "https://www.braze.com/product/overview"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "17.9 billion"
+     },
+     {
+      "description": "Monthly active users by October 2025",
+      "source": [
+       "https://www.braze.com/value-of-braze"
+      ],
+      "type": {
+       "code": "user_engagement",
+       "label": "User Engagement"
+      },
+      "value": "7.8 billion"
+     },
+     {
+      "description": "API calls to Braze in 2025",
+      "source": [
+       "https://www.braze.com/product/overview"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "10.2 trillion"
+     },
+     {
+      "description": "Dollar-based net retention rate in Q1 FY2027",
+      "source": [
+       "https://www.businesswire.com/news/home/20260527699075/en/Braze-Delivers-Fourth-Straight-Quarter-of-Organic-Revenue-Growth-Acceleration"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "110%"
+     },
+     {
+      "description": "ROI achieved by organizations using the Braze platform over three years per Forrester Total Economic Impact study",
+      "source": [
+       "https://www.businesswire.com/news/home/20260423105729/en/Braze-Unveils-New-Research-Showing-How-AI-Data-and-Decisioning-Are-Redefining-Customer-Engagement"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "457%"
+     },
+     {
+      "description": "Technology and delivery partners in Braze Alloys ecosystem",
+      "source": [
+       "https://www.braze.com/value-of-braze"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "2,100+"
+     },
+     {
+      "description": "Market capitalization as of early April 2026",
+      "source": [
+       "https://in.investing.com/news/sec-filings/braze-announces-planned-retirement-of-general-counsel-susan-wiseman-93CH-5325849"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$2.62 billion"
+     },
+     {
+      "description": "Large customers with ARR of $500K+ in Q4 FY2026, up 35% year-over-year",
+      "source": [
+       "https://www.fool.com/investing/2026/03/25/why-braze-stock-is-up-today/?source=iedfolrf0000001"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "333"
+     },
+     {
+      "description": "Data points processed from ingestion sources in 2025",
+      "source": [
+       "https://www.braze.com/product/braze-data-platform"
+      ],
+      "type": {
+       "code": "data_scale",
+       "label": "Data Scale"
+      },
+      "value": "25.8T"
+     },
+     {
+      "description": "Events streamed back to customers' ecosystem in 2025",
+      "source": [
+       "https://www.braze.com/product/braze-data-platform"
+      ],
+      "type": {
+       "code": "data_scale",
+       "label": "Data Scale"
+      },
+      "value": "13T"
+     },
+     {
+      "description": "Turnkey integrations with partners including Snowflake, Databricks, AWS, Google Cloud, and Shopify",
+      "source": [
+       "https://www.braze.com/value-of-braze"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "140+"
+     },
+     {
+      "description": "Turnkey partner integrations across eCommerce, loyalty, personalization, order management, and more",
+      "source": [
+       "https://www.braze.com/product/braze-data-platform"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "180+"
+     },
+     {
+      "description": "Community members in Braze Bonfire network",
+      "source": [
+       "https://www.braze.com/value-of-braze"
+      ],
+      "type": {
+       "code": "others",
+       "label": "Others"
+      },
+      "value": "4,600+"
+     },
+     {
+      "description": "Messages/actions processed in 2024",
+      "source": [
+       "https://www.braze.com/value-of-braze"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "3.9 trillion"
+     },
+     {
+      "description": "Messages sent with 100% uptime over BFCM 2025",
+      "source": [
+       "https://www.braze.com/product/cross-channel-messaging"
+      ],
+      "type": {
+       "code": "technical_performance",
+       "label": "Technical Performance"
+      },
+      "value": "59.9B"
+     },
+     {
+      "description": "Total customers as of Q1 2027",
+      "source": [
+       "https://stockstory.org/us/stocks/nasdaq/brze/news/earnings/brazes-nasdaqbrze-q1-cy2026-sales-top-estimates-but-stock-drops-161percent"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "2,609"
+     },
+     {
+      "description": "Net new customers added in Q1 2027",
+      "source": [
+       "https://stockstory.org/us/stocks/nasdaq/brze/news/earnings/brazes-nasdaqbrze-q1-cy2026-sales-top-estimates-but-stock-drops-161percent"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "100+"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Acquired for $325 million in June 2025, OfferFit's multi-agent reinforcement learning engine was integrated into Braze's Customer Engagement Platform to enhance AI-driven personalization capabilities. The acquisition strengthens BrazeAI Decisioning Studio with advanced reinforcement learning technology.",
+      "name": "OfferFit",
+      "source": [
+       "https://martech.org/why-email-is-now-identity-and-deliverability-infrastructure/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "00005mu"
+     },
+     {
+      "announced_on": {
+       "day": 2,
+       "month": 6,
+       "year": 2023
+      },
+      "description": "Former exclusive reseller for Australia and New Zealand acquired and now operates as Braze Australia subsidiary. Transaction valued at $28 million. The acquisition enhances regional customer service and market presence in ANZ region.",
+      "name": "North Star",
+      "source": [
+       "https://martechseries.com/technology/braze-completes-acquisition-of-north-star-launches-braze-australia/"
+      ],
+      "strategic_tier": "Regional",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0000s51"
+     },
+     {
+      "announced_on": {
+       "day": 2,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "New integration connects Wunderkind's identification and triggering capabilities directly into the Braze platform, enabling brands to run advanced real-time customer journeys. Combines Wunderkind's identity resolution and high-intent behavioral signals with Braze's orchestration layer. Brands report up to 8x lift in triggered revenue.",
+      "name": "Wunderkind",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-brze/braze/news/braze-and-wunderkind-integration-puts-real-time-journeys-at"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000w2"
+     },
+     {
+      "description": "Deep integration with Snowflake data warehouse enabling zero-copy data activation, real-time sync, and AI-powered customer insights. Customers like Dyn Media leverage Snowflake data for targeted win-back campaigns.",
+      "name": "Snowflake",
+      "source": [
+       "https://www.braze.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00004bs"
+     },
+     {
+      "description": "Integration with Shopify enables eCommerce brands to synchronize customer data, automate shopping cart triggers, and deliver personalized promotional campaigns based on purchase behavior.",
+      "name": "Shopify",
+      "source": [
+       "https://www.fool.com/investing/2026/03/25/why-braze-stock-is-up-today/?source=iedfolrf0000001"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000ng4"
+     },
+     {
+      "description": "Direct integration with Databricks for data synchronization and AI-powered analytics, enabling enterprise customers to leverage lakehouse architecture for customer engagement.",
+      "name": "Databricks",
+      "source": [
+       "https://www.braze.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000004a"
+     },
+     {
+      "description": "Amazon Web Services integration for cloud infrastructure, data storage, and deployment flexibility. EU hosting for BrazeAI Decisioning Studio on Google Cloud Platform.",
+      "name": "AWS",
+      "source": [
+       "https://www.braze.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      }
+     },
+     {
+      "description": "EU hosting for BrazeAI Decisioning Studio on Google Cloud addresses regional data residency requirements under GDPR for European customers in regulated sectors.",
+      "name": "Google Cloud",
+      "source": [
+       "https://www.braze.com/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000d34"
+     },
+     {
+      "description": "Dentsu Digital received Creative Partner of the Year award for third consecutive year in Braze Alloys Partner Network 2026 Japan. Creative team Engage Guild partnered with Braze for CRM industry marketing transformation.",
+      "name": "Dentsu Digital",
+      "source": [
+       "https://prtimes.jp/main/html/rd/p/000000245.000121065.html"
+      ],
+      "strategic_tier": "Regional",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "000agbr"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 6,
+       "year": 2025
+      },
+      "description": "Acquired OfferFit Inc. for approximately $325 million and integrated its multi-agent reinforcement learning engine into the BrazeAI Decisioning Studio to strengthen 1:1 personalization capabilities.",
+      "source": [
+       "https://www.openpr.com/news/4437087/leading-companies-advancing-innovation-and-growth-in"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "day": 23,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Launched BrazeAI Operator (Beta), BrazeAI Agent Console, and Braze Creative Studio with Figma/Canva integrations, and brought EU hosting of BrazeAI Decisioning Studio to Google Cloud for GDPR compliance.",
+      "source": [
+       "https://www.cmswire.com/the-wire/braze-delivers-powerful-new-agentic-ai-capabilities-that-transform-how-marketers/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "day": 26,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Authorized the company's first $100 million share repurchase program (including a $50 million accelerated buyback) to return capital and signal management confidence in valuation.",
+      "source": [
+       "https://www.fool.com/investing/2026/06/26/why-braze-stock-jumped-today/?source=iedfolrf0000001"
+      ],
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Announced CFO Isabelle Winkles' departure with CAO Pankaj Malik as Interim CFO and appointed former Fastly/NYT CIO Nick Rockwell as Chief Information Officer effective June 1, 2026; General Counsel Susan Wiseman also plans to retire by June 30, 2026.",
+      "source": [
+       "https://www.sahmcapital.com/news/content/braze-q1-2027-earnings-call-complete-transcript-2026-05-28"
+      ],
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "date": {
+       "day": 2,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Formed a deep partnership with Wunderkind to embed identity resolution and high-intent behavioral triggers directly into Braze journeys, with brands reporting up to 8x lift in triggered revenue.",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-brze/braze/news/braze-and-wunderkind-integration-puts-real-time-journeys-at"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "day": 2,
+       "month": 6,
+       "year": 2023
+      },
+      "description": "Acquired North Star, its exclusive ANZ reseller, for $28 million to convert it into a wholly owned Braze Australia subsidiary, converting channel economics into direct regional revenue.",
+      "source": [
+       "https://martechseries.com/technology/braze-completes-acquisition-of-north-star-launches-braze-australia/"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "day": 2,
+       "month": 6,
+       "year": 2023
+      },
+      "description": "Braze completed its acquisition of North Star, its exclusive reseller in Australia and New Zealand, and now operates as Braze Australia to enhance regional customer service and market presence.",
+      "source": [
+       "https://martechseries.com/technology/braze-completes-acquisition-of-north-star-launches-braze-australia/"
+      ],
+      "title": "North Star Acquisition and Australia Expansion",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "leadership_change": [
+     {
+      "description": "Braze Inc. announced CFO Isabel Winkles' departure and the search for her successor, with Chief Accounting Officer Pankaj Malik serving as interim CFO while the company pursues its goal of $1.2 billion in revenue and profitability by 2029.",
+      "source": [
+       "https://www.sahmcapital.com/news/content/braze-q1-2027-earnings-call-complete-transcript-2026-05-28"
+      ],
+      "title": "CFO Leadership Transition",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "description": "Braze appointed Nick Rockwell, formerly of Fastly and the New York Times, as Chief Information Officer effective June 1, 2026, focused on compliance, data governance, AI transformation, and enterprise data flows.",
+      "source": [
+       "https://simplywall.st/stocks/us/software/nasdaq-brze/braze/news/is-brazes-leadership-shuffle-signaling-a-deeper-shift-in-its/amp"
+      ],
+      "title": "New Chief Information Officer Appointment",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     },
+     {
+      "description": "Braze announced that General Counsel and Secretary Susan Wiseman intends to retire on or before June 30, 2026, with no successor yet named.",
+      "source": [
+       "https://in.investing.com/news/sec-filings/braze-announces-planned-retirement-of-general-counsel-susan-wiseman-93CH-5325849"
+      ],
+      "title": "General Counsel Retirement",
+      "type": {
+       "code": "leadership_change",
+       "label": "Leadership Change"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Braze launched a Southeast Asia-focused 'Grow with Braze Asia' conference in Manila in June 2026 and previously established the Braze Australia subsidiary after acquiring North Star, indicating continued APAC investment beyond the legacy US/UK footprint.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "General availability of BrazeAI Operator (Beta), BrazeAI Agent Console, and Braze Creative Studio in April 2026 extends the product surface from decisioning into autonomous agent execution and creative operations, materially expanding addressable wallet share within existing accounts.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Introduction of the Action Credits usage-based pricing model for AI products and message volume, layered on top of the Go/Select/Pro/Enterprise subscription tiers, broadens monetization flexibility and creates a variable revenue stream alongside subscriptions.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     },
+     {
+      "description": "Appointment of Nick Rockwell (former Fastly and NYT CIO) as Chief Information Officer with a remit over AI transformation, data governance, and enterprise data flows points to organizational buildout for enterprise-scale AI deployments and compliance.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "OfferFit acquisition ($325M) and the Wunderkind identity-resolution partnership, alongside the Databricks CustomerLake launch partnership, extend the AI and ecosystem surface area through inorganic and cooperative moves rather than purely internal R&D.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "Braze Alloys grew to 2,100+ partners with 140\u2013180+ turnkey integrations including co-marketing awards in Japan and regional partners like Dentsu Digital, signaling active ecosystem buildout as a distribution and product-extension lever.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

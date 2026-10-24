@@ -1,0 +1,560 @@
+{
+ "fetched_at": "2026-10-24T11:47:33",
+ "params": {
+  "company": "vanta.com",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00000ss",
+   "firmographic": {
+    "name": "Vanta",
+    "legal_name": "Vanta Inc.",
+    "website": "vanta.com",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2018,
+    "company_description": "Vanta Inc. is a privately held, venture-backed trust management platform founded in 2018 by Christina Cacioppo and headquartered in San Francisco. The company automates security compliance, vendor and third-party risk management, continuous controls monitoring, security questionnaire responses, and customer-facing trust posture across more than 30 frameworks \u2014 including SOC 2, ISO 27001, GDPR, HIPAA, HITRUST, USDP, NIST AI RMF, ISO 42001, FedRAMP, the EU AI Act, and custom frameworks. It serves 16,000+ organizations across 58 countries, ranging from AI-native startups to Fortune-tier enterprises such as Snowflake, GitHub, Ramp, Atlassian, Duolingo, Intercom, Samsara, and Icelandair.\n\nThe core product is the Agentic Trust Platform, introduced in November 2025 and built on the Vanta Trust Graph \u2014 a proprietary data layer spanning 400+ third-party integrations and running 1,400 continuous tests. An embedded AI layer (Vanta AI Agent 2.0 and specialized agents such as Vanta Agent for Risk and the Third-Party Risk Management Agent) drafts policies, completes security questionnaires, scores vendor risk, and detects control non-conformities. Adjacent modules include Personnel and Access, Questionnaire Automation, Trust Center, Streamlined Audits, Customer Commitments, and a public Vanta API plus Vanta MCP Server for custom workflows. Vanta operates with documented 99.96% uptime, 95.3% CSAT, and FedRAMP 20x Moderate Authorization for its Government Cloud offering.\n\nVanta's revenue model is primarily annual subscription SaaS billed per Order Form, with pricing scaling by employee count, frameworks, and integrations. Reseller-published tiers range from approximately $10,000 per year (Core) up to custom enterprise pricing above $80,000 per year, supplemented by a Premium Support tier, cloud marketplace resale (AWS, Google Cloud, Microsoft Azure), authorized reseller revenue (notably Carahsoft for U.S. public sector), and audit-resale partner flows. The company crossed $300M in ARR with 63% year-over-year growth as of April 2026, backed by $504M of cumulative capital raised, most recently a $150M Series D at a $4.15B valuation led by Wellington Management in July 2025. Go-to-market is sales-led for enterprise and mid-market buyers, complemented by product-led free-trial onboarding for startups, a formal Partner Program, and channel resale via Carahsoft and cloud marketplaces.",
+    "company_description_short": "Vanta is an AI-native trust management platform that automates security compliance, risk management, and vendor reviews across 30+ frameworks \u2014 including SOC 2, ISO 27001, HIPAA, and FedRAMP \u2014 for 16,000+ organizations globally.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "1001-5000",
+    "logo_url": "https://files.akta.pro/logos/00/00/0s/4d05d259-91e2-50bb-97ea-4800be9c73be.png",
+    "akta_rank": 4118
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "250m_500m",
+     "label": "$250M-$500M"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "company_hierarchy": {
+    "subsidiaries": [
+     {
+      "business_focus": "Risk monitoring",
+      "name": "Riskey",
+      "relationship_type": {
+       "code": "wholly_owned",
+       "label": "Wholly Owned"
+      },
+      "type": {
+       "code": "acquired_brand_retained",
+       "label": "Acquired Brand Retained"
+      },
+      "uuid": "0008mlx"
+     }
+    ]
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Vanta crossed $300M ARR with 63% year-over-year growth; customer growth accelerating to approximately 60% year-over-year per Fortune. The $300M ARR figure is corroborated across BusinessWire, Fortune, Yahoo Finance, and aijourn coverage from April-May 2026.",
+      "source": [
+       "https://www.01net.it/vanta-secures-spot-on-2026-cnbc-disruptor-50-for-agentic-trust-innovation/"
+      ],
+      "type": {
+       "code": "revenue",
+       "label": "Revenue"
+      },
+      "value": "$300M ARR (63% YoY growth, tripled in 2 years)"
+     },
+     {
+      "description": "Series D funding round led by Wellington Management raised $150M at a $4.15B valuation, announced July 2025. Series A was at approximately $500M valuation per Forbes 2021.",
+      "source": [
+       "https://www.businesswire.com/news/home/20250723901336/en/Vanta-Raises-%24150M-Series-D-to-Power-the-Future-of-AI-Driven-Trust"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$4.15B valuation (Series D, July 2025)"
+     },
+     {
+      "description": "Includes a $50M Series A (2021, Sequoia) and $150M Series D (July 2025, Wellington). Bringing cumulative RegTech funding since 2021 to $504M.",
+      "source": [
+       "https://regtechanalyst.com/us-regtech-investments-recovered-in-2025-driven-by-a-61-surge-in-deals-under-100m/"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$504M total capital raised since 2021"
+     },
+     {
+      "description": "Forrester Wave Q2 2026 reports the platform is used by over 16,000 companies including Snowflake, GitHub, Ramp, and Cursor. The Forbes Cloud 100 announcement (September 2025) cited 'over 12,000 organizations'; the jump to 16,000+ reflects growth through 2026.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260520855495/en/Vanta-Named-a-Leader-Among-Governance-Risk-and-Compliance-Platforms-in-First-Ever-Inclusion"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "16,000+ customers"
+     },
+     {
+      "description": "The Series D funding round BusinessWire announcement states Vanta's platform impacts over 12,000 companies across 58 countries.",
+      "source": [
+       "https://www.businesswire.com/news/home/20250723901336/en/Vanta-Raises-%24150M-Series-D-to-Power-the-Future-of-AI-Driven-Trust"
+      ],
+      "type": {
+       "code": "geographic_reach",
+       "label": "Geographic Reach"
+      },
+      "value": "58 countries"
+     },
+     {
+      "description": "Per the Modern Slavery Act Statement (May 2024), Vanta Inc. has over 450 employees worldwide and operates in five countries.",
+      "source": [
+       "https://www.vanta.com/legal/modern-slavery-act-statement"
+      ],
+      "type": {
+       "code": "headcount",
+       "label": "Headcount"
+      },
+      "value": "over 450 employees across 5 countries"
+     },
+     {
+      "description": "Vanta's Trust Graph spans over 400 integrations and 1,400 continuous tests. An earlier (October 2025) reference cited 300+ integrations; growth to 400+ reflects expanded product capability through 2026.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260602347223/en/Vanta-Launches-New-Agent-to-Unify-Internal-and-Third-Party-Risk"
+      ],
+      "type": {
+       "code": "integration_ecosystem",
+       "label": "Integration Ecosystem"
+      },
+      "value": "400+ integrations; 1,400 continuous tests"
+     },
+     {
+      "description": "Vanta's Government Cloud offering received FedRAMP 20x Moderate Authorization from the FedRAMP Program Management Office, making it among the second cohort of cloud service providers to complete Phase Two of the pilot program, with independent assessments by Schellman.",
+      "source": [
+       "https://aithority.com/it-and-devops/cloud/vanta-receives-fedramp-20x-moderate-authorization/"
+      ],
+      "type": {
+       "code": "regulatory_milestones",
+       "label": "Regulatory Milestones"
+      },
+      "value": "FedRAMP 20x Moderate Authorization"
+     },
+     {
+      "description": "The Forrester Wave: Governance, Risk, and Compliance Platforms, Q2 2026 named Vanta a Leader upon its first-ever inclusion, with the top score in the continuous controls monitoring criterion, evaluated against 12 vendors across 16 Current Offering criteria and 7 Strategy criteria.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260520855495/en/Vanta-Named-a-Leader-Among-Governance-Risk-and-Compliance-Platforms-in-First-Ever-Inclusion"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "Top score in continuous controls monitoring criterion"
+     },
+     {
+      "description": "Status page reports 99.96% uptime over the past 90 days for the Vanta Web App. Support metrics page reports 95.3% CSAT, 40-second median live chat response time, 60.2% immediate AI resolution rate, 0.1hr median top-priority email response time, and 1.5hr median overall email response time.",
+      "source": [
+       "https://status.vanta.com/?_gl=1*4pxd79*_ga*NDg5MzMwMDg3LjE2NzY0NTAwMjc.*_ga_SW5LK36MTJ*MTY4MDIwODQzMy43Mi4xLjE2ODAyMDg3NTUuNjAuMC4w"
+      ],
+      "type": {
+       "code": "operational_performance",
+       "label": "Operational Performance"
+      },
+      "value": "99.96% uptime (90 days); 95.3% CSAT; 40s median live chat response"
+     },
+     {
+      "description": "Customer logos on homepage are annotated with outcomes: Ramp eliminated 10 spreadsheets and saved hundreds of thousands of dollars; Snowflake saved 2,000 hours annually; Clay saw 20% faster deal cycles; GitHub automated 93% of questionnaires.",
+      "source": [
+       "https://www.vanta.com/"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "2,000 hrs/year saved (Ramp); 93% of questionnaires automated (GitHub); $100K+ saved (Ramp/Clay)"
+     },
+     {
+      "description": "Vanta was ranked #63 on the Forbes 2025 Cloud 100 list for the third consecutive year, marking continued recognition in the definitive ranking of the top 100 private cloud companies, published by Forbes in partnership with Bessemer Venture Partners.",
+      "source": [
+       "https://markets.financialcontent.com/stocks/article/bizwire-2025-9-3-vanta-named-to-the-2025-forbes-cloud-100-for-third-consecutive-year?CSSURL=36.htm"
+      ],
+      "type": {
+       "code": "brand_reputation",
+       "label": "Brand Reputation"
+      },
+      "value": "2025 Forbes Cloud 100 \u2014 #63 (third consecutive year)"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 17,
+       "month": 9,
+       "year": 2025
+      },
+      "description": "Vanta and Carahsoft announced a partnership to distribute Vanta's trust management solutions to the U.S. public sector via Carahsoft's reseller network and specific government contracts. Carahsoft helps government agencies access commercial cloud services, and Vanta's AI-powered platform supports multiple compliance frameworks including FedRAMP. Partnership expands with Vanta's FedRAMP 20x Moderate Authorization in April 2026.",
+      "name": "Carahsoft Technology Corp.",
+      "source": [
+       "https://www.globenewswire.com/news-release/2025/09/17/3151685/0/en/Vanta-and-Carahsoft-Partner-to-Bring-Advanced-Trust-Management-Solutions-to-the-Public-Sector.html"
+      ],
+      "strategic_tier": "Flagship Public-Sector Channel",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0000crt"
+     },
+     {
+      "announced_on": {
+       "day": 5,
+       "month": 8,
+       "year": 2025
+      },
+      "description": "Vanta partnered with XBOW to integrate autonomous penetration testing into the Vanta platform, launching a new security testing feature targeted at startups. The integration offers fast, high-quality pen testing directly within Vanta, making advanced security assessments more accessible and cost-effective for smaller companies.",
+      "name": "XBOW",
+      "source": [
+       "https://markets.financialcontent.com/pennwell.elp/article/bizwire-2025-8-5-vanta-partners-with-xbow-to-deliver-autonomous-penetration-testing-to-startups"
+      ],
+      "strategic_tier": "Core Technology Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00003mc"
+     },
+     {
+      "announced_on": {
+       "day": 13,
+       "month": 11,
+       "year": 2025
+      },
+      "description": "BreachLock announced a new integration with Vanta to streamline security evidence transfer into compliance workflows, supporting frameworks like SOC 2 and ISO 27001. The integration reduces manual effort and helps organizations maintain continuous security and compliance across attack surfaces by combining BreachLock's automated security testing with Vanta's audit-ready evidence collection.",
+      "name": "BreachLock",
+      "source": [
+       "https://techstartups.com/2025/11/13/breachlock-and-vanta-bridge-the-gap-between-continuous-security-testing-and-compliance-with-new-integration/"
+      ],
+      "strategic_tier": "Mid-Tier Technology Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000dv1"
+     },
+     {
+      "announced_on": {
+       "day": 4,
+       "month": 11,
+       "year": 2025
+      },
+      "description": "Coalfire (cybersecurity services) and Vanta (AI-powered trust management platform) announced an AI-powered partnership combining Coalfire's expertise in assessments and penetration testing with Vanta's automation platform to reduce manual work, streamline audits, and improve risk visibility and audit communications.",
+      "name": "Coalfire",
+      "source": [
+       "https://salestechstar.com/partner-management-channel-enablement/accelerating-compliance-and-confidence-at-scale-coalfire-and-vantas-ai-powered-partnership/"
+      ],
+      "strategic_tier": "Flagship Cybersecurity Services Partner",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "0003co3"
+     },
+     {
+      "announced_on": {
+       "day": 12,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Vanta (along with SailPoint, Varonis, and Wiz) adopted Sweep's agentic platform to manage their Salesforce environments. Sweep's Multi-Org Mode for Salesforce and planned support for Snowflake and ServiceNow reflect the depth of integration. At SailPoint, the implementation reduced impact analysis time from ~30 minutes to two minutes and reclaimed 750+ hours of Salesforce capacity annually.",
+      "name": "Sweep",
+      "source": [
+       "https://www.prnewswire.com/news-releases/cybersecurity-leaders-adopt-sweep-to-agentically-govern-salesforce-environments-302711680.html"
+      ],
+      "strategic_tier": "Mid-Tier Technology Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00006or"
+     },
+     {
+      "announced_on": {
+       "day": 5,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Automat-it (AWS Premier Tier Partner and Managed Service Provider) joined Vanta's partner program, integrating Vanta's trust management platform into its Compliance Guard Suite. The partnership helps AWS-based startups automate compliance for HIPAA, ISO 27001, PCI DSS 4.0, and other frameworks, combining automated evidence collection, continuous monitoring, and real-time vulnerability tracking.",
+      "name": "Automat-it",
+      "source": [
+       "https://techbullion.com/accelerating-aws-startup-compliance-with-automat-it-and-vanta/"
+      ],
+      "strategic_tier": "Core Aws-Focused Channel Partner",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "00059cw"
+     },
+     {
+      "announced_on": {
+       "day": 15,
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Vital Edge IT Inc (managed services provider for Healthcare and Bio-Tech companies) joined Vanta's Partner Program to deliver automated compliance, continuous security monitoring, and risk management solutions. The partnership integrates Vanta's compliance automation platform (SOC 2, HIPAA, ISO 27001) into Vital Edge IT's service offerings to help clients streamline audit readiness.",
+      "name": "Vital Edge IT Inc",
+      "source": [
+       "https://www.einpresswire.com/article/899764248/vital-edge-it-inc-joins-vanta-s-partner-program-to-deliver-automated-continuous-compliance-for-their-customers"
+      ],
+      "strategic_tier": "Mid-Tier Healthcare-Focused Channel Partner",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "000f343"
+     },
+     {
+      "announced_on": {
+       "day": 1,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Kled announced a partnership with Vanta and Workstreet to build automated compliance infrastructure covering SOC 2 Type II, ISO 27001, HIPAA, and GDPR frameworks. Workstreet acts as the implementation partner alongside Vanta's automation platform to support enterprise contracts and AI labs / institutional buyers.",
+      "name": "Workstreet",
+      "source": [
+       "https://www.kled.ai/blog/kled-expands-enterprise-compliance-infrastructure"
+      ],
+      "strategic_tier": "Mid-Tier Implementation Partner",
+      "type": {
+       "code": "implementation_si_consulting",
+       "label": "Implementation/ SI/ Consulting Partner"
+      },
+      "uuid": "002mred"
+     },
+     {
+      "announced_on": {
+       "day": 15,
+       "month": 10,
+       "year": 2025
+      },
+      "description": "LatticeFlow AI (Swiss deep-tech company) announced an integration with Vanta to streamline AI risk management and compliance efforts. The partnership helps enterprises meet regulatory obligations like the EU AI Act by providing technical evaluations and compliance artifacts that flow into Vanta's trust management platform.",
+      "name": "LatticeFlow AI",
+      "source": [
+       "https://salestechstar.com/partner-management-channel-enablement/latticeflow-ai-integrates-with-vanta-to-streamline-ai-risk-management/"
+      ],
+      "strategic_tier": "Mid-Tier Ai Risk Management Integration",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000fym"
+     },
+     {
+      "announced_on": {
+       "day": 12,
+       "month": 8,
+       "year": 2025
+      },
+      "description": "NexQloud partnered with Vanta to achieve SOC 2 compliance, laying the foundation for FedRAMP authorization with unified security controls. The partnership is positioned as NexQloud's compliance foundation rather than a broad reseller arrangement.",
+      "name": "NexQloud",
+      "source": [
+       "https://www.globenewswire.com/news-release/2025/08/12/3132183/0/en/NexQloud-Partners-with-Vanta-to-Achieve-SOC-2-Compliance-Laying-Foundation-for-FedRAMP-with-Unified-Security-Controls.html"
+      ],
+      "strategic_tier": "Minor \u2014 Single-Customer Partnership",
+      "type": {
+       "code": "channel_reseller_distributor",
+       "label": "Channel Partner/ Reseller/ Distributor"
+      },
+      "uuid": "0000qlx"
+     },
+     {
+      "announced_on": {
+       "day": 30,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "The Cloud Security Alliance's CSAI Foundation acquired the Autonomous Action Runtime Management specification from Vanta, contributing to the launch of the STAR for AI Catastrophic Risk Annex. CSAI Foundation also took stewardship of the Agentic Trust Framework from MassiveScale.AI founder Josh Woodruff, with a four-phase rollout from June 2026 to December 2027 supported by Coefficient Giving.",
+      "name": "Cloud Security Alliance (CSAI Foundation)",
+      "source": [
+       "https://aithority.com/security/csai-foundation-announces-key-milestones-to-secure-the-agentic-control-plane/"
+      ],
+      "strategic_tier": "Mid-Tier Standards Partner",
+      "type": {
+       "code": "strategic_codevelopment",
+       "label": "Strategic or Co-development Partner"
+      },
+      "uuid": "0003z7h"
+     },
+     {
+      "announced_on": {
+       "year": 2019
+      },
+      "description": "Security and compliance startup Vanta is cited as an early adopter of podcast advertising since late 2019, leveraging the highly engaged podcast audience to drive brand awareness and demand generation.",
+      "name": "Spotify Creative Lab",
+      "source": [
+       "https://www.inc.com/annabel-burba/marketers-are-spending-billions-on-influencers-but-overlooking-their-most-engaged-audience/91337618"
+      ],
+      "strategic_tier": "Mid-Tier Marketing Partner",
+      "type": {
+       "code": "gtm_marketing",
+       "label": "GTM or Marketing Partner"
+      },
+      "uuid": "00005h6"
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 7,
+       "year": 2025
+      },
+      "description": "Raised $150M Series D at a $4.15B valuation led by Wellington Management, bringing total capital raised since 2021 to approximately $504M.",
+      "source": [
+       "https://www.businesswire.com/news/home/20250723901336/en/Vanta-Raises-%24150M-Series-D-to-Power-the-Future-of-AI-Driven-Trust"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 11,
+       "year": 2025
+      },
+      "description": "Launched the Agentic Trust Platform featuring Vanta AI Agent 2.0 at VantaCon 2025, repositioning the company from a compliance automation tool into an AI-native trust management architecture.",
+      "source": [
+       "https://www.businesswire.com/news/home/20251118962649/en/Vanta-Introduces-Agentic-Trust-Platform-to-Unify-Compliance-Risk-and-Security-Assessments"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Received FedRAMP 20x Moderate Authorization from the FedRAMP Program Management Office (assessed by Schellman), making Vanta among the second cohort of cloud service providers to complete Phase Two of the pilot program.",
+      "source": [
+       "https://aithority.com/it-and-devops/cloud/vanta-receives-fedramp-20x-moderate-authorization/"
+      ],
+      "type": {
+       "code": "regulatory_action",
+       "label": "Regulatory Action"
+      }
+     },
+     {
+      "date": {
+       "month": 7,
+       "year": 2025
+      },
+      "description": "Acquired risk monitoring company Riskey alongside the Series D funding, expanding capabilities in vendor and third-party risk monitoring.",
+      "source": [
+       "https://markets.financialcontent.com/stocks/article/bizwire-2025-9-3-vanta-named-to-the-2025-forbes-cloud-100-for-third-consecutive-year?CSSURL=36.htm"
+      ],
+      "type": {
+       "code": "acquisition",
+       "label": "Acquisition"
+      }
+     },
+     {
+      "date": {
+       "month": 9,
+       "year": 2025
+      },
+      "description": "Partnered with Carahsoft Technology Corp. to distribute the Vanta platform to the U.S. public sector, expanded by the subsequent FedRAMP authorization.",
+      "source": [
+       "https://www.globenewswire.com/news-release/2025/09/17/3151685/0/en/Vanta-and-Carahsoft-Partner-to-Bring-Advanced-Trust-Management-Solutions-to-the-Public-Sector.html"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched Vanta Agent for Risk, unifying internal and third-party risk into a continuously updated view built on the Trust Graph, with an AI Risk Library and factor-based scoring.",
+      "source": [
+       "https://www.businesswire.com/news/home/20260602347223/en/Vanta-Launches-New-Agent-to-Unify-Internal-and-Third-Party-Risk"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "VantaCon UK 2026 confirms an active UK push, and the Modern Slavery Act statement discloses operations across five countries including Australia, the UK, and Ireland. With customers in 58 countries, EMEA appears to be a deliberate second-front geographic expansion behind North America.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "FedRAMP 20x Moderate Authorization (April 2026) combined with the Carahsoft Technology Corp. reseller partnership explicitly opens the U.S. federal market \u2014 a regulated vertical that few GRC peers have entered at comparable maturity, expanding the addressable market by federal agency IT security budgets.",
+      "type": {
+       "code": "new_vertical",
+       "label": "New Vertical"
+      }
+     },
+     {
+      "description": "Launch of Vanta Agent for Risk (June 2026), the AI Risk Library, ISO 42001 / NIST AI RMF framework support, and the LatticeFlow AI integration for EU AI Act technical evaluations indicate deliberate expansion into the AI governance and risk management category \u2014 a regulatory frontier that did not exist when Vanta was founded in 2018.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "The Carahsoft public-sector channel, AWS/GCP/Azure cloud marketplace listings, and Partner Program additions (Automat-it for AWS startups, Vital Edge IT for healthcare, Workstreet for SOC 2 services) materially expand distribution beyond direct sales into regulated and vertical-specific channels.",
+      "type": {
+       "code": "new_channel",
+       "label": "New Channel"
+      }
+     },
+     {
+      "description": "Acquisition of risk monitoring company Riskey (July 2025) and prior acquisition of Trustpage (January 2023) demonstrate continued M&A appetite to consolidate risk monitoring and customer-facing trust capabilities into the platform.",
+      "type": {
+       "code": "m_and_a_signal",
+       "label": "M And A Signal"
+      }
+     },
+     {
+      "description": "Headcount has grown from 'over 450 employees' in May 2024 (per Modern Slavery Act Statement) into the 1,001\u20135,000 range implied by firmographics data, indicating aggressive hiring to support product, GTM, and international expansion. The C-suite has been professionalized with a CISO (Jadee Hanson), CFO (David Eckstein), CPO, CMO, and CRO additions.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "The $150M Series D at a $4.15B valuation (July 2025) explicitly cites support for AI-driven trust management platform expansion and public-sector market entry, with cumulative capital of approximately $504M providing multi-year runway for offensive growth investments.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     },
+     {
+      "description": "Integration partnerships with XBOW (autonomous penetration testing), BreachLock (continuous security testing), LatticeFlow AI (EU AI Act technical evaluations), and Sweep (Salesforce data governance) extend Vanta into adjacent security testing and data governance categories through ecosystem buildout rather than internal build.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.5
+ },
+ "mode": "LIVE"
+}

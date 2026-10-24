@@ -1,0 +1,477 @@
+{
+ "fetched_at": "2026-10-24T11:46:52",
+ "params": {
+  "company": "linear.app",
+  "sections": "firmographic,financial_estimate,company_hierarchy,strategic_signal"
+ },
+ "response": {
+  "data": {
+   "uuid": "00007nj",
+   "firmographic": {
+    "name": "Linear",
+    "legal_name": "Linear",
+    "website": "linear.app",
+    "company_type": {
+     "code": "private",
+     "label": "Private"
+    },
+    "founded_year": 2019,
+    "company_description": "Linear is a cloud-based product development platform founded in 2019 and headquartered in San Francisco that serves software engineering and product organizations with issue tracking, sprint management, project planning, and roadmap coordination. The platform is structured around five integrated modules\u2014Intake (AI-driven routing of customer feedback from Slack, Teams, Zendesk, Intercom, and Gong into actionable issues), Plan (projects, initiatives, documents, and visual roadmaps), Build (AI agent delegation and integration with Claude Code, Codex, and Cursor), Diffs (native code review with bidirectional GitHub sync), and Monitor (Pulse feeds, Insights analytics)\u2014and exposes a public GraphQL API plus MCP server for external tool interoperability. Linear has built native AI capabilities including Linear Agent (an autonomous agent assignable to issues), Coding Sessions (cloud-sandbox code generation), Code Intelligence (codebase-grounded reasoning), and Triage Intelligence (automated routing and duplicate detection).\n\nLinear monetizes through a tiered per-seat subscription model: a Free tier for individuals and small teams, Basic at $10 per user per month, Business at $16 per user per month (which bundles AI features like Triage Intelligence, Linear Agent automations, and Code Intelligence), and a quote-based Enterprise tier with SAML/SCIM, account management, and advanced security. The go-to-market combines a self-serve product-led growth motion (Free tier enabling viral team-by-team adoption) with a sales-assisted enterprise motion for larger contracts. Linear serves over 33,000 product teams and 15,000+ enterprise customers including OpenAI (3,000+ users), Ramp, Coinbase, Cursor, Perplexity, Scale AI, Opendoor, Oscar Health, Automattic, Brex, Cash App, Supercell, Vercel, and Mercury, and operates additional offices in London to support EMEA expansion.",
+    "company_description_short": "Linear is a cloud-based product development platform for software engineering teams, combining issue tracking, project planning, code review, and AI agent capabilities (Linear Agent, Coding Sessions, Code Intelligence). It serves over 33,000 product teams and 15,000+ enterprise customers via a tiered per-seat subscription.",
+    "operating_status": {
+     "code": "operating",
+     "label": "Operating"
+    },
+    "ownership_category": {
+     "code": "venture_growth_investor_backed",
+     "label": "Venture Growth Investor Backed"
+    },
+    "headcount_range": "51-100",
+    "logo_url": "https://files.akta.pro/logos/00/00/7n/bbc8bd51-31d1-57e2-87ad-baf3652e465d.png",
+    "akta_rank": 7796
+   },
+   "financial_estimate": {
+    "revenue_estimate": {
+     "code": "25m_50m",
+     "label": "$25M-$50M"
+    },
+    "valuation_estimate": {
+     "code": "1b_5b",
+     "label": "$1B-$5B"
+    }
+   },
+   "strategic_signal": {
+    "scale_indicator": [
+     {
+      "description": "Achieved unicorn status with Series C funding in June 2025. Also mentioned as valued at 1.25 billion dollars following earlier funding round from Finland's Maria 01 startup hub.",
+      "source": [
+       "https://techfundingnews.com/linear-rockets-to-unicorn-status-82m-series-c-fuels-1-25b-valuation-in-jira-showdown/"
+      ],
+      "type": {
+       "code": "valuation",
+       "label": "Valuation"
+      },
+      "value": "$1.25 billion"
+     },
+     {
+      "description": "Total funding of $134.2 million including Series B ($35M in 2023) and Series C ($82M in June 2025).",
+      "source": [
+       "https://techfundingnews.com/linear-rockets-to-unicorn-status-82m-series-c-fuels-1-25b-valuation-in-jira-showdown/"
+      ],
+      "type": {
+       "code": "funding_raised",
+       "label": "Funding Raised"
+      },
+      "value": "$134.2 million total raised"
+     },
+     {
+      "description": "Company has maintained profitability since 2021.",
+      "source": [
+       "https://techfundingnews.com/linear-rockets-to-unicorn-status-82m-series-c-fuels-1-25b-valuation-in-jira-showdown/"
+      ],
+      "type": {
+       "code": "profitability",
+       "label": "Profitability"
+      },
+      "value": "280% profit growth last year"
+     },
+     {
+      "description": "Including OpenAI, Scale AI, Perplexity, and other major technology firms.",
+      "source": [
+       "https://www.builtinsf.com/articles/linear-raises-82m-series-c-1b-valuation-20250611"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "15,000+ enterprise customers"
+     },
+     {
+      "description": "From ambitious startups to major enterprise and Fortune 20 companies.",
+      "source": [
+       "http://linear.app/"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "33,000+ product teams"
+     },
+     {
+      "description": "Key metrics from customer success data showing Linear's impact on team productivity.",
+      "source": [
+       "http://linear.app/customers"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "2.0x increase in filed issues, 3.3x faster issue resolution, 28% issues authored by agents"
+     },
+     {
+      "description": "Rapid growth trajectory cited in enterprise software research.",
+      "source": [
+       "https://medium.com/design-bootcamp/does-your-enterprise-ai-product-still-have-a-b2b-hangover-92e651a12a02"
+      ],
+      "type": {
+       "code": "customer_count",
+       "label": "Customer Count"
+      },
+      "value": "25,000 companies in 3 years"
+     },
+     {
+      "description": "Ramp's internal coding agent Inspect demonstrates AI-native development workflow integration with Linear.",
+      "source": [
+       "http://linear.app/customers/ramp"
+      ],
+      "type": {
+       "code": "customer_outcomes",
+       "label": "Customer Outcomes"
+      },
+      "value": "Over 60% of merged PRs authored by coding agent at Ramp customer"
+     }
+    ],
+    "partnership": [
+     {
+      "announced_on": {
+       "day": 30,
+       "month": 4,
+       "year": 2026
+      },
+      "description": "Linear migrated to Stripe Tax, Data Pipeline, and Snowflake integration for revenue operations consolidation. COO Cristina Cordova participated in Stripe Sessions panel. Enables real-time dashboards and EMEA expansion with London office.",
+      "name": "Stripe",
+      "source": [
+       "https://stripe.com/en-at/sessions/2026/all-accounted-for-what"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000031"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Added Enterprise-Managed Authorization (EMA) support to Claude and Claude Code clients. Linear is one of initial MCP servers supporting zero-touch authentication for AI agents through enterprise identity providers.",
+      "name": "Anthropic",
+      "source": [
+       "https://www.techtimes.com/articles/318708/20260619/mcp-enterprise-authorization-goes-stable-zero-touch-sso-okta-anthropic-vs-code.htm"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000002"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Added EMA support to Visual Studio Code. Microsoft Teams integration with Linear for project updates and issue creation via @Linear mention.",
+      "name": "Microsoft",
+      "source": [
+       "https://www.techtimes.com/articles/318708/20260619/mcp-enterprise-authorization-goes-stable-zero-touch-sso-okta-anthropic-vs-code.htm"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000026e"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "First supported identity provider for MCP Enterprise-Managed Authorization, implementing Cross App Access (XAA) for zero-touch AI agent authentication.",
+      "name": "Okta",
+      "source": [
+       "https://www.techtimes.com/articles/318708/20260619/mcp-enterprise-authorization-goes-stable-zero-touch-sso-okta-anthropic-vs-code.htm"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00002oi"
+     },
+     {
+      "announced_on": {
+       "day": 18,
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Initial partner for Cursor plugin marketplace. Cursor has 1,000% growth with major engineering teams at Shopify, Vercel, and Linear switching from VS Code. Deep Linear integration for agents.",
+      "name": "Cursor",
+      "source": [
+       "https://www.techtimes.com/articles/318708/20260619/mcp-enterprise-authorization-goes-stable-zero-touch-sso-okta-anthropic-vs-code.htm"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "005a3q8"
+     },
+     {
+      "description": "GitHub Automations for linking issues and automating pull request workflows. Diffs sync bidirectionally with GitHub. Coding Sessions powered by Claude Code with GitHub connection required.",
+      "name": "GitHub",
+      "source": [
+       "http://linear.app/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000c6o"
+     },
+     {
+      "description": "Slack integration for issue creation via @Linear mention, project updates, and Linear Asks. Multi-Slack workspace support and private Slack channel configurations.",
+      "name": "Slack",
+      "source": [
+       "http://linear.app/"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "0000bk2"
+     },
+     {
+      "description": "Figma integration via MCP for using Linear issue context to generate prototypes in Figma Make.",
+      "name": "Figma",
+      "source": [
+       "http://linear.app/"
+      ],
+      "strategic_tier": "Major",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00000im"
+     },
+     {
+      "description": "Vercel Eve agent framework integration. Build agents that can investigate incidents, monitor SLAs, or analyze customer feedback, deployable on Vercel.",
+      "name": "Vercel",
+      "source": [
+       "http://linear.app/"
+      ],
+      "strategic_tier": "Major",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000009a"
+     },
+     {
+      "description": "Zendesk integration for creating issues from support conversations, with bidirectional sync and customer request linking.",
+      "name": "Zendesk",
+      "source": [
+       "http://linear.app/"
+      ],
+      "strategic_tier": "Major",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "00041jr"
+     },
+     {
+      "description": "Intercom integration for creating issues from customer conversations with automatic scoping even across multi-topic threads.",
+      "name": "Intercom",
+      "source": [
+       "http://linear.app/"
+      ],
+      "strategic_tier": "Major",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "02mkqle"
+     },
+     {
+      "description": "Coding Sessions powered by Claude Code for AI-assisted code generation and review within Linear.",
+      "name": "Claude Code (Anthropic)",
+      "source": [
+       "http://linear.app/changelog/2026-06-11-coding-sessions"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      },
+      "uuid": "000zdwz"
+     },
+     {
+      "description": "Coding Sessions powered by Codex for AI-assisted code generation and review within Linear.",
+      "name": "Codex (OpenAI)",
+      "source": [
+       "http://linear.app/changelog/2026-06-11-coding-sessions"
+      ],
+      "strategic_tier": "Core",
+      "type": {
+       "code": "technology_integration",
+       "label": "Technology or Integration"
+      }
+     }
+    ],
+    "recent_move": [
+     {
+      "date": {
+       "month": 3,
+       "year": 2026
+      },
+      "description": "Launched Linear Agent in beta as an autonomous AI agent that can be assigned to issues like a teammate, supporting triage, issue creation, and delegation to coding agents, accompanied by a strategic narrative shift with CEO Karri Saarinen declaring issue tracking dead.",
+      "source": [
+       "https://www.theregister.com/2026/03/26/linear_agent/"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2025
+      },
+      "description": "Closed $82 million Series C led by Accel at a $1.25 billion post-money valuation, reaching unicorn status with total funding of $134.2 million and a stated use of funds for product line expansion and larger enterprise customers.",
+      "source": [
+       "https://www.businessinsider.com/linear-cofounder-hiring-ai-driven-layoffs-joke-2026-5"
+      ],
+      "type": {
+       "code": "funding_round",
+       "label": "Funding Round"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Launched Coding Sessions enabling Linear Agent to write code using Claude Code and Codex in cloud sandboxes, completing an end-to-end triage-to-PR workflow inside Linear and converting the platform into a direct execution surface rather than purely a tracking system.",
+      "source": [
+       "https://linear.app/coding-sessions"
+      ],
+      "type": {
+       "code": "product_launch",
+       "label": "Product Launch"
+      }
+     },
+     {
+      "date": {
+       "year": 2026
+      },
+      "description": "Opened a London office and consolidated revenue operations onto Stripe Tax, Data Pipeline, and Snowflake to support EMEA expansion, with COO Cristina Cordova publicly leading the narrative around international growth.",
+      "source": [
+       "https://stripe.com/en-at/sessions/2026/all-accounted-for-what"
+      ],
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     },
+     {
+      "date": {
+       "month": 6,
+       "year": 2026
+      },
+      "description": "Joined Anthropic, Microsoft, and Okta as an initial partner for MCP Enterprise-Managed Authorization (EMA), positioning Linear as a foundational identity-aware MCP server for zero-touch AI agent authentication across enterprise environments.",
+      "source": [
+       "https://www.techtimes.com/articles/318708/20260619/mcp-enterprise-authorization-goes-stable-zero-touch-sso-okta-anthropic-vs-code.htm"
+      ],
+      "type": {
+       "code": "partnership",
+       "label": "Partnership"
+      }
+     },
+     {
+      "date": {
+       "month": 8,
+       "year": 2025
+      },
+      "description": "Conducted the company's first tender offer in August 2025 to provide team members with liquidity, signaling post-unicorn maturity and secondary-market price discovery without disclosed amount.",
+      "source": [
+       "https://www.finsmes.com/2023/09/linear-raises-35m-in-series-b-funding.html"
+      ],
+      "type": {
+       "code": "restructuring",
+       "label": "Restructuring"
+      }
+     },
+     {
+      "date": {
+       "year": 2026
+      },
+      "description": "Linear expanded into EMEA with a London office, supporting their expansion and revenue operations consolidation onto Stripe's platform.",
+      "source": [
+       "https://stripe.com/en-at/sessions/2026/all-accounted-for-what"
+      ],
+      "title": "EMEA Expansion - London Office",
+      "type": {
+       "code": "expansion",
+       "label": "Expansion"
+      }
+     }
+    ],
+    "expansion_highlight": [
+     {
+      "description": "Opened London office and consolidated revenue operations onto Stripe Tax, Data Pipeline, and Snowflake, signaling a deliberate push into EMEA with localized billing and data infrastructure.",
+      "type": {
+       "code": "new_geography",
+       "label": "New Geography"
+      }
+     },
+     {
+      "description": "Series C of $82M (June 2025) was explicitly earmarked to expand the product lineup and target larger enterprise customers, consistent with formal sales build-out and Enterprise-tier maturation.",
+      "type": {
+       "code": "funding_signal",
+       "label": "Funding Signal"
+      }
+     },
+     {
+      "description": "Rapid 2026 product cadence\u2014Coding Sessions, Code Intelligence, Linear Diffs, Project Slack channels, Agent MCP support, Releases, Multi-level sub-teams\u2014broadens addressable surface from issue tracking into full SDLC workflow and code execution.",
+      "type": {
+       "code": "new_product_line",
+       "label": "New Product Line"
+      }
+     },
+     {
+      "description": "Partnerships with Anthropic, Microsoft, Okta, Cursor, Atlassian Rovo, and Stripe deepen the agent and enterprise ecosystem, increasing platform distribution and creating adjacencies into identity, observability, and AI tooling.",
+      "type": {
+       "code": "ecosystem_buildout",
+       "label": "Ecosystem Buildout"
+      }
+     },
+     {
+      "description": "Addition of a Head of Sales (Casey Bertenthal) and the launch of a dedicated Enterprise tier with account management indicate formal enterprise sales build-out beyond the historical PLG motion.",
+      "type": {
+       "code": "hiring_signal",
+       "label": "Hiring Signal"
+      }
+     },
+     {
+      "description": "Business tier priced at $16/user/month bundles AI features (Triage Intelligence, Linear Agent automations, Code Intelligence) and Enterprise tier adds SAML/SCIM and dedicated support, indicating a tiered pricing architecture optimized for monetization of AI capabilities.",
+      "type": {
+       "code": "new_pricing_model",
+       "label": "New Pricing Model"
+      }
+     }
+    ]
+   }
+  },
+  "credits_consumed": 4.0
+ },
+ "mode": "LIVE"
+}

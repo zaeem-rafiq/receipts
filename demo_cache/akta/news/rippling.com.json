@@ -1,0 +1,6617 @@
+{
+ "fetched_at": "2026-10-24T11:47:24",
+ "params": {
+  "company": "rippling.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 230,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42230316,
+    "title": "Neel Murthy elevated to Chief Marketing Officer at Rippling - Exchange4media",
+    "url": "https://www.exchange4media.com/people-movement-news/neel-murthy-elevated-to-chief-marketing-officer-at-rippling-159432.html",
+    "publisher": "exchange4media",
+    "published_date": "2026-10-23T06:59:12",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9235,
+    "ai_summary": "Neel Murthy was elevated to Chief Marketing Officer at Rippling, having previously served as Vice President of Growth. He had earlier worked with Goldbelly and Safe Deposit Box Insurance Coverage, among other organizations.",
+    "word_count": 125,
+    "author": "E",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "C-Suite Appointments & Departures",
+      "code": "LG01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000190",
+      "name": "executive officer"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "neel murthy"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15600963
+   },
+   {
+    "id": 42002122,
+    "title": "Sunlife Is Now Part of Rippling's Preferred Carrier Program to Simplify Benefits Administration for Small and Mid-market Employers",
+    "url": "https://www.moomoo.com/news/post/1001916256/sunlife-is-now-part-of-rippling-s-preferred-carrier-program",
+    "publisher": "Moomoo",
+    "published_date": "2026-10-21T21:16:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Sunlife U.S. joined Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers. The partnership aims to automate benefits data exchanges, reduce manual reconciliation, and integrate coverage with technology. The program initially focuses on direct enrollment connections and will expand automation across the benefits lifecycle.",
+    "word_count": 705,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Benefits Administration",
+      "code": "BPACAPAC",
+      "is_primary": true
+     },
+     {
+      "name": "Eligibility, Enrollment & Benefits Administration",
+      "code": "HLAEALAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00054fd",
+      "name": "Sun Life U.S.",
+      "website": "https://www.sunlife.com/us/en/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "398",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "399",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "524114",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6321",
+      "name": "ACCIDENT & HEALTH INSURANCE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ted phillips",
+      "jessica slabaugh",
+      "devon fernald"
+     ],
+     "location": [
+      "indonesia",
+      "japan",
+      "vietnam",
+      "india",
+      "singapore",
+      "china",
+      "australia",
+      "malaysia",
+      "canada",
+      "new york",
+      "ireland",
+      "bermuda",
+      "hong kong",
+      "the united kingdom",
+      "u.s.",
+      "wellesley, mass.",
+      "the u.s.",
+      "lansing, mich.",
+      "the philippines",
+      "toronto",
+      "wellesley hills, mass.",
+      "philippine"
+     ],
+     "product": [
+      "sunlife link",
+      "life"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9191,
+    "group_id": 15241137
+   },
+   {
+    "id": 41971786,
+    "title": "Sunlife is now part of Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers",
+    "url": "https://www.prnewswire.com/news-releases/sunlife-is-now-part-of-ripplings-preferred-carrier-program-to-simplify-benefits-administration-for-small-and-mid-market-employers-302916041.html",
+    "publisher": "PR Newswire",
+    "published_date": "2026-10-21T21:16:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Sunlife U.S. joined Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers. The partnership aims to automate benefits data exchanges, reduce manual reconciliation, and integrate coverage, administration, and technology. The program initially focuses on direct enrollment connections and will expand automation across the benefits lifecycle.",
+    "word_count": 718,
+    "author": "Sun Life U.S.",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Benefits Administration",
+      "code": "BPACAPAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00054fd",
+      "name": "Sun Life U.S.",
+      "website": "https://www.sunlife.com/us/en/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "524114",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6321",
+      "name": "ACCIDENT & HEALTH INSURANCE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ted phillips",
+      "jessica slabaugh",
+      "devon fernald"
+     ],
+     "location": [
+      "indonesia",
+      "japan",
+      "vietnam",
+      "india",
+      "singapore",
+      "china",
+      "australia",
+      "malaysia",
+      "canada",
+      "new york",
+      "ireland",
+      "bermuda",
+      "hong kong",
+      "the united kingdom",
+      "u.s.",
+      "wellesley, mass.",
+      "the u.s.",
+      "lansing, mich.",
+      "the philippines",
+      "toronto",
+      "wellesley hills, mass.",
+      "philippine"
+     ],
+     "product": [
+      "sunlife link",
+      "life"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9186,
+    "group_id": 15241137
+   },
+   {
+    "id": 41970118,
+    "title": "Sunlife is now part of Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers",
+    "url": "https://www.tradingview.com/news/prnewswire:ee582489bc674:0-sunlife-is-now-part-of-rippling-s-preferred-carrier-program-to-simplify-benefits-administration-for-small-and-mid-market-employers/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-21T21:16:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Sunlife U.S. joined Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers. The partnership aims to automate benefits data exchanges, reduce manual reconciliation, and integrate coverage with technology. The program initially focuses on direct enrollment connections and will expand automation across the benefits lifecycle.",
+    "word_count": 721,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Benefits Administration",
+      "code": "BPACAPAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00054fd",
+      "name": "Sun Life U.S.",
+      "website": "https://www.sunlife.com/us/en/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "398",
+      "name": "Personal Finance"
+     },
+     {
+      "code": "399",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "524114",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6321",
+      "name": "ACCIDENT & HEALTH INSURANCE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "ted phillips",
+      "jessica slabaugh"
+     ],
+     "location": [
+      "indonesia",
+      "japan",
+      "vietnam",
+      "india",
+      "singapore",
+      "china",
+      "australia",
+      "malaysia",
+      "canada",
+      "new york",
+      "ireland",
+      "bermuda",
+      "hong kong",
+      "the united kingdom",
+      "u.s.",
+      "wellesley, mass.",
+      "the u.s.",
+      "lansing, mich.",
+      "the philippines",
+      "toronto",
+      "wellesley hills, mass.",
+      "philippine"
+     ],
+     "product": [
+      "sunlife link",
+      "life",
+      "dental",
+      "supplemental health",
+      "vision",
+      "healthcare navigation",
+      "medical stop-loss insurance",
+      "absence management"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9191,
+    "group_id": 15241137
+   },
+   {
+    "id": 41968927,
+    "title": "Sunlife Joins Rippling's Preferred Carrier Program",
+    "url": "https://www.stocktitan.net/news/SLF/sunlife-is-now-part-of-rippling-s-preferred-carrier-program-to-c0h0p1x5g53a.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-21T21:16:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5947,
+    "ai_summary": "Sunlife has joined Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers. The two companies plan to reduce manual benefits-data reconciliation through more automated exchanges.",
+    "word_count": 57,
+    "author": "Sun Life Financial Inc.",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Benefits Administration",
+      "code": "BPACAPAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00054fd",
+      "name": "Sun Life U.S.",
+      "website": "https://www.sunlife.com/us/en/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000519",
+      "name": "employee benefits"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "398",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "524114",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "stocktitan"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.675,
+    "group_id": 15241137
+   },
+   {
+    "id": 41586054,
+    "title": "Best Rippling alternatives in 2026: HR platforms for growing businesses \u2014 TFN",
+    "url": "https://techfundingnews.com/best-rippling-alternatives-in-2026-hr-platforms-for-growing-businesses/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-10-20T15:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HiBob is ranked as the top Rippling alternative for people-first HR, with a 4.5/5 G2 rating and quote-based pricing. BambooHR, Gusto, and Personio are also compared, with Rippling's HR core criticized for being secondary to IT and device management.",
+    "word_count": 5775,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ytu",
+      "name": "Paylocity",
+      "website": "http://www.paylocity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bt",
+      "name": "Factorial",
+      "website": "https://factorialhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bob",
+      "josh bersin"
+     ],
+     "location": [
+      "uk",
+      "us",
+      "europe",
+      "eu"
+     ],
+     "product": [
+      "bamboohr",
+      "factorial",
+      "gusto",
+      "rippling",
+      "personio",
+      "hibob",
+      "paylocity",
+      "paycom",
+      "zoho people",
+      "justworks",
+      "trinet",
+      "trinet hr platform",
+      "ramp",
+      "brex",
+      "deel",
+      "bob",
+      "oyster",
+      "remote",
+      "papaya global",
+      "instagram",
+      "udemy",
+      "go1",
+      "linkedin",
+      "slack",
+      "microsoft outlook",
+      "zoom",
+      "google calendar",
+      "bamboo",
+      "zenefits",
+      "peo",
+      "playroll",
+      "remofirst",
+      "velocity global",
+      "goco",
+      "workday",
+      "adp",
+      "capterra",
+      "g2"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7498,
+    "group_id": 15022120
+   },
+   {
+    "id": 41577969,
+    "title": "HiBob vs Rippling in 2026: Comparing HR, payroll and employee experience \u2014 TFN",
+    "url": "https://techfundingnews.com/hibob-vs-rippling-in-2026-comparing-hr-payroll-and-employee-experience/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-10-20T15:15:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HiBob and Rippling are compared on HR, payroll, and employee experience, with G2 scores of 4.5/5 (2,697 reviews) for HiBob and 4.7/5 (14,020 reviews) for Rippling. HiBob is recommended for people management and flexibility, while Rippling is recommended for consolidating HR, payroll, IT, and spend into one back office.",
+    "word_count": 2923,
+    "author": "Neville Naidoo",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Human Capital Management (HCM) & Payroll Platforms",
+      "code": "HDAEAEAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Employee Engagement, Surveys & EX",
+      "code": "BPACAPAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Payroll Software & Payroll-as-a-Service (SaaS)",
+      "code": "BPACAIAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "opinion",
+     "label": "Opinion"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "james solomons",
+      "josh bersin",
+      "chili piper"
+     ],
+     "location": [
+      "uk",
+      "us",
+      "countries"
+     ],
+     "product": [
+      "hibob",
+      "rippling",
+      "bamboohr",
+      "bob",
+      "go1",
+      "mercer",
+      "planning assistant",
+      "sugarcrm",
+      "xref",
+      "salesloft"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8173,
+    "group_id": 15022120
+   },
+   {
+    "id": 41668090,
+    "title": "Best all-in-one HR software for UK businesses (2026) \u2014 TFN",
+    "url": "https://techfundingnews.com/best-all-in-one-hr-software-for-uk-businesses-2026/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-10-20T15:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HiBob (Bob) is ranked as the top all-in-one HR software for UK businesses in 2026, offering native HMRC payroll and a single employee record. Personio and Rippling are strong alternatives, with Personio lacking native UK payroll and Rippling being IT-first. The comparison evaluates platforms on consolidation, pricing, and G2 ratings.",
+    "word_count": 4620,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005s5",
+      "name": "The Access Group",
+      "website": "http://www.theaccessgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000un",
+      "name": "Employment Hero",
+      "website": "http://www.employmenthero.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006k7i",
+      "name": "Breathe",
+      "website": "https://www.breatheHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bt",
+      "name": "Factorial",
+      "website": "https://factorialhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007l8d",
+      "name": "SageHR",
+      "website": "https://sage.hr",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "josh bersin"
+     ],
+     "location": [
+      "uk",
+      "us",
+      "european"
+     ],
+     "product": [
+      "personio",
+      "charliehr",
+      "breathe",
+      "rippling",
+      "bamboohr",
+      "access peoplehr",
+      "sage hr",
+      "hibob (bob)",
+      "factorial",
+      "employment hero",
+      "all-in-one hr software",
+      "hibob",
+      "bob",
+      "keypay"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7734,
+    "group_id": 15020964
+   },
+   {
+    "id": 41576521,
+    "title": "Top Rippling alternatives for UK HR teams (2026) - London Tech News | londonlovestech.com",
+    "url": "https://www.einnews.com/article/950982479/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-20T14:18:45",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5151,
+    "ai_summary": "Eight UK HR platforms are compared to Rippling, with HiBob leading as a people-first alternative with native UK payroll. Pricing ranges from \u00a34 to \u00a310 per employee monthly, and each tool's strengths and limitations are detailed.",
+    "word_count": 5142,
+    "author": "LLT Contributor",
+    "countries": [
+     "GBR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mhyk2",
+      "name": "factorial italy",
+      "website": "https://factorial.it",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000un",
+      "name": "Employment Hero",
+      "website": "http://www.employmenthero.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000dmc",
+      "name": "Lattice",
+      "website": "http://www.lattice.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007l8d",
+      "name": "SageHR",
+      "website": "https://sage.hr",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "josh bersin"
+     ],
+     "location": [
+      "uk",
+      "united states",
+      "us",
+      "european",
+      "europe",
+      "european countries",
+      "european jurisdictions",
+      "eu"
+     ],
+     "product": [
+      "hibob",
+      "personio",
+      "lattice",
+      "rippling",
+      "factorial",
+      "charliehr",
+      "bamboohr",
+      "employment hero",
+      "sage hr",
+      "bob",
+      "go1",
+      "slack",
+      "google calendar",
+      "zoom",
+      "microsoft outlook",
+      "instagram",
+      "multiplier"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8364,
+    "group_id": 15020964
+   },
+   {
+    "id": 41749602,
+    "title": "HR TECHNOLOGY ADVICE ANNOUNCES 2026 HCM MID-MARKET VENDORFIT MATRIX",
+    "url": "https://www.einpresswire.com/article/949107827/hr-technology-advice-announces-2026-hcm-mid-market-vendorfit-matrix",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-20T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6599,
+    "ai_summary": "HR Technology Advice released its 2026 HCM Mid-Market VendorFit Matrix, evaluating 13 vendors on platform depth and customer experience. Only three\u2014Workday, Dayforce, and ChartHop\u2014earned AI leadership, while only 51% of HR teams cited AI as a critical buying criterion. The report notes AI offerings are widespread but leadership remains rare.",
+    "word_count": 610,
+    "author": "Chris Harvey",
+    "countries": [],
+    "industries": [
+     {
+      "name": "HRIS/HCM Implementation Services",
+      "code": "BPAEAGAE",
+      "is_primary": true
+     },
+     {
+      "name": "HR Technology (HRIS/HCM) Advisory & Implementation",
+      "code": "BPAHAGAG",
+      "is_primary": false
+     },
+     {
+      "name": "Human Capital Management (HCM) & Payroll Platforms",
+      "code": "HDAEAEAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000ce75",
+      "name": "HR Technology Advice",
+      "website": "https://www.hrtechnologyadvice.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00035hm",
+      "name": "ChartHop",
+      "website": "https://www.charthop.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000u5",
+      "name": "isolved",
+      "website": "https://www.isolvedhcm.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000lne",
+      "name": "Dayforce",
+      "website": "http://www.ceridian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "chris harvey"
+     ],
+     "location": [],
+     "product": [
+      "workday",
+      "dayforce",
+      "hibob",
+      "isolved",
+      "charthop",
+      "paycom",
+      "paycor",
+      "paylocity",
+      "deel",
+      "rippling",
+      "pds vista",
+      "hcm",
+      "adp workforce now"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8972,
+    "group_id": 15008183
+   },
+   {
+    "id": 41564514,
+    "title": "HR TECHNOLOGY ADVICE ANNOUNCES 2026 HCM MID-MARKET VENDORFIT MATRIX",
+    "url": "https://www.einnews.com/pr_news/949107827/hr-technology-advice-announces-2026-hcm-mid-market-vendorfit-matrix",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-20T13:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6599,
+    "ai_summary": "HR Technology Advice released its 2026 HCM Mid-Market VendorFit Matrix, evaluating 13 vendors on platform depth and customer experience. Only three\u2014Workday, Dayforce, and ChartHop\u2014earned AI leadership, while only 51% of HR teams cited AI as a critical buying criterion. The report notes AI offerings are widespread but leadership remains rare.",
+    "word_count": 610,
+    "author": "EIN News; Chris Harvey",
+    "countries": [],
+    "industries": [
+     {
+      "name": "HRIS/HCM Implementation Services",
+      "code": "BPAEAGAE",
+      "is_primary": true
+     },
+     {
+      "name": "HR Technology (HRIS/HCM) Advisory & Implementation",
+      "code": "BPAHAGAG",
+      "is_primary": false
+     },
+     {
+      "name": "Human Capital Management (HCM) & Payroll Platforms",
+      "code": "HDAEAEAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000ce75",
+      "name": "HR Technology Advice",
+      "website": "https://www.hrtechnologyadvice.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00035hm",
+      "name": "ChartHop",
+      "website": "https://www.charthop.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000u5",
+      "name": "isolved",
+      "website": "https://www.isolvedhcm.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000lne",
+      "name": "Dayforce",
+      "website": "http://www.ceridian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "chris harvey"
+     ],
+     "location": [],
+     "product": [
+      "workday",
+      "dayforce",
+      "hibob",
+      "isolved",
+      "charthop",
+      "paycom",
+      "paycor",
+      "paylocity",
+      "deel",
+      "rippling",
+      "pds vista",
+      "hcm",
+      "adp workforce now"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8972,
+    "group_id": 15008183
+   },
+   {
+    "id": 41055085,
+    "title": "Top BambooHR alternatives for UK and EU businesses (2026) \u2014 TFN",
+    "url": "https://techfundingnews.com/top-bamboohr-alternatives-for-uk-and-eu-businesses-2026/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-10-17T08:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9308,
+    "ai_summary": "HiBob is presented as the best BambooHR alternative for UK and EU businesses, offering native HMRC payroll and GDPR compliance. Personio is recommended for multi-country European hiring, while Sage HR suits finance-led teams. The comparison notes BambooHR's lack of native UK payroll and USD pricing.",
+    "word_count": 4355,
+    "author": "Abhinaya Prabhu",
+    "countries": [
+     "GBR",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     },
+     {
+      "name": "HR Compliance, Policy, EEO & Labor Law",
+      "code": "BPACAPAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006mj4",
+      "name": "Cezanne HR",
+      "website": "https://cezannehr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005s5",
+      "name": "The Access Group",
+      "website": "http://www.theaccessgroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000un",
+      "name": "Employment Hero",
+      "website": "http://www.employmenthero.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bt",
+      "name": "Factorial",
+      "website": "https://factorialhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007l8d",
+      "name": "SageHR",
+      "website": "https://sage.hr",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "josh bersin"
+     ],
+     "location": [
+      "uk",
+      "eu",
+      "european",
+      "united states",
+      "us",
+      "munich",
+      "spain",
+      "germany",
+      "europe",
+      "london",
+      "australia"
+     ],
+     "product": [
+      "bamboohr",
+      "hibob",
+      "personio",
+      "factorial",
+      "charliehr",
+      "bob",
+      "hris",
+      "cezanne hr",
+      "sage hr",
+      "employment hero",
+      "access peoplehr",
+      "hr essentials",
+      "hr engage",
+      "rippling"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7383,
+    "group_id": 14503046
+   },
+   {
+    "id": 40895260,
+    "title": "Best HR Management Software for Small Businesses",
+    "url": "https://aijourn.com/best-hr-management-software-for-small-businesses/",
+    "publisher": "Aijourn",
+    "published_date": "2026-10-16T09:11:22",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HiBob (Bob) is named the best HR management software for small businesses in 2026, scoring 4.5/5 on G2. It offers an all-in-one platform with native US and UK payroll, scaling to mid-market. Other tools like Gusto and BambooHR are ranked below.",
+    "word_count": 5116,
+    "author": "Tom Allen",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ggc",
+      "name": "Homebase",
+      "website": "http://www.joinhomebase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bxf",
+      "name": "OnPay",
+      "website": "https://onpay.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bob",
+      "josh bersin",
+      "stephanie p.",
+      "nisha m.",
+      "priyanka b.",
+      "deja l.",
+      "tom allen"
+     ],
+     "location": [
+      "uk",
+      "us"
+     ],
+     "product": [
+      "hibob",
+      "bamboohr",
+      "justworks",
+      "gusto",
+      "rippling teams",
+      "zoho people",
+      "bob",
+      "hr management software",
+      "onpay",
+      "paycor",
+      "paychex flex",
+      "instagram",
+      "homebase",
+      "zoho payroll",
+      "zoho books",
+      "zoho crm",
+      "rippling",
+      "us payroll",
+      "zenefits",
+      "quickbooks",
+      "goco"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8213,
+    "group_id": 14365547
+   },
+   {
+    "id": 42407959,
+    "title": "Best global HR systems for UK and multinational companies (2026)",
+    "url": "https://businesscloud.co.uk/news/best-global-hr-systems-for-uk-and-multinational-companies-2026/",
+    "publisher": "BusinessCloud",
+    "published_date": "2026-10-15T23:27:23",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A field guide ranks global HR systems for UK and multinational companies, comparing HiBob, Rippling, Personio, and others on multi-entity support, native UK payroll, and G2 ratings. HiBob leads with native HMRC-recognised payroll and a 4.5/5 G2 rating, while others like Personio and BambooHR lack native UK payroll. Pricing is quote-based, with entry tiers around $8\u2013$10 per employee monthly.",
+    "word_count": 5635,
+    "author": "Jonathan Symcox",
+    "countries": [
+     "GBR",
+     "USA",
+     "DEU",
+     "ESP",
+     "NLD"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004yy",
+      "name": "SAP",
+      "website": "https://www.sap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006bt",
+      "name": "Factorial",
+      "website": "https://factorialhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007l8d",
+      "name": "SageHR",
+      "website": "https://sage.hr",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000lne",
+      "name": "Dayforce",
+      "website": "http://www.ceridian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk",
+      "us",
+      "london",
+      "new york",
+      "berlin",
+      "european",
+      "dutch",
+      "madrid",
+      "munich",
+      "manchester",
+      "continental europe",
+      "spanish",
+      "spain",
+      "brazil",
+      "uk-hq",
+      "dubai"
+     ],
+     "product": [
+      "bamboohr",
+      "personio",
+      "g2",
+      "workday hcm",
+      "hibob",
+      "ukg",
+      "sap",
+      "bob",
+      "hcm",
+      "factorial",
+      "wfm hcm",
+      "sage hr uk",
+      "rippling",
+      "workday",
+      "ukg pro",
+      "sap successfactors",
+      "dayforce",
+      "sage hr",
+      "deel",
+      "multiplier",
+      "remote",
+      "papaya global",
+      "oyster",
+      "brighthr",
+      "charliehr",
+      "employment hero",
+      "gusto",
+      "plus",
+      "simple",
+      "premium"
+     ],
+     "event": [
+      "go-live"
+     ]
+    },
+    "newsworthiness_score": 0.8529,
+    "group_id": 14480544
+   },
+   {
+    "id": 41017753,
+    "title": "Best global HR systems for UK and multinational companies (2026)",
+    "url": "https://businesscloud.co.uk/news/best-global-hr-systems-for-uk-and-multinational-companies-2026/",
+    "publisher": "BusinessCloud",
+    "published_date": "2026-10-15T23:27:23",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A field guide ranks global HR systems for UK and multinational companies, evaluating them on multi-entity support, payroll models, and governance. HiBob leads with native UK and US payroll, while others like Rippling and Personio have limitations. Pricing is quote-based, with entry rates from $8 per employee monthly.",
+    "word_count": 5391,
+    "author": "Jonathan Symcox",
+    "countries": [
+     "GBR",
+     "USA",
+     "DEU",
+     "ESP",
+     "NLD",
+     "BRA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004yy",
+      "name": "SAP",
+      "website": "https://www.sap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006bt",
+      "name": "Factorial",
+      "website": "https://factorialhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007l8d",
+      "name": "SageHR",
+      "website": "https://sage.hr",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000lne",
+      "name": "Dayforce",
+      "website": "http://www.ceridian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk",
+      "london",
+      "us",
+      "new york",
+      "berlin",
+      "dutch",
+      "madrid",
+      "munich",
+      "manchester",
+      "european",
+      "spanish",
+      "spain",
+      "brazil",
+      "netherlands",
+      "stoke"
+     ],
+     "product": [
+      "uk-native platform",
+      "bob",
+      "hibob",
+      "personio",
+      "rippling",
+      "bamboohr",
+      "sap successfactors",
+      "workday hcm",
+      "factorial",
+      "ukg pro",
+      "sage hr",
+      "successfactors",
+      "dayforce",
+      "multiplier",
+      "deel",
+      "oyster",
+      "papaya global",
+      "remote",
+      "sage",
+      "workday",
+      "brighthr",
+      "charliehr",
+      "gusto",
+      "employment hero",
+      "plus",
+      "simple",
+      "premium"
+     ],
+     "event": [
+      "go-live"
+     ]
+    },
+    "newsworthiness_score": 0.8297,
+    "group_id": 14480544
+   },
+   {
+    "id": 40833150,
+    "title": "10 Companies Hiring Customer Experience Professionals in NYC",
+    "url": "https://builtin.com/articles/companies-hiring-customer-experience-professionals-nyc",
+    "publisher": "Built In",
+    "published_date": "2026-10-15T17:47:35",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Datadog, MongoDB, OpenAI, Samsara, UiPath, Zocdoc, BlackLine, Rippling, and Forerunner are hiring customer experience professionals in New York City. Customer success managers in NYC earn an average base salary of about $103,000. These roles focus on onboarding, product adoption, and strengthening client relationships.",
+    "word_count": 248,
+    "author": "Brooke Becher",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sales, Marketing & Customer Success Direct Hire",
+      "code": "BPACAFAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": true
+     },
+     {
+      "name": "Talent-Market Dynamics",
+      "code": "WT05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000otw",
+      "name": "BlackLine",
+      "website": "http://www.blackline.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003su",
+      "name": "MongoDB",
+      "website": "https://www.mongodb.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000snq",
+      "name": "Zocdoc",
+      "website": "http://www.zocdoc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000e3i",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000mv",
+      "name": "UiPath",
+      "website": "https://www.uipath.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000y2",
+      "name": "Samsara",
+      "website": "http://www.samsara.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000509",
+      "name": "employment"
+     },
+     {
+      "code": "20000513",
+      "name": "employer"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "127",
+      "name": "Careers"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "new york city",
+      "nyc"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.8158,
+    "group_id": 14320383
+   },
+   {
+    "id": 40683607,
+    "title": "Planning Your 2027 Event Calendar? Our Top 9 Sponsors Averaged 957 Leads at SaaStr AI Annual. And Next Year Will Be Even Bigger",
+    "url": "https://www.saastr.com/2027aievents/",
+    "publisher": "Saastr",
+    "published_date": "2026-10-14T10:10:50",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9945,
+    "ai_summary": "Top 9 sponsors at SaaStr AI Annual 2026 averaged 957 leads, with Replit leading at 1,423. The event is scheduled for May 11-12, 2027, with 10,000+ attendees and 3,000+ meetings. Sponsors are encouraged to book early for stage time and matchmaking.",
+    "word_count": 1508,
+    "author": "Jason Lemkin",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sponsorship Activation & Experiential Marketing",
+      "code": "THAHAGAC",
+      "is_primary": true
+     },
+     {
+      "name": "Event Sponsorship Sales & Partnership Brokerage",
+      "code": "THAHAGAB",
+      "is_primary": false
+     },
+     {
+      "name": "Event Marketing Strategy & Campaign Management",
+      "code": "THAHAGAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003vffs",
+      "name": "Lightfield",
+      "website": "https://lightfield.app",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000b7q",
+      "name": "Google for Startups",
+      "website": "https://startup.google.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002s6",
+      "name": "Aurasell",
+      "website": "https://www.aurasell.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bp",
+      "name": "Vivun",
+      "website": "https://www.meethero.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029o",
+      "name": "OpenRouter",
+      "website": "https://openrouter.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002e18",
+      "name": "SaaStr",
+      "website": "http://www.saastr.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000193",
+      "name": "annual and special corporate meeting"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "180",
+      "name": "Events"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561920",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56192",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "sam blond"
+     ],
+     "location": [
+      "monaco",
+      "sf bay area",
+      "san mateo county event center",
+      "las vegas",
+      "denver",
+      "the bay area"
+     ],
+     "product": [
+      "lightfield",
+      "firebolt",
+      "vivun",
+      "replit",
+      "lovable",
+      "openrouter",
+      "glyphic",
+      "salesforce",
+      "vercel",
+      "reevo",
+      "relevance ai",
+      "artisan",
+      "happyfox",
+      "aurasell",
+      "worldpay",
+      "booking.com",
+      "humanx",
+      "rippling"
+     ],
+     "event": [
+      "saastr ai annual",
+      "agentfest",
+      "ai for marketers summit",
+      "gartner marketing symposium/xpo",
+      "saastr ai day",
+      "saastr annual 2024"
+     ]
+    },
+    "newsworthiness_score": 0.8308,
+    "group_id": 14211610
+   },
+   {
+    "id": 40468756,
+    "title": "Rippling Expands New York City Presence - HR Tech Feed",
+    "url": "https://hrtechfeed.com/rippling-expands-new-york-city-presence/?utm_source=rss&utm_medium=rss&utm_campaign=rippling-expands-new-york-city-presence",
+    "publisher": "HR Tech Feed",
+    "published_date": "2026-10-13T00:25:35",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling opened a 132,000-square-foot office in Midtown Manhattan, designed for over 1,000 employees. The hub is backed by $3.4 million in state tax credits tied to 371 new roles, signaling its push into enterprise HR contracts.",
+    "word_count": 496,
+    "author": "HR Tech Guy",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000gs6",
+      "name": "Empire State Development",
+      "website": "https://esd.ny.gov/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000349",
+      "name": "business enterprise"
+     },
+     {
+      "code": "20001246",
+      "name": "commercial building"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "76",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "55111",
+      "name": "Management of Companies and Enterprises"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6500",
+      "name": "REAL ESTATE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "new york",
+      "penn district",
+      "manhattan",
+      "east coast",
+      "330 west 34th street"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13725994
+   },
+   {
+    "id": 40230128,
+    "title": "HR Tech Tools for Startups: TalentHR and Rivals",
+    "url": "https://www.finsmes.com/2026/10/hr-tech-tools-for-startups-talenthr-and-rivals.html",
+    "publisher": "FinSMEs",
+    "published_date": "2026-10-09T14:44:48",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Ten HR software platforms for startups are profiled, including TalentHR, Gusto, Rippling, Deel, BambooHR, Workable, Lattice, HiBob, Paycor, and TriNet. Small firms account for 51% of net job creation from Q3 2020 to Q3 2025, and 25% of HR teams prioritize updating HR technology.",
+    "word_count": 876,
+    "author": "FinSMEs",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     },
+     {
+      "name": "Competitive Threats",
+      "code": "II04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00032q3",
+      "name": "Workable",
+      "website": "http://www.workable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hke",
+      "name": "TriNet",
+      "website": "http://trinet.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003b3wy",
+      "name": "TalentHR",
+      "website": "https://www.talenthr.io",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000dmc",
+      "name": "Lattice",
+      "website": "http://www.lattice.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001172",
+      "name": "small and medium enterprise"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000276",
+      "name": "employment agency"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "123",
+      "name": "Careers"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "56131",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     },
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "bamboohr",
+      "talenthr",
+      "gusto",
+      "workable",
+      "hibob",
+      "rippling",
+      "deel",
+      "lattice"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8298,
+    "group_id": 13801223
+   },
+   {
+    "id": 40249725,
+    "title": "Rippling opens nearly 133,000-square-foot New York office as AI leasing surges",
+    "url": "https://www.costar.com/article/1943193208/rippling-opens-nearly-133-000-square-foot-new-york-office-as-ai-leasing-surges",
+    "publisher": "Costar",
+    "published_date": "2026-10-09T12:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling, an AI-powered workforce management platform, opened a nearly 133,000-square-foot New York office at 330 W. 34th St., steps from Penn Station. The space about doubles the firm's previous Manhattan footprint.",
+    "word_count": 135,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Workforce Management & Scheduling",
+      "code": "BPACAPAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001367",
+      "name": "commercial real estate:"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "450",
+      "name": "Real Estate"
+     },
+     {
+      "code": "112",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51821",
+      "name": "Information"
+     },
+     {
+      "code": "5312",
+      "name": "Real Estate and Rental and Leasing"
+     },
+     {
+      "code": "532",
+      "name": "Real Estate and Rental and Leasing"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6500",
+      "name": "REAL ESTATE"
+     },
+     {
+      "code": "6531",
+      "name": "REAL ESTATE AGENTS & MANAGERS (FOR OTHERS)"
+     },
+     {
+      "code": "6510",
+      "name": "REAL ESTATE OPERATORS (NO DEVELOPERS) & LESSORS"
+     }
+    ],
+    "entities": {
+     "person": [
+      "andria cheng"
+     ],
+     "location": [
+      "manhattan",
+      "new york",
+      "penn station",
+      "330 w. 34th st."
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9294,
+    "group_id": 13725994
+   },
+   {
+    "id": 40229715,
+    "title": "Por que a startup que deixa o RH fora da IA pode escalar o problema? | Startupi",
+    "url": "https://startupi.com.br/ia-gestao-pessoas-startups-hrtechs-pmes/",
+    "publisher": "Startupi",
+    "published_date": "2026-10-09T08:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.1399,
+    "ai_summary": "A startup that excludes HR from its AI strategy risks inefficiencies, as people decisions directly impact product delivery and cash flow. Brazilian and international HRtechs are increasingly using AI to integrate recruitment, performance management, and finance data, helping companies predict turnover and streamline operations. Founders are advised to treat AI in HR as a core strategic component rather than an administrative afterthought, ensuring human oversight remains central to critical personnel decisions.",
+    "word_count": 1007,
+    "author": "Almir Jucca",
+    "countries": [
+     "BRA",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "People Analytics & Workforce Planning",
+      "code": "BPACAPAK",
+      "is_primary": true
+     },
+     {
+      "name": "Performance Management & OKRs",
+      "code": "BPACAPAF",
+      "is_primary": false
+     },
+     {
+      "name": "Talent Acquisition (Recruiting) & Applicant Tracking (ATS)",
+      "code": "BPACAPAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00032q3",
+      "name": "Workable",
+      "website": "http://www.workable.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000i5e",
+      "name": "Solides Tecnologia",
+      "website": "https://swacarreiras.vagas.solides.com.br",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004gr3",
+      "name": "Sicredi",
+      "website": "https://www.sicredi.com.br",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "brasil"
+     ],
+     "product": [
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13800594
+   },
+   {
+    "id": 40137462,
+    "title": "Rippling Expands New York City Presence Amid Accelerated Growth",
+    "url": "https://www.businesswire.com/news/home/20261008055600/en/Rippling-Expands-New-York-City-Presence-Amid-Accelerated-Growth",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-10-08T10:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling opened a new 132,693-square-foot office in New York City, nearly doubling its previous footprint. The office will support over 1,000 employees and supports the company's AI-powered platform expansion, including new products like Rippling Data Cloud and AI Spend Console.",
+    "word_count": 733,
+    "author": "",
+    "countries": [
+     "USA",
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "HRIS/HCM Implementation & EOR Platform Services",
+      "code": "BPACAHAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise AI Data & Knowledge Platforms (Vector Databases, Knowledge Graphs)",
+      "code": "HDAEANAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     },
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "99",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "81393",
+      "name": "Other Services (except Public Administration)"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "adam swiecicki"
+     ],
+     "location": [
+      "bengaluru",
+      "new york city",
+      "toronto",
+      "singapore",
+      "chicago",
+      "seattle",
+      "north america",
+      "embassy tech village",
+      "san francisco",
+      "penn station",
+      "new york",
+      "330 west 34th street",
+      "430 california street"
+     ],
+     "product": [
+      "rippling data cloud",
+      "ai spend console"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13725994
+   },
+   {
+    "id": 39421797,
+    "title": "India\u2019s Youngest Self-Made Billionaires 2026: Meet 31-year-old Aravind Srinivas, Alakh Pandey, Deepinder Goyal, Binny Bansal and 6 more entrepreneurs with up to $2.1 billion net worth",
+    "url": "https://www.etnownews.com/et-now-luxe/indias-youngest-self-made-billionaires-2026-meet-31-year-old-aravind-srinivas-alakh-pandey-deepinder-goyal-binny-bansal-and-6-more-entrepreneurs-with-up-to-2-1-billion-net-worth-article-156260125",
+    "publisher": "ET NOW",
+    "published_date": "2026-10-01T15:49:18",
+    "sentiment": "Positive",
+    "sentiment_score": 0.999,
+    "ai_summary": "Forbes' 2026 data lists India's youngest self-made billionaires, with Aravind Srinivas at 31 leading at $2.1 billion. Other founders include Alakh Pandey, Binny Bansal, and Deepinder Goyal, each with net worths around $1 billion. The list spans AI, edtech, fintech, and e-commerce.",
+    "word_count": 1201,
+    "author": "Written",
+    "countries": [
+     "IND",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Net Worth & Personal Balance Sheet Tracking",
+      "code": "FSAGADAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003tv",
+      "name": "Walmart",
+      "website": "http://www.walmart.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002k99",
+      "name": "Navi Technologies",
+      "website": "https://www.navi.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000x4",
+      "name": "Razorpay",
+      "website": "https://razorpay.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002el",
+      "name": "Groww",
+      "website": "https://groww.in",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000004",
+      "name": "Perplexity",
+      "website": "https://www.perplexity.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002kk",
+      "name": "Zomato",
+      "website": "https://www.zomato.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004iz",
+      "name": "Flipkart",
+      "website": "https://www.flipkart.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009xr",
+      "name": "Physics Wallah",
+      "website": "https://www.pw.live",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001158",
+      "name": "start-up and entrepreneurial business"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "61",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "52",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "60",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "aravind srinivas",
+      "binny bansal",
+      "deepinder goyal",
+      "prasanna sankar",
+      "alakh pandey",
+      "sachin bansal",
+      "johnny ho",
+      "andy konwinski",
+      "denis yarats",
+      "harshil mathur",
+      "shashank kumar",
+      "lalit keshre",
+      "prateek boob"
+     ],
+     "location": [
+      "india",
+      "us-based"
+     ],
+     "product": [
+      "flipkart",
+      "zomato",
+      "groww",
+      "perplexity",
+      "razorpay",
+      "foodiebay",
+      "online marketplace",
+      "investment platform",
+      "payments company",
+      "food delivery business",
+      "youtube",
+      "enterprise software",
+      "food delivery"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13043127
+   },
+   {
+    "id": 38991722,
+    "title": "Deel loses bid to bar key witness in Rippling spy case",
+    "url": "https://thenextweb.com/news/deel-rippling-spying-case-witness-ruling",
+    "publisher": "The Next Web",
+    "published_date": "2026-09-26T15:51:21",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0024,
+    "ai_summary": "A judge rejected Deel's request to bar Rippling executive O'Brien's testimony, citing his refusal to answer over 100 questions and lack of assurances. The judge dismissed Deel's cybersquatting and trademark claims but allowed some Lanham Act false advertising claims to proceed. Deel can revise and refile dismissed claims.",
+    "word_count": 226,
+    "author": "Alina Maria Stan",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "IP Litigation & Dispute Resolution",
+      "code": "BPAHAMAE",
+      "is_primary": true
+     },
+     {
+      "name": "Intellectual Property (IP) Law",
+      "code": "BPAHAAAF",
+      "is_primary": false
+     },
+     {
+      "name": "Litigation & Dispute Resolution",
+      "code": "BPAHAAAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000282",
+      "name": "legal service"
+     },
+     {
+      "code": "20000174",
+      "name": "bankruptcy"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "383",
+      "name": "Law"
+     },
+     {
+      "code": "65",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5411",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54111",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "o\u2019brien",
+      "breyer",
+      "deel"
+     ],
+     "location": [
+      "northern district of california",
+      "us"
+     ],
+     "product": [
+      "deal.com"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12497333
+   },
+   {
+    "id": 38952107,
+    "title": "Deel Dealt Fresh Setbacks in Rippling Case Over Alleged Spying - Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying",
+    "publisher": "Bloomberg",
+    "published_date": "2026-09-26T02:07:32",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0073,
+    "ai_summary": "A federal judge rejected Deel's bid to strike testimony in Rippling's espionage case, refused to reopen his earlier decision, and ordered Deel's most serious counterclaims into arbitration. The judge also dismissed several of Deel's false advertising claims against Rippling.",
+    "word_count": 740,
+    "author": "Peter Blumberg",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Litigation & Dispute Resolution",
+      "code": "BPAHAAAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000087",
+      "name": "corporate crime"
+     },
+     {
+      "code": "20000282",
+      "name": "legal service"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [
+     {
+      "code": "541199",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5411",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     },
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "deel",
+      "peter blumberg"
+     ],
+     "location": [
+      "americas",
+      "asia pacific",
+      "us"
+     ],
+     "product": [
+      "bloomberg terminal",
+      "chevron down"
+     ],
+     "event": [
+      "bloomberg live conferences"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 12497333
+   },
+   {
+    "id": 38120960,
+    "title": "Rippling Opens AI Lab in Bengaluru to Accelerate the Future of AI-Powered Business Software",
+    "url": "https://techrseries.com/employee-engagement/rippling-opens-ai-lab-in-bengaluru-to-accelerate-the-future-of-ai-powered-business-software/",
+    "publisher": "TecHR",
+    "published_date": "2026-09-22T10:19:37",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling launched its AI Lab in Bengaluru, a research and engineering group for AI innovation. The company has nearly 2,500 employees in India and plans to increase headcount, with the lab developing core AI platform components. The lab is hiring for AI research, applied AI, backend, platform, and machine learning roles.",
+    "word_count": 474,
+    "author": "Business Wire",
+    "countries": [
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "Model Development & Training Platforms (AutoML, Notebooks, Feature Stores)",
+      "code": "HDAEANAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "interview",
+     "label": "Interview"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561311",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [
+      "sonia parandekar",
+      "emma lavelle"
+     ],
+     "location": [
+      "bengaluru",
+      "india",
+      "san francisco",
+      "embassy tech village"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.918,
+    "group_id": 11958994
+   },
+   {
+    "id": 37304772,
+    "title": "Rippling Opens AI Lab in Bengaluru to Accelerate the Future of AI-Powered Business Software",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-9-22-rippling-opens-ai-lab-in-bengaluru-to-accelerate-the-future-of-ai-powered-business-software",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-09-22T01:30:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling launched its AI Lab in Bengaluru to accelerate AI innovation for its workforce management software. The company has nearly 2,500 employees in India and plans to expand its Bengaluru workspace to 170,000 sq ft. The AI Lab is hiring for AI research, applied AI, and backend engineering roles.",
+    "word_count": 543,
+    "author": "",
+    "countries": [
+     "IND"
+    ],
+    "industries": [
+     {
+      "name": "AI/ML Engineering & Model Development Services",
+      "code": "BPAEAHAF",
+      "is_primary": true
+     },
+     {
+      "name": "Workforce Management & Scheduling",
+      "code": "BPACAPAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": true
+     },
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000363",
+      "name": "economic organization"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "56131",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "561311",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7371",
+      "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "sonia parandekar"
+     ],
+     "location": [
+      "bengaluru",
+      "india",
+      "san francisco",
+      "embassy tech village",
+      "ca"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.919,
+    "group_id": 11958994
+   },
+   {
+    "id": 37263745,
+    "title": "Which payroll and HR platform is best for multilocation retail scheduling? \u2014 TFN",
+    "url": "https://techfundingnews.com/which-payroll-and-hr-platform-is-best-for-multilocation-retail-scheduling/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-09-21T16:13:22",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9429,
+    "ai_summary": "Paycom is ranked as the top payroll and HR platform for multilocation retail scheduling, offering data consolidation, decisioning logic, and full-solution automation. The article cites Deloitte and Harvard Business Review research on workforce scheduling's impact on retention and profitability. It recommends platforms that integrate scheduling, payroll, and HR processes over point solutions.",
+    "word_count": 1290,
+    "author": "Editorial team",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": true
+     },
+     {
+      "name": "Workforce, Capacity & Scheduling Optimization",
+      "code": "HDAAAHAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00073gf",
+      "name": "Paycom",
+      "website": "http://www.paycom.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000077t",
+      "name": "Paychex",
+      "website": "https://www.paychex.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "114",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "states"
+     ],
+     "product": [
+      "paycom",
+      "paychex",
+      "rippling",
+      "adp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9741,
+    "group_id": 14537242
+   },
+   {
+    "id": 34945899,
+    "title": "How $103,000 visa fees could force US tech to build in Africa",
+    "url": "https://techcabal.com/2026/09/12/digital-nomads-h-1b-visa/",
+    "publisher": "TechCabal",
+    "published_date": "2026-09-12T12:19:49",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0208,
+    "ai_summary": "The US Department of Homeland Security proposed a $103,265 H-1B visa fee and a wage-weighted lottery, expanding the fee to all cap-subject petitions. The proposal would apply regardless of whether the applicant is in the US, potentially forcing US tech firms to hire distributed teams in Africa. The fee is open for public comment until September 24.",
+    "word_count": 2016,
+    "author": "Emmanuel Nwosu",
+    "countries": [
+     "USA",
+     "NGA",
+     "KEN",
+     "ZAF"
+    ],
+    "industries": [
+     {
+      "name": "Visa, Immigration Liaison & Travel Document Policy (Foreign Affairs)",
+      "code": "BPAIAIAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Policy & Legislative Changes",
+      "code": "RC02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00084po",
+      "name": "Department of Homeland Security",
+      "website": "https://www.dhs.gov",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004h1",
+      "name": "Apple",
+      "website": "https://www.apple.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004a",
+      "name": "Databricks",
+      "website": "https://www.databricks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000523",
+      "name": "labor market"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "09000000",
+      "name": "labor"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "123",
+      "name": "Careers"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "561311",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7361",
+      "name": "SERVICES-EMPLOYMENT AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "emmanuel nwosu",
+      "donald trump",
+      "trump"
+     ],
+     "location": [
+      "lagos",
+      "nairobi",
+      "cape town",
+      "silicon valley",
+      "africa",
+      "united states",
+      "oakland, california",
+      "us",
+      "america",
+      "bangalore",
+      "massachusetts",
+      "india",
+      "nigeria",
+      "china"
+     ],
+     "product": [
+      "claude",
+      "chatgpt"
+     ],
+     "event": [
+      "fy2025",
+      "fy2027",
+      "moonshot 2026"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 11137948
+   },
+   {
+    "id": 34899803,
+    "title": "Rippling vs Deel 2026: EOR Coverage, Pricing, and Who Wins",
+    "url": "https://www.startuphub.ai/ai-news/reviews/2026/rippling-vs-deel-global-workforce-platforms",
+    "publisher": "StartupHub.ai",
+    "published_date": "2026-09-05T11:19:17",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Deel and Rippling are compared as global workforce platforms, with Deel covering 150+ countries and Rippling 80. Deel publishes EOR pricing from $599 per employee per month, while Rippling uses modular pricing starting at $8 plus a $35 base fee. Wise is noted as a payments layer, not an EOR.",
+    "word_count": 2332,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Global Employer of Record (EOR) Services",
+      "code": "BPACAHAA",
+      "is_primary": true
+     },
+     {
+      "name": "Global Payroll & Multi-Country Payroll Management",
+      "code": "BPACAHAC",
+      "is_primary": false
+     },
+     {
+      "name": "Employer of Record (EOR) & Global Payroll",
+      "code": "FSAMAKAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00002om",
+      "name": "Wise",
+      "website": "https://wise.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000509",
+      "name": "employment"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "63",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "561330",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     },
+     {
+      "code": "5613",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s.",
+      "india",
+      "us",
+      "balkans"
+     ],
+     "product": [
+      "deel",
+      "rippling",
+      "wise",
+      "remote.com",
+      "hofy",
+      "unity",
+      "capterra",
+      "trustradius",
+      "trustpilot",
+      "stripe",
+      "okta",
+      "g2",
+      "entra",
+      "remofirst",
+      "wisemonk",
+      "oyster",
+      "papaya",
+      "remote",
+      "pebl",
+      "workmotion",
+      "goglobal",
+      "gusto",
+      "multiplier",
+      "justworks",
+      "plane",
+      "borderless ai",
+      "skuad",
+      "native teams",
+      "g-p",
+      "papaya global"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8623,
+    "group_id": 10984818
+   },
+   {
+    "id": 33927169,
+    "title": "Top BambooHR alternatives for mid-market companies \u2014 TFN",
+    "url": "https://techfundingnews.com/top-bamboohr-alternatives-for-mid-market-companies/",
+    "publisher": "Tech Funding News",
+    "published_date": "2026-09-04T17:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5521,
+    "ai_summary": "Ten BambooHR alternatives for mid-market companies are ranked, with HiBob (Bob) highlighted for culture and engagement. G2 ratings range from 4.1 to 4.8, and pricing is mostly quote-based, with Factorial starting at $8 per user monthly. The evaluation weights engagement and scale, noting BambooHR's customisation and payroll gaps.",
+    "word_count": 2996,
+    "author": "Abhinaya Prabhu",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Employee Engagement, Surveys & EX",
+      "code": "BPACAPAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00073gf",
+      "name": "Paycom",
+      "website": "http://www.paycom.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002qy6",
+      "name": "Zoho",
+      "website": "https://www.zoho.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006bt",
+      "name": "Factorial",
+      "website": "https://factorialhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "us",
+      "european",
+      "europe",
+      "uk"
+     ],
+     "product": [
+      "bamboohr",
+      "personio",
+      "paycom",
+      "factorial",
+      "gusto",
+      "workday",
+      "deel",
+      "rippling",
+      "zoho people",
+      "hibob (bob)",
+      "adp workforce now",
+      "hibob",
+      "bob",
+      "g2 it",
+      "adp",
+      "paychex"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7878,
+    "group_id": 10425736
+   },
+   {
+    "id": 34147409,
+    "title": "Deutsch Wins Rippling Global Media Account",
+    "url": "https://www.mediapost.com/publications/article/417635/deutsch-wins-rippling-global-media-account.html",
+    "publisher": "MediaPost",
+    "published_date": "2026-09-04T15:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Deutsch secured a global paid media account for Rippling, the AI-native workforce management platform, with estimated digital media spend of $15 million. The agency will handle custom audience strategy and analytics, while Rippling plans a new national video campaign across linear, connected TV, and major sports programming targeting the U.K., Ireland, and Singapore.",
+    "word_count": 208,
+    "author": "Fern Siegel",
+    "countries": [
+     "GBR",
+     "IRL",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Full-Service Media Planning & Buying",
+      "code": "MPAAABAA",
+      "is_primary": true
+     },
+     {
+      "name": "Programmatic Media Buying & Trading Desks (DV360/TTD, RTB)",
+      "code": "MPAAABAB",
+      "is_primary": false
+     },
+     {
+      "name": "Paid Social Media Buying",
+      "code": "MPAAABAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000mys3",
+      "name": "Deutsch LA",
+      "website": "http://www.deutsch.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20000312",
+      "name": "public relations"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54183",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "neel murthy",
+      "lauren tetuan"
+     ],
+     "location": [
+      "ireland",
+      "singapore",
+      "u.k."
+     ],
+     "product": [
+      "turo",
+      "snapple",
+      "taco bell",
+      "dr pepper",
+      "ripply"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10562535
+   },
+   {
+    "id": 33873570,
+    "title": "Best HR and Payroll Software for Mid-Market Companies (200-1000)",
+    "url": "https://hackernoon.com/best-hr-and-payroll-software-for-mid-market-companies-200-1000?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-09-04T02:37:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6749,
+    "ai_summary": "HiBob ranks highest for mid-market HR and payroll software, keeping employee data and payroll on one core. Paycor, ADP Workforce Now, and Paylocity follow, with Gusto, Rippling, Justworks, Deel, and Personio also listed. The ranking prioritizes single-record architecture and multi-state tax filing.",
+    "word_count": 2611,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll Software & Payroll-as-a-Service (SaaS)",
+      "code": "BPACAIAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ytu",
+      "name": "Paylocity",
+      "website": "http://www.paylocity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002nj",
+      "name": "Paycor",
+      "website": "http://www.paycor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ec3",
+      "name": "Personio",
+      "website": "https://www.personio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sr",
+      "name": "Justworks",
+      "website": "https://www.justworks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541214",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "5412",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "us",
+      "states",
+      "europe",
+      "european"
+     ],
+     "product": [
+      "paycor",
+      "bob",
+      "hibob",
+      "capterra",
+      "paylocity",
+      "gusto",
+      "rippling",
+      "justworks",
+      "adp workforce now",
+      "deel",
+      "personio",
+      "paychex",
+      "adp workforce",
+      "paycom",
+      "ukg",
+      "hris"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7539,
+    "group_id": 10384286
+   },
+   {
+    "id": 33852027,
+    "title": "Best HR Software for Mid-Size and Large Companies (200-5000+) in Australia",
+    "url": "https://itwire.com/guest-articles/guest-reviews/best-hr-software-for-mid-size-and-large-companies-200-5000-in-australia",
+    "publisher": "iTWire",
+    "published_date": "2026-09-04T01:51:10",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Five HR software platforms for Australian mid-size and large companies are compared, with Bob highlighted as top for scaling from 200 to 5,000 employees. The comparison weighs Australian payroll compliance, multi-entity support, and total cost of ownership over three years. No single best platform exists, as fit depends on business structure and growth plans.",
+    "word_count": 2171,
+    "author": "Guest Writer",
+    "countries": [
+     "AUS"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Payroll, Time & Attendance",
+      "code": "BPACAPAB",
+      "is_primary": false
+     },
+     {
+      "name": "HR Compliance, Policy, EEO & Labor Law",
+      "code": "BPACAPAM",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Share & Positioning",
+      "code": "SD05",
+      "is_primary": true
+     },
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000un",
+      "name": "Employment Hero",
+      "website": "http://www.employmenthero.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008c2c",
+      "name": "ELMO Software",
+      "website": "https://elmosoftware.com.au",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "56",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "elmo",
+      "bob"
+     ],
+     "location": [
+      "australia",
+      "uk",
+      "new zealand",
+      "us"
+     ],
+     "product": [
+      "bob",
+      "xero",
+      "hibob",
+      "myob",
+      "capterra",
+      "rippling",
+      "employment hero",
+      "elmo",
+      "g2",
+      "workday"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7934,
+    "group_id": 10372777
+   },
+   {
+    "id": 35079989,
+    "title": "Deutsch Wins Rippling Global Media Account",
+    "url": "https://www.mediapost.com/publications/article/417635/deutsch-wins-ripplings-global-media-account.html",
+    "publisher": "MediaPost",
+    "published_date": "2026-09-04T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Deutsch has secured a new account for Rippling, the AI-native workforce management platform, handling global paid media strategy, planning, and buying. Convergence estimates Rippling's digital media spend at $15 million, with Deutsch also managing custom audience strategy and analytics. A new national video campaign is underway across linear, connected TV, and major sports programming.",
+    "word_count": 208,
+    "author": "Fern Siegel",
+    "countries": [
+     "GBR",
+     "IRL",
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Media Planning, Buying & Optimization",
+      "code": "BPAFAAAC",
+      "is_primary": true
+     },
+     {
+      "name": "Full-Service Media Planning & Buying",
+      "code": "MPAAABAA",
+      "is_primary": false
+     },
+     {
+      "name": "Programmatic Media Buying & Trading Desks (DV360/TTD, RTB)",
+      "code": "MPAAABAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": false
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000jvu4",
+      "name": "Deutsch",
+      "website": "http://www.deutschinc.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "04000000",
+      "name": "economy, business and finance"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "106",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54181",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "54183",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     },
+     {
+      "code": "7330",
+      "name": "SERVICES-MAILING, REPRODUCTION, COMMERCIAL ART & PHOTOGRAPHY"
+     }
+    ],
+    "entities": {
+     "person": [
+      "neel murthy",
+      "lauren tetuan"
+     ],
+     "location": [
+      "ireland",
+      "singapore",
+      "u.k."
+     ],
+     "product": [
+      "turo",
+      "snapple",
+      "taco bell",
+      "dr pepper",
+      "ripply"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10562535
+   },
+   {
+    "id": 33776164,
+    "title": "Best Global HR Software for US Companies",
+    "url": "https://aijourn.com/best-global-hr-software-for-us-companies/",
+    "publisher": "Aijourn",
+    "published_date": "2026-09-03T11:51:01",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8304,
+    "ai_summary": "Eight global HR software platforms are ranked for US companies with distributed workforces, including HiBob, Deel, and Remote. Pricing ranges from $29 per employee per month for payroll to $699 for EOR, with G2 scores from 4.1 to 4.8. The guide advises matching the tool to whether the core need is people operations or payments.",
+    "word_count": 3009,
+    "author": "Tom Allen",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Employer of Record (EOR) & Global Payroll",
+      "code": "FSAMAKAB",
+      "is_primary": false
+     },
+     {
+      "name": "HRIS/HCM Implementation & EOR Platform Services",
+      "code": "BPACAHAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00008sm",
+      "name": "Papaya Global",
+      "website": "https://www.papayaglobal.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000y22",
+      "name": "Oyster",
+      "website": "https://www.oysterhr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000dur",
+      "name": "Remote",
+      "website": "https://remote.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "tom allen"
+     ],
+     "location": [
+      "lisbon",
+      "bangalore",
+      "north america",
+      "uk",
+      "us",
+      "united states",
+      "austin",
+      "berlin",
+      "london",
+      "countries",
+      "160 countries",
+      "140 countries",
+      "185 countries"
+     ],
+     "product": [
+      "hibob",
+      "deel",
+      "rippling",
+      "papaya global",
+      "global hr software",
+      "workday enterprise",
+      "oyster eor",
+      "adp",
+      "remote",
+      "oyster",
+      "bob core",
+      "workday",
+      "bob",
+      "papaya"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8852,
+    "group_id": 10318241
+   },
+   {
+    "id": 33703874,
+    "title": "Apex Fintech Solutions partners Rippling to launch integrated treasury management",
+    "url": "https://ibsintelligence.com/ibsi-news/apex-fintech-solutions-partners-rippling-to-launch-integrated-treasury-management/",
+    "publisher": "IBS Intelligence",
+    "published_date": "2026-09-02T11:15:09",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Apex Fintech Solutions and Rippling partnered to launch integrated treasury management, giving 30,000+ businesses access to Apex's Money Market Fund Sweep. The offering uses Apex AscendOS and Apex Clearing as FINRA-registered broker-dealer, with future expansions planned.",
+    "word_count": 329,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Treasury, Cash Management & Liquidity Tools (Sweeps, Cash Concentration)",
+      "code": "FSAGAAAG",
+      "is_primary": true
+     },
+     {
+      "name": "Treasury, Cash Management & Liquidity (SME)",
+      "code": "FSAGAJAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": true
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006pln",
+      "name": "APEX Clearing Corporation",
+      "website": "https://www.apexclearing.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002h6e",
+      "name": "Apex Fintech Solutions",
+      "website": "https://www.apexfintechsolutions.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     },
+     {
+      "code": "20001370",
+      "name": "financial service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522320",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52232",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "522390",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bill capuzzi",
+      "jason james",
+      "divya shah"
+     ],
+     "location": [
+      "u.s."
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9193,
+    "group_id": 10266685
+   },
+   {
+    "id": 33501813,
+    "title": "The Best Payroll Software Providers for 5,000+ Employees",
+    "url": "https://solutionsreview.com/business-process-management/the-best-payroll-software-providers-for-5000-employees/",
+    "publisher": "Solutions Review Technology News and Vendor Reviews",
+    "published_date": "2026-08-31T17:34:05",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Solutions Review compiled a list of payroll software providers for enterprises with 5,000 or more employees, including Paycom, Workday, Netchex, UKG, Deel, ADP, Paylocity, SAP, and Rippling. The list highlights features such as multi-state tax compliance, complex pay rules, and integrations with HR and finance systems.",
+    "word_count": 908,
+    "author": "William Jepma",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Payroll Software & Payroll-as-a-Service (SaaS)",
+      "code": "BPACAIAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00073gf",
+      "name": "Paycom",
+      "website": "http://www.paycom.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004yy",
+      "name": "SAP",
+      "website": "https://www.sap.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000059b",
+      "name": "ADP",
+      "website": "http://www.adp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002ytu",
+      "name": "Paylocity",
+      "website": "http://www.paylocity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002tcz",
+      "name": "UKG",
+      "website": "https://www.ukg.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005mqd",
+      "name": "Netchex",
+      "website": "https://netchex.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003ac",
+      "name": "Workday",
+      "website": "http://www.workday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541214",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "paylocity",
+      "payroll software",
+      "paycom",
+      "workday",
+      "netchex"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8103,
+    "group_id": 10108871
+   },
+   {
+    "id": 33153632,
+    "title": "Future of Marketing Briefing: Soccer\u2019s World Cup buzz isn\u2019t moving needle on Premier League ad spend",
+    "url": "https://digiday.com/marketing/future-of-marketing-briefing-soccers-world-cup-buzz-isnt-moving-needle-on-premier-league-ad-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "publisher": "Digiday",
+    "published_date": "2026-08-28T04:01:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6167,
+    "ai_summary": "Despite Fox's World Cup coverage drawing 128 million viewers and boosting its quarterly revenue 28% to $4.2 billion, Premier League ad spend remains steady rather than surging. Media buyers said Premier League inventory sold well but without increased demand, while MLS and the upcoming Champions League and Women's World Cup offer alternative paths.",
+    "word_count": 1464,
+    "author": "Sam Bradley",
+    "countries": [
+     "USA",
+     "GBR"
+    ],
+    "industries": [
+     {
+      "name": "Sponsorship & Sports Media Rights Buying",
+      "code": "MPAAABAO",
+      "is_primary": true
+     },
+     {
+      "name": "Sports OTT & League Pass Streaming Channels",
+      "code": "MPABAHAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Investor Sentiment",
+      "code": "MD07",
+      "is_primary": true
+     },
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00058q1",
+      "name": "Genesis",
+      "website": "https://www.genesis.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003w8yb",
+      "name": "Telemundo",
+      "website": "http://www.telemundo.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00061ap",
+      "name": "Canvas Worldwide",
+      "website": "https://www.canvasworldwide.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000x3b",
+      "name": "NBCUniversal",
+      "website": "https://www.nbcuniversal.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044i",
+      "name": "Netflix",
+      "website": "https://www.netflix.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m3bpf",
+      "name": "Apple TV+",
+      "website": "https://tv.apple.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007a7",
+      "name": "Fox",
+      "website": "https://www.foxcorporation.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00062pp",
+      "name": "WPP Media",
+      "website": "https://www.wppmedia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00045bq",
+      "name": "Peacock TV",
+      "website": "http://www.peacocktv.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001122",
+      "name": "world cup"
+     },
+     {
+      "code": "20001372",
+      "name": "news industry"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "93",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54183",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "541830",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "711211",
+      "name": "Arts, Entertainment, and Recreation"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     },
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "marty blich",
+      "neel murthy",
+      "jim mcnamara",
+      "lionel messi",
+      "mcnamara",
+      "murthy",
+      "kerry bradley",
+      "seb joseph",
+      "gabriela barkho",
+      "krystal scanlon",
+      "jaime schultheis"
+     ],
+     "location": [
+      "brazil",
+      "u.s.",
+      "u.k.",
+      "st james\u2019 park"
+     ],
+     "product": [
+      "software",
+      "youtube",
+      "zuma",
+      "tiktok",
+      "chatgpt",
+      "perplexity",
+      "mls",
+      "kokai",
+      "mas+",
+      "appletv",
+      "unwell",
+      "netflix"
+     ],
+     "event": [
+      "fifa world cup",
+      "2026 world cup",
+      "champions league",
+      "world cup",
+      "fifa women\u2019s world cup",
+      "women\u2019s world cup"
+     ]
+    },
+    "newsworthiness_score": 0.9111,
+    "group_id": 9800369
+   },
+   {
+    "id": 33152375,
+    "title": "Rippling to nearly triple Singapore office headcount",
+    "url": "https://securitybrief.com.au/story/rippling-to-nearly-triple-singapore-office-headcount",
+    "publisher": "SecurityBrief Australia",
+    "published_date": "2026-08-28T03:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling is expanding its Singapore operations to a new office at OCBC Centre East, planning to nearly triple its local office-based headcount. The US$16.8 billion workforce-management company cites Singapore's 5.7% year-on-year growth in Q2 2026 and 73,300 job vacancies in March. It also launched an AI governance product and cites start-up k-ID, which has hired over 60 employees across 12 countries.",
+    "word_count": 710,
+    "author": "Joseph Gabriel Lagonsin",
+    "countries": [
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Global Mobility, Immigration & Relocation",
+      "code": "BPACAPAN",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     },
+     {
+      "name": "Strategic Hiring",
+      "code": "WT01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000523",
+      "name": "labor market"
+     },
+     {
+      "code": "20001295",
+      "name": "outsourcing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "55",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5613",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jeff wu",
+      "fiona fergus",
+      "joseph gabriel lagonsin"
+     ],
+     "location": [
+      "singapore",
+      "europe",
+      "us",
+      "asia-pacific",
+      "north america",
+      "ocbc centre east"
+     ],
+     "product": [
+      "semiconductors"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9784016
+   },
+   {
+    "id": 33127980,
+    "title": "Rippling to nearly triple Singapore office headcount",
+    "url": "https://itbrief.in/story/rippling-to-nearly-triple-singapore-office-headcount",
+    "publisher": "Itbrief",
+    "published_date": "2026-08-28T03:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling is expanding its Singapore operations to a new office at OCBC Centre East, planning to nearly triple its local office-based headcount. The US$16.8 billion workforce-management company cites Singapore's 5.7% year-on-year growth and 73,300 job vacancies in March as drivers. It also launched an AI governance product and named k-ID as a customer.",
+    "word_count": 710,
+    "author": "Joseph Gabriel Lagonsin",
+    "countries": [
+     "SGP"
+    ],
+    "industries": [
+     {
+      "name": "Global Mobility, Immigration & Relocation",
+      "code": "BPACAPAN",
+      "is_primary": true
+     },
+     {
+      "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+      "code": "HDAAACAO",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Geographic Expansion",
+      "code": "SD03",
+      "is_primary": true
+     },
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000523",
+      "name": "labor market"
+     },
+     {
+      "code": "20000362",
+      "name": "productivity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5613",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jeff wu",
+      "fiona fergus",
+      "joseph gabriel lagonsin"
+     ],
+     "location": [
+      "singapore",
+      "europe",
+      "us",
+      "asia-pacific",
+      "north america",
+      "ocbc centre east"
+     ],
+     "product": [
+      "semiconductors"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9784016
+   },
+   {
+    "id": 33566686,
+    "title": "DOJ opens criminal probe into Deel corporate spy scandal",
+    "url": "https://www.techbuzz.ai/articles/doj-opens-criminal-probe-into-deel-corporate-spy-scandal",
+    "publisher": "Techbuzz",
+    "published_date": "2026-08-28T00:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.003,
+    "ai_summary": "The Department of Justice opened a criminal investigation into Deel over allegations it hired a corporate spy to infiltrate rival Rippling. The probe escalates a legal battle involving RICO violations, surveillance, and witness intimidation, with both companies retaining high-profile defense attorneys.",
+    "word_count": 654,
+    "author": "The Tech Buzz Team",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "White-Collar Defense & Investigations",
+      "code": "BPAHAAAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Fraud, Cybercrime Investigations & Brand/Dark Web Monitoring",
+      "code": "BPAKAHAO",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000087",
+      "name": "corporate crime"
+     },
+     {
+      "code": "20000114",
+      "name": "litigation"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "elon musk",
+      "william frentzen",
+      "alexandre bouaziz",
+      "alex spiro",
+      "jay-z",
+      "john grisham"
+     ],
+     "location": [
+      "manhattan",
+      "northern california"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 10139681
+   },
+   {
+    "id": 33217368,
+    "title": "Top 5 HR Software Solutions for Startups",
+    "url": "https://smallbiztrends.com/startup-hr-software/",
+    "publisher": "Smallbiztrends",
+    "published_date": "2026-08-27T13:31:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A guide recommends five HR software options for startups, naming BambooHR for core HR and self-service, Gusto for payroll and benefits, Rippling for integrated HR and IT workflows, HiBob for employee engagement, and Deel for global hiring and compliance. It advises adopting cloud-based HR systems around 5-10 employees, with core features priced $5-15 per employee per month.",
+    "word_count": 1320,
+    "author": "Leland Mcfarland",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Core HR & HRIS",
+      "code": "BPACAPAA",
+      "is_primary": true
+     },
+     {
+      "name": "Employee Engagement, Surveys & EX",
+      "code": "BPACAPAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003e2",
+      "name": "Deel",
+      "website": "https://www.deel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ga",
+      "name": "HiBob",
+      "website": "http://www.hibob.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000axn",
+      "name": "BambooHR",
+      "website": "http://www.BambooHR.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000zy",
+      "name": "Gusto",
+      "website": "https://www.gusto.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000188",
+      "name": "human resources"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "620",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541612",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "gusto",
+      "bamboohr",
+      "deel",
+      "hibob",
+      "rippling",
+      "cloud-based hr management software",
+      "hr software",
+      "cloud-based hr software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8303,
+    "group_id": 9840282
+   },
+   {
+    "id": 33077878,
+    "title": "Rippling Tops G2\u2019s First-Ever Grid\u00ae for AI Agents for HR",
+    "url": "https://techrseries.com/hr/rippling-tops-g2s-first-ever-grid-for-ai-agents-for-hr/",
+    "publisher": "TecHR",
+    "published_date": "2026-08-26T10:21:56",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling was named the #1 Leader in G2's first-ever Grid for AI Agents for HR Software, scoring a near-perfect 98/100 from over 650 customer reviews. Rippling AI is described as a copilot integrating with people, technology and financial data to automate HR, IT and finance tasks. The company also won #1 in several other G2 Fall 2026 categories.",
+    "word_count": 495,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+      "code": "BPAEAHAG",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000271",
+      "name": "financial and business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541511",
+      "name": "Professional, Scientific, and Technical Services"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matt macinnis",
+      "emma lavelle"
+     ],
+     "location": [],
+     "product": [
+      "rippling data cloud",
+      "ai spend console",
+      "rippling ai",
+      "rippling ai governance"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9267,
+    "group_id": 9714687
+   },
+   {
+    "id": 33566405,
+    "title": "Rippling Corporate Card Review 2026: Cash Back & Advanced Controls",
+    "url": "https://www.forbes.com/advisor/credit-cards/reviews/rippling-corporate-card/",
+    "publisher": "Forbes",
+    "published_date": "2026-08-26T09:00:19",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The Rippling Corporate Card offers up to 1.75% flat-rate cash back, no annual fee, and no personal guarantee, but requires meeting monthly spending commitments. It integrates with Rippling's finance platform and is available to corporations except sole proprietors. The card does not offer foreign-currency rewards or travel perks beyond the built-in travel portal.",
+    "word_count": 2334,
+    "author": "Clint Proctor",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Corporate Cards & Spend Controls",
+      "code": "FSAGAJAF",
+      "is_primary": true
+     },
+     {
+      "name": "Business / Corporate Credit Cards",
+      "code": "FSAKABAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00007cz",
+      "name": "Visa",
+      "website": "https://www.visa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000bfv",
+      "name": "Fifth Third Bank",
+      "website": "http://53.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001164",
+      "name": "payment service"
+     },
+     {
+      "code": "20000171",
+      "name": "business finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "67",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "522210",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "52221",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "california",
+      "u.s."
+     ],
+     "product": [
+      "rippling corporate card",
+      "rippling travel portal",
+      "rippling travel",
+      "quickbooks online",
+      "sage intact",
+      "xero",
+      "netsuite",
+      "business credit cards",
+      "business credit card",
+      "corporate card",
+      "brex card",
+      "wells fargo signify business cash\u00ae card",
+      "brex travel",
+      "restaurants",
+      "ramp business card",
+      "rideshare",
+      "virtual card"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7817,
+    "group_id": 10139392
+   },
+   {
+    "id": 33566401,
+    "title": "Rippling Tops G2\u2019s First-Ever Grid\u00ae for AI Agents for HR",
+    "url": "https://www.01net.it/rippling-tops-g2s-first-ever-grid-for-ai-agents-for-hr/",
+    "publisher": "01net",
+    "published_date": "2026-08-25T21:02:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling was named #1 Leader in G2's first-ever Grid for AI Agents for HR Software, receiving a near-perfect 98/100 score from over 650 customer reviews. The ranking is based on Satisfaction and Market Presence scores, and Rippling AI is described as a complete HR, IT, and finance copilot with native integrations.",
+    "word_count": 513,
+    "author": "Business Wire",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sourcing / Talent Research & Pipeline RPO (Sourcer-as-a-Service)",
+      "code": "BPACABAM",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "matt macinnis"
+     ],
+     "location": [
+      "san francisco, ca",
+      "san francisco"
+     ],
+     "product": [
+      "rippling data cloud",
+      "rippling ai",
+      "ai spend console",
+      "rippling ai governance"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9215,
+    "group_id": 9413701
+   },
+   {
+    "id": 32990403,
+    "title": "Rippling Tops G2\u2019s First-Ever Grid\u00ae for AI Agents for HR",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-8-25-rippling-tops-g2s-first-ever-grid-for-ai-agents-for-hr",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-08-25T18:02:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling was named the #1 Leader in G2's first-ever Grid for AI Agents for HR Software, receiving the highest overall score from more than 650 customer reviews. Rippling AI, a copilot integrating HR, IT and finance data, scored near-perfect 98/100 on Satisfaction and Market Presence. Rippling also ranked #2 in G2's AI Agents and Agentic AI Software grids.",
+    "word_count": 568,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+      "code": "HDAAAGAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+      "code": "BPAEAHAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "matt macinnis"
+     ],
+     "location": [
+      "san francisco, ca"
+     ],
+     "product": [
+      "rippling data cloud",
+      "rippling ai",
+      "ai spend console",
+      "rippling ai governance",
+      "rippling finance"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.951,
+    "group_id": 9413701
+   },
+   {
+    "id": 33002252,
+    "title": "Rippling Tops G2\u2019s First-Ever Grid\u00ae for AI Agents for HR",
+    "url": "https://www.businesswire.com/news/home/20260825176561/en/Rippling-Tops-G2s-First-Ever-Grid-for-AI-Agents-for-HR",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-08-25T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Rippling was named the #1 Leader in G2's first-ever Grid for AI Agents for HR Software, based on more than 650 customer reviews, with Rippling AI scoring a near-perfect 98/100 in Satisfaction and Market Presence. The company also ranked #2 in G2's Grid for AI Agents and #2 in Grid for Agentic AI Software. Rippling cited its AI Spend Console, Data Cloud and AI Governance products.",
+    "word_count": 1474,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Employee Helpdesk / HR Service Center (Tier 1)",
+      "code": "BPAAAIAH",
+      "is_primary": true
+     },
+     {
+      "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+      "code": "HDAAACAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "review",
+     "label": "Review"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "matt macinnis",
+      "sonia parandekar"
+     ],
+     "location": [
+      "san francisco",
+      "ca",
+      "india",
+      "bengaluru",
+      "benga"
+     ],
+     "product": [
+      "rippling data cloud",
+      "ai spend console",
+      "rippling ai",
+      "rippling ai governance",
+      "cookies"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9828,
+    "group_id": 9449959
+   },
+   {
+    "id": 32803350,
+    "title": "How Your Social Security Benefit Is Actually Calculated",
+    "url": "https://www.fool.com/investing/2026/08/22/how-your-social-security-benefit-is-actually-calculated/?source=iedfolrf0000001",
+    "publisher": "The Motley Fool",
+    "published_date": "2026-08-23T01:15:47",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6779,
+    "ai_summary": "Motley Fool personal finance expert Robert Brokamp explains the methodology for calculating Social Security benefits, focusing on the 35 highest-earning years rule, Average Indexed Monthly Earnings (AIME), and Primary Insurance Amount (PIA). The article details how benefit amounts are adjusted based on claiming age and highlights resources for estimating payouts. It also notes that the Social Security Trust Fund is projected to be depleted around 2032, potentially reducing future benefits.",
+    "word_count": 2300,
+    "author": "Motley Fool Staff",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Retirement & Pension Planning (401(k)/IRA)",
+      "code": "FSAEAAAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Fiscal Policy",
+      "code": "MM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "003qbop",
+      "name": "Superhuman (formerly Grammarly)",
+      "website": "https://superhuman.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qca",
+      "name": "The Motley Fool",
+      "website": "http://fool.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0004u5n",
+      "name": "Social Security Administration",
+      "website": "http://www.ssa.gov",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000285",
+      "name": "personal finance"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "416",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "robert brokamp",
+      "fred",
+      "bart shannon"
+     ],
+     "location": [],
+     "product": [
+      "super human go",
+      "maximizemscialsecurity.com",
+      "superhuman go",
+      "superhuman.com"
+     ],
+     "event": [
+      "election year"
+     ]
+    },
+    "newsworthiness_score": 0.9288,
+    "group_id": 9271464
+   },
+   {
+    "id": 32659597,
+    "title": "Top 5 AI Workflow Automation Tools for Business Operations in 2026",
+    "url": "https://aijourn.com/top-5-ai-workflow-automation-tools-for-business-operations-in-2026/",
+    "publisher": "Aijourn",
+    "published_date": "2026-08-21T15:54:05",
+    "sentiment": "Negative",
+    "sentiment_score": 0.3705,
+    "ai_summary": "The article evaluates five workflow automation platforms\u2014Loopfour, Zapier, N8N, Make, and Workato\u2014for business operations in 2026, specifically focusing on their suitability for finance and accounting teams. It highlights Loopfour as the superior choice for complex financial workflows due to its AI-powered engineering capabilities, deterministic execution, and native finance integrations, while noting that other tools are better suited for general IT or simple app connections. The review contrasts these specialized finance features against the broader but less compliant or intelligent offerings of competitors like Zapier and Workato. ",
+    "word_count": 1978,
+    "author": "Aij Writing Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Workflow Automation & No-Code Collaboration",
+      "code": "BPAMAMAK",
+      "is_primary": true
+     },
+     {
+      "name": "Invoicing, Billing & Accounts Receivable Automation",
+      "code": "FSAGAJAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000007i",
+      "name": "Workato",
+      "website": "http://www.workato.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003noj",
+      "name": "Zapier",
+      "website": "https://www.zapier.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003hpn",
+      "name": "NetSuite",
+      "website": "https://www.netsuite.com/portal/home.shtml",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000031",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003z3",
+      "name": "Xero",
+      "website": "http://xero.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000021",
+      "name": "n8n",
+      "website": "https://n8n.io",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000tgj",
+      "name": "QuickBooks",
+      "website": "https://quickbooks.intuit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00sl5n2",
+      "name": "Loopfour",
+      "website": "https://loopfour.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003y3b",
+      "name": "Make",
+      "website": "https://make.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004bd",
+      "name": "Rippling",
+      "website": "https://www.rippling.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "loopfour",
+      "zapier",
+      "n8n",
+      "make",
+      "workato",
+      "servicenow",
+      "workday"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 9170913
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

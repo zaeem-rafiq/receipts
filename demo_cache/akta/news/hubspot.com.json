@@ -1,0 +1,5699 @@
+{
+ "fetched_at": "2026-10-24T11:47:44",
+ "params": {
+  "company": "hubspot.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 1476,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42412678,
+    "title": "Geekly Media Earns HubSpot Real Estate Industry Specialist Badge",
+    "url": "https://www.financialcontent.com/article/marketersmedia-2026-10-24-geekly-media-earns-hubspot-real-estate-industry-specialist-badge",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-24T15:08:44",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Geekly Media, a Diamond-tier HubSpot Solutions Partner, earned HubSpot's Real Estate Industry Specialist badge, recognizing its specialized experience in the real estate and housing industry. Since 2016, the company has supported clients managing nearly 300,000 doors, helping them improve marketing, sales, and operations.",
+    "word_count": 694,
+    "author": "United States",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "002n3wk",
+      "name": "Geekly Media",
+      "website": "https://www.geeklymedia.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000241",
+      "name": "real estate"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "112",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "michael park",
+      "heather park"
+     ],
+     "location": [
+      "nationwide"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.7689,
+    "group_id": 15864486
+   },
+   {
+    "id": 42303761,
+    "title": "1 software stock worth your attention and 2 we brush off",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-worth-attention-172039072.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-23T17:20:39",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6224,
+    "ai_summary": "The article recommends HubSpot as a software stock to watch, citing its integrated CRM platform, while advising against UiPath and Oracle. UiPath's ARR growth averaged 11.7% and Oracle's sales growth lagged peers, with both trading at 3.9x forward price-to-sales.",
+    "word_count": 382,
+    "author": "Radek Strnad",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000u9",
+      "name": "Oracle",
+      "website": "https://www.oracle.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000mv",
+      "name": "UiPath",
+      "website": "https://www.uipath.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "uipath",
+      "hubspot",
+      "path",
+      "oracle",
+      "orcl",
+      "hubs",
+      "software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9553,
+    "group_id": 15667370
+   },
+   {
+    "id": 42258691,
+    "title": "HubSpot (NYSE:HUBS) Stock Gets Price Target Boost from BTIG Research",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-hubspot-nyse-hubs-stock-gets-price-target-boost-from-btig-research-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T12:06:35",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.7922,
+    "ai_summary": "BTIG Research raised HubSpot's price target to $300 from $250, keeping a buy rating. The stock opened at $267.14, and the company beat Q2 EPS estimates at $3.26 versus $3.02. Analysts have a consensus target of $266.58.",
+    "word_count": 1075,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0005lfz",
+      "name": "Pictet Asset Management",
+      "website": "https://www.am.pictet/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007w6",
+      "name": "BTIG",
+      "website": "https://www.btig.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000eft",
+      "name": "Canaccord Genuity Group",
+      "website": "https://www.canaccordgenuity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000aob8",
+      "name": "Raymond James Financial, Inc.",
+      "website": "https://raymondjames.com/gregsmith",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cr",
+      "name": "Bank of America",
+      "website": "https://www.bankofamerica.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002t2k",
+      "name": "Piper Sandler",
+      "website": "https://pipersandler.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002s",
+      "name": "BlackRock",
+      "website": "http://www.blackrock.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006ucz",
+      "name": "Arrowstreet Capital, L.P.",
+      "website": "http://arrowstreetcapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ocb",
+      "name": "William Blair",
+      "website": "http://www.williamblair.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "erika fisher",
+      "gerald dischler"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot",
+      "hubs"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9843,
+    "group_id": 14304691
+   },
+   {
+    "id": 42296385,
+    "title": "8 LLM visibility tools to track your brand across answer engines",
+    "url": "https://blog.hubspot.com/marketing/llm-visibility-tools",
+    "publisher": "HubSpot Blog",
+    "published_date": "2026-10-23T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5124,
+    "ai_summary": "Eight LLM visibility tools for tracking brand mentions across answer engines are compared, including HubSpot AEO, Semrush, and Profound. Pricing ranges from $35.63 to $99 per month, with features like citation analysis and competitor benchmarking. The article also outlines a 30-day implementation plan for AI visibility tracking.",
+    "word_count": 4441,
+    "author": "Written",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Search & Generative Engine Optimization (GEO) Services",
+      "code": "BPAFAJAO",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00004az",
+      "name": "Peec AI",
+      "website": "https://peec.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000y1d",
+      "name": "Gumshoe AI",
+      "website": "https://www.gumshoe.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000kf",
+      "name": "Profound",
+      "website": "https://www.tryprofound.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000df1",
+      "name": "Tracksuit",
+      "website": "https://www.gotracksuit.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002aq3b",
+      "name": "Rankshift",
+      "website": "https://www.rankshift.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "006b471",
+      "name": "ZipTie",
+      "website": "https://ziptie.dev",
+      "is_primary": false
+     },
+     {
+      "uuid": "000004p",
+      "name": "SEMrush",
+      "website": "https://www.semrush.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "countries"
+     ],
+     "product": [
+      "chatgpt",
+      "gemini",
+      "perplexity",
+      "hubspot aeo",
+      "rankshift ai",
+      "peec ai",
+      "microsoft copilot",
+      "google ai mode",
+      "google ai overviews",
+      "ziptie",
+      "bing ai overview",
+      "gumshoe",
+      "marketing hub professional",
+      "semrush one",
+      "ai search grader",
+      "tracksuit teams",
+      "starter",
+      "profound",
+      "google search console",
+      "semrush",
+      "answer engines",
+      "tracksuit",
+      "rankshift",
+      "llama",
+      "claude",
+      "mistral",
+      "answer-engine",
+      "ask ai",
+      "pro",
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7045,
+    "group_id": 15665872
+   },
+   {
+    "id": 42296384,
+    "title": "Ahrefs Brand Radar vs. Profound: Which fits your team?",
+    "url": "https://blog.hubspot.com/marketing/ahrefs-vs-profound",
+    "publisher": "HubSpot Blog",
+    "published_date": "2026-10-23T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5466,
+    "ai_summary": "A comparison of Ahrefs Brand Radar, Profound, and HubSpot AEO evaluates their AI visibility tracking features, pricing, and buyer fit. Brand Radar fits SEO-native teams, Profound offers specialist depth, and HubSpot AEO connects visibility to content and CRM. Pricing and plan details are provided as of October 2026.",
+    "word_count": 2984,
+    "author": "Written",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Search & Generative Engine Optimization (GEO) Services",
+      "code": "BPAFAJAO",
+      "is_primary": true
+     },
+     {
+      "name": "SEO Analytics, Reporting & Attribution (KPIs, Dashboards, Forecasting)",
+      "code": "BPAFAJAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ryg",
+      "name": "Ahrefs",
+      "website": "https://ahrefs.com/about",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000kf",
+      "name": "Profound",
+      "website": "https://www.tryprofound.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "u.s."
+     ],
+     "product": [
+      "profound",
+      "ahrefs brand radar",
+      "hubspot aeo",
+      "perplexity",
+      "marketing hub pro",
+      "gemini",
+      "enterprise",
+      "brand radar",
+      "claude",
+      "letaido",
+      "tiktok",
+      "lite",
+      "grok",
+      "youtube",
+      "chatbot",
+      "chatgpt",
+      "google ai overviews",
+      "exa search",
+      "deepseek",
+      "aeo",
+      "microsoft copilot",
+      "google ai mode",
+      "vercel",
+      "netlify",
+      "ai overviews",
+      "ahrefs",
+      "hubspot",
+      "ai search grader"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7279,
+    "group_id": 15665872
+   },
+   {
+    "id": 42243128,
+    "title": "HubSpot, Inc. $HUBS Shares Bought by Robeco Institutional Asset Management B.V.",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-hubspot-inc-hubs-shares-bought-by-robeco-institutional-asset-management-bv-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T08:56:49",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Robeco Institutional Asset Management B.V. increased its HubSpot stake by 2.3% in Q3, holding 329,389 shares worth $67.5 million. Other institutional investors also adjusted positions, with Assenagon raising its stake by 61.5%. HubSpot's Q3 2026 results are due after market close on November 4.",
+    "word_count": 1317,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Institutional Separate Accounts & SMAs (Mandates)",
+      "code": "FSAAAGAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000xr1v",
+      "name": "Riverbend Wealth Management",
+      "website": "https://www.riverbendwealthmanagement.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mcgt3",
+      "name": "IFP Advisors",
+      "website": "https://www.ifpartners.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003d193",
+      "name": "Miller Financial Services",
+      "website": "https://mfs.nm.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002oj3",
+      "name": "Needham & Company LLC",
+      "website": "http://www.needhamco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002mb8y",
+      "name": "Counterpoint Mutual Funds",
+      "website": "https://counterpointmutualfunds.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0003m8d",
+      "name": "Robeco",
+      "website": "http://www.robeco.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000c5yo",
+      "name": "Assenagon Asset Management",
+      "website": "https://www.assenagon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qv",
+      "name": "Royal Bank of Canada",
+      "website": "https://www.rbc.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gerald dischler",
+      "brian halligan"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot",
+      "braze",
+      "hubs"
+     ],
+     "event": [
+      "conference call"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15609397
+   },
+   {
+    "id": 42159997,
+    "title": "Layoffs fueled spike in unemployment claims in three key Senate race states",
+    "url": "https://www.yahoo.com/news/politics/articles/layoffs-fueled-spike-unemployment-claims-213810393.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-22T21:38:10",
+    "sentiment": "Negative",
+    "sentiment_score": 0.228,
+    "ai_summary": "Layoffs drove increases in initial unemployment claims in Ohio, Texas, and Michigan for the week ending October 10, with Ohio's rise of 3,918 claims the largest. The increases are attributed to manufacturing cuts in Ohio and Michigan, and transportation/warehousing cuts in Texas, as these states face crucial Senate races. Experts say the data may influence independent and swing voters in the midterms.",
+    "word_count": 1358,
+    "author": "Suzanne Blake",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Unemployment Insurance & Employment Support Benefits",
+      "code": "BPAIAKAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Labor-Market Statistics",
+      "code": "MM06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000007y",
+      "name": "Flock Safety",
+      "website": "https://www.flocksafety.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sz",
+      "name": "Amazon",
+      "website": "https://amazon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004ri",
+      "name": "Kroger",
+      "website": "http://www.kroger.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044i",
+      "name": "Netflix",
+      "website": "https://www.netflix.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ct6",
+      "name": "Airtable",
+      "website": "https://www.airtable.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000365",
+      "name": "employment statistics"
+     },
+     {
+      "code": "20000533",
+      "name": "unemployment"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     },
+     {
+      "code": "20000534",
+      "name": "job layoffs"
+     },
+     {
+      "code": "20000585",
+      "name": "state elections"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "89",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "387",
+      "name": "Politics"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "kevin thompson",
+      "alex beene",
+      "ken paxton",
+      "james talarico",
+      "michael ryan",
+      "thompson",
+      "abdul el-sayed",
+      "sherrod brown",
+      "jon husted",
+      "anna skinner",
+      "mike rogers",
+      "edward t. cummins"
+     ],
+     "location": [
+      "texas",
+      "ohio",
+      "michigan",
+      "pennsylvania",
+      "california",
+      "tennessee",
+      "america",
+      "springfield"
+     ],
+     "product": [
+      "martyn"
+     ],
+     "event": [
+      "midterm elections",
+      "midterms",
+      "2026 midterm elections"
+     ]
+    },
+    "newsworthiness_score": 0.9997,
+    "group_id": 15497315
+   },
+   {
+    "id": 42139583,
+    "title": "Why HubSpot Stock Rallied Today",
+    "url": "https://www.fool.com/investing/2026/10/22/why-hubspot-stock-rallied-today/?source=iedfolrf0000001",
+    "publisher": "The Motley Fool",
+    "published_date": "2026-10-22T19:03:39",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9768,
+    "ai_summary": "HubSpot shares rose 6.54% on Thursday amid speculation about recent software acquisitions. Analysts suggest the Braze deal could spark a strategic takeout of Klaviyo, while HubSpot itself may be an attractive private equity target. The company's market cap exceeds $13 billion, implying a $20 billion acquisition at a 51% premium.",
+    "word_count": 536,
+    "author": "Danny Vena",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Business Services (B2B) Growth Equity",
+      "code": "FSANACAD",
+      "is_primary": false
+     },
+     {
+      "name": "Equity Capital Advisory (Private Equity Placements, Growth Capital)",
+      "code": "BPAHAOAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "022p6kl",
+      "name": "CCC Intelligent Solutions",
+      "website": "http://www.cccis.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004u1",
+      "name": "Elliott Management Corp.",
+      "website": "http://www.elliottmgmt.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044k",
+      "name": "Proofpoint",
+      "website": "http://www.proofpoint.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008d",
+      "name": "GTCR",
+      "website": "http://www.gtcr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006mb",
+      "name": "Varonis Systems, Inc.",
+      "website": "http://www.varonis.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "danny vena",
+      "samad samana"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot",
+      "braze",
+      "klaviyo",
+      "hubs",
+      "varonis systems"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9789,
+    "group_id": 14304691
+   },
+   {
+    "id": 42224100,
+    "title": "Leadg2 Recognized By Hubspot As A Professional Services Industry Specialist",
+    "url": "https://menafn.com/1111849827/Leadg2-Recognized-By-Hubspot-As-A-Professional-Services-Industry-Specialist",
+    "publisher": "Business & Financial",
+    "published_date": "2026-10-22T12:02:14",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "LeadG2, a HubSpot Diamond Solutions Partner, was recognized by HubSpot as a Professional Services Industry Specialist. The designation validates its expertise in helping professional services firms implement HubSpot solutions. LeadG2 offers CRM optimization, revenue operations consulting, and AI-enabled growth strategies for these organizations.",
+    "word_count": 748,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "CRM Strategy & Consulting",
+      "code": "BPAFAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "004rvtw",
+      "name": "LeadG2",
+      "website": "https://leadg2.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000275",
+      "name": "consultancy"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "103",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "emily hartzell",
+      "shaye smith"
+     ],
+     "location": [
+      "united states",
+      "fl"
+     ],
+     "product": [
+      "hubspot",
+      "leadg2"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9106,
+    "group_id": 15386954
+   },
+   {
+    "id": 42171162,
+    "title": "Profound vs. Scrunch: Which AEO tool fits your team?",
+    "url": "https://blog.hubspot.com/marketing/profound-vs-scrunch",
+    "publisher": "HubSpot Blog",
+    "published_date": "2026-10-22T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5207,
+    "ai_summary": "Profound and Scrunch are compared as AEO tools, with Profound favoring market analysis and content creation, while Scrunch favors technical optimization and task handoff. Profound offers up to nine engines and custom prompt capacity, while Scrunch starts with four engines and 125 prompts on its Core plan. HubSpot AEO is included as a CRM-connected alternative.",
+    "word_count": 4271,
+    "author": "Written",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Search & Generative Engine Optimization (GEO) Services",
+      "code": "BPAFAJAO",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000kf",
+      "name": "Profound",
+      "website": "https://www.tryprofound.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000078v",
+      "name": "Scrunch",
+      "website": "https://scrunch.com/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "W3CW2J",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "country"
+     ],
+     "product": [
+      "profound",
+      "scrunch",
+      "hubspot aeo",
+      "gemini",
+      "marketing hub professional",
+      "asana",
+      "contentful",
+      "chatgpt",
+      "perplexity",
+      "jira",
+      "linear",
+      "aeo",
+      "content agent",
+      "marketing hub enterprise",
+      "claude",
+      "microsoft copilot",
+      "deepseek",
+      "exa search",
+      "peec ai",
+      "grok",
+      "google ai mode",
+      "meta ai",
+      "google ai",
+      "agency core",
+      "perplexitybot",
+      "vercel",
+      "axp",
+      "sanity",
+      "edge",
+      "copilot",
+      "looker studio manual",
+      "enterprise"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7246,
+    "group_id": 15518259
+   },
+   {
+    "id": 42101162,
+    "title": "LeadG2 Recognized by HubSpot as a Professional Services Industry Specialist",
+    "url": "https://www.einpresswire.com/article/951257172/leadg2-recognized-by-hubspot-as-a-professional-services-industry-specialist",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-22T12:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "LeadG2, a HubSpot Diamond Solutions Partner, was recognized as a Professional Services Industry Specialist for its expertise in helping professional services firms implement HubSpot. The designation validates its ability to align strategy, technology, and revenue operations for these organizations. LeadG2's services include CRM optimization, AI-enabled growth, and streamlined business development.",
+    "word_count": 577,
+    "author": "Shaye Smith",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "CRM Strategy & Consulting",
+      "code": "BPAFAFAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "004rvtw",
+      "name": "LeadG2",
+      "website": "https://leadg2.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000275",
+      "name": "consultancy"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "103",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "emily hartzell",
+      "shaye smith"
+     ],
+     "location": [
+      "united states",
+      "tampa, fl"
+     ],
+     "product": [
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8506,
+    "group_id": 15386954
+   },
+   {
+    "id": 42084737,
+    "title": "LeadG2 Recognized by HubSpot as a Professional Services Industry Specialist",
+    "url": "https://www.einnews.com/pr_news/951257172/leadg2-recognized-by-hubspot-as-a-professional-services-industry-specialist",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-22T12:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "LeadG2, a HubSpot Diamond Solutions Partner, was recognized as a Professional Services Industry Specialist for its expertise in helping professional services firms implement HubSpot. The designation validates its ability to align strategy, technology, and revenue operations for firms with complex sales cycles and referral-driven growth.",
+    "word_count": 578,
+    "author": "EIN News; Shaye Smith",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "CRM Strategy & Consulting",
+      "code": "BPAFAFAA",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Enablement & Revenue Operations (RevOps) Tools & Services",
+      "code": "BPAFAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "004rvtw",
+      "name": "LeadG2",
+      "website": "https://leadg2.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000275",
+      "name": "consultancy"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "103",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541618",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8742",
+      "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "emily hartzell",
+      "shaye smith"
+     ],
+     "location": [
+      "united states",
+      "tampa, fl"
+     ],
+     "product": [
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8497,
+    "group_id": 15386954
+   },
+   {
+    "id": 42062259,
+    "title": "4,728 Shares in HubSpot, Inc. $HUBS Purchased by State of Alaska Department of Revenue",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-4728-shares-in-hubspot-inc-hubs-purchased-by-state-of-alaska-department-of-revenue-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T08:33:11",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.3664,
+    "ai_summary": "The Alaska Department of Revenue bought 4,728 HubSpot shares in Q3, valued at about $969,000. Insider Erika Fisher sold 702 shares on August 4th, while director Gerald Dischler bought 925 on August 10th. HubSpot reported Q3 EPS of $3.26, beating estimates, and set FY2026 guidance of 13.23-13.31 EPS.",
+    "word_count": 1056,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     },
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0006o58",
+      "name": "State of Alaska",
+      "website": "http://alaska.gov/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "erika fisher",
+      "gerald dischler"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot",
+      "hubspot, inc.",
+      "hubs"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8787,
+    "group_id": 15346644
+   },
+   {
+    "id": 42018683,
+    "title": "HubSpot director Brian Halligan sells $2.04 million in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/hubspot-director-brian-halligan-sells-204-million-in-shares-93CH-4964578",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-22T02:45:57",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5668,
+    "ai_summary": "Brian Halligan sold 8,500 HubSpot shares on October 20, 2026, for $2,036,345 under a 10b5-1 plan. The sale follows a 38% year-to-date stock decline and a 7% workforce cut of about 660 employees, with charges of $65-75 million.",
+    "word_count": 342,
+    "author": "",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     },
+     {
+      "name": "Workforce Reductions",
+      "code": "WT02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000189",
+      "name": "layoffs and downsizing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "brian halligan",
+      "paul karger",
+      "brian p. halligan"
+     ],
+     "location": [
+      "new hampshire"
+     ],
+     "product": [
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9956,
+    "group_id": 14304691
+   },
+   {
+    "id": 41951988,
+    "title": "HubSpot (NYSE:HUBS) Stock: Insider Brian Halligan Sells 8,500 Shares",
+    "url": "https://www.marketbeat.com/instant-alerts/insider-hubspot-nyse-hubs-stock-insider-brian-halligan-sells-8500-shares-2026-10-21/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-21T21:08:08",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.488,
+    "ai_summary": "HubSpot director Brian Halligan sold 8,500 shares on October 20th at an average price of $239.57, totaling $2,036,345. The sale reduced his stake by 12.50% to 59,500 shares. HubSpot's stock traded down $0.96 to $249.80, with analysts giving a Hold rating and a consensus price target of $264.97.",
+    "word_count": 1021,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "brian halligan"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9036,
+    "group_id": 14304691
+   },
+   {
+    "id": 42029573,
+    "title": "HubSpot to Announce Third Quarter 2026 Financial Results on November 4, 2026",
+    "url": "https://www.businesswire.com/news/home/20261021610044/en/HubSpot-to-Announce-Third-Quarter-2026-Financial-Results-on-November-4-2026",
+    "publisher": "Business Wire Blog",
+    "published_date": "2026-10-21T20:05:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.576,
+    "ai_summary": "HubSpot will report its third quarter 2026 financial results after U.S. market close on November 4, 2026, and host a conference call at 4:30 p.m. ET on the same day. The company will also provide a live webcast and replay on its investor relations website.",
+    "word_count": 167,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "cambridge, mass.",
+      "u.s."
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.8937,
+    "group_id": 15240312
+   },
+   {
+    "id": 41960219,
+    "title": "HubSpot sets Nov. 4 Q3 2026 earnings date",
+    "url": "https://www.stocktitan.net/news/HUBS/hub-spot-to-announce-third-quarter-2026-financial-results-on-rmkz818xqrnw.html",
+    "publisher": "Stock Titan",
+    "published_date": "2026-10-21T20:05:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5856,
+    "ai_summary": "HubSpot announced it will report its third quarter 2026 financial results after U.S. markets close on November 4, 2026. The company will host a conference call at 4:30 p.m. Eastern Time on the same day to discuss results and outlook.",
+    "word_count": 211,
+    "author": "Hubspot",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "other",
+     "label": "Other"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "cambridge, mass.",
+      "u.s .",
+      "u.s."
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.9281,
+    "group_id": 15240312
+   },
+   {
+    "id": 41934316,
+    "title": "HubSpot\u2019s New AI Credit Swap Is a Trap If You Don\u2019t Set This One Rule",
+    "url": "https://www.inc.com/robert-gillespie/hubspot-ai-credit-swap-budget-rules/91422866",
+    "publisher": "Inc.",
+    "published_date": "2026-10-21T13:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.2275,
+    "ai_summary": "HubSpot announced on October 15 that customers can move spending from unused seats to AI credits without waiting for renewal. The flexibility requires businesses to define what they are paying for, as the budget now depends on activity rather than user count.",
+    "word_count": 448,
+    "author": "Robert Gillespie",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Cloud FinOps & SaaS Spend Management",
+      "code": "BPAEAOAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "cashmere",
+      "tahoma"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8973,
+    "group_id": 15203174
+   },
+   {
+    "id": 42022077,
+    "title": "ChatGPT has plenty of advertisers, but not much revenue",
+    "url": "https://martech.org/chatgpt-has-plenty-of-advertisers-but-not-much-revenue/",
+    "publisher": "Martech",
+    "published_date": "2026-10-21T12:25:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4067,
+    "ai_summary": "OpenAI's ChatGPT advertising attracted advertisers from about 20,000 to roughly 60,000 between August and October, with clicks costing about $5. Despite this growth, OpenAI is likely to miss its projected $2.4 billion in ad revenue for 2026. The company is testing Sponsored Agents and visual ads, but the next test is whether marketers keep the channel in their budgets.",
+    "word_count": 1030,
+    "author": "Constantine Von Hoffman",
+    "countries": [
+     "IDN",
+     "MYS",
+     "PHL",
+     "SGP",
+     "THA",
+     "VNM",
+     "TWN",
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Search Engine Marketing (SEM) / Paid Search (PPC)",
+      "code": "BPAFACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Revenue & Growth Metrics",
+      "code": "FR02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000087z",
+      "name": "DoubleVerify",
+      "website": "http://www.doubleverify.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003xxo",
+      "name": "LiveRamp",
+      "website": "http://www.liveramp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eix",
+      "name": "Hightouch",
+      "website": "https://www.hightouch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000076y",
+      "name": "Adjust",
+      "website": "https://www.adjust.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000846",
+      "name": "AppsFlyer",
+      "website": "https://www.appsflyer.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000038",
+      "name": "Integral Ad Science",
+      "website": "http://www.integralads.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000ng4",
+      "name": "Shopify",
+      "website": "https://www.shopify.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qw",
+      "name": "Tealium",
+      "website": "http://www.tealium.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000305",
+      "name": "advertising"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5418",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "dan salmon"
+     ],
+     "location": [
+      "malaysia",
+      "indonesia",
+      "thailand",
+      "singapore",
+      "taiwan",
+      "vietnam",
+      "u.s.",
+      "the philippines"
+     ],
+     "product": [
+      "chatgpt",
+      "semrush",
+      "ads manager"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8771,
+    "group_id": 15197359
+   },
+   {
+    "id": 41948040,
+    "title": "Governing Persistent Memory and Instruction Authority in Enterprise AI Assistants",
+    "url": "https://hackernoon.com/governing-persistent-memory-and-instruction-authority-in-enterprise-ai-assistants?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-10-21T11:00:02",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5029,
+    "ai_summary": "The article proposes a governance framework for HubSpot's Breeze Assistant to prevent remembered instructions from acquiring authority they lack. It distinguishes personal preferences, project instructions, and business rules, recommending a six-field memory register and review triggers. The framework aims to stop low-authority information from influencing consequential decisions.",
+    "word_count": 1901,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": false
+     },
+     {
+      "name": "Model Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAKAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "breeze assistant",
+      "breeze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6286,
+    "group_id": 15238092
+   },
+   {
+    "id": 42006837,
+    "title": "As agentic AI evolves beyond its visionary phase, is enterprise adoption with the pragmatists now?",
+    "url": "https://diginomica.com/agentic-ai-evolves-beyond-its-visionary-phase-enterprise-adoption-pragmatists-now",
+    "publisher": "diginomica",
+    "published_date": "2026-10-21T08:35:01",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4859,
+    "ai_summary": "G2's 2026 AI Agents Report finds 66% of organizations have agents in production, with adoption growing 25% year over year. However, a trust gap persists, with 31% of B2B firms spending six or more hours weekly overseeing agents. Vendors are advised to emphasize change management and observability to address the 'distrust tax'.",
+    "word_count": 1221,
+    "author": "Barb Mosher Zinck",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     },
+     {
+      "name": "AI Observability, Monitoring & Evaluation Platforms (Drift, Quality, Safety)",
+      "code": "HDAEANAF",
+      "is_primary": false
+     },
+     {
+      "name": "Enterprise Application Training, Change Management & Adoption Services",
+      "code": "BPAEAGAN",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003qn",
+      "name": "G2",
+      "website": "https://www.g2.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ye",
+      "name": "ServiceNow",
+      "website": "http://www.servicenow.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tim sanders",
+      "geoffrey moore",
+      "ben schein",
+      "sanders"
+     ],
+     "location": [],
+     "product": [
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15289763
+   },
+   {
+    "id": 41623275,
+    "title": "HubSpot climbs as investors weigh reaffirmed guidance, cost cuts, and AI product momentum | HUBS Stock News",
+    "url": "https://www.quiverquant.com/news/HubSpot+climbs+as+investors+weigh+reaffirmed+guidance%2C+cost+cuts%2C+and+AI+product+momentum",
+    "publisher": "Quiver Quantitative",
+    "published_date": "2026-10-20T21:20:10",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HubSpot stock rose 7.4% on October 20, 2026, driven by improved margin sentiment and AI product momentum. Insider trading shows 9 sales and 1 purchase in six months, while 314 institutional investors added shares. Analysts have a median price target of $250.",
+    "word_count": 633,
+    "author": "Quiver PriceTracker",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "gerald dischler",
+      "brian halligan",
+      "erika ashley fisher",
+      "elizabeth porter",
+      "matt bullock",
+      "kirk materne",
+      "jackson ader",
+      "billy fitzsimmons",
+      "siti panigrahi",
+      "raimo lenschow"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubs",
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9246,
+    "group_id": 14304691
+   },
+   {
+    "id": 41624186,
+    "title": "A Five-Part Governance Framework for HubSpot Agent Knowledge Vaults",
+    "url": "https://hackernoon.com/a-five-part-governance-framework-for-hubspot-agent-knowledge-vaults?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-10-20T20:02:40",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5058,
+    "ai_summary": "A governance framework for HubSpot agent knowledge vaults proposes a five-part contract covering purpose, source, membership, authority, and test. It advises teams to document each agent-vault pair and re-run adverse cases when vaults change. The framework aims to make source scope and agent actions inspectable.",
+    "word_count": 1981,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Governance, Risk & Compliance (GRC) Platforms",
+      "code": "HDAAAMAA",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Retrieval-Augmented Generation (RAG), Vector Databases & Knowledge Grounding",
+      "code": "HDAAACAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000199",
+      "name": "business governance"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "hubspot agent",
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6794,
+    "group_id": 15074321
+   },
+   {
+    "id": 41578678,
+    "title": "Why Is HubSpot Stock Trending Tuesday? - HubSpot (NYSE:HUBS)",
+    "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62468166/why-is-hubspot-stock-trending-tuesday",
+    "publisher": "Benzinga",
+    "published_date": "2026-10-20T13:59:32",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "HubSpot shares rose 5.82% to $248.28 on Oct. 10, driven by its Oct. 6 layoffs of 660 roles, an expanded OpenAI partnership, and upcoming Q3 earnings. The company expects restructuring charges of $65\u201375 million and reported Q2 EPS of $3.26, beating estimates.",
+    "word_count": 398,
+    "author": "Dylan Berman",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "yamini rangan",
+      "duncan lennox"
+     ],
+     "location": [],
+     "product": [
+      "chatgpt",
+      "hubspot starter",
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14304691
+   },
+   {
+    "id": 41572506,
+    "title": "HubSpot Overhauled Its Blog Editorial Process With AI",
+    "url": "https://www.webpronews.com/hubspot-overhauled-its-blog-editorial-process-with-ai/",
+    "publisher": "WebProNews",
+    "published_date": "2026-10-20T13:02:13",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9764,
+    "ai_summary": "HubSpot integrated AI into its blog production, using it for ideation, outlining, and drafting while humans retain final decisions. The process cut writers' time on introductions and conclusions, letting them focus on content. Updated guest blogging guidelines require AI to support, not replace, human thinking.",
+    "word_count": 480,
+    "author": "Juan Vasquez",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Content Generation & Writing Assistance (copy, emails, reports)",
+      "code": "HDAAADAG",
+      "is_primary": true
+     },
+     {
+      "name": "Copywriting & Editorial Production",
+      "code": "BPAFAIAA",
+      "is_primary": false
+     },
+     {
+      "name": "Human Oversight, Review & Content Moderation Tooling",
+      "code": "HDAAAMAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5131",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "2741",
+      "name": "MISCELLANEOUS PUBLISHING"
+     }
+    ],
+    "entities": {
+     "person": [
+      "staff writer"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.7568,
+    "group_id": 14875522
+   },
+   {
+    "id": 41581794,
+    "title": "What options exist for running AEO without a large team?",
+    "url": "https://blog.hubspot.com/marketing/aeo-for-small-teams",
+    "publisher": "HubSpot Blog",
+    "published_date": "2026-10-20T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5023,
+    "ai_summary": "Lean teams can run Answer Engine Optimization via DIY, software, or agency support, with three paths outlined. The article details a baseline visibility check, starter prompt sets, weekly reviews, and content updates, recommending HubSpot AEO for ongoing tracking. It notes that content recency heavily influences AI citations.",
+    "word_count": 3996,
+    "author": "Written",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Search & Generative Engine Optimization (GEO) Services",
+      "code": "BPAFAJAO",
+      "is_primary": true
+     },
+     {
+      "name": "SEO Content Strategy & Production (Topic Research, Editorial Planning)",
+      "code": "BPAFAJAH",
+      "is_primary": false
+     },
+     {
+      "name": "SEO Analytics, Reporting & Attribution (KPIs, Dashboards, Forecasting)",
+      "code": "BPAFAJAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000762v",
+      "name": "SEER Interactive",
+      "website": "http://seerinteractive.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541810",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "aeo",
+      "[brand name]",
+      "hubspot aeo",
+      "[competitor name]",
+      "ai search grader",
+      "marketing hub pro"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6965,
+    "group_id": 15024455
+   },
+   {
+    "id": 41546314,
+    "title": "HubSpot, Inc. (NYSE:HUBS) Stock Now Rated \"Hold\" by Sell-Side Brokerages",
+    "url": "https://www.marketbeat.com/instant-alerts/consensus-hubspot-inc-nyse-hubs-stock-now-rated-hold-by-sell-side-brokerages-2026-10-20/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-20T10:29:31",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9308,
+    "ai_summary": "HubSpot stock is rated Hold by 34 brokerages, with an average 12-month price target of $264.97. The company reported Q2 EPS of $3.26, beating estimates, and revenue of $911.74 million, up 19.8% year-over-year. Insiders sold 17,702 shares in the last 90 days.",
+    "word_count": 1015,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Equities Brokerage",
+      "code": "FSAEACAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02mcgt3",
+      "name": "IFP Advisors",
+      "website": "https://www.ifpartners.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000xr1v",
+      "name": "Riverbend Wealth Management",
+      "website": "https://www.riverbendwealthmanagement.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004o98",
+      "name": "Stifel Financial",
+      "website": "http://www.stifel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eft",
+      "name": "Canaccord Genuity Group",
+      "website": "https://www.canaccordgenuity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002mb8y",
+      "name": "Counterpoint Mutual Funds",
+      "website": "https://counterpointmutualfunds.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000c5yo",
+      "name": "Assenagon Asset Management",
+      "website": "https://www.assenagon.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a2m",
+      "name": "Wolfe Research",
+      "website": "http://www.wolferesearch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0006e55",
+      "name": "Barclays Investment Bank",
+      "website": "https://www.investmentbank.barclays.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gerald dischler",
+      "brian halligan"
+     ],
+     "location": [],
+     "product": [
+      "hubspot",
+      "hubs"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9652,
+    "group_id": 14304691
+   },
+   {
+    "id": 41541397,
+    "title": "A Five-Part Validation Framework for AI-Driven CRM Automation",
+    "url": "https://hackernoon.com/a-five-part-validation-framework-for-ai-driven-crm-automation?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-10-20T09:00:04",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5684,
+    "ai_summary": "A framework proposes a five-part Source-to-Action Gate for validating AI-filled CRM properties before workflow automation. It requires specifying evidence sources, freshness rules, human review, trigger conditions, and traceability. The framework advises testing failure modes and keeping AI advisory until controls are in place.",
+    "word_count": 1885,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Responsible AI Policy, Controls & Workflow Management",
+      "code": "HDAAAMAG",
+      "is_primary": true
+     },
+     {
+      "name": "Business Rules Management Systems (BRMS) & Decision Automation",
+      "code": "HDAEAHAE",
+      "is_primary": false
+     },
+     {
+      "name": "Audit, Explainability & Accountability Tooling (traceability, reporting)",
+      "code": "HDAAAKAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "54151",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7276,
+    "group_id": 14989677
+   },
+   {
+    "id": 41524544,
+    "title": "Best B2B Marketing Automation Platforms",
+    "url": "https://pipeline.zoominfo.com/marketing/b2b-marketing-automation-platform",
+    "publisher": "Zoominfo",
+    "published_date": "2026-10-20T08:26:23",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "The page compares B2B marketing automation platforms, including ZoomInfo Marketing, HubSpot, Adobe Marketo, Salesforce, Oracle, Microsoft, and ActiveCampaign. It highlights ZoomInfo's comprehensive data foundation and GTM Context Graph, and provides selection criteria such as tech stack compatibility, data quality, and team resources.",
+    "word_count": 2398,
+    "author": "Alice De Courcychief Marketing Officer",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Database & Contact Data Providers (B2B/B2C Lists)",
+      "code": "BPAFAKAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "004xh7a",
+      "name": "Microsoft Dynamics 365",
+      "website": "https://www.msd365.in/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000u9",
+      "name": "Oracle",
+      "website": "https://www.oracle.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008t2s",
+      "name": "Salesforce Marketing Cloud",
+      "website": "http://www.salesforce.com/marketingcloud",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005th",
+      "name": "ActiveCampaign",
+      "website": "http://www.activecampaign.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "alice de courcy"
+     ],
+     "location": [],
+     "product": [
+      "zoominfo marketing",
+      "hubspot marketing hub",
+      "gtm studio",
+      "activecampaign",
+      "oracle eloqua",
+      "formcomplete",
+      "salesforce marketing cloud",
+      "b2b marketing automation platform",
+      "microsoft dynamics 365",
+      "adobe marketo engage",
+      "engagement studio",
+      "einstein ai",
+      "oracle cx suite",
+      "adobe experience cloud",
+      "salesforce marketing cloud account engagement",
+      "dynamics 365",
+      "program builder",
+      "app marketplace",
+      "campaign canvas",
+      "visual workflow builder",
+      "hubspot crm",
+      "power platform",
+      "outlook",
+      "azure"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8063,
+    "group_id": 14976485
+   },
+   {
+    "id": 41507220,
+    "title": "HubSpot found AI made writers faster \u2014 but publishing slower \u2014 Tomorrow's Publisher",
+    "url": "https://www.einnews.com/article/950897313/live",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-20T04:02:01",
+    "sentiment": "Negative",
+    "sentiment_score": 0.2157,
+    "ai_summary": "HubSpot's blog team adopted an AI-first writing model in June 2025, finding that faster drafting led to longer, more detailed posts and deeper checks. The company added a dedicated fact-checking stage and expanded quality assurance, while human writers retained original reporting and strategic judgement.",
+    "word_count": 888,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Content Generation & Writing Assistance (copy, emails, reports)",
+      "code": "HDAAADAG",
+      "is_primary": true
+     },
+     {
+      "name": "Human Oversight, Review & Content Moderation Tooling",
+      "code": "HDAAAMAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000311",
+      "name": "online media industry"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "111",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51319",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "2741",
+      "name": "MISCELLANEOUS PUBLISHING"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14875522
+   },
+   {
+    "id": 41912915,
+    "title": "Best AI Agents for Marketing in 2026: 7 Tools Compared",
+    "url": "https://openart.ai/blog/best-ai-agents-for-marketing/",
+    "publisher": "Openart",
+    "published_date": "2026-10-20T00:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Seven AI marketing agents are compared, including Claude with OpenArt MCP, Director mode, Jasper, HubSpot, Salesforce, Relevance AI, and Adobe. Gartner predicts 40% of enterprise apps will include task-specific AI agents by 2026, up from under 5% in 2025. A survey of 306 leaders found 76% are deploying agentic AI.",
+    "word_count": 2529,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Emerging Technologies",
+      "code": "II01",
+      "is_primary": true
+     },
+     {
+      "name": "Technology Adoption & Disruption",
+      "code": "II02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008v1",
+      "name": "OpenArt",
+      "website": "https://openart.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000p2",
+      "name": "Jasper",
+      "website": "https://www.jasper.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000273",
+      "name": "Relevance AI",
+      "website": "https://relevanceai.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "uk",
+      "us"
+     ],
+     "product": [
+      "claude",
+      "chatgpt",
+      "jasper",
+      "foreplay",
+      "hubspot",
+      "openart",
+      "youtube",
+      "slack",
+      "relevance ai",
+      "copilot",
+      "agentforce",
+      "gemini",
+      "breeze assistant",
+      "ai studio",
+      "openart mcp",
+      "after effects",
+      "chrome",
+      "adobe experience platform agents",
+      "adobe cx enterprise coworker",
+      "ai assistant",
+      "adobe experience cloud",
+      "hubspot agent hub",
+      "invent",
+      "agent builder",
+      "gmail",
+      "prompt builder",
+      "agent coworker",
+      "data 360",
+      "anthropic",
+      "kimi",
+      "cursor"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15199881
+   },
+   {
+    "id": 41410783,
+    "title": "How to Review and Share HubSpot Breeze Assistant Artifacts Safely",
+    "url": "https://hackernoon.com/how-to-review-and-share-hubspot-breeze-assistant-artifacts-safely?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-10-19T15:25:24",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5058,
+    "ai_summary": "The author proposes a five-part release card for HubSpot Breeze Assistant artifacts, covering source, audience, version, access, and retirement. It argues that saved versions and public URLs do not establish approval, and teams should separate feature access from audience review. The practice is suggested as a lightweight workflow, not a native HubSpot feature.",
+    "word_count": 1788,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Document Workflow, Routing & Approvals (Content-Centric Workflow)",
+      "code": "HDAEAGAG",
+      "is_primary": true
+     },
+     {
+      "name": "Model Governance, Approval Workflows & Auditability",
+      "code": "HDAAABAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "breeze assistant",
+      "hubspot",
+      "breeze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.3754,
+    "group_id": 14869699
+   },
+   {
+    "id": 41777799,
+    "title": "Orange Marketing Earns Hubspot Nonprofit Industry Specialist Badge",
+    "url": "https://menafn.com/1111832182/Orange-Marketing-Earns-Hubspot-Nonprofit-Industry-Specialist-Badge",
+    "publisher": "Business & Financial",
+    "published_date": "2026-10-19T15:01:52",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Orange Marketing earned a HubSpot Nonprofit Industry Specialist Badge, its third such credential, for expertise in helping nonprofits streamline operations with HubSpot. The agency has completed over 250 HubSpot implementations and 164+ five-star reviews, including work for the Queens Women's Chamber of Commerce.",
+    "word_count": 611,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00056u2",
+      "name": "Orange Marketing",
+      "website": "https://www.orangemarketing.com/?utm_source=crunchbase",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "108",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "rebecca gonzalez",
+      "amanda berger"
+     ],
+     "location": [
+      "united states",
+      "ca"
+     ],
+     "product": [
+      "hubspot",
+      "stripe"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8502,
+    "group_id": 14863589
+   },
+   {
+    "id": 41405671,
+    "title": "Orange Marketing Earns HubSpot Nonprofit Industry Specialist Badge",
+    "url": "https://www.einnews.com/pr_news/950224551/orange-marketing-earns-hubspot-nonprofit-industry-specialist-badge",
+    "publisher": "EIN Presswire",
+    "published_date": "2026-10-19T15:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Orange Marketing earned a HubSpot Nonprofit Industry Specialist Badge, its third such credential. The agency helps nonprofits centralize data, automate outreach, and measure impact, citing clients like the Queens Women's Chamber of Commerce. The badge aims to help nonprofits identify a partner with proven nonprofit experience.",
+    "word_count": 422,
+    "author": "EIN News; Amanda Berger",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Nonprofit & Cause Communications",
+      "code": "BPAFADAK",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": false
+     },
+     {
+      "name": "Direct Response & Database Marketing (Mailing Lists, Data Hygiene)",
+      "code": "MPAAAIAK",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Awards, Rankings & Recognitions",
+      "code": "SD11",
+      "is_primary": true
+     },
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00056u2",
+      "name": "Orange Marketing",
+      "website": "https://www.orangemarketing.com/?utm_source=crunchbase",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001371",
+      "name": "business service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "rebecca gonzalez",
+      "amanda berger"
+     ],
+     "location": [
+      "north dakota"
+     ],
+     "product": [
+      "hubspot",
+      "stripe"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7525,
+    "group_id": 14863589
+   },
+   {
+    "id": 41416699,
+    "title": "What actually happened when our blog went AI-first: A manager's account",
+    "url": "https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process",
+    "publisher": "HubSpot Blog",
+    "published_date": "2026-10-19T12:00:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5258,
+    "ai_summary": "HubSpot's blog team adopted an AI-first writing model in June 2025, but the process increased workload and added fact-checking and QA steps. The team learned that AI drafting speeds are offset by longer, more detailed posts and hallucination risks. They now anchor quality standards before adding AI.",
+    "word_count": 3299,
+    "author": "Written",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Content Generation & Writing Assistance (copy, emails, reports)",
+      "code": "HDAAADAG",
+      "is_primary": true
+     },
+     {
+      "name": "Human Oversight, Review & Content Moderation Tooling",
+      "code": "HDAAAMAH",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "264",
+      "name": "Hobbies & Interests"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "amy rigby",
+      "lily ray",
+      "karla hesterberg",
+      "manager"
+     ],
+     "location": [],
+     "product": [
+      "ai agents builder",
+      "listicle"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7924,
+    "group_id": 14875522
+   },
+   {
+    "id": 41416698,
+    "title": "Best Claude skills for marketing and sales teams",
+    "url": "https://blog.hubspot.com/marketing/best-claude-skills",
+    "publisher": "HubSpot Blog",
+    "published_date": "2026-10-19T12:00:00",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9986,
+    "ai_summary": "Claude skills are reusable instruction sets for recurring marketing and sales tasks, such as campaign planning, call recaps, and proposal drafting. The guide outlines specific skills like a Campaign Brief Builder and Sales Call Recap, with recommendations to start with low-risk tasks. It also details the HubSpot connector for adding authorized business context.",
+    "word_count": 3828,
+    "author": "Written",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Content Generation & Writing Assistance (copy, emails, reports)",
+      "code": "HDAAADAG",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "003xjel",
+      "name": "Claude",
+      "website": "https://claude.ai ",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "claude",
+      "claude skills",
+      "hubspot",
+      "campaign brief builder"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.7591,
+    "group_id": 14875351
+   },
+   {
+    "id": 41371143,
+    "title": "Why Finance Businesses Struggle With CRM Adoption and What a Proper Implementation Fixes",
+    "url": "https://techbullion.com/why-finance-businesses-struggle-with-crm-adoption-and-what-a-proper-implementation-fixes/",
+    "publisher": "TechBullion",
+    "published_date": "2026-10-19T10:07:36",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0546,
+    "ai_summary": "Finance brokerages often fail at CRM adoption because brokers are commission-driven and resist change, while dirty data from digital channels undermines reporting. A proper implementation follows a sequence: clean data, define lifecycle stages, map channels, build workflows, integrate platforms, then add AI. ScaleStation, a HubSpot partner, applies this order to broker-led finance businesses.",
+    "word_count": 1324,
+    "author": "Andrew Woodsville",
+    "countries": [],
+    "industries": [
+     {
+      "name": "CRM Implementation & Systems Integration",
+      "code": "BPAFAFAB",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Strategy & Consulting",
+      "code": "BPAFAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "CRM Data Quality, Enrichment & CDP-Adjacent CRM",
+      "code": "HDAEAFAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0039p1y",
+      "name": "Scale Station",
+      "website": "https://scalestation.io",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001371",
+      "name": "business service"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "andrew woodsville",
+      "kieran krohn"
+     ],
+     "location": [
+      "australia"
+     ],
+     "product": [
+      "hubspot"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14832898
+   },
+   {
+    "id": 41252643,
+    "title": "Measuring Lead Response SLAs With Verifiable CRM Events",
+    "url": "https://hackernoon.com/measuring-lead-response-slas-with-verifiable-crm-events?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-10-18T10:44:26",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4721,
+    "ai_summary": "The author argues that CRM fields like Last Contacted and First Outreach Date do not prove buyer response, proposing a five-rung evidence ladder from task to reply. A decision table maps promises to required closing events, and a synthetic inquiry trace tests the process. The recommendation is to build explicit response records with evidence levels.",
+    "word_count": 1752,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "CRM Analytics, Revenue Intelligence & Forecasting",
+      "code": "HDAEAFAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001163",
+      "name": "client relationship management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "73",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "buyer"
+     ],
+     "location": [],
+     "product": [
+      "sla",
+      "gmail",
+      "outlook"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.6822,
+    "group_id": 14688433
+   },
+   {
+    "id": 41252644,
+    "title": "Designing a Deletion Propagation Contract for Distributed CRM Data",
+    "url": "https://hackernoon.com/designing-a-deletion-propagation-contract-for-distributed-crm-data?source=rss",
+    "publisher": "HackerNoon",
+    "published_date": "2026-10-18T10:32:19",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.2906,
+    "ai_summary": "A five-stage Deletion Propagation Contract is proposed to govern CRM contact deletion across distributed systems. It requires identity resolution, a durable tombstone, processor registry propagation, verification, and resurrection prevention. The contract aims to make deletion a testable enterprise state rather than a local success message.",
+    "word_count": 1549,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Records Management, Retention & eDiscovery (Data Retention Governance)",
+      "code": "HDAEADAL",
+      "is_primary": true
+     },
+     {
+      "name": "Content Governance, Compliance, Retention & eDiscovery",
+      "code": "HDAEAGAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Records Management, Information Governance & Retention",
+      "code": "BPAEAPAO",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     },
+     {
+      "code": "20000763",
+      "name": "information technology and computer science"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "611",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "616",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541512",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7370",
+      "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "hubspot",
+      "rfc editor"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8333,
+    "group_id": 14688434
+   },
+   {
+    "id": 41178077,
+    "title": "45,418 Shares in HubSpot, Inc. $HUBS Purchased by Counterpoint Mutual Funds LLC",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-45418-shares-in-hubspot-inc-hubs-purchased-by-counterpoint-mutual-funds-llc-2026-10-18/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-18T08:02:49",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5205,
+    "ai_summary": "Counterpoint Mutual Funds LLC bought 45,418 HubSpot shares in Q3, valued at about $9.31 million, giving it a 0.09% stake. Director Brian Halligan sold 8,500 shares on September 15th, while Gerald Dischler bought 925 shares. Analysts rate HubSpot a Hold with a consensus price target of $264.97.",
+    "word_count": 1402,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Equity Mutual Funds (Active)",
+      "code": "FSAAAEAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000adi",
+      "name": "BMO Capital Markets",
+      "website": "https://capitalmarkets.bmo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "004c7pl",
+      "name": "Elevation Wealth Partners LLC",
+      "website": "https://elevationwealthllc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000cqa5",
+      "name": "Versant Capital Management Inc",
+      "website": "https://versantcm.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "002mb8y",
+      "name": "Counterpoint Mutual Funds",
+      "website": "https://counterpointmutualfunds.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005yq",
+      "name": "Capital One",
+      "website": "http://www.capitalone.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000a2m",
+      "name": "Wolfe Research",
+      "website": "http://www.wolferesearch.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0035ot7",
+      "name": "Banque Cantonale Vaudoise",
+      "website": "http://www.bcv.ch",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "5259",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6799",
+      "name": "INVESTORS, NEC"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gerald dischler",
+      "brian halligan"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot",
+      "hubspot, inc.",
+      "toast",
+      "hubs"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8985,
+    "group_id": 14623148
+   },
+   {
+    "id": 41115693,
+    "title": "How to Buy Software When AI Breaks Pricing",
+    "url": "https://securityboulevard.com/2026/10/how-to-buy-software-when-ai-breaks-pricing/",
+    "publisher": "Security Boulevard",
+    "published_date": "2026-10-17T15:30:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4035,
+    "ai_summary": "AI has broken per-seat SaaS pricing, shifting buyers toward usage-based models. HubSpot's October 2026 EMEA change and Salesforce's Flex Credits exemplify the shift, with seat-based pricing falling from 21% to 15% of companies. Buyers are advised to use a five-question test and negotiate caps on price increases and credit conversion rates.",
+    "word_count": 3385,
+    "author": "Deepak Gupta",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Vendor & Contract Management (Software/Cloud)",
+      "code": "BPAEAOAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Pricing & Commercial Strategy",
+      "code": "SD10",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007v6h",
+      "name": "SSOJet",
+      "website": "https://ssojet.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000748",
+      "name": "Clerk",
+      "website": "https://www.clerk.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00063xb",
+      "name": "MojoAuth",
+      "website": "https://mojoauth.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mkqle",
+      "name": "Intercom",
+      "website": "https://www.intercom.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008ha3",
+      "name": "Gracker",
+      "website": "https://gracker.ai/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00256p6",
+      "name": "Mailazy",
+      "website": "https://mailazy.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005r8",
+      "name": "WorkOS",
+      "website": "https://workos.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "blog_post",
+     "label": "Blog post"
+    },
+    "is_press_release": false,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000382",
+      "name": "prices"
+     },
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "deepak gupta",
+      "kyle poyar"
+     ],
+     "location": [],
+     "product": [
+      "agentforce",
+      "loginradius",
+      "fidiora",
+      "intercom fin",
+      "mojoauth",
+      "sierra best alignment",
+      "ssojet",
+      "zendesk ai agents",
+      "saas",
+      "mailazy",
+      "grackerai",
+      "hubspot",
+      "workos",
+      "clerk",
+      "sierra",
+      "zendesk",
+      "microsoft copilot credits",
+      "microsoft copilot studio",
+      "salesforce agentforce",
+      "salesforce",
+      "resend",
+      "auth0",
+      "fin",
+      "okta",
+      "stytch",
+      "enterprise",
+      "starter",
+      "tropic"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14581777
+   },
+   {
+    "id": 41089835,
+    "title": "Notable analyst calls: Salesforce, Walmart and Lockheed Martin gain analyst support as tech downgrades mount",
+    "url": "https://seekingalpha.com/news/4653700-notable-analyst-calls-salesforce-walmart-and-lockheed-martin-gain-analyst-support-as-tech-downgrades-mount",
+    "publisher": "Seeking Alpha",
+    "published_date": "2026-10-17T14:10:39",
+    "sentiment": "Negative",
+    "sentiment_score": 0.2925,
+    "ai_summary": "Analysts upgraded Salesforce, Walmart, and Lockheed Martin, citing AI-driven revenue acceleration and persistent inflation. Bank of America raised Salesforce's price target, Deutsche Bank sees Walmart's margin growth, and Barclays downgraded hardware makers and software firms.",
+    "word_count": 144,
+    "author": "Manshi Mamtora; CFA; SA News Editor",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003tv",
+      "name": "Walmart",
+      "website": "http://www.walmart.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002etx",
+      "name": "Dell",
+      "website": "https://www.dell.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000291",
+      "name": "Lockheed Martin",
+      "website": "https://www.lockheedmartin.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005nk",
+      "name": "NetApp",
+      "website": "http://netapp.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "manshi mamtora"
+     ],
+     "location": [],
+     "product": [
+      "netapp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14032382
+   },
+   {
+    "id": 41089300,
+    "title": "Notable analyst calls: Salesforce, Walmart and Lockheed Martin gain analyst support as tech downgrades mount",
+    "url": "https://www.tradingview.com/news/seekingalpha:da62eff75094b:0-notable-analyst-calls-salesforce-walmart-and-lockheed-martin-gain-analyst-support-as-tech-downgrades-mount/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-17T14:10:39",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4987,
+    "ai_summary": "Wall Street analysts issued a fresh round of upgrades and downgrades last week, with Salesforce, Walmart, and Lockheed Martin gaining support while Adobe and several tech hardware stocks faced downgrades. Salesforce was upgraded to Buy with a $285 price target, Walmart to Buy at $136, and Lockheed Martin to Buy at $600, while Adobe was downgraded to Underweight at $225.",
+    "word_count": 833,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003tv",
+      "name": "Walmart",
+      "website": "http://www.walmart.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000nn",
+      "name": "Dell Technologies",
+      "website": "https://www.delltechnologies.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002d6",
+      "name": "Hewlett Packard Enterprise Development LP",
+      "website": "https://www.hpe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000094h",
+      "name": "GoDaddy",
+      "website": "https://srivarenya.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003su",
+      "name": "MongoDB",
+      "website": "https://www.mongodb.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000003l",
+      "name": "monday.com",
+      "website": "https://monday.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008mv",
+      "name": "Adobe",
+      "website": "http://www.adobe.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005nk",
+      "name": "NetApp",
+      "website": "http://netapp.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20001140",
+      "name": "sell recommendation"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523150",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tim long",
+      "brad erickson",
+      "koji ikeda",
+      "michael turrin",
+      "mike cikos",
+      "krisztina katai",
+      "raimo lenschow",
+      "robert stallard"
+     ],
+     "location": [
+      "wall street",
+      "u.s."
+     ],
+     "product": [
+      "godaddy",
+      "netapp",
+      "mongodb",
+      "hubspot",
+      "walmart wmt",
+      "dell",
+      "hpe",
+      "adobe adbe",
+      "monday.com",
+      "mdb",
+      "tyler technologies",
+      "salesforce crm",
+      "mndy",
+      "figma",
+      "servicenow",
+      "crowdstrike"
+     ],
+     "event": [
+      "investor day"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14032382
+   },
+   {
+    "id": 41054564,
+    "title": "HubSpot, Inc. $HUBS Stock Acquired by Assenagon Asset Management S.A.",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-hubspot-inc-hubs-stock-acquired-by-assenagon-asset-management-sa-2026-10-17/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-17T07:14:19",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Assenagon Asset Management increased its HubSpot stake by 61.5% in Q3, holding 366,284 shares worth $75.08 million. Analysts rate HubSpot a Hold with an average price target of $264.97, and the stock opened at $231.10.",
+    "word_count": 1410,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Insurance General Accounts (Institutional Asset Owners)",
+      "code": "FSAAAGAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00005yq",
+      "name": "Capital One",
+      "website": "http://www.capitalone.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000twry",
+      "name": "Oslo Pensjonsforsikring",
+      "website": "https://www.opf.no/",
+      "is_primary": false
+     },
+     {
+      "uuid": "004c7pl",
+      "name": "Elevation Wealth Partners LLC",
+      "website": "https://elevationwealthllc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000c5yo",
+      "name": "Assenagon Asset Management",
+      "website": "https://www.assenagon.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "002cxeg",
+      "name": "Zacks Investment Research",
+      "website": "https://www.zacks.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "54",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52399",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6199",
+      "name": "FINANCE SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "gerald dischler",
+      "brian halligan"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot",
+      "hubs",
+      "hubspot, inc.",
+      "shopify",
+      "toast"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9953,
+    "group_id": 14304691
+   },
+   {
+    "id": 40987949,
+    "title": "Samsara, HubSpot, Asana, and Braze Shares Plummet, What You Need To Know",
+    "url": "https://www.financialcontent.com/article/stockstory-2026-10-16-samsara-hubspot-asana-and-braze-shares-plummet-what-you-need-to-know",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-16T17:35:43",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0067,
+    "ai_summary": "A sector-wide tech sell-off erased over $1 trillion from semiconductor and AI stocks, driven by AI funding fears and high interest rates. Samsara's shares fell, trading 13% below its 52-week high at $39.36. Analysts see the move as a sign that financing constraints could slow AI growth and broader economic expansion.",
+    "word_count": 510,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Compute & Acceleration ICs (CPU/GPU/AI/FPGA/ASIC)",
+      "code": "HDAHABAC",
+      "is_primary": true
+     },
+     {
+      "name": "AI Accelerators (GPUs/TPUs/NPUs/ASICs)",
+      "code": "HDAAAAAA",
+      "is_primary": false
+     },
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00000y2",
+      "name": "Samsara",
+      "website": "http://www.samsara.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00004v4",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000385",
+      "name": "market and exchange"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52321",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "samsara",
+      "braze",
+      "hubspot",
+      "asana",
+      "nvidia"
+     ],
+     "event": [
+      "ipo"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14201838
+   },
+   {
+    "id": 40955295,
+    "title": "Unpacking Q2 Earnings: Freshworks (NASDAQ:FRSH) In The Context Of Other Sales Software Stocks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/unpacking-q2-earnings-freshworks-nasdaq-165139513.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-16T16:51:39",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Freshworks reported Q2 revenue of $237.4 million, up 16% year over year, beating analyst estimates by 1.6%. The company also exceeded adjusted operating income and full-year EPS guidance. The stock is up 18.2% since reporting.",
+    "word_count": 385,
+    "author": "Radek Strnad",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Success & Account Management CRM",
+      "code": "HDAEAFAD",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003l7",
+      "name": "Freshworks",
+      "website": "https://www.freshworks.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000pe2",
+      "name": "ZoomInfo",
+      "website": "http://www.zoominfo.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20001365",
+      "name": "business reporting and performance"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "hubspot",
+      "zoominfo"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9025,
+    "group_id": 14306477
+   },
+   {
+    "id": 41091685,
+    "title": "Going Headless: Claudeforce vs. Replit vs. Lovable, Agents Picking Our Vendors, and Two of Our Agents Built Their Own Inbox to Talk Behind Our Back: The Agents #016",
+    "url": "https://www.saastr.com/going-headless-claudeforce-vs-replit-vs-lovable-agents-picking-our-vendors-and-two-of-our-agents-built-their-own-inbox-to-talk-behind-our-back-the-agents-016/",
+    "publisher": "Saastr",
+    "published_date": "2026-10-16T16:24:58",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "A podcast episode compared three headless Salesforce tools\u2014Claudeforce, Replit, and Lovable\u2014on the same data, finding they gave identical factual answers but different setup costs and action plans. The episode also covered agents picking vendors, with one agent recommending Render and another advising to stay on Salesforce.",
+    "word_count": 3883,
+    "author": "Jason Lemkin",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+      "code": "HDAEANAJ",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Others",
+      "code": "OT01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000002d",
+      "name": "Lovable",
+      "website": "https://lovable.dev",
+      "is_primary": true
+     },
+     {
+      "uuid": "000009a",
+      "name": "Vercel",
+      "website": "https://vercel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00009ou",
+      "name": "Railway",
+      "website": "https://railway.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002e18",
+      "name": "SaaStr",
+      "website": "http://www.saastr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000c9m",
+      "name": "Render",
+      "website": "https://render.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000ff",
+      "name": "Attio",
+      "website": "https://attio.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000007",
+      "name": "Replit",
+      "website": "https://replit.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001369",
+      "name": "podcast"
+     },
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "amelia",
+      "david",
+      "sam blond",
+      "jasper",
+      "anton",
+      "amjad",
+      "jason",
+      "claude",
+      "kody",
+      "amjad masad"
+     ],
+     "location": [
+      "monaco"
+     ],
+     "product": [
+      "lovable",
+      "claudeforce",
+      "replit",
+      "10k",
+      "opus",
+      "claude",
+      "frontier",
+      "salesforce",
+      "google cloud",
+      "ledger",
+      "agentforce",
+      "artisan",
+      "saastr aiconnect",
+      "quickbooks",
+      "bill.com",
+      "render",
+      "vercel",
+      "resend",
+      "saastr.ai",
+      "railway",
+      "hubspot",
+      "clerk",
+      "sendgrid",
+      "attio",
+      "saastr ai",
+      "x",
+      "affinity",
+      "chatgpt",
+      "connect",
+      "muse",
+      "peec",
+      "aeo",
+      "calendly",
+      "replit v3"
+     ],
+     "event": [
+      "dreamforce",
+      "saastr ai",
+      "sf tech week"
+     ]
+    },
+    "newsworthiness_score": 0.7015,
+    "group_id": 14547566
+   },
+   {
+    "id": 41026084,
+    "title": "HubSpot\u2019s Unbound 2026: The big announcements and updates",
+    "url": "https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/",
+    "publisher": "Martech",
+    "published_date": "2026-10-16T13:40:10",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9377,
+    "ai_summary": "HubSpot's Unbound 2026 focused on enhancing existing features rather than introducing new ones, with Agent Hub now live and Marketing Studio rebuilt around insights. New pricing on Oct. 15, 2026, adds spending control and flexibility. Several AI agents and tools are in public or private beta.",
+    "word_count": 2568,
+    "author": "Tyler Samani-Sprunk",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000231",
+      "name": "software and applications"
+     },
+     {
+      "code": "20000170",
+      "name": "business information"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "91",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "tyler samani-sprunk"
+     ],
+     "location": [],
+     "product": [
+      "notetaker",
+      "hubspot work",
+      "agent hub",
+      "hubspot",
+      "zoom",
+      "breeze assistant",
+      "marketing studio",
+      "campaign agent",
+      "nurture agent",
+      "breeze",
+      "content agent",
+      "single-object report builder",
+      "dashboards",
+      "sharepoint",
+      "onedrive",
+      "google drive",
+      "custom report builder",
+      "microsoft ads",
+      "reddit",
+      "chatgpt ads"
+     ],
+     "event": [
+      "inbound conference"
+     ]
+    },
+    "newsworthiness_score": 0.8281,
+    "group_id": 14495376
+   },
+   {
+    "id": 40923469,
+    "title": "The marketing automation model that drove 9x qualified lead growth in a secondary market",
+    "url": "https://blog.hubspot.com/marketing/marketing-automation-secondary-market-playbook",
+    "publisher": "HubSpot Blog",
+    "published_date": "2026-10-16T12:00:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0636,
+    "ai_summary": "HubSpot rebuilt its Japan email automation program in two months with zero new headcount, using a two-person model separating technical and cultural work. Qualified leads jumped from 12 to over 115 per month, adding about 44 incremental deals. The approach targets high-intent prospects and can be replicated in other secondary markets.",
+    "word_count": 1728,
+    "author": "Written",
+    "countries": [
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Marketing Automation Operations for Demand Gen (Email/CRM Workflows)",
+      "code": "BPAFAKAM",
+      "is_primary": true
+     },
+     {
+      "name": "Email Marketing Services (Campaigns, Deliverability, Lifecycle)",
+      "code": "BPAFAKAB",
+      "is_primary": false
+     },
+     {
+      "name": "Lead Nurturing & Marketing Operations (List Management, Scoring)",
+      "code": "MPAAAIAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Digital Transformation",
+      "code": "SD06",
+      "is_primary": true
+     },
+     {
+      "name": "Operational Milestones",
+      "code": "SD04",
+      "is_primary": false
+     },
+     {
+      "name": "Product Launches & Enhancements",
+      "code": "SD01",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000192",
+      "name": "business strategy and marketing"
+     },
+     {
+      "code": "20000283",
+      "name": "market research"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "59",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "623",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541613",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7311",
+      "name": "SERVICES-ADVERTISING AGENCIES"
+     },
+     {
+      "code": "7310",
+      "name": "SERVICES-ADVERTISING"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "japan",
+      "german",
+      "us-headquartered",
+      "spanish",
+      "portuguese",
+      "french"
+     ],
+     "product": [
+      "ai tools",
+      "social media management",
+      "free marketing software",
+      "email marketing",
+      "marketing software"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9373,
+    "group_id": 14389240
+   },
+   {
+    "id": 40914142,
+    "title": "Majority of HubSpot Clients Plan to Boost AI Investments in Coming Year",
+    "url": "https://third-news.com/article/91db6db8-c955-11f1-86c4-9ca3ba08e13f",
+    "publisher": "Third News",
+    "published_date": "2026-10-16T11:34:38",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "At HubSpot's UNBOUND conference, 70% of surveyed customers plan to increase AI spending over the next year, with 66% already using Breeze AI Assistant. 68% of US respondents and 77% from other countries intend to invest more, and 63% of Breeze users also use third-party AI tools.",
+    "word_count": 654,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+      "code": "BPAEAHAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Consumer Behaviour & Spending",
+      "code": "MM05",
+      "is_primary": true
+     },
+     {
+      "name": "Sector Outlook & Forecasts",
+      "code": "MM07",
+      "is_primary": false
+     },
+     {
+      "name": "Partnerships & Alliances",
+      "code": "SD02",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000008",
+      "name": "OpenAI",
+      "website": "https://openai.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000026e",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007irg",
+      "name": "Huble Digital",
+      "website": "https://huble.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000002",
+      "name": "Anthropic",
+      "website": "https://www.anthropic.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "72",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "rebecca harris"
+     ],
+     "location": [
+      "boston",
+      "united states",
+      "us"
+     ],
+     "product": [
+      "claude",
+      "copilot",
+      "breeze ai assistant",
+      "chatgpt"
+     ],
+     "event": [
+      "hubspot unbound conference"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14374107
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}

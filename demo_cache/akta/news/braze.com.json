@@ -1,0 +1,6249 @@
+{
+ "fetched_at": "2026-10-24T11:46:01",
+ "params": {
+  "company": "braze.com",
+  "start_date": "2026-04-27",
+  "end_date": "2026-10-24",
+  "limit": 50
+ },
+ "response": {
+  "total": 529,
+  "limit": 50,
+  "offset": 0,
+  "count": 50,
+  "data": [
+   {
+    "id": 42366720,
+    "title": "Braze (NASDAQ:BRZE) Cut to \u201cHold\u201d at DA Davidson",
+    "url": "https://www.americanbankingnews.com/2026/10/24/braze-nasdaqbrze-cut-to-hold-at-da-davidson.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-24T00:54:55",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4259,
+    "ai_summary": "DA Davidson cut Braze from Buy to Hold, raising its price target to $47.50. The stock opened at $45.88, and Salesforce agreed to acquire Braze for $47.50 per share, valuing it at about $5.66 billion. The deal is subject to shareholder and regulatory approvals.",
+    "word_count": 1431,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sell-Side M&A Advisory",
+      "code": "FSAEAGAA",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers, Acquisitions & Spin-offs Event Administration",
+      "code": "FSACAKAG",
+      "is_primary": false
+     },
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007n49",
+      "name": "Citizens JMP Group",
+      "website": "https://www.jmpsecurities.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002lrr",
+      "name": "Da Davidson",
+      "website": "https://dadavidson.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "astha malik",
+      "edward mcdonnell",
+      "jonathan hyman"
+     ],
+     "location": [],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9773,
+    "group_id": 15000781
+   },
+   {
+    "id": 42308447,
+    "title": "Salesforce Stocks Decrease Over 2% as Braze Deal Sets a $5.66 Billion Hurdle",
+    "url": "https://www.tradingview.com/news/gurufocus:269b7f0f9094b:0-salesforce-stocks-decrease-over-2-as-braze-deal-sets-a-5-66-billion-hurdle/",
+    "publisher": "TradingView",
+    "published_date": "2026-10-23T18:40:05",
+    "sentiment": "Negative",
+    "sentiment_score": 0.012,
+    "ai_summary": "Salesforce proposed a $5.66 billion cash deal to acquire Braze, offering $47.50 per share. The acquisition is expected to close in fiscal 2028, with completion subject to shareholder and regulatory approvals. Salesforce left fiscal 2027 guidance unchanged, keeping the deal out of current-year growth.",
+    "word_count": 198,
+    "author": "",
+    "countries": [],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9824,
+    "group_id": 15000781
+   },
+   {
+    "id": 42290067,
+    "title": "Why Braze Stock Soared This Week",
+    "url": "https://www.fool.com/coverage/market-movers/2026/10/23/why-braze-stock-soared-this-week/",
+    "publisher": "The Motley Fool",
+    "published_date": "2026-10-23T15:09:01",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce announced a $5.66 billion cash buyout of Braze, offering $47.50 per share, a 58% premium. The stock rose 56.3% to $45.86, trading below the offer price. The deal is expected to close in fiscal 2028, subject to regulatory clearance and shareholder approval.",
+    "word_count": 721,
+    "author": "Anders Bylund",
+    "countries": [],
+    "industries": [
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bill magnuson",
+      "anders bylund"
+     ],
+     "location": [],
+     "product": [
+      "braze",
+      "venmo",
+      "canva",
+      "instacart",
+      "urban outfitters"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42287345,
+    "title": "Why Braze Stock Soared This Week",
+    "url": "https://www.fool.com/coverage/market-movers/2026/10/23/why-braze-stock-soared-this-week/?source=iedfolrf0000001",
+    "publisher": "The Motley Fool",
+    "published_date": "2026-10-23T14:49:01",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce announced a $5.66 billion cash buyout of Braze, offering $47.50 per share, which sent Braze stock up 56.3% to $45.86. The deal, expected to close in fiscal 2028, includes a $300 million regulatory failure fee and a $191 million breakup fee. The acquisition shifts the investment case from growth to merger arbitrage.",
+    "word_count": 721,
+    "author": "Anders Bylund",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Merger Arbitrage",
+      "code": "FSAHACAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "bill magnuson",
+      "anders bylund"
+     ],
+     "location": [],
+     "product": [
+      "braze",
+      "venmo",
+      "canva",
+      "instacart",
+      "urban outfitters"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42271085,
+    "title": "Braze (NASDAQ:BRZE) Downgraded by Mizuho to \u201cHold\u201d",
+    "url": "https://www.themarketsdaily.com/2026/10/23/braze-nasdaqbrze-downgraded-by-mizuho-to-hold.html",
+    "publisher": "Markets Daily",
+    "published_date": "2026-10-23T13:14:59",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0321,
+    "ai_summary": "Mizuho downgraded Braze to Hold, joining other analysts who cut ratings. Salesforce's proposed acquisition values Braze at $47.50 per share, an 58% premium. The deal is subject to shareholder approval and antitrust review, with completion expected in fiscal 2028.",
+    "word_count": 1452,
+    "author": "Kim Johansen",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Customer Engagement & Messaging (Email, SMS, Push, In-App)",
+      "code": "BPAFAFAI",
+      "is_primary": true
+     },
+     {
+      "name": "Industry-Specialist / Sector-Focused M&A Advisory",
+      "code": "FSAEAGAJ",
+      "is_primary": false
+     },
+     {
+      "name": "Mergers & Acquisitions (M&A) & Securities Law",
+      "code": "BPAHAAAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002lrr",
+      "name": "Da Davidson",
+      "website": "https://dadavidson.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000097d",
+      "name": "Mizuho Financial Group",
+      "website": "http://www.mizuho-fg.co.jp",
+      "is_primary": true
+     },
+     {
+      "uuid": "02ma1a8",
+      "name": "Manulife Canada",
+      "website": "https://www.manulife.ca/personal.html",
+      "is_primary": false
+     },
+     {
+      "uuid": "000bpq1",
+      "name": "Stephens Investment Management",
+      "website": "http://www.stephensim.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mv5qh",
+      "name": "TD Cowen",
+      "website": "https://www.tdsecurities.com/ca/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002oj3",
+      "name": "Needham & Company LLC",
+      "website": "http://www.needhamco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "astha malik",
+      "edward m. mcdonnell",
+      "jonathan hyman"
+     ],
+     "location": [],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9877,
+    "group_id": 15000781
+   },
+   {
+    "id": 42287659,
+    "title": "Stocks making big moves this week: Braze, Amkor, Oceaneering, Arhaus, and Silgan Holdings",
+    "url": "https://www.financialcontent.com/article/stockstory-2026-10-23-stocks-making-big-moves-this-week-braze-amkor-oceaneering-arhaus-and-silgan-holdings",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-23T13:00:40",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Five stocks made notable moves this week: Braze rose 51.2% after Salesforce's $5.66B acquisition, Amkor gained 7.1% on a $1.3B NVIDIA capacity deal, Oceaneering fell 17.5% on a 26% Q3 net income drop, Arhaus rose 2.6% on an analyst upgrade, and Silgan gained 5.1% on a $2.3B cash deal with Trivium.",
+    "word_count": 308,
+    "author": "",
+    "countries": [
+     "KOR"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008jhy",
+      "name": "Trivium Packaging",
+      "website": "https://www.triviumpackaging.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002em9",
+      "name": "Silgan Holdings",
+      "website": "http://www.silganholdings.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000gon",
+      "name": "Amkor Technology",
+      "website": "http://www.amkor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008ls",
+      "name": "Arhaus",
+      "website": "https://www.arhaus.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "000000q",
+      "name": "NVIDIA",
+      "website": "https://www.nvidia.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000qve",
+      "name": "Oceaneering",
+      "website": "http://www.oceaneering.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "peter keith"
+     ],
+     "location": [
+      "arizona",
+      "south korea"
+     ],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9887,
+    "group_id": 15663693
+   },
+   {
+    "id": 42271831,
+    "title": "Salesforce Is Betting Big on AI. The Payoff Could Be Bigger Than Investors Expect",
+    "url": "https://247wallst.com/investing/2026/10/23/salesforce-is-betting-big-on-ai-the-payoff-could-be-bigger-than-investors-expect/",
+    "publisher": "247wallst",
+    "published_date": "2026-10-23T12:00:27",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce's AI products are growing at triple-digit rates while its stock trades near a 52-week low, prompting a price target of $346.52, implying about 42.6% upside. Agentforce ARR passed $1.5B, up 240%+ year-over-year, and combined Agentforce and Data 360 ARR reached about $3.9B. The model rates the stock a BUY with 90% confidence.",
+    "word_count": 970,
+    "author": "Vandita Jadeja",
+    "countries": [],
+    "industries": [
+     {
+      "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+      "code": "HDAEANAI",
+      "is_primary": true
+     },
+     {
+      "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+      "code": "HDAAACAF",
+      "is_primary": false
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "wall st"
+     ],
+     "product": [
+      "braze",
+      "agentforce",
+      "dynamics",
+      "data 360",
+      "claudeforce",
+      "copilot",
+      "contentful",
+      "informatica",
+      "fin",
+      "crm"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 14667188
+   },
+   {
+    "id": 42251085,
+    "title": "Braze (NASDAQ:BRZE) Rating Lowered to \"Hold\" at Barclays",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-braze-nasdaq-brze-rating-lowered-to-hold-at-barclays-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T10:00:52",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0186,
+    "ai_summary": "Barclays downgraded Braze from strong-buy to hold, and several other analysts also cut ratings. The stock opened at $45.86, with a consensus target of $43.95. Salesforce's proposed $5.66B acquisition, valued at $47.50 per share, remains subject to shareholder approval and antitrust review.",
+    "word_count": 1345,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     },
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000aob8",
+      "name": "Raymond James Financial, Inc.",
+      "website": "https://raymondjames.com/gregsmith",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007w6",
+      "name": "BTIG",
+      "website": "https://www.btig.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "02mv5qh",
+      "name": "TD Cowen",
+      "website": "https://www.tdsecurities.com/ca/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00049d8",
+      "name": "D.A. Davidson",
+      "website": "http://www.davidsoncompanies.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "52315",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6211",
+      "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "astha malik",
+      "jonathan hyman"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9905,
+    "group_id": 15000781
+   },
+   {
+    "id": 42251081,
+    "title": "Braze (NASDAQ:BRZE) Stock Rating Cut to \"Hold\" at Canaccord Genuity Group",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-braze-nasdaq-brze-stock-rating-cut-to-hold-at-canaccord-genuity-group-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T10:00:52",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0175,
+    "ai_summary": "Canaccord Genuity Group cut Braze's rating from strong-buy to hold, joining other analysts who also downgraded the stock. The consensus rating is Hold with a $43.95 target, and the stock opened at $45.86. Salesforce's proposed $5.66B acquisition, valued at $47.50 per share, remains subject to shareholder approval and antitrust review.",
+    "word_count": 1381,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002lrr",
+      "name": "Da Davidson",
+      "website": "https://dadavidson.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000rt",
+      "name": "Wells Fargo",
+      "website": "http://www.wellsfargo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002t2k",
+      "name": "Piper Sandler",
+      "website": "https://pipersandler.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eft",
+      "name": "Canaccord Genuity Group",
+      "website": "https://www.canaccordgenuity.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonathan hyman",
+      "edward m. mcdonnell"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "brze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9709,
+    "group_id": 15000781
+   },
+   {
+    "id": 42251086,
+    "title": "Braze (NASDAQ:BRZE) Downgraded by Mizuho to \"Hold\"",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-braze-nasdaq-brze-downgraded-by-mizuho-to-hold-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T10:00:51",
+    "sentiment": "Negative",
+    "sentiment_score": 0.032,
+    "ai_summary": "Mizuho downgraded Braze from strong-buy to hold, joining other analysts who cut ratings to hold or neutral. The stock opened at $45.86, with a consensus price target of $43.95. Salesforce's proposed $5.66 billion acquisition offers $47.50 per share, subject to shareholder approval and antitrust review.",
+    "word_count": 1417,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers, Acquisitions & Spin-offs Event Administration",
+      "code": "FSACAKAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000097d",
+      "name": "Mizuho Financial Group",
+      "website": "http://www.mizuho-fg.co.jp",
+      "is_primary": true
+     },
+     {
+      "uuid": "02ma1a8",
+      "name": "Manulife Canada",
+      "website": "https://www.manulife.ca/personal.html",
+      "is_primary": false
+     },
+     {
+      "uuid": "000bpq1",
+      "name": "Stephens Investment Management",
+      "website": "http://www.stephensim.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mv5qh",
+      "name": "TD Cowen",
+      "website": "https://www.tdsecurities.com/ca/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002oj3",
+      "name": "Needham & Company LLC",
+      "website": "http://www.needhamco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00049d8",
+      "name": "D.A. Davidson",
+      "website": "http://www.davidsoncompanies.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "astha malik",
+      "edward m. mcdonnell",
+      "jonathan hyman"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "tesla"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.988,
+    "group_id": 15000781
+   },
+   {
+    "id": 42251049,
+    "title": "13,258 Shares in Salesforce Inc. $CRM Bought by NBT Bank N.A.",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-13258-shares-in-salesforce-inc-crm-bought-by-nbt-bank-na-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T09:44:55",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "NBT Bank N.A. acquired a new position in Salesforce, buying 13,258 shares worth about $3.04 million in Q3. Salesforce reported Q2 EPS of $5.90, beating estimates, and declared a $0.44 quarterly dividend. Analysts rate the stock a Moderate Buy with a consensus price target of $278.98.",
+    "word_count": 1319,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Algorithmic Trading & Smart Order Routing (Equities)",
+      "code": "FSACAFAH",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007n49",
+      "name": "Citizens JMP Group",
+      "website": "https://www.jmpsecurities.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002qiu",
+      "name": "Guggenheim Securities",
+      "website": "https://www.guggenheimsecurities.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00002qv",
+      "name": "Royal Bank of Canada",
+      "website": "https://www.rbc.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000by",
+      "name": "Goldman Sachs",
+      "website": "https://www.goldmansachs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "craig conway",
+      "david blair kirk",
+      "cantor fitzgerald"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "agentforce",
+      "crm",
+      "slack",
+      "tableau",
+      "mulesoft",
+      "data cloud",
+      "sales cloud",
+      "marketing cloud",
+      "commerce cloud",
+      "spacex",
+      "service cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13306386
+   },
+   {
+    "id": 42242829,
+    "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
+    "url": "https://stocktwits.com/news-articles/markets/equity/stocktwits-wall-street-wrap-analysts-turn-bullish-on-space-x-tesla-but-netflix-and-chipotle-face-fresh-downgrades-amid-growth-concerns/cZxyaiCRBx4",
+    "publisher": "Stocktwits",
+    "published_date": "2026-10-23T09:30:54",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Analysts upgraded SpaceX and Tesla on revenue and merger speculation, while downgrading Netflix and Chipotle on growth concerns. SpaceX's Q1 2027 revenue forecast rose to $33-37 billion, and Tesla's board committees explored a possible merger. Netflix's Q4 revenue forecast missed estimates, and Chipotle's October sales may fall short.",
+    "word_count": 925,
+    "author": "Stocktwits Inc",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     },
+     {
+      "name": "Strategy & Thematic Research",
+      "code": "FSACAGAG",
+      "is_primary": false
+     },
+     {
+      "name": "Mergers, Acquisitions & Spin-offs Event Administration",
+      "code": "FSACAKAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000003",
+      "name": "CoreWeave",
+      "website": "https://www.coreweave.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000617",
+      "name": "Chipotle Mexican Grill",
+      "website": "http://www.chipotle.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000493c",
+      "name": "CLSA",
+      "website": "https://www.clsa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044i",
+      "name": "Netflix",
+      "website": "https://www.netflix.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000036f",
+      "name": "Tesla",
+      "website": "https://tesla.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000ah",
+      "name": "BNP Paribas",
+      "website": "https://group.bnpparibas",
+      "is_primary": false
+     },
+     {
+      "uuid": "0009clm",
+      "name": "Phillip Securities Pte",
+      "website": "https://www.phillip.com.sg",
+      "is_primary": false
+     },
+     {
+      "uuid": "02m3c6u",
+      "name": "SpaceX",
+      "website": "https://www.spacex.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20000179",
+      "name": "earnings forecast"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "elon musk",
+      "peter rice",
+      "bela bajaria",
+      "laura martin",
+      "jeffrey wlodarczak",
+      "raymond james"
+     ],
+     "location": [
+      "chongqing, china",
+      "crown castle"
+     ],
+     "product": [
+      "netflix",
+      "braze",
+      "tesla",
+      "spcx",
+      "chipotle",
+      "spacex",
+      "nflx",
+      "coreweave",
+      "youtube",
+      "brze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13977812
+   },
+   {
+    "id": 42231182,
+    "title": "E. Ohman J or Asset Management AB Acquires 120,108 Shares of Salesforce Inc. $CRM",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-e-ohman-j-or-asset-management-ab-acquires-120108-shares-of-salesforce-inc-crm-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T08:01:55",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9138,
+    "ai_summary": "E. Ohman J or Asset Management AB raised its Salesforce holdings by 63.5% in Q3, acquiring 120,108 additional shares. The stake is now worth $70.995 million, and analysts have a consensus \"Moderate Buy\" rating with a target price of $278.98.",
+    "word_count": 1384,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Quantitative/Systematic Equity (Active)",
+      "code": "FSAAAIAL",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006ucz",
+      "name": "Arrowstreet Capital, L.P.",
+      "website": "http://arrowstreetcapital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0051aw6",
+      "name": "\u00d6hman",
+      "website": "https://ohmanholding.se",
+      "is_primary": true
+     },
+     {
+      "uuid": "0006n7r",
+      "name": "Legal & General Group",
+      "website": "https://group.legalandgeneral.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000cr",
+      "name": "Bank of America",
+      "website": "https://www.bankofamerica.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005ynz",
+      "name": "Sanford C. Bernstein",
+      "website": "https://www.bernsteinresearch.com/BRWEB/Public/Login.aspx?ReturnUrl=%2FBRWEB%2Fhome.aspx",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002s",
+      "name": "BlackRock",
+      "website": "http://www.blackrock.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005le",
+      "name": "BNY",
+      "website": "https://bny.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000bk2a",
+      "name": "Monness, Crespi, Hardt & Co.",
+      "website": "https://mchny.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001162",
+      "name": "asset management"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david blair kirk",
+      "craig conway",
+      "cantor fitzgerald"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "salesforce",
+      "crm",
+      "slack",
+      "tableau",
+      "mulesoft",
+      "braze",
+      "agentforce",
+      "data cloud",
+      "sales cloud",
+      "spacex",
+      "commerce cloud",
+      "marketing cloud",
+      "service cloud",
+      "rockets"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15601177
+   },
+   {
+    "id": 42217804,
+    "title": "7,909 Salesforce Inc. $CRM Shares Sold by Brookstone Capital Management",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-7909-salesforce-inc-crm-shares-sold-by-brookstone-capital-management-2026-10-23/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-23T07:13:09",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Brookstone Capital Management reduced its Salesforce stake by 8.8% in Q3, selling 7,909 shares, leaving it with 82,053 shares valued at $18.8 million. Other institutional investors also adjusted positions, and the company reported Q3 EPS of $5.90, beating estimates.",
+    "word_count": 1476,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Large-Cap Equity (Active)",
+      "code": "FSAAAIAA",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000tr7",
+      "name": "Susquehanna International Group",
+      "website": "https://www.sig.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0008ryl",
+      "name": "Brookstone Capital Management",
+      "website": "https://brookstonecm.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000edke",
+      "name": "HBW Advisory Services",
+      "website": "http://www.hbwadvisory.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000l3r5",
+      "name": "Paragon Capital Management",
+      "website": "http://www.pcm-net.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000dvi9",
+      "name": "Onyx Bridge Wealth Group",
+      "website": "https://onyxbridge.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000f6oi",
+      "name": "Thor wealth management",
+      "website": "https://www.thorwealthmanagement.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david blair kirk",
+      "craig conway",
+      "susquehanna"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "agentforce",
+      "crm",
+      "slack",
+      "tableau",
+      "mulesoft",
+      "data cloud",
+      "salesforce",
+      "commerce cloud",
+      "sales cloud",
+      "service cloud",
+      "marketing cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13306386
+   },
+   {
+    "id": 42194604,
+    "title": "Salesforce, Inc. (CRM) M&A Call Transcript",
+    "url": "https://seekingalpha.com/article/4956752-salesforce-inc-crm-m-and-a-call-transcript?source=feed_all_articles",
+    "publisher": "Seeking Alpha",
+    "published_date": "2026-10-23T03:37:15",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5209,
+    "ai_summary": "Salesforce announced its intent to acquire Braze, with the deal subject to regulatory approvals and closing conditions. The company's proxy statement is not yet on file, limiting further disclosure. A replay of the call will be available on the Investor Relations website.",
+    "word_count": 300,
+    "author": "SA Transcripts",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation, CRM & Lifecycle Messaging",
+      "code": "BPAMALAE",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers, Acquisitions & Spin-offs Event Administration",
+      "code": "FSACAKAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "mark murphy",
+      "patrick stokes",
+      "robin washington",
+      "william magnuson",
+      "bill magnuson"
+     ],
+     "location": [],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 0.824,
+    "group_id": 15000781
+   },
+   {
+    "id": 42286644,
+    "title": "920,415 Salesforce Inc. $CRM Shares Sold by AMF Tjanstepension AB",
+    "url": "https://www.americanbankingnews.com/2026/10/23/920415-salesforce-inc-crm-shares-sold-by-amf-tjanstepension-ab.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-23T02:08:56",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4459,
+    "ai_summary": "AMF Tjanstepension AB trimmed its Salesforce stake by 98.8% in Q3, selling 920,415 shares and leaving with 10,711 shares worth $2.46 million. Other funds like Cantor Fitzgerald and E. Ohman J or Asset Management increased positions, while Salesforce reported Q3 EPS of $5.90, beating estimates, and paid a $0.44 dividend.",
+    "word_count": 1443,
+    "author": "Abmn Staff",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Global Equity (Active)",
+      "code": "FSAAAIAD",
+      "is_primary": true
+     },
+     {
+      "name": "Quantitative/Systematic Equity (Active)",
+      "code": "FSAAAIAL",
+      "is_primary": false
+     },
+     {
+      "name": "Corporate Actions Processing (Mandatory & Voluntary)",
+      "code": "FSACAKAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0051aw6",
+      "name": "\u00d6hman",
+      "website": "https://ohmanholding.se",
+      "is_primary": false
+     },
+     {
+      "uuid": "00035et",
+      "name": "SBI Securities",
+      "website": "https://sbisec.co.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005ynz",
+      "name": "Sanford C. Bernstein",
+      "website": "https://www.bernsteinresearch.com/BRWEB/Public/Login.aspx?ReturnUrl=%2FBRWEB%2Fhome.aspx",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005glr",
+      "name": "AMF",
+      "website": "https://www.amf.se",
+      "is_primary": true
+     },
+     {
+      "uuid": "003e7cf",
+      "name": "Pinnacle Bank",
+      "website": "https://pinnacle.bank/",
+      "is_primary": false
+     },
+     {
+      "uuid": "002uy2q",
+      "name": "Marion Wealth Management Group",
+      "website": "https://www.marionwmg.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david blair kirk",
+      "craig conway",
+      "cantor fitzgerald"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "crm",
+      "slack",
+      "braze",
+      "tableau",
+      "mulesoft",
+      "data cloud",
+      "commerce cloud",
+      "sales cloud",
+      "marketing cloud",
+      "service cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9637,
+    "group_id": 13306386
+   },
+   {
+    "id": 42217337,
+    "title": "Braze (NASDAQ:BRZE) Stock Rating Lowered by Citigroup",
+    "url": "https://www.americanbankingnews.com/2026/10/23/braze-nasdaqbrze-stock-rating-lowered-by-citigroup.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-23T00:30:53",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0709,
+    "ai_summary": "Citigroup downgraded Braze from buy to neutral, cutting its price target to $47.50. Other analysts also adjusted ratings, with a consensus 'Hold' and $43.95 target. Salesforce's proposed $5.66B acquisition offers $47.50 per share, pending shareholder approval.",
+    "word_count": 1424,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     },
+     {
+      "name": "Rights Issues, Tender Offers & Buybacks",
+      "code": "FSACAKAE",
+      "is_primary": false
+     },
+     {
+      "name": "M&A Advisory (Buy-Side & Sell-Side)",
+      "code": "BPAHAOAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002lrr",
+      "name": "Da Davidson",
+      "website": "https://dadavidson.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002oj3",
+      "name": "Needham & Company LLC",
+      "website": "http://www.needhamco.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00000t5",
+      "name": "JP Morgan Chase",
+      "website": "https://www.jpmorganchase.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002lx9",
+      "name": "Stephens",
+      "website": "https://www.stephens.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     },
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonathan hyman",
+      "edward m. mcdonnell"
+     ],
+     "location": [],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9991,
+    "group_id": 15000781
+   },
+   {
+    "id": 42164426,
+    "title": "Salesforce (NYSE:CRM) Stock Price Up 3.6% - What's Next?",
+    "url": "https://www.marketbeat.com/instant-alerts/price-salesforce-nyse-crm-stock-price-up-36-whats-next-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T23:40:35",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce shares rose 3.6% on Thursday, trading as high as $252.42. The company is acquiring Braze for about $5.66 billion in cash, a 58% premium, expected to close in fiscal 2028. Analysts see strategic upside, with a consensus price target of $278.98.",
+    "word_count": 1330,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Journey Orchestration & Campaign Management",
+      "code": "BPAFAFAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000adi",
+      "name": "BMO Capital Markets",
+      "website": "https://capitalmarkets.bmo.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0000cz1",
+      "name": "Truist",
+      "website": "https://www.truist.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002s",
+      "name": "BlackRock",
+      "website": "http://www.blackrock.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000mwg",
+      "name": "Cantor Fitzgerald",
+      "website": "http://cantor.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00008l9",
+      "name": "Jefferies Financial Group",
+      "website": "https://www.jefferies.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000zeb",
+      "name": "Erste Group",
+      "website": "http://erstegroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "cantor fitzgerald",
+      "david blair kirk",
+      "craig conway"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "agentforce",
+      "crm",
+      "slack",
+      "tableau",
+      "mulesoft",
+      "data cloud",
+      "commerce cloud",
+      "sales cloud",
+      "service cloud",
+      "marketing cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42171217,
+    "title": "Braze (NASDAQ:BRZE) CTO Sells $12,919,050.00 in Stock",
+    "url": "https://www.tickerreport.com/banking-finance/13632059/braze-nasdaqbrze-cto-sells-12919050-00-in-stock.html",
+    "publisher": "Ticker Report",
+    "published_date": "2026-10-22T23:09:18",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Braze CTO Jonathan Hyman sold 285,000 shares on October 20th at $45.33, totaling $12.92 million. The sale was part of a pre-arranged 10b5-1 plan, and the company's stock is near the $47.50 Salesforce acquisition offer price.",
+    "word_count": 1501,
+    "author": "Max Byerly",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonathan hyman"
+     ],
+     "location": [],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42164323,
+    "title": "Insider Selling: Braze (NASDAQ:BRZE) CTO Sells $300,400.00 in Stock",
+    "url": "https://www.marketbeat.com/instant-alerts/insider-insider-selling-braze-nasdaq-brze-cto-sells-30040000-in-stock-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T23:08:20",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Braze CTO Jonathan Hyman sold 10,000 shares on October 15th at $30.04, totaling $300,400. The company reported Q3 EPS of $0.19, beating estimates, with revenue of $227.23 million, up 26.2% year-over-year. Salesforce's $5.66 billion acquisition remains pending shareholder and regulatory approval.",
+    "word_count": 1478,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00022un",
+      "name": "Dimensional Fund Advisors",
+      "website": "https://us.dimensional.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002uis",
+      "name": "Kahn Swick & Foti",
+      "website": "http://www.ksfcounsel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0005err",
+      "name": "Squarepoint Capital",
+      "website": "http://www.squarepoint-capital.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0008qpi",
+      "name": "Quantinno Capital Management",
+      "website": "https://www.quantinno.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00049d8",
+      "name": "D.A. Davidson",
+      "website": "http://www.davidsoncompanies.com/",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonathan hyman"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "brze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42164344,
+    "title": "Braze (NASDAQ:BRZE) CTO Jonathan Hyman Sells 285,000 Shares of Company Stock",
+    "url": "https://www.marketbeat.com/instant-alerts/insider-braze-nasdaq-brze-cto-jonathan-hyman-sells-285000-shares-of-company-stock-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T23:08:11",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5411,
+    "ai_summary": "Braze CTO Jonathan Hyman sold 285,000 shares on October 20th at $45.33, reducing his stake by 25.15%. The stock rose 0.4% to $45.86, and analysts set a consensus price target of $43.95, with several firms targeting $47.50.",
+    "word_count": 1460,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Secondary Offerings & Share Sales (Secondary Placements)",
+      "code": "FSACAAAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jonathan hyman"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "tesla"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9089,
+    "group_id": 15000781
+   },
+   {
+    "id": 42197939,
+    "title": "Braze CTO Jonathan Hyman sells $13.2m in company stock",
+    "url": "https://ng.investing.com/news/stock-market-news/braze-cto-jonathan-hyman-sells-132m-in-company-stock-93CH-2752960",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-22T23:05:31",
+    "sentiment": "Positive",
+    "sentiment_score": 0.7731,
+    "ai_summary": "Braze CTO Jonathan Hyman sold 295,000 shares for $13.2 million between October 15-20, 2026, under a 10b5-1 plan. The stock surged 51% in a week, trading near its 52-week high. Salesforce agreed to acquire Braze for $47.50 per share, valuing the deal at $5.7 billion.",
+    "word_count": 439,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mergers, Acquisitions & Spin-offs Event Administration",
+      "code": "FSACAKAG",
+      "is_primary": true
+     },
+     {
+      "name": "Rights Issues, Tender Offers & Buybacks",
+      "code": "FSACAKAE",
+      "is_primary": false
+     },
+     {
+      "name": "Mergers & Acquisitions (M&A) & Securities Law",
+      "code": "BPAHAAAI",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005wc",
+      "name": "Citizens Bank",
+      "website": "https://www.citizensbank.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000097d",
+      "name": "Mizuho Financial Group",
+      "website": "http://www.mizuho-fg.co.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mv5qh",
+      "name": "TD Cowen",
+      "website": "https://www.tdsecurities.com/ca/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mupmb",
+      "name": "Evercore ISI",
+      "website": "https://www.evercore.com/evercore-isi-and-the-digital-therapeutics-alliance-to-host-digital-health-leaders-at-hlth-2024",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "jonathan hyman"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42157460,
+    "title": "Salesforce to Buy Braze for $5.66B, Betting Big on Real-Time AI Marketing",
+    "url": "https://www.marketbeat.com/instant-alerts/event-salesforce-to-buy-braze-for-566b-betting-big-on-real-time-ai-marketing-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T22:04:19",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce agreed to acquire Braze for about $5.66 billion in enterprise value, paying $47.50 per share in cash. The deal, expected to close in fiscal 2028, will fund the acquisition with cash and add mobile and data-engineering talent. Salesforce expects growth accretion and near-term profitability dilution.",
+    "word_count": 881,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Engagement & Messaging (Email, SMS, Push, In-App)",
+      "code": "BPAFAFAI",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "iPaaS / Cloud Data Integration",
+      "code": "HDAEACAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "patrick stokes",
+      "bill magnuson",
+      "robin washington"
+     ],
+     "location": [],
+     "product": [
+      "canva",
+      "venmo",
+      "slack",
+      "dairy queen",
+      "instacart",
+      "equinox",
+      "urban outfitters",
+      "braze",
+      "agentforce",
+      "whatsapp",
+      "email",
+      "sms",
+      "electric vehicles"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42155210,
+    "title": "Braze CBO Astha Malik sells $464,910 in company stock",
+    "url": "https://in.investing.com/news/stock-market-news/braze-cbo-astha-malik-sells-464910-in-company-stock-93CH-5649739",
+    "publisher": "Investing.com",
+    "published_date": "2026-10-22T21:46:18",
+    "sentiment": "Negative",
+    "sentiment_score": 0.3323,
+    "ai_summary": "Astha Malik, Braze's CBO, sold 15,724 shares on August 19, 2026, for $464,910 under a pre-arranged 10b5-1 plan. The sale occurred as Braze stock traded near its 52-week high, with a Salesforce acquisition at $47.50 per share implied. Analysts downgraded Braze to Neutral, citing overvaluation.",
+    "word_count": 347,
+    "author": "",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00005wc",
+      "name": "Citizens Bank",
+      "website": "https://www.citizensbank.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000097d",
+      "name": "Mizuho Financial Group",
+      "website": "http://www.mizuho-fg.co.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mv5qh",
+      "name": "TD Cowen",
+      "website": "https://www.tdsecurities.com/ca/en",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mupmb",
+      "name": "Evercore ISI",
+      "website": "https://www.evercore.com/evercore-isi-and-the-digital-therapeutics-alliance-to-host-digital-health-leaders-at-hlth-2024",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "astha malik"
+     ],
+     "location": [],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42139583,
+    "title": "Why HubSpot Stock Rallied Today",
+    "url": "https://www.fool.com/investing/2026/10/22/why-hubspot-stock-rallied-today/?source=iedfolrf0000001",
+    "publisher": "The Motley Fool",
+    "published_date": "2026-10-22T19:03:39",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9768,
+    "ai_summary": "HubSpot shares rose 6.54% on Thursday amid speculation about recent software acquisitions. Analysts suggest the Braze deal could spark a strategic takeout of Klaviyo, while HubSpot itself may be an attractive private equity target. The company's market cap exceeds $13 billion, implying a $20 billion acquisition at a 51% premium.",
+    "word_count": 536,
+    "author": "Danny Vena",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": true
+     },
+     {
+      "name": "Business Services (B2B) Growth Equity",
+      "code": "FSANACAD",
+      "is_primary": false
+     },
+     {
+      "name": "Equity Capital Advisory (Private Equity Placements, Growth Capital)",
+      "code": "BPAHAOAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     },
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0000izw",
+      "name": "HubSpot",
+      "website": "http://www.hubspot.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00004u1",
+      "name": "Elliott Management Corp.",
+      "website": "http://www.elliottmgmt.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "022p6kl",
+      "name": "CCC Intelligent Solutions",
+      "website": "http://www.cccis.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000044k",
+      "name": "Proofpoint",
+      "website": "http://www.proofpoint.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000008d",
+      "name": "GTCR",
+      "website": "http://www.gtcr.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006mb",
+      "name": "Varonis Systems, Inc.",
+      "website": "http://www.varonis.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": false,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20001141",
+      "name": "hot stock"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "danny vena",
+      "samad samana"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "hubspot",
+      "braze",
+      "klaviyo",
+      "hubs",
+      "varonis systems"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9789,
+    "group_id": 14304691
+   },
+   {
+    "id": 42201727,
+    "title": "Salesforce to acquire Braze for $5.66 billion to expand AI-powered marketing",
+    "url": "https://www.digitalcommerce360.com/2026/10/22/salesforce-to-acquire-braze-for-5-66-billion-to-expand-ai-powered-marketing/",
+    "publisher": "Digital Commerce 360",
+    "published_date": "2026-10-22T16:56:35",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce announced a $5.66 billion acquisition of Braze, paying $47.50 per share, a 58% premium. The deal aims to integrate Braze's real-time AI marketing with Salesforce Marketing Cloud and Agentforce. The transaction is expected to close in fiscal 2028, subject to approvals.",
+    "word_count": 1004,
+    "author": "Beth Duckett",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Customer Journey Orchestration & Campaign Management",
+      "code": "BPAFAFAF",
+      "is_primary": false
+     },
+     {
+      "name": "Advertising, Marketing & Customer Personalization",
+      "code": "HDAAAGAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001298",
+      "name": "artificial intelligence"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "patrick stokes",
+      "bill magnuson",
+      "jon hyman",
+      "shay boloor"
+     ],
+     "location": [
+      "north america"
+     ],
+     "product": [
+      "canva",
+      "urban outfitters",
+      "instacart",
+      "beauty squad",
+      "shopify",
+      "braze",
+      "agentforce",
+      "grove",
+      "data 360",
+      "mobile app"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9793,
+    "group_id": 15000781
+   },
+   {
+    "id": 42138624,
+    "title": "Real estate spend intelligence platform MARC raises $5M to accelerate North American expansion",
+    "url": "https://techbuzzireland.com/2026/10/22/real-estate-spend-intelligence-platform-marc-raises-5m-to-accelerate-north-american-expansion/",
+    "publisher": "techbuzzireland",
+    "published_date": "2026-10-22T14:46:41",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "MARC raised $5 million in seed funding led by Work-Bench and MXV Capital to expand across the US and Canada. The company manages over $100 million in annual vendor spend for institutional real estate owners. The investment will support hiring and strengthen its New York base.",
+    "word_count": 884,
+    "author": "Jim O Brien Ceo",
+    "countries": [
+     "USA",
+     "CAN"
+    ],
+    "industries": [
+     {
+      "name": "Real Estate Strategy & Portfolio Consulting (Corporate/Institutional)",
+      "code": "BPAJANAB",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cck",
+      "name": "Brightflag",
+      "website": "https://brightflag.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007qd",
+      "name": "Work-Bench",
+      "website": "http://work-bench.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000bqeh",
+      "name": "Koho.ai",
+      "website": "https://www.koho.ai",
+      "is_primary": false
+     },
+     {
+      "uuid": "02mkqle",
+      "name": "Intercom",
+      "website": "https://www.intercom.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "00007jh",
+      "name": "ButterflyMX",
+      "website": "https://www.butterflymx.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004qle",
+      "name": "m]x[v",
+      "website": "https://www.mxv.vc/",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000183",
+      "name": "business financing"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "112",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "71",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "cyrus claffey",
+      "des traynor",
+      "brian moran",
+      "aaron devitt",
+      "jonathan lehr",
+      "mark ghermazian",
+      "daniel eberhard",
+      "ian nolan",
+      "shane lowry"
+     ],
+     "location": [
+      "ireland",
+      "canada",
+      "new york",
+      "us",
+      "north america",
+      "uk",
+      "dublin"
+     ],
+     "product": [
+      "braze",
+      "koho",
+      "property management product"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15416123
+   },
+   {
+    "id": 42223949,
+    "title": "Halper Sadeh LLC Is Investigating Whether BRZE, SAFT, UTZ, SYNA Are Obtaining Fair Deals For Their Shareholders",
+    "url": "https://menafn.com/1111851155/Halper-Sadeh-LLC-Is-Investigating-Whether-BRZE-SAFT-UTZ-SYNA-Are-Obtaining-Fair-Deals-For-Their-Shareholders",
+    "publisher": "Business & Financial",
+    "published_date": "2026-10-22T14:32:03",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0521,
+    "ai_summary": "Halper Sadeh LLC is investigating Braze, Safety Insurance, Utz Brands, and Synaptics for potential securities law violations and fiduciary breaches. The firm may seek increased consideration, additional disclosures, or other relief for shareholders. It offers contingent fee representation at no out-of-pocket cost.",
+    "word_count": 361,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mergers & Acquisitions (M&A) & Securities Law",
+      "code": "BPAHAAAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": true
+     },
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002nmr",
+      "name": "Synaptics",
+      "website": "https://www.synaptics.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003mmi",
+      "name": "Halper Sadeh",
+      "website": "https://halpersadeh.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000sn8y",
+      "name": "Safety Insurance Group",
+      "website": "http://www.safetyinsurance.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hhz",
+      "name": "Utz Brands",
+      "website": "http://www.utzsnacks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000282",
+      "name": "legal service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "daniel sadeh",
+      "zachary halper"
+     ],
+     "location": [
+      "new york",
+      "one world trade center",
+      "ny"
+     ],
+     "product": [
+      "utz"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15028535
+   },
+   {
+    "id": 42108468,
+    "title": "Halper Sadeh LLC is Investigating Whether BRZE, SAFT, UTZ, SYNA are Obtaining Fair Deals for their Shareholders",
+    "url": "https://www.financialcontent.com/article/gnwcq-2026-10-22-halper-sadeh-llc-is-investigating-whether-brze-saft-utz-syna-are-obtaining-fair-deals-for-their-shareholders",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-22T14:25:57",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0339,
+    "ai_summary": "Halper Sadeh LLC is investigating Braze, Safety Insurance, Utz Brands, and Synaptics for potential securities law violations and fiduciary breaches. The firm may seek increased consideration, additional disclosures, or other relief on a contingent fee basis.",
+    "word_count": 308,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mergers & Acquisitions (M&A) & Securities Law",
+      "code": "BPAHAAAI",
+      "is_primary": true
+     },
+     {
+      "name": "Regulatory & Compliance Law",
+      "code": "BPAHAAAC",
+      "is_primary": false
+     },
+     {
+      "name": "White-Collar Defense & Investigations",
+      "code": "BPAHAAAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     },
+     {
+      "name": "Compliance & Reporting Updates",
+      "code": "RC04",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002nmr",
+      "name": "Synaptics",
+      "website": "https://www.synaptics.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003mmi",
+      "name": "Halper Sadeh",
+      "website": "https://halpersadeh.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000sn8y",
+      "name": "Safety Insurance Group",
+      "website": "http://www.safetyinsurance.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hhz",
+      "name": "Utz Brands",
+      "website": "http://www.utzsnacks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "zachary halper",
+      "daniel sadeh"
+     ],
+     "location": [
+      "new york",
+      "one world trade center",
+      "ny"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15028535
+   },
+   {
+    "id": 42104440,
+    "title": "Halper Sadeh LLC is Investigating Whether BRZE, SAFT, UTZ, SYNA are Obtaining Fair Deals for their Shareholders",
+    "url": "https://www.globenewswire.com/news-release/2026/10/22/3386612/0/en/halper-sadeh-llc-is-investigating-whether-brze-saft-utz-syna-are-obtaining-fair-deals-for-their-shareholders.html",
+    "publisher": "GlobeNewswire",
+    "published_date": "2026-10-22T14:25:00",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0338,
+    "ai_summary": "Halper Sadeh LLC is investigating Braze, Safety, Utz, and Synaptics for potential securities law violations and fiduciary breaches. The firm is examining sales to Salesforce, Mapfre, Intersnack, and onsemi at $47.50, $105, $14.25, and $123 per share, respectively. Shareholders are encouraged to contact the firm for free legal advice.",
+    "word_count": 308,
+    "author": "Halper Sadeh LLC",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mergers & Acquisitions (M&A) & Securities Law",
+      "code": "BPAHAAAI",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Legal Proceedings & Litigation",
+      "code": "RC03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002nmr",
+      "name": "Synaptics",
+      "website": "https://www.synaptics.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003mmi",
+      "name": "Halper Sadeh",
+      "website": "https://halpersadeh.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000sn8y",
+      "name": "Safety Insurance Group",
+      "website": "http://www.safetyinsurance.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000hhz",
+      "name": "Utz Brands",
+      "website": "http://www.utzsnacks.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "investigative",
+     "label": "Investigative"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000087",
+      "name": "corporate crime"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "zachary halper",
+      "daniel sadeh"
+     ],
+     "location": [
+      "new york",
+      "one world trade center",
+      "ny"
+     ],
+     "product": [],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15028535
+   },
+   {
+    "id": 42108690,
+    "title": "Mid Cap Stocks To Consider \u2013 October 21st",
+    "url": "https://www.themarketsdaily.com/2026/10/22/mid-cap-stocks-to-consider-october-21st.html",
+    "publisher": "Markets Daily",
+    "published_date": "2026-10-22T14:05:09",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "MarketBeat's stock screener identified five mid-cap stocks\u2014Braze, American Airlines Group, Applied Optoelectronics, TeraWulf, and Applied Digital\u2014as having the highest dollar trading volume in recent days. The companies span customer engagement, air travel, fiber-optic networking, datacenters, and AI cloud services.",
+    "word_count": 366,
+    "author": "Mitch Edgeman",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Analytics, Risk Models & Factor/Style Indices",
+      "code": "FSAFAIAG",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000049k",
+      "name": "American Airlines",
+      "website": "http://aa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005p",
+      "name": "Applied Digital",
+      "website": "https://ir.applieddigital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000oq",
+      "name": "TeraWulf",
+      "website": "https://www.terawulf.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00022kk",
+      "name": "Applied Optoelectronics",
+      "website": "http://www.ao-inc.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "london",
+      "madrid",
+      "doha",
+      "chicago",
+      "miami",
+      "taiwan",
+      "tokyo",
+      "los angeles",
+      "sydney",
+      "philadelphia",
+      "charlotte",
+      "new york",
+      "china",
+      "north america",
+      "phoenix",
+      "seattle/tacoma",
+      "washington, d.c.",
+      "dallas/fort worth",
+      "united states"
+     ],
+     "product": [
+      "braze",
+      "amplifiers",
+      "crypto datacenter hosting services",
+      "headend",
+      "turn-key equipment",
+      "subassemblies",
+      "terawulf",
+      "lasers"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8737,
+    "group_id": 13307242
+   },
+   {
+    "id": 42138708,
+    "title": "Salesforce to buy Braze for $5.7 billion to boost real-time customer engagement",
+    "url": "https://www.cio.com/article/4239043/salesforce-to-buy-braze-for-5-7-billion-to-boost-real-time-customer-engagement.html",
+    "publisher": "CIO",
+    "published_date": "2026-10-22T12:26:16",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce agreed to acquire Braze for $5.66 billion to add its event-streaming platform to its AI and data portfolio. The deal aims to enable real-time personalized customer interactions across channels, with integration expected to close by January 2028. Analysts warn of product overlap and vendor lock-in risks.",
+    "word_count": 685,
+    "author": "Anirban Ghoshal",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Event Streaming & Pub/Sub Platforms",
+      "code": "HDAEAIAD",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000225",
+      "name": "computing and information technology"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "pareekh jain",
+      "bhupendra chopra",
+      "manoj chandra jha"
+     ],
+     "location": [
+      "us-headquartered"
+     ],
+     "product": [
+      "siforce",
+      "data 360",
+      "braze",
+      "segment",
+      "agentforce",
+      "braze canvas",
+      "customer 360",
+      "snowflake",
+      "journey builder",
+      "databricks",
+      "marketing cloud",
+      "appboy",
+      "whatsapp"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9805,
+    "group_id": 15000781
+   },
+   {
+    "id": 42095737,
+    "title": "Braze (NASDAQ:BRZE) Stock Rating Lowered by DA Davidson",
+    "url": "https://www.marketbeat.com/instant-alerts/analyst-braze-nasdaq-brze-cut-to-hold-at-da-davidson-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T11:30:36",
+    "sentiment": "Negative",
+    "sentiment_score": 0.0176,
+    "ai_summary": "DA Davidson downgraded Braze from Buy to Hold, setting a $47.50 price target. The stock opened at $45.68, and analysts have a consensus Hold rating with a $43.95 target. Salesforce's $47.50 per-share acquisition offer is expected to close in fiscal 2028.",
+    "word_count": 1399,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equity Research",
+      "code": "FSACAGAA",
+      "is_primary": true
+     },
+     {
+      "name": "Rights Issues, Tender Offers & Buybacks",
+      "code": "FSACAKAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0007n49",
+      "name": "Citizens JMP Group",
+      "website": "https://www.jmpsecurities.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002lrr",
+      "name": "Da Davidson",
+      "website": "https://dadavidson.com/",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0007fa1",
+      "name": "Weiss Ratings",
+      "website": "https://weissratings.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002lx9",
+      "name": "Stephens",
+      "website": "https://www.stephens.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000cqa5",
+      "name": "Versant Capital Management Inc",
+      "website": "https://versantcm.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     },
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jonathan hyman",
+      "edward mcdonnell"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "agentforce"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9882,
+    "group_id": 15000781
+   },
+   {
+    "id": 42078959,
+    "title": "Salesforce's $5.6B Braze Buyout: Moving From AI Defense To Full-Scale Offense (NYSE:CRM)",
+    "url": "https://seekingalpha.com/article/4956283-salesforce-5-6b-braze-buyout-moving-ai-defense-full-scale-offense?source=feed_all_articles",
+    "publisher": "Seeking Alpha",
+    "published_date": "2026-10-22T11:30:35",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.6394,
+    "ai_summary": "Salesforce agreed to acquire Braze for $5.6 billion, paying $47.50 per share, with a 50% premium. The deal aims to combine Braze's marketing channels with Anthropic's AI to create an autonomous AI marketer. Salesforce's shares are rated Buy, with a potential revaluation to a P/E of 22-25.",
+    "word_count": 2082,
+    "author": "Elina Selianska",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+      "code": "HDAEANAD",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001138",
+      "name": "buy recommendation"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "marc benioff",
+      "dario amodei",
+      "mark zuckerberg",
+      "benioff"
+     ],
+     "location": [
+      "us"
+     ],
+     "product": [
+      "venmo",
+      "canva",
+      "instacart",
+      "whatsapp messenger",
+      "sneakers",
+      "hot pizza",
+      "claude",
+      "retail credit cards",
+      "smartphones",
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42100848,
+    "title": "Winning AI Trade Stalls While Investors Bet On Victims Instead",
+    "url": "https://www.investors.com/etfs-and-funds/etfs/ai-trade-stalls-while-investors-bet-on-victims-instead/",
+    "publisher": "Investors",
+    "published_date": "2026-10-22T11:23:41",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9407,
+    "ai_summary": "Software stocks rebounded sharply, with iShares Expanded Tech-Software Sector ETF up over 20% from June 30, while the semiconductor ETF fell 20%. Analysts say capital is returning to software, citing lower valuations and balance sheets, though semiconductor underperformance is viewed as cyclical. Investors are advised to diversify across the AI ecosystem.",
+    "word_count": 571,
+    "author": "Matt Krantz",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Sector-Specific Industry Research",
+      "code": "FSACAGAL",
+      "is_primary": true
+     },
+     {
+      "name": "Sector & Industry Equity ETFs",
+      "code": "FSAAAFAC",
+      "is_primary": false
+     },
+     {
+      "name": "Strategy & Thematic Research",
+      "code": "FSACAGAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Market Indices Performance",
+      "code": "MD01",
+      "is_primary": true
+     },
+     {
+      "name": "Sector Rotation",
+      "code": "MD03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "02m5unn",
+      "name": "iShares Semiconductor ETF",
+      "website": "https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf",
+      "is_primary": true
+     },
+     {
+      "uuid": "00005tq",
+      "name": "RingCentral",
+      "website": "https://www.ringcentral.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000a4j",
+      "name": "Docusign",
+      "website": "http://www.docusign.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000cl1",
+      "name": "Appian",
+      "website": "http://www.appian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002lne",
+      "name": "Blackbaud",
+      "website": "https://www.blackbaud.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000sb",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000045",
+      "name": "GitLab",
+      "website": "http://about.gitlab.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "414",
+      "name": "Personal Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "3674",
+      "name": "SEMICONDUCTORS & RELATED DEVICES"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "kirsten chang",
+      "todd rosenbluth"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "docusign docu",
+      "etf",
+      "pagerduty pd",
+      "atlassian team",
+      "appian appn",
+      "software stocks",
+      "igv",
+      "semiconductors",
+      "braze brze",
+      "intapp inta",
+      "enterprise software",
+      "xsw"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15120696
+   },
+   {
+    "id": 42068511,
+    "title": "38,669 Salesforce Inc. $CRM Shares Sold by Vest Financial LLC",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-38669-salesforce-inc-crm-shares-sold-by-vest-financial-llc-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T10:09:09",
+    "sentiment": "Negative",
+    "sentiment_score": 0.2164,
+    "ai_summary": "Vest Financial LLC reduced its Salesforce stake by 10.3% in Q3, selling 38,669 shares and holding 335,326 shares worth $76.98 million. Salesforce reported Q3 EPS of $5.90, beating estimates, and paid a $0.44 quarterly dividend. Analysts rate the stock a Moderate Buy with a $278.98 target.",
+    "word_count": 1458,
+    "author": "MarketBeat",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Algorithmic Trading & Smart Order Routing (Equities)",
+      "code": "FSACAFAH",
+      "is_primary": true
+     },
+     {
+      "name": "Research Distribution, Sales Support & Client Analytics",
+      "code": "FSACAGAJ",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "craig conway",
+      "david blair kirk",
+      "cantor fitzgerald"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "crm",
+      "salesforce",
+      "slack",
+      "tableau",
+      "mulesoft",
+      "braze",
+      "agentforce",
+      "data cloud",
+      "commerce cloud",
+      "service cloud",
+      "sales cloud",
+      "marketing cloud",
+      "informatica"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9363,
+    "group_id": 13306386
+   },
+   {
+    "id": 42086435,
+    "title": "Salesforce Inc. $CRM Stock: Cantor Fitzgerald Investment Advisors L.P. Grows Stake",
+    "url": "https://www.defenseworld.net/2026/10/22/salesforce-inc-crm-stock-cantor-fitzgerald-investment-advisors-l-p-grows-stake.html",
+    "publisher": "Defense World",
+    "published_date": "2026-10-22T10:06:46",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Cantor Fitzgerald Investment Advisors L.P. increased its Salesforce stake by 8,185.8% in Q3, buying 115,420 additional shares. Salesforce reported Q3 EPS of $5.90, beating estimates, and announced a $0.44 quarterly dividend. The company also agreed to acquire Braze for $47.50 per share.",
+    "word_count": 1619,
+    "author": "Defense World Staff",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Financial Services / Fintech Growth Equity",
+      "code": "FSANACAE",
+      "is_primary": true
+     },
+     {
+      "name": "Sales Force Automation (SFA) CRM",
+      "code": "HDAEAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "Rights Issues, Tender Offers & Buybacks",
+      "code": "FSACAKAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     },
+     {
+      "name": "Equity Fund-Raising",
+      "code": "CM01",
+      "is_primary": false
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     },
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "craig conway",
+      "cantor fitzgerald",
+      "david blair kirk"
+     ],
+     "location": [],
+     "product": [
+      "salesforce",
+      "crm",
+      "braze",
+      "agentforce",
+      "slack",
+      "mulesoft",
+      "tableau",
+      "data cloud",
+      "sales cloud",
+      "commerce cloud",
+      "service cloud",
+      "marketing cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9909,
+    "group_id": 13306386
+   },
+   {
+    "id": 42078785,
+    "title": "115,420 Salesforce Inc. $CRM Shares Acquired by Cantor Fitzgerald Investment Advisors L.P.",
+    "url": "https://www.americanbankingnews.com/2026/10/22/115420-salesforce-inc-crm-shares-acquired-by-cantor-fitzgerald-investment-advisors-l-p.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-22T10:06:46",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Cantor Fitzgerald Investment Advisors L.P. acquired 115,420 new Salesforce shares in Q3, raising its stake to 116,830 shares worth $26.8 million. The firm reaffirmed an overweight rating with a $300 price target, while Salesforce's Q3 EPS beat estimates at $5.90.",
+    "word_count": 1571,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Equities Brokerage",
+      "code": "FSAEACAH",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "523940",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     },
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david blair kirk",
+      "craig conway"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "agentforce",
+      "crm",
+      "informatica",
+      "loops",
+      "salesforce",
+      "slack",
+      "mulesoft",
+      "tableau",
+      "data cloud",
+      "sales cloud",
+      "commerce cloud",
+      "service cloud",
+      "marketing cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13306386
+   },
+   {
+    "id": 42055719,
+    "title": "\uc138\uc77c\uc988\ud3ec\uc2a4 \ub9c8\ucf00\ud305 \ud074\ub77c\uc6b0\ub4dc\uc758 \ub9c8\uc9c0\ub9c9 \ud37c\uc990, \uc65c '\ube0c\ub808\uc774\uc988'\uc600\ub098 : \ub124\uc774\ud2b8 \ub274\uc2a4",
+    "url": "https://news.nate.com/view/20261022n33282?mid=n0100",
+    "publisher": "Nate",
+    "published_date": "2026-10-22T08:28:50",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8008,
+    "ai_summary": "Salesforce finalized its acquisition of Braze for $5.66 billion, paying $47.50 per share, a 58% premium over the previous trading day. Braze, a customer engagement platform, reported $738 million in revenue for the prior fiscal year, with $910 million expected for the current year. The deal is expected to close in Salesforce's 2028 fiscal year.",
+    "word_count": 640,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Customer Engagement & Messaging (Email, SMS, Push, In-App)",
+      "code": "BPAFAFAI",
+      "is_primary": true
+     },
+     {
+      "name": "CRM Strategy & Consulting",
+      "code": "BPAFAFAA",
+      "is_primary": false
+     },
+     {
+      "name": "Customer Journey Orchestration & Campaign Management",
+      "code": "BPAFAFAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "\ubbf8\uad6d"
+     ],
+     "product": [
+      "\ube0c\ub808\uc774\uc988",
+      "\uc138\uc77c\uc988 \ud074\ub77c\uc6b0\ub4dc",
+      "\uc11c\ube44\uc2a4 \ud074\ub77c\uc6b0\ub4dc",
+      "\ub9c8\ucf00\ud305 \ud074\ub77c\uc6b0\ub4dc"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9006,
+    "group_id": 15000781
+   },
+   {
+    "id": 42074467,
+    "title": "Braze (BRZE) Stock Sees Fair Value Lift After Salesforce Deal Set A Ceiling",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/braze-brze-stock-sees-fair-081505615.html",
+    "publisher": "Yahoo",
+    "published_date": "2026-10-22T08:15:05",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Analysts raised Braze's Fair Value Estimate to about $40.54 per share, closer to Salesforce's $47.50 cash offer. The update reflects a 16.07% revenue growth assumption and a 12.04% net profit margin, with most firms rating the deal Neutral or Hold.",
+    "word_count": 422,
+    "author": "Bailey Pemberton",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Fairness Opinions & Independent Financial Advice",
+      "code": "BPAHAOAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Valuation Events",
+      "code": "CM09",
+      "is_primary": true
+     },
+     {
+      "name": "Guidance & Forecast Revisions",
+      "code": "FR05",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "0002lrr",
+      "name": "Da Davidson",
+      "website": "https://dadavidson.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0004o98",
+      "name": "Stifel Financial",
+      "website": "http://www.stifel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00003tz",
+      "name": "Barclays",
+      "website": "https://home.barclays",
+      "is_primary": false
+     },
+     {
+      "uuid": "000097d",
+      "name": "Mizuho Financial Group",
+      "website": "http://www.mizuho-fg.co.jp",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00008l9",
+      "name": "Jefferies Financial Group",
+      "website": "https://www.jefferies.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "0000eft",
+      "name": "Canaccord Genuity Group",
+      "website": "https://www.canaccordgenuity.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000002a",
+      "name": "Citi",
+      "website": "https://www.citigroup.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000173",
+      "name": "analysts comment"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "raymond james"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42055834,
+    "title": "\uc138\uc77c\uc988\ud3ec\uc2a4 \ub9c8\ucf00\ud305 \ud074\ub77c\uc6b0\ub4dc\uc758 \ub9c8\uc9c0\ub9c9 \ud37c\uc990, \uc65c '\ube0c\ub808\uc774\uc988'\uc600\ub098",
+    "url": "https://n.news.naver.com/mnews/article/293/0000092003",
+    "publisher": "Naver",
+    "published_date": "2026-10-22T08:13:14",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.8115,
+    "ai_summary": "Salesforce finalized its acquisition of Braze on October 20, paying $47.50 per share, a 58% premium over the previous trading day's close. The deal, exceeding $25 billion, aims to fill a real-time messaging gap in Salesforce's marketing cloud. Braze will retain its brand and CEO, with integration details yet to be disclosed.",
+    "word_count": 335,
+    "author": "\ube14\ub85c\ud130; \ub124\uc774\ubc84",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Customer Engagement & Messaging (Email, SMS, Push, In-App)",
+      "code": "BPAFAFAI",
+      "is_primary": true
+     },
+     {
+      "name": "Marketing Automation & Campaign Management CRM",
+      "code": "HDAEAFAB",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "58",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [],
+     "location": [
+      "\ubbf8\uad6d"
+     ],
+     "product": [
+      "\ube0c\ub808\uc774\uc988",
+      "\uc5d0\uc774\uc804\ud2b8\ud3ec\uc2a4"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9163,
+    "group_id": 15000781
+   },
+   {
+    "id": 42050251,
+    "title": "Salesforce Inc. $CRM Stock Holdings Trimmed by Crossmark Global Holdings Inc.",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-salesforce-inc-crm-stock-holdings-trimmed-by-crossmark-global-holdings-inc-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T07:53:15",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Crossmark Global Holdings trimmed its Salesforce stake by 12.7% in Q3, selling 16,238 shares and leaving with 111,267 shares valued at $25.5 million. Other institutions also adjusted positions, and 80.43% of Salesforce stock is held by institutional investors.",
+    "word_count": 1439,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000m44g",
+      "name": "Anchor Investment Management",
+      "website": "https://www.anchorinvestmentmanagement.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "000lt48",
+      "name": "Fluent Financial",
+      "website": "https://www.fluentfinancial.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0007x6p",
+      "name": "Crossmark Global Investments",
+      "website": "http://www.crossmarkglobal.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "004keom",
+      "name": "Janus Henderson Group PLC",
+      "website": "https://hendersonglobalinvestors.com/",
+      "is_primary": false
+     },
+     {
+      "uuid": "003cojx",
+      "name": "Secure Retirement Advisors",
+      "website": "https://secureretirementadvisorsllc.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000186",
+      "name": "stock activity"
+     },
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5132",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david blair kirk",
+      "craig conway"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "agentforce",
+      "crm",
+      "informatica",
+      "loops",
+      "slack",
+      "tableau",
+      "mulesoft",
+      "salesforce",
+      "openai",
+      "anthropic",
+      "data cloud",
+      "commerce cloud",
+      "sales cloud",
+      "marketing cloud",
+      "service cloud"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 13306386
+   },
+   {
+    "id": 42050452,
+    "title": "Salesforce Inc. $CRM Shares Bought by Albion Financial Group UT",
+    "url": "https://www.marketbeat.com/instant-alerts/filing-salesforce-inc-crm-shares-bought-by-albion-financial-group-ut-2026-10-22/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-22T07:04:44",
+    "sentiment": "Positive",
+    "sentiment_score": 0.8452,
+    "ai_summary": "Albion Financial Group increased its Salesforce stake by 40.9% in Q3, holding 48,634 shares worth $11.165 million. Salesforce reported Q3 EPS of $5.90, beating estimates, and announced a $0.44 quarterly dividend. The company also agreed to acquire Braze for $47.50 per share.",
+    "word_count": 1498,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [],
+    "tags": [
+     {
+      "name": "Institutional Flows & Positioning",
+      "code": "MD02",
+      "is_primary": true
+     },
+     {
+      "name": "Secondary Transactions",
+      "code": "CM07",
+      "is_primary": false
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     },
+     {
+      "code": "20000378",
+      "name": "investments"
+     },
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "95",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "5239",
+      "name": "Finance and Insurance"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "6282",
+      "name": "INVESTMENT ADVICE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "david blair kirk",
+      "craig conway",
+      "cantor fitzgerald"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "slack",
+      "tableau",
+      "mulesoft",
+      "agentforce",
+      "data cloud",
+      "commerce cloud",
+      "informatica",
+      "crm",
+      "service cloud",
+      "sales cloud",
+      "marketing cloud",
+      "loops",
+      "salesforce"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9828,
+    "group_id": 13306386
+   },
+   {
+    "id": 42042734,
+    "title": "SORAMICHI\u3001\u300cBraze City x City Tokyo 2026\u300d\u306b\u5354\u8cdb\u30fb\u51fa\u5c55\u6c7a\u5b9a",
+    "url": "https://prtimes.jp/main/html/rd/p/000000065.000085497.html",
+    "publisher": "Prtimes",
+    "published_date": "2026-10-22T06:56:37",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9852,
+    "ai_summary": "SORAMICHI announced it will sponsor and exhibit at Braze City x City Tokyo 2026, held Nov 12, 2026 at the Westin Hotel Tokyo. The company will showcase its AI-ready data foundation and Braze support, including diagnostics and use-case design. The event focuses on AI-driven engagement and networking.",
+    "word_count": 55,
+    "author": "",
+    "countries": [
+     "JPN"
+    ],
+    "industries": [
+     {
+      "name": "Sponsorship Activation & Experiential Marketing",
+      "code": "THAHAGAC",
+      "is_primary": true
+     },
+     {
+      "name": "Industry Trade Shows & Expos",
+      "code": "MPAGAGAA",
+      "is_primary": false
+     },
+     {
+      "name": "Corporate Meetings, Conferences & Incentive Events",
+      "code": "BPAFAGAE",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Brand & Marketing Initiatives",
+      "code": "SD07",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "promotional",
+     "label": "Promotional"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20001136",
+      "name": "trade show or expo"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "180",
+      "name": "Events"
+     },
+     {
+      "code": "597",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [
+      "\u5ddd\u672c \u5e83\u4e8c"
+     ],
+     "location": [
+      "tokyo",
+      "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+      "\u6771\u4eac\u90fd\u6e2f\u533a"
+     ],
+     "product": [
+      "braze"
+     ],
+     "event": [
+      "braze city x city tokyo 2026"
+     ]
+    },
+    "newsworthiness_score": 0.8051,
+    "group_id": 15327956
+   },
+   {
+    "id": 42042017,
+    "title": "Stock Traders Buy High Volume of Braze Call Options (NASDAQ:BRZE)",
+    "url": "https://www.americanbankingnews.com/2026/10/22/stock-traders-buy-high-volume-of-braze-call-options-nasdaqbrze.html",
+    "publisher": "American Banking and Market News",
+    "published_date": "2026-10-22T00:21:13",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Braze reported Q3 EPS of $0.19, beating estimates, with revenue up 26.2% to $227.23 million. Salesforce agreed to acquire Braze, and analysts have an average price target of $43.95. The deal is expected to close in fiscal 2028.",
+    "word_count": 1290,
+    "author": "Abmn Staff",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Earnings Releases",
+      "code": "FR01",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00sn9ug",
+      "name": "Ademi",
+      "website": "http://www.ademilaw.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0003mmi",
+      "name": "Halper Sadeh",
+      "website": "https://halpersadeh.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "0002uis",
+      "name": "Kahn Swick & Foti",
+      "website": "http://www.ksfcounsel.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000178",
+      "name": "corporate earnings"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "astha malik",
+      "edward m. mcdonnell"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "brze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 42091411,
+    "title": "Salesforce\u2019s Braze deal wins UBS backing on strategy, but growth concerns remain",
+    "url": "https://www.proactiveinvestors.com/companies/news/1100498/salesforce-s-braze-deal-wins-ubs-backing-on-strategy-but-growth-concerns-remain-1100498.html",
+    "publisher": "Proactiveinvestors",
+    "published_date": "2026-10-21T19:20:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.5299,
+    "ai_summary": "UBS backed Salesforce's $5.7 billion acquisition of Braze, paying $47.50 per share, but maintained a Neutral rating. The deal strengthens Salesforce's marketing technology position but raises concerns about organic growth and margin dilution. The transaction is expected to close in fiscal 2028.",
+    "word_count": 706,
+    "author": "Angela Harmantas",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Customer Engagement & Messaging (Email, SMS, Push, In-App)",
+      "code": "BPAFAFAI",
+      "is_primary": true
+     },
+     {
+      "name": "Technology & Software Growth Equity",
+      "code": "FSANACAA",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "000029f",
+      "name": "UBS",
+      "website": "https://www.ubs.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20001137",
+      "name": "stock recommendation"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "angela harmantas"
+     ],
+     "location": [
+      "toronto",
+      "canada",
+      "london",
+      "australia",
+      "new york",
+      "vancouver",
+      "sydney",
+      "perth",
+      "ghana",
+      "brazil",
+      "south africa",
+      "north america",
+      "us",
+      "the us"
+     ],
+     "product": [
+      "braze",
+      "agentforce"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 41945551,
+    "title": "Mid Cap Stocks To Consider \u2013 October 21st",
+    "url": "https://www.tickerreport.com/banking-finance/13629203/mid-cap-stocks-to-consider-october-21st.html",
+    "publisher": "Ticker Report",
+    "published_date": "2026-10-21T19:02:57",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "MarketBeat's stock screener identified five mid-cap stocks\u2014Braze, American Airlines Group, Applied Optoelectronics, TeraWulf, and Applied Digital\u2014as having the highest dollar trading volume in recent days. The companies span customer engagement, air transport, fiber-optic networking, datacenters, and AI cloud services.",
+    "word_count": 366,
+    "author": "Ethan Ryder",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Quant Research & Systematic Strategies",
+      "code": "FSACAGAF",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Daily Stock Market News",
+      "code": "CM12",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000049k",
+      "name": "American Airlines",
+      "website": "http://aa.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "000005p",
+      "name": "Applied Digital",
+      "website": "https://ir.applieddigital.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00000oq",
+      "name": "TeraWulf",
+      "website": "https://www.terawulf.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00022kk",
+      "name": "Applied Optoelectronics",
+      "website": "http://www.ao-inc.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "explainer",
+     "label": "Explainer"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": false,
+    "iptc_codes": [
+     {
+      "code": "20000396",
+      "name": "stocks and securities"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [],
+    "sic_codes": [],
+    "entities": {
+     "person": [],
+     "location": [
+      "london",
+      "madrid",
+      "doha",
+      "chicago",
+      "miami",
+      "taiwan",
+      "tokyo",
+      "los angeles",
+      "sydney",
+      "philadelphia",
+      "charlotte",
+      "new york",
+      "china",
+      "north america",
+      "phoenix",
+      "seattle/tacoma",
+      "washington, d.c.",
+      "dallas/fort worth",
+      "united states"
+     ],
+     "product": [
+      "braze",
+      "amplifiers",
+      "crypto datacenter hosting services",
+      "headend",
+      "turn-key equipment",
+      "subassemblies",
+      "terawulf",
+      "lasers"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.8732,
+    "group_id": 13307242
+   },
+   {
+    "id": 41942611,
+    "title": "Braze Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Braze, Inc. - BRZE",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-10-21-braze-investor-alert-kahn-swick-and-foti-llc-investigates-adequacy-of-price-and-process-in-proposed-sale-of-braze-inc-brze",
+    "publisher": "FinancialContent Business Page",
+    "published_date": "2026-10-21T18:59:00",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.4859,
+    "ai_summary": "Kahn Swick & Foti, LLC is investigating the proposed sale of Braze, Inc. to Salesforce, seeking to determine if the $47.50 per share consideration and process are adequate. The firm invites shareholders to contact them without obligation if they believe the deal undervalues the company.",
+    "word_count": 189,
+    "author": "",
+    "countries": [
+     "USA"
+    ],
+    "industries": [
+     {
+      "name": "Mergers & Acquisitions (M&A) & Securities Law",
+      "code": "BPAHAAAI",
+      "is_primary": true
+     },
+     {
+      "name": "Fairness Opinions & Independent Financial Advice",
+      "code": "BPAHAOAF",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Divestitures & Asset Sales",
+      "code": "CM04",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": false
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "0002uis",
+      "name": "Kahn Swick & Foti",
+      "website": "http://www.ksfcounsel.com",
+      "is_primary": true
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": false
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     },
+     {
+      "code": "20000282",
+      "name": "legal service"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "100",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "541110",
+      "name": "Professional, Scientific, and Technical Services"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "8111",
+      "name": "SERVICES-LEGAL SERVICES"
+     }
+    ],
+    "entities": {
+     "person": [
+      "lewis s. kahn",
+      "charles c. foti, jr."
+     ],
+     "location": [
+      "louisiana"
+     ],
+     "product": [
+      "braze"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 0.9323,
+    "group_id": 15000781
+   },
+   {
+    "id": 41919006,
+    "title": "Braze (NASDAQ:BRZE) Sees Large Volume Increase - Still a Buy?",
+    "url": "https://www.marketbeat.com/instant-alerts/price-braze-nasdaq-brze-sees-large-volume-increase-still-a-buy-2026-10-21/",
+    "publisher": "MarketBeat",
+    "published_date": "2026-10-21T16:00:43",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "ai_summary": "Salesforce agreed to acquire Braze for $47.50 per share, a 58% premium to the prior closing price, with the deal expected to close in fiscal 2028. Analysts have an average \"Hold\" rating and a $43.95 price target, while insiders sold shares in recent transactions.",
+    "word_count": 1260,
+    "author": "MarketBeat",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     },
+     {
+      "name": "Mergers, Acquisitions & Spin-offs Event Administration",
+      "code": "FSACAKAG",
+      "is_primary": false
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00sn9ug",
+      "name": "Ademi",
+      "website": "http://www.ademilaw.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": false,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20001139",
+      "name": "hold recommendation"
+     },
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "602",
+      "name": "Technology & Computing"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "astha malik",
+      "edward m. mcdonnell"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "agentforce"
+     ],
+     "event": []
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   },
+   {
+    "id": 41943655,
+    "title": "Salesforce goes back to the M&A well to fortify a weaker business. Why it's a smart move",
+    "url": "https://www.cnbc.com/investingclub/2026/10/21/salesforce-goes-back-to-the-ma-well-to-fortify-a-weaker-business-why-its-a-smart-move.html",
+    "publisher": "CNBC",
+    "published_date": "2026-10-21T15:27:03",
+    "sentiment": "Positive",
+    "sentiment_score": 0.9775,
+    "ai_summary": "Salesforce agreed to acquire marketing platform Braze in an all-cash deal valued at $5.66 billion, paying $47.50 per share. The move aims to strengthen Salesforce's marketing business, which has been a weaker vertical, and avoids diluting existing shareholders. The acquisition is expected to close in fiscal 2028.",
+    "word_count": 1422,
+    "author": "Natasha Abellard",
+    "countries": [],
+    "industries": [
+     {
+      "name": "Marketing Automation Platforms & Services",
+      "code": "BPAFAFAC",
+      "is_primary": true
+     }
+    ],
+    "tags": [
+     {
+      "name": "Mergers & Acquisitions",
+      "code": "CM03",
+      "is_primary": true
+     }
+    ],
+    "company_mentions": [
+     {
+      "uuid": "000033p",
+      "name": "Braze",
+      "website": "https://www.braze.com",
+      "is_primary": false
+     },
+     {
+      "uuid": "00006ej",
+      "name": "Salesforce",
+      "website": "https://www.salesforce.com",
+      "is_primary": true
+     }
+    ],
+    "article_type": {
+     "code": "news_analysis",
+     "label": "News analysis"
+    },
+    "is_press_release": true,
+    "is_opinion": true,
+    "is_breaking": true,
+    "iptc_codes": [
+     {
+      "code": "20000204",
+      "name": "merger or acquisition"
+     }
+    ],
+    "iab_categories": [
+     {
+      "code": "68",
+      "name": "Business and Finance"
+     },
+     {
+      "code": "115",
+      "name": "Business and Finance"
+     }
+    ],
+    "naics_codes": [
+     {
+      "code": "51321",
+      "name": "Information"
+     }
+    ],
+    "sic_codes": [
+     {
+      "code": "7372",
+      "name": "SERVICES-PREPACKAGED SOFTWARE"
+     }
+    ],
+    "entities": {
+     "person": [
+      "jim cramer",
+      "marc benioff",
+      "patrick stokes",
+      "robin washington",
+      "jeff smith",
+      "dario amodei",
+      "washington",
+      "jim"
+     ],
+     "location": [
+      "wall street"
+     ],
+     "product": [
+      "braze",
+      "venmo",
+      "slack",
+      "instacart",
+      "dairy queen",
+      "fin",
+      "tableau",
+      "smartphones",
+      "claude",
+      "crm",
+      "salesforce",
+      "stock"
+     ],
+     "event": [
+      "dreamforce conference"
+     ]
+    },
+    "newsworthiness_score": 1.0,
+    "group_id": 15000781
+   }
+  ],
+  "credits_consumed": 0.6
+ },
+ "mode": "LIVE"
+}
