@@ -34,6 +34,30 @@ def chat(messages, max_tokens=400, json_mode=False, run=None, purpose="chat"):
     latency_ms = int(1000 * (time.time() - t0))
     usage = getattr(r, "usage", None)
     usage = usage.model_dump() if usage else None
-    text = r.choices[0].message.content or ""
-    prism.record_llm(messages, text, MODEL, latency_ms, usage=usage, run=run, purpose=purpose, json_mode=used_json_mode)
-    return text, {"model": MODEL, "usage": usage, "json_mode": used_json_mode, "latency_ms": latency_ms}
+    choice = r.choices[0]
+    text = _content_text(choice.message)
+    finish = getattr(choice, "finish_reason", None)
+    prism.record_llm(messages, text, MODEL, latency_ms, usage=usage, run=run, purpose=purpose, json_mode=used_json_mode, finish_reason=finish)
+    return text, {"model": MODEL, "usage": usage, "json_mode": used_json_mode, "latency_ms": latency_ms, "finish_reason": finish}
+
+
+def _content_text(message):
+    """The gateway may return content as a string, a list of parts, or None (text in another field). Never raises."""
+    c = getattr(message, "content", None)
+    if isinstance(c, str):
+        return c
+    if isinstance(c, list):
+        parts = []
+        for part in c:
+            if isinstance(part, str):
+                parts.append(part)
+            elif isinstance(part, dict):
+                parts.append(part.get("text") or "")
+            else:
+                parts.append(getattr(part, "text", "") or "")
+        return "".join(parts)
+    for alt in ("text", "reasoning_content", "refusal"):
+        v = getattr(message, alt, None)
+        if isinstance(v, str) and v:
+            return v
+    return ""

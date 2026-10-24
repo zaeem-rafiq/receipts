@@ -44,10 +44,11 @@ def one_run(version, F, run):
     else:
         prompt = summarize.PROMPT + json.dumps(display)
     with run.span(f"summarize.{version}", version=version, provider="nicrron", model=nicrron.MODEL) as rec:
-        text, _ = nicrron.chat([{"role": "user", "content": prompt}], run=run, purpose=f"challenge.{version}")
-        bad = summarize.guardrail(text, display)
+        text, meta = nicrron.chat([{"role": "user", "content": prompt}], run=run, purpose=f"challenge.{version}")
+        bad = [summarize.TRUNCATED] if summarize.is_truncated(text) else summarize.guardrail(text, display)
         rec["attrs"].update({"input": prompt[-2000:], "output": text, "guardrail.digit_rule": "fail" if bad else "pass",
-                             "guardrail.blocked_tokens": json.dumps(bad)})
+                             "guardrail.blocked_tokens": json.dumps(bad), "finish_reason": meta.get("finish_reason"),
+                             "chars_out": len(text), "usage": json.dumps(meta.get("usage"))})
     return text, bad
 
 
@@ -79,7 +80,7 @@ def main(argv=None):
                 continue
             tally[v]["fail" if bad else "pass"] += 1
             if len(samples[v]) < 2:
-                samples[v].append((text.replace("\n", " ")[:160], bad))
+                samples[v].append((f"[{len(text)} chars] " + text.replace("\n", " ")[:160], bad))
             print(f"run {i + 1:2d} {v}: {'FAIL' if bad else 'pass'} {bad if bad else ''}")
     run.save()
     print("\ntally:", json.dumps(tally))

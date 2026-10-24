@@ -17,6 +17,15 @@ def allowed_tokens(display):
     return toks
 
 
+MIN_CHARS = 40  # a five-line summary is far longer; anything shorter is an empty or truncated reply
+TRUNCATED = "<empty or truncated output>"
+
+
+def is_truncated(text):
+    """An empty or cut-off reply cannot be shown, and letting it "pass" the digit rule would make the rule look trivial."""
+    return len((text or "").strip()) < MIN_CHARS
+
+
 def guardrail(text, display):
     """Return list of numeric tokens in text that the engine did not print. Empty list = pass."""
     ok = allowed_tokens(display)
@@ -50,10 +59,14 @@ def summarize(display, run=None):
         cm = run.span("summarize", provider="nicrron", model=nicrron.MODEL) if run else None
         rec = cm.__enter__() if cm else {"attrs": {}}
         text, meta = nicrron.chat([{"role": "user", "content": PROMPT + json.dumps(display)}], run=run, purpose="summary")
-        bad = guardrail(text, display)
-        rec["attrs"].update({"input": json.dumps(display), "output": text, "guardrail.digit_rule": "fail" if bad else "pass"})
+        bad = [TRUNCATED] if is_truncated(text) else guardrail(text, display)
+        rec["attrs"].update({"input": json.dumps(display), "output": text, "guardrail.digit_rule": "fail" if bad else "pass",
+                             "finish_reason": meta.get("finish_reason"), "chars_out": len(text)})
         if cm:
             cm.__exit__(None, None, None)
+        if bad == [TRUNCATED]:
+            return {"text": template(display), "source": f"template (model returned {len(text or '')} chars; finish_reason {meta.get('finish_reason')})",
+                    "guardrail_failures": bad}
         if bad:
             return {"text": template(display), "source": "template (guardrail blocked model output)", "guardrail_failures": bad}
         return {"text": text, "source": f"Nicrron {nicrron.MODEL}", "guardrail_failures": []}

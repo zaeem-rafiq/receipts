@@ -262,3 +262,29 @@ def test_live_enrichment_shape_is_read():
     m = next(l for l in F["logos"] if l["akta"]["domain"] == "monday.com")
     assert m["akta"]["mode"] in ("CACHED", "MOCK") and m["akta"]["headcount_range"] and m["akta"]["segment"] != "unverified"
     assert F["headline"]["enterprise_count"] == 4
+
+
+def test_empty_or_truncated_model_output_falls_back_to_template(monkeypatch):
+    from integrations import nicrron
+    display = findings.run(run_date=date(2026, 10, 24), events_override={})["display"]
+    assert summarize.is_truncated("") and summarize.is_truncated("Deck AR") and not summarize.is_truncated(summarize.template(display))
+    monkeypatch.setenv("NICRRON_API_KEY", "nk-test-not-real")
+    monkeypatch.setattr(nicrron, "chat", lambda *a, **k: ("", {"finish_reason": "length", "usage": None}))
+    S = summarize.summarize(display, None)
+    assert S["text"] == summarize.template(display) and S["source"].startswith("template (model returned 0 chars")
+    good = (f"The deck claims {display['deck_arr']} ARR; the ledger supports {display['recurring_arr']} of recurring ARR.\n"
+            "The gap is implementation and one-time fees.\nTwo customers carry risk events.\nThe weights are screening weights.\nAsk about the pilots.")
+    monkeypatch.setattr(nicrron, "chat", lambda *a, **k: (good, {"finish_reason": "stop", "usage": None}))
+    assert summarize.summarize(display, None)["source"].startswith("Nicrron")
+
+
+def test_content_text_accepts_string_list_or_alternate_fields():
+    from integrations import nicrron
+
+    class M:
+        def __init__(self, **kw):
+            self.__dict__.update(kw)
+    assert nicrron._content_text(M(content="hello")) == "hello"
+    assert nicrron._content_text(M(content=[{"type": "text", "text": "a"}, {"type": "text", "text": "b"}])) == "ab"
+    assert nicrron._content_text(M(content=None, text="alt")) == "alt"
+    assert nicrron._content_text(M(content=None)) == ""
