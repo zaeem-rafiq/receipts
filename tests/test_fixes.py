@@ -181,3 +181,84 @@ def test_guardrail_blocks_reformatted_numbers():
     assert summarize.guardrail("The deck claims $1,200,000 ARR and the ledger supports $840,000.", d) == []
     assert summarize.guardrail("The deck claims $1.2M ARR.", d)  # '$1.2' is not an engine token: blocked
     assert summarize.guardrail("ARR flagged is 13.3 percent", d) == ["13.3"]
+
+
+def test_failed_live_lookup_is_not_retried_within_the_process(monkeypatch, tmp_path):
+    _live_env(monkeypatch, tmp_path)
+    import requests
+    monkeypatch.setattr(requests, "get", lambda *a, **k: _Resp(403))
+    first = client.get("news", "https://monday.com")
+    second = client.get("news", "https://monday.com")
+    assert first["mode"] == "MOCK" and second["mode"] == "MOCK"
+    assert client._live_used == 1 and client.ERRORS[("news", "monday.com")] == "HTTP 403"
+
+
+def test_active_logo_without_website_is_unverified_when_akta_is_on(monkeypatch):
+    real = load.load_logos
+
+    def blank_one(data):
+        logos, claims, src = real(data)
+        for lg in logos:
+            if lg["slot"] == "logo_03":
+                lg["website"] = ""
+        return logos, claims, src
+    monkeypatch.setattr(load, "load_logos", blank_one)
+    F = findings.run(run_date=date(2026, 10, 24))
+    lg = next(l for l in F["logos"] if l["slot"] == "logo_03")
+    assert lg["status"] == "ACTIVE" and lg["verdict"] == "UNVERIFIED" and lg["card"] == "grey_unverified"
+    assert lg["akta"]["mode"] == "MISS" and lg["akta"]["news_status"] == "unavailable" and "logo_03" in F["headline"]["unverified_slots"]
+    assert "1 missing" in F["meta"]["akta_mode"]
+    off = findings.run(run_date=date(2026, 10, 24), akta_enabled=False)
+    assert next(l for l in off["logos"] if l["slot"] == "logo_03")["verdict"] == "VERIFIED"
+
+
+def test_shutdown_headline_beats_any_akta_tag():
+    art = {"title": "Relay announces shutdown; team joins Google Chrome", "ai_summary": "Relay will shut down on Sept 14."}
+    for codes in ([], ["CM03"], ["WT02"], ["SD01"], ["CM01"]):
+        c = rules.classify({**art, "types": [{"code": c} for c in codes]}, "Relay", CFG)
+        assert c["class"] == "shutdown", codes
+    # a layoff story that only mentions a closure in the summary keeps its tag
+    lay = {"title": "monday.com cuts roughly 20% of global workforce", "types": [{"code": "WT02"}],
+           "ai_summary": "monday.com is laying off roughly 20% of staff and shutting down its Berlin office."}
+    assert rules.classify(lay, "monday.com", CFG)["class"] == "layoffs_major"
+
+
+# ---- real-cache rules (found when the warm-up cache of 2026-10-24 landed) ----
+def test_percent_counts_only_as_a_share_of_the_workforce():
+    stock = {"title": "Monday's AI makeover is pushing managers toward the exit", "types": [{"code": "WT02"}],
+             "ai_summary": "The stock has fallen 37% since early 2026, and the company is encouraging employees to adopt AI."}
+    assert rules.classify(stock, "monday.com", CFG)["class"] == "layoffs_minor"
+    cut = {"title": "Monday faces senior management exits amid AI restructuring", "types": [{"code": "WT02"}],
+           "ai_summary": "Several senior executives are expected to leave amid a restructuring that cuts about 20% of its workforce."}
+    assert rules.classify(cut, "monday.com", CFG)["class"] == "layoffs_major"
+    serves = {"title": "Acme trims team", "types": [{"code": "WT02"}], "ai_summary": "Acme, which serves 12,000 employees at its customers, let go of 30 staff."}
+    assert rules.classify(serves, "Acme", CFG)["class"] == "layoffs_minor"
+
+
+def test_secondary_mentions_never_move_a_verdict():
+    arts = {"data": [
+        {"id": "a1", "title": "Neobanks on Rented Rails: The Synapse Collapse", "published_date": "2026-09-04", "tags": [{"code": "RK07", "is_primary": True}],
+         "ai_summary": "Metropolitan Commercial Bank wound down its fintech business.", "company_mentions": [{"website": "http://www.metropolitanbankny.com", "is_primary": True}, {"website": "https://mercury.com", "is_primary": False}]},
+        {"id": "a2", "title": "Mercury's playbook", "published_date": "2026-08-21", "tags": [{"code": "CM01", "is_primary": True}],
+         "ai_summary": "Mercury raised a Series C and runs a software layer for banking.", "company_mentions": [{"website": "https://mercury.com", "is_primary": True}]},
+    ]}
+    evs = rules.events_for(arts, "Mercury", CFG, date(2026, 10, 24), domain="mercury.com")
+    assert [e["primary"] for e in evs] == [False, True] and evs[0]["class"] == "shutdown"
+    assert rules.most_severe(evs)["class"] == "funding"
+    # no company_mentions (MOCK fixtures) or no domain: not gated
+    assert all(e["primary"] for e in rules.events_for({"data": [{"id": "m", "title": "x shuts down", "published_date": "2026-10-01"}]}, "x", CFG, date(2026, 10, 24), domain="x.com"))
+    assert all(e["primary"] for e in rules.events_for(arts, "Mercury", CFG, date(2026, 10, 24)))
+
+
+def test_funding_tag_needs_funding_language():
+    speaker = {"title": "Clay's Kareem Amin joins Disrupt 2026", "tags": [{"code": "CM01"}], "ai_summary": "Amin will present on the GTM engineer role."}
+    assert rules.classify(speaker, "Clay", CFG)["class"] == "none"
+    speaker["ai_summary"] += " Clay raised a $115 million Series D at a $7.1 billion valuation."
+    assert rules.classify(speaker, "Clay", CFG)["class"] == "funding"
+
+
+def test_live_enrichment_shape_is_read():
+    F = findings.run(run_date=date(2026, 10, 24))
+    m = next(l for l in F["logos"] if l["akta"]["domain"] == "monday.com")
+    assert m["akta"]["mode"] in ("CACHED", "MOCK") and m["akta"]["headcount_range"] and m["akta"]["segment"] != "unverified"
+    assert F["headline"]["enterprise_count"] == 4

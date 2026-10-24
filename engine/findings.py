@@ -5,6 +5,10 @@ import pandas as pd
 
 from akta import client as akta
 from akta import rules
+try:
+    from akta import depth  # Akta depth lane (branch akta/depth): world(nws, events) and profile(enr, domain, row); optional until merged
+except ImportError:
+    depth = None
 from engine import load, match, metrics
 
 QUESTIONS = {
@@ -55,11 +59,13 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
             enr = akta.get("enrichment", lg["website"])
             nws = akta.get("news", lg["website"])
             modes += [enr["mode"], nws["mode"]]
-            fg = (enr.get("response") or {}).get("firmographic") or {}
+            body = enr.get("response") or {}
+            body = body["data"] if isinstance(body.get("data"), dict) else body  # live: {"data": {"firmographic": ...}}; MOCK: flat
+            fg = body.get("firmographic") or {}
             ak["headcount_range"] = fg.get("headcount_range")
             ak["operating_status"] = (fg.get("operating_status") or {}).get("label")
             ak["segment"], ak["headcount_lower"] = rules.segment_from_range(ak["headcount_range"], cfg)
-            ak["events"] = rules.events_for(nws.get("response"), lg["name"], cfg, run_date)
+            ak["events"] = rules.events_for(nws.get("response"), lg["name"], cfg, run_date, domain=ak["domain"])
             ak["fetched_at"] = nws.get("fetched_at")
             ak["mode"] = nws["mode"]
             # A 204 is a real answer (no news). No record at all (offline miss, live failure) means the window was not checked.
@@ -67,7 +73,17 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
             ak["live_error"] = akta.ERRORS.get(("news", ak["domain"])) or akta.ERRORS.get(("enrichment", ak["domain"]))
         else:
             ak["segment"], ak["headcount_range"] = "unverified", None
-            ak["news_status"] = "off"
+            # Akta on but no website to query: the world check did not run for this slot, so say so and count the miss.
+            ak["news_status"] = "unavailable" if akta_enabled else "off"
+            if akta_enabled:
+                ak["mode"] = "MISS"
+                modes.append("MISS")
+        world, prof = {}, {}
+        if depth is not None and akta_enabled and lg["website"]:
+            try:
+                world, prof = depth.world(nws, ak["events"]), depth.profile(enr, ak["domain"], row, events=ak["events"])
+            except Exception as e:  # depth is additive; a failure there never breaks the receipt
+                world = {"error": type(e).__name__}
         top = rules.most_severe(ak["events"], ak.get("operating_status"))
         ev_class = top["class"] if top else "none"
         if events_override is not None:
@@ -112,7 +128,7 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
             "lifetime_revenue": row["lifetime_revenue"] if row else 0, "share_of_mrr": row["share_of_mrr"] if row else 0.0,
             "charge_ids": row["charge_ids"] if row else [], "subscription_ids": row["subscription_ids"] if row else [],
             "event_class": ev_class, "event": top, "weight": weight, "mrr_at_risk": mrr_at_risk,
-            "question": q, "akta": ak,
+            "question": q, "akta": ak, "world": world, "profile": prof,
         })
 
     rec_mrr, rec_arr = h["recurring_mrr"], h["recurring_arr"]

@@ -48,6 +48,8 @@ def _live(endpoint, domain):
     key = os.environ.get("AKTA_API_KEY")
     if not key or offline() or budget_left() <= 0:
         return None
+    if (endpoint, domain) in ERRORS:  # failed once in this process: do not re-spend budget or stall on every rerun
+        return None
     today = date.today()
     if endpoint == "enrichment":
         url, params = BASE + "company/enrichment", {"company": domain, "sections": SECTIONS}

@@ -34,9 +34,11 @@ def compute(run_date_iso, akta_on):
     _, cv = roundtable.get_file("claims.json")
     F["meta"]["roundtable_claims_version"] = cv
     F["meta"]["prism_trace_id"] = run.trace_id
-    F["meta"]["prism_exported"] = run.exported
     F["meta"]["prism_spans"] = [s["name"] for s in run.spans]
-    run.save()
+    F["meta"]["prism_exported"] = run.save()  # True only when PRISM accepted the trajectory
+    F["meta"]["prism_llm_calls"] = len(run.llm_calls)
+    F["meta"]["prism_accepted"] = run.accepted
+    F["meta"]["prism_export_error"] = run.export_error
     return F
 
 
@@ -78,7 +80,8 @@ nicrron_state = (f"{nicrron.MODEL} (summary{' + extraction' if extraction_via_mo
 st.markdown(
     badge("Akta", M["akta_mode"], M["akta_mode"] in ("CACHED", "LIVE"))
     + badge("Nicrron", nicrron_state, summary_via_model or extraction_via_model)
-    + badge("PRISM", f"trace {M['prism_trace_id']}" + ("" if M.get("prism_exported") else " (local only)"), bool(M.get("prism_exported")))
+    + badge("PRISM", f"session {M['prism_trace_id']}"
+            + ("" if M.get("prism_exported") else (" (export failed)" if prism.enabled() else " (local only)")), bool(M.get("prism_exported")))
     + badge("Roundtable", f"claims v{M['roundtable_claims_version']} / findings v{M['roundtable_findings_version']}"
             + ("" if roundtable.enabled() else " (local stub)"), roundtable.enabled()),
     unsafe_allow_html=True)
@@ -206,9 +209,11 @@ if q:
             err = akta.ERRORS.get(("news", dom)) or akta.ERRORS.get(("enrichment", dom))
             st.write(f"{dom}: not in today's cache" + (f"; live lookup failed ({err})" if err else "; live lookups run from the demo laptop (AKTA_OFFLINE=0 with a live budget)") + ".")
         else:
-            fg = (enr.get("response") or {}).get("firmographic") or {}
+            body = enr.get("response") or {}
+            body = body["data"] if isinstance(body.get("data"), dict) else body
+            fg = body.get("firmographic") or {}
             name = next((l["name"] for l in F["logos"] if l["akta"].get("domain") == dom), dom.split(".")[0].title())
-            evs = rules.events_for(nws.get("response"), name, cfg, run_date)
+            evs = rules.events_for(nws.get("response"), name, cfg, run_date, domain=dom)
             top = rules.most_severe(evs)
             st.write(f"{dom} · headcount range {fg.get('headcount_range') or 'unverified'} · mode {nws['mode']}"
                      + (" (hand-written fixture, not Akta output)" if nws["mode"] == "MOCK" else ""))

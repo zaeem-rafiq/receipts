@@ -6,6 +6,12 @@ SEVERITY = ["shutdown", "acquisition", "layoffs_major", "layoffs_minor", "acquir
 SHUTDOWN_KW = ["ceased operations", "shut down", "shuts down", "shutting down", "winding down", "wind down", "bankruptcy", "shutdown"]
 SHUTDOWN_RE = re.compile(r"\b(" + "|".join(re.escape(k) for k in SHUTDOWN_KW) + r")\b", re.I)
 NOT_SHUTDOWN_RE = re.compile(r"\b(government|federal)\s+shutdown\b", re.I)
+FUNDING_RE = re.compile(r"\b(raise[sd]?|raising|round|series [a-h]|seed|funding|funded|tender|valuation|investment|investors?|capital)\b", re.I)
+WORKFORCE = r"(workforce|staff|employees|headcount|jobs|workers|positions|roles|team)"
+PCT_OF_WORKFORCE_RE = re.compile(r"(\d+(?:\.\d+)?)\s*(?:%|percent)\s+of\s+(?:its\s+|the\s+|their\s+|the company's\s+)?(?:global\s+|total\s+)?" + WORKFORCE, re.I)
+CUT_PCT_RE = re.compile(r"\b(cut|cuts|cutting|lay(?:s|ing)?\s+off|laid\s+off|reduc(?:e|es|ing|ed)|eliminat(?:e|es|ing|ed)|slash(?:es|ed|ing)?|shed(?:s|ding)?)\s+"
+                        r"(?:about|roughly|around|nearly|approximately|some|up to|an estimated)?\s*(\d+(?:\.\d+)?)\s*(?:%|percent)", re.I)
+LAYOFF_VERB_RE = re.compile(r"\b(cut|cuts|cutting|lay(?:s|ing)?\s+off|laid\s+off|let\s+go|eliminat\w*|reduc\w*|affect\w*|impact\w*|shed\w*|slash\w*|job\s+cuts|layoffs?)\b", re.I)
 
 
 def _text(a):
@@ -21,12 +27,14 @@ def _codes(a):
 
 
 def layoff_class(text, cfg):
+    """A percent counts only when it is a share of the workforce ("cuts 20% of its workforce"), never a stock move or a
+    revenue figure; a people count only next to a layoff verb."""
     ev = cfg["events"]
-    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(%|percent)", text):
-        if float(m.group(1)) >= ev["layoffs_major_min_pct"]:
-            return "layoffs_major", f"percent >= {ev['layoffs_major_min_pct']}"
-    for m in re.finditer(r"(\d[\d,]*)\s+(people|employees|staff|jobs|workers)", text):
-        if int(m.group(1).replace(",", "")) >= ev["layoffs_major_min_people"]:
+    pcts = [float(m.group(1)) for m in PCT_OF_WORKFORCE_RE.finditer(text)] + [float(m.group(2)) for m in CUT_PCT_RE.finditer(text)]
+    if any(x >= ev["layoffs_major_min_pct"] for x in pcts):
+        return "layoffs_major", f"percent of workforce >= {ev['layoffs_major_min_pct']}"
+    for m in re.finditer(r"(\d[\d,]*)\s+(people|employees|staff|jobs|workers|positions|roles)", text):
+        if int(m.group(1).replace(",", "")) >= ev["layoffs_major_min_people"] and LAYOFF_VERB_RE.search(text[max(0, m.start() - 80):m.start()]):
             return "layoffs_major", f"people >= {ev['layoffs_major_min_people']}"
     for kw in ev["layoffs_major_keywords"]:
         if re.search(rf"\b{kw}\b", text, re.I):
@@ -50,6 +58,9 @@ def classify(article, company_name, cfg):
     codes = _codes(article)
     if "RK07" in codes:
         return {"class": "shutdown", "trigger": "Akta code RK07", "keyword_classified": False}
+    if SHUTDOWN_RE.search(NOT_SHUTDOWN_RE.sub(" ", article.get("title", ""))):
+        # No Akta code means shutdown (PLAN section 6); a shutdown headline outranks any other tag on the same article.
+        return {"class": "shutdown", "trigger": "shutdown keyword in title", "keyword_classified": True}
     if "CM03" in codes:
         if is_target_side([article.get("title", ""), article.get("ai_summary", "")], company_name):
             return {"class": "acquisition", "trigger": "CM03 + target-side match", "keyword_classified": True}
@@ -58,7 +69,9 @@ def classify(article, company_name, cfg):
         c, trig = layoff_class(text, cfg)
         return {"class": c, "trigger": trig, "keyword_classified": False}
     if "CM01" in codes or "CM09" in codes:
-        return {"class": "funding", "trigger": "Akta code CM01/CM09", "keyword_classified": False}
+        if FUNDING_RE.search(text):
+            return {"class": "funding", "trigger": "Akta code CM01/CM09", "keyword_classified": False}
+        return {"class": "none", "trigger": "CM01/CM09 tag without funding language (informational)", "keyword_classified": True}
     if "SD01" in codes:
         return {"class": "product_launch", "trigger": "Akta code SD01", "keyword_classified": False}
     # Keyword fallback only when Akta gave no usable tag (PLAN section 6); whole words, not substrings.
@@ -77,7 +90,22 @@ def parse_date(s):
         return None
 
 
-def events_for(news_response, company_name, cfg, run_date):
+def _dom(url):
+    return re.sub(r"^(https?://)?(www\.)?", "", str(url or "").strip().lower()).split("/")[0]
+
+
+def is_primary_subject(article, domain):
+    """True when the article's company_mentions name this domain as a primary subject. Articles without company_mentions
+    (hand-written MOCK fixtures) and calls without a domain are not gated."""
+    mentions = article.get("company_mentions")
+    if not domain or not isinstance(mentions, list):
+        return True
+    return any(m.get("is_primary") and _dom(m.get("website")) == _dom(domain) for m in mentions if isinstance(m, dict))
+
+
+def events_for(news_response, company_name, cfg, run_date, domain=None):
+    """One event per article. `primary` says whether the logo is a primary subject of the article; most_severe() ignores
+    articles where it is not (a listicle or a story about another company never moves a verdict)."""
     window_start = run_date - timedelta(days=cfg["recent_window_days"])
     out = []
     for a in (news_response or {}).get("data", []):
@@ -85,6 +113,7 @@ def events_for(news_response, company_name, cfg, run_date):
         c = classify(a, company_name, cfg)
         out.append({
             "code": ",".join(_codes(a)),
+            "primary": is_primary_subject(a, domain),
             "class": c["class"],
             "trigger": c["trigger"],
             "keyword_classified": c["keyword_classified"],
@@ -102,7 +131,7 @@ def events_for(news_response, company_name, cfg, run_date):
 def most_severe(events, operating_status=None):
     if operating_status and str(operating_status).lower() in ("shut down", "shutdown", "closed"):
         return {"class": "shutdown", "trigger": "operating_status Shut Down", "article_id": "", "title": "", "date": None}
-    inw = [e for e in events if e["in_window"]]
+    inw = [e for e in events if e["in_window"] and e.get("primary", True)]
     if not inw:
         return None
     return sorted(inw, key=lambda e: SEVERITY.index(e["class"]))[0]

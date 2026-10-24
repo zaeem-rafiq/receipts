@@ -3,9 +3,9 @@
 Rule (registered as a PRISM guardrail and asserted locally): every digit run in the summary must appear verbatim in the
 engine's display strings (findings['display']). v1 feeds the model the raw findings JSON (numbers as integers and ratios,
 so the model rounds, multiplies and reformats); v2 feeds only the pre-formatted display strings. v1 fails the rule, v2
-passes it, on identical inputs. Each run is one PRISM span with the version, the output and guardrail.digit_rule.
+passes it, on identical inputs. Each run is one PRISM trace (the Nicrron call) plus a span with the version, the output and guardrail.digit_rule; all runs share one PRISM session.
 
-    python scripts/prism_challenge.py --runs 20        # needs NICRRON_API_KEY; PRISMTRACE_API_KEY exports the spans
+    python scripts/prism_challenge.py --runs 20        # needs NICRRON_API_KEY; PRISMTRACE_API_KEY sends the session to PRISM
     python scripts/prism_challenge.py --selftest        # no model: shows the rule on two canned outputs (labelled canned)
 """
 import argparse
@@ -44,7 +44,7 @@ def one_run(version, F, run):
     else:
         prompt = summarize.PROMPT + json.dumps(display)
     with run.span(f"summarize.{version}", version=version, provider="nicrron", model=nicrron.MODEL) as rec:
-        text, _ = nicrron.chat([{"role": "user", "content": prompt}])
+        text, _ = nicrron.chat([{"role": "user", "content": prompt}], run=run, purpose=f"challenge.{version}")
         bad = summarize.guardrail(text, display)
         rec["attrs"].update({"input": prompt[-2000:], "output": text, "guardrail.digit_rule": "fail" if bad else "pass",
                              "guardrail.blocked_tokens": json.dumps(bad)})
@@ -67,7 +67,7 @@ def main(argv=None):
     if not nicrron.enabled():
         print("NICRRON_API_KEY is not set; nothing ran. Export it in this shell (never paste it in chat).")
         return 2
-    run = prism.Run()
+    run = prism.Run(kind="prism-challenge")
     tally = {"v1": {"pass": 0, "fail": 0}, "v2": {"pass": 0, "fail": 0}}
     samples = {"v1": [], "v2": []}
     for i in range(a.runs):
@@ -86,8 +86,9 @@ def main(argv=None):
     for v in ("v1", "v2"):
         for text, bad in samples[v]:
             print(f"  sample {v}: blocked={bad} :: {text}")
-    print(f"PRISM trace {run.trace_id} ({'exported' if run.exported else 'local only: set PRISMTRACE_API_KEY to export'}); "
-          f"local copy demo_cache/traces/{run.trace_id}.json")
+    status = ("accepted by PRISM: " + ", ".join(f"{k} {v}" for k, v in run.accepted.items()) if run.exported
+              else ("export failed: " + str(run.export_error) if prism.enabled() else "local only: set PRISMTRACE_API_KEY to export"))
+    print(f"PRISM session {run.session_id} ({status}); local copy demo_cache/traces/{run.session_id}.json")
     return 0
 
 

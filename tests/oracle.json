@@ -1,292 +1,292 @@
 {
-  "as_of": "2026-09-30",
-  "recurring_mrr": 70000,
-  "recurring_arr": 840000,
-  "deck_arr_claim": 1200000,
-  "deck_arr_reproduction": {
-    "definition": "12 x total succeeded charges in Sep 2026",
-    "value": 1200000,
-    "pct_diff": 0.0,
-    "components": {
-      "subscription": 64000,
-      "implementation": 22500,
-      "one_time": 13500
-    }
+ "as_of": "2026-09-30",
+ "recurring_mrr": 70000,
+ "recurring_arr": 840000,
+ "deck_arr_claim": 1200000,
+ "deck_arr_reproduction": {
+  "definition": "12 x total succeeded charges in Sep 2026",
+  "value": 1200000,
+  "pct_diff": 0.0,
+  "components": {
+   "subscription": 64000,
+   "implementation": 22500,
+   "one_time": 13500
+  }
+ },
+ "other_definitions_not_within_2pct": {
+  "12_x_sep_subscription_charges": 768000,
+  "12_x_recurring_mrr": 840000,
+  "12_x_trailing_3mo_avg_total": 1018800,
+  "trailing_12mo_total": 811800,
+  "sum_active_contract_values": 840000
+ },
+ "monthly_totals_2026": {
+  "07": 88200,
+  "08": 66500,
+  "09": 100000
+ },
+ "bridge": [
+  {
+   "step": "implementation_fees_sep_annualized",
+   "rows": 9,
+   "delta": -270000
   },
-  "other_definitions_not_within_2pct": {
-    "12_x_sep_subscription_charges": 768000,
-    "12_x_recurring_mrr": 840000,
-    "12_x_trailing_3mo_avg_total": 1018800,
-    "trailing_12mo_total": 811800,
-    "sum_active_contract_values": 840000
+  {
+   "step": "one_time_services_sep_annualized",
+   "rows": 3,
+   "delta": -162000
   },
-  "monthly_totals_2026": {
-    "07": 88200,
-    "08": 66500,
-    "09": 100000
+  {
+   "step": "annual_contracts_other_months_ratable",
+   "rows": 3,
+   "delta": 72000
+  }
+ ],
+ "bridge_check": 840000,
+ "customers_ever_billed": 48,
+ "active_customers": 25,
+ "active_monthly": 22,
+ "active_annual": 3,
+ "logo_counts": {
+  "ACTIVE": 5,
+  "PILOT": 3,
+  "ONE_TIME": 2,
+  "NOT_IN_LEDGER": 2
+ },
+ "logo_verified_arr": 504000,
+ "logo_verified_share_of_recurring": 0.6,
+ "top1_share": 0.18,
+ "top5_share": 0.6,
+ "slots": {
+  "logo_01": {
+   "company": "monday.com",
+   "status": "ACTIVE",
+   "mrr": 12600,
+   "tenure_months": 14,
+   "expected_event": "layoffs_major",
+   "weight": 0.5,
+   "mrr_at_risk": 6300,
+   "expected_segment": "enterprise",
+   "card": "amber",
+   "event_note": "Real Akta cache: CTech 2026-10-17, WT02 primary, 'a restructuring that cuts about 20% of its workforce' -> layoffs_major (percent of workforce >= 15). The TNW 2026-07-22 note was the MOCK fixture."
   },
-  "bridge": [
-    {
-      "step": "implementation_fees_sep_annualized",
-      "rows": 9,
-      "delta": -270000
-    },
-    {
-      "step": "one_time_services_sep_annualized",
-      "rows": 3,
-      "delta": -162000
-    },
-    {
-      "step": "annual_contracts_other_months_ratable",
-      "rows": 3,
-      "delta": 72000
-    }
+  "logo_02": {
+   "company": "Mercury",
+   "status": "ACTIVE",
+   "mrr": 11400,
+   "tenure_months": 11,
+   "expected_event": "funding",
+   "weight": 0.0,
+   "mrr_at_risk": 0,
+   "expected_segment": "enterprise",
+   "card": "green_plus",
+   "event_note": "Real Akta cache: Dealroom 2026-08-21, CM01 primary with funding language -> funding (weight 0). The Synapse-collapse RK07 article names Metropolitan Commercial Bank as primary, not Mercury, so it is ignored."
+  },
+  "logo_03": {
+   "company": "Clay",
+   "status": "ACTIVE",
+   "mrr": 8000,
+   "tenure_months": 9,
+   "expected_event": "funding",
+   "weight": 0.0,
+   "mrr_at_risk": 0,
+   "expected_segment": "mid",
+   "card": "green_plus",
+   "event_note": "Real Akta cache (2026-10-24): TechCrunch 2026-10-02, CM01 primary, 'raised a $115 million Series D at a $7.1 billion valuation'; weight 0, so VERIFIED +"
+  },
+  "logo_04": {
+   "company": "Braze",
+   "status": "ACTIVE",
+   "mrr": 6000,
+   "tenure_months": 7,
+   "expected_event": "acquisition",
+   "weight": 0.5,
+   "mrr_at_risk": 3000,
+   "expected_segment": "enterprise",
+   "card": "amber",
+   "event_note": "Acquisition announced (pending): Salesforce agreed to acquire Braze, ~$5.66B EV, announced 2026-10-20 (SEC 8-K); closing subject to shareholder and regulatory approval"
+  },
+  "logo_05": {
+   "company": "Justworks",
+   "status": "ACTIVE",
+   "mrr": 4000,
+   "tenure_months": 5,
+   "expected_event": "none",
+   "weight": 0.0,
+   "mrr_at_risk": 0,
+   "expected_segment": "enterprise",
+   "card": "green",
+   "event_note": "NYC, 1,402 staff (UnifyGTM, Apr 2026)"
+  },
+  "logo_06": {
+   "company": "Retool",
+   "status": "PILOT",
+   "mrr": 0,
+   "tenure_months": 3,
+   "lifetime_revenue": 4500,
+   "expected_event": "none",
+   "expected_segment": "mid",
+   "card": "amber_pilot",
+   "event_note": "372 staff (Revelio Labs, Mar 2026)"
+  },
+  "logo_07": {
+   "company": "Attio",
+   "status": "PILOT",
+   "mrr": 0,
+   "tenure_months": 3,
+   "lifetime_revenue": 4500,
+   "expected_event": "none",
+   "expected_segment": "smb",
+   "card": "amber_pilot",
+   "event_note": "179 staff (StartupHub.ai, Oct 2026)"
+  },
+  "logo_08": {
+   "company": "Cal.com",
+   "status": "PILOT",
+   "mrr": 0,
+   "tenure_months": 3,
+   "lifetime_revenue": 4500,
+   "expected_event": "none",
+   "expected_segment": "smb",
+   "card": "amber_pilot",
+   "event_note": "44 staff (Latka, Apr 2026)"
+  },
+  "logo_09": {
+   "company": "Resend",
+   "status": "ONE_TIME",
+   "mrr": 0,
+   "lifetime_revenue": 2500,
+   "expected_event": "none",
+   "expected_segment": "smb",
+   "card": "grey",
+   "event_note": "~40 staff (TrueUp estimate)"
+  },
+  "logo_10": {
+   "company": "Granola",
+   "status": "ONE_TIME",
+   "mrr": 0,
+   "lifetime_revenue": 2500,
+   "expected_event": "none",
+   "expected_segment": "smb",
+   "card": "grey",
+   "event_note": "~55 staff; funding Mar 2026 is outside the 180-day window"
+  },
+  "logo_11": {
+   "company": "Relay",
+   "status": "NOT_IN_LEDGER",
+   "expected_event": "shutdown",
+   "weight": 1.0,
+   "mrr_at_risk": 0,
+   "card": "red",
+   "expected_segment": "smb",
+   "event_note": "Real Akta cache: three primary articles 2026-08-17/18 with 'shuts down' / 'shutdown' in the title -> shutdown. The 'AI graveyard' listicle (RK07) has no primary mention and is ignored."
+  },
+  "logo_12": {
+   "company": "Linear",
+   "status": "NOT_IN_LEDGER",
+   "expected_event": "funding_or_none",
+   "weight": 0.0,
+   "mrr_at_risk": 0,
+   "card": "grey",
+   "expected_segment": "smb",
+   "event_note": "170-200 staff (TrueUp); positive-only 2026 news; weight 0 either way"
+  }
+ },
+ "live_prewarmed": [
+  {
+   "name": "Ramp",
+   "website": "https://ramp.com",
+   "why": "NYC, most recognizable fintech for the audience; positive news"
+  },
+  {
+   "name": "Cloudflare",
+   "website": "https://www.cloudflare.com",
+   "why": "20% layoff 2026-05-08; doubles as layoffs_major reserve"
+  },
+  {
+   "name": "Miro",
+   "website": "https://miro.com",
+   "why": "Bending Spoons $1.36B acquisition 2026-09-10; doubles as acquisition reserve"
+  }
+ ],
+ "reserves": {
+  "layoffs_major": [
+   "Cloudflare (2026-05-08, ~20%)",
+   "Wix (2026-05-25, ~20%)",
+   "ClickUp (2026-05-26, 22%)"
   ],
-  "bridge_check": 840000,
-  "customers_ever_billed": 48,
-  "active_customers": 25,
-  "active_monthly": 22,
-  "active_annual": 3,
-  "logo_counts": {
-    "ACTIVE": 5,
-    "PILOT": 3,
-    "ONE_TIME": 2,
-    "NOT_IN_LEDGER": 2
-  },
-  "logo_verified_arr": 504000,
-  "logo_verified_share_of_recurring": 0.6,
-  "top1_share": 0.18,
-  "top5_share": 0.6,
-  "slots": {
-    "logo_01": {
-      "company": "monday.com",
-      "status": "ACTIVE",
-      "mrr": 12600,
-      "tenure_months": 14,
-      "expected_event": "layoffs_major",
-      "weight": 0.5,
-      "mrr_at_risk": 6300,
-      "expected_segment": "enterprise",
-      "card": "amber",
-      "event_note": "Roughly 20% of global workforce, about 620 people, 2026-07-22 (The Next Web)"
-    },
-    "logo_02": {
-      "company": "Mercury",
-      "status": "ACTIVE",
-      "mrr": 11400,
-      "tenure_months": 11,
-      "expected_event": "funding",
-      "weight": 0.0,
-      "mrr_at_risk": 0,
-      "expected_segment": "enterprise",
-      "card": "green_plus",
-      "event_note": "$200M Series D announced 2026-05-21 (in the 180-day window); ~1,600 staff per TrueUp Oct 2026 (UNVERIFIED), so headcount_range is expected above 1,000"
-    },
-    "logo_03": {
-      "company": "Clay",
-      "status": "ACTIVE",
-      "mrr": 8000,
-      "tenure_months": 9,
-      "expected_event": "none",
-      "weight": 0.0,
-      "mrr_at_risk": 0,
-      "expected_segment": "mid",
-      "card": "green",
-      "event_note": "NYC GTM SaaS, 250+ staff in NYC (NY Governor's office, Apr 2026)"
-    },
-    "logo_04": {
-      "company": "Braze",
-      "status": "ACTIVE",
-      "mrr": 6000,
-      "tenure_months": 7,
-      "expected_event": "acquisition",
-      "weight": 0.5,
-      "mrr_at_risk": 3000,
-      "expected_segment": "enterprise",
-      "card": "amber",
-      "event_note": "Acquisition announced (pending): Salesforce agreed to acquire Braze, ~$5.66B EV, announced 2026-10-20 (SEC 8-K); closing subject to shareholder and regulatory approval"
-    },
-    "logo_05": {
-      "company": "Justworks",
-      "status": "ACTIVE",
-      "mrr": 4000,
-      "tenure_months": 5,
-      "expected_event": "none",
-      "weight": 0.0,
-      "mrr_at_risk": 0,
-      "expected_segment": "enterprise",
-      "card": "green",
-      "event_note": "NYC, 1,402 staff (UnifyGTM, Apr 2026)"
-    },
-    "logo_06": {
-      "company": "Retool",
-      "status": "PILOT",
-      "mrr": 0,
-      "tenure_months": 3,
-      "lifetime_revenue": 4500,
-      "expected_event": "none",
-      "expected_segment": "mid",
-      "card": "amber_pilot",
-      "event_note": "372 staff (Revelio Labs, Mar 2026)"
-    },
-    "logo_07": {
-      "company": "Attio",
-      "status": "PILOT",
-      "mrr": 0,
-      "tenure_months": 3,
-      "lifetime_revenue": 4500,
-      "expected_event": "none",
-      "expected_segment": "smb",
-      "card": "amber_pilot",
-      "event_note": "179 staff (StartupHub.ai, Oct 2026)"
-    },
-    "logo_08": {
-      "company": "Cal.com",
-      "status": "PILOT",
-      "mrr": 0,
-      "tenure_months": 3,
-      "lifetime_revenue": 4500,
-      "expected_event": "none",
-      "expected_segment": "smb",
-      "card": "amber_pilot",
-      "event_note": "44 staff (Latka, Apr 2026)"
-    },
-    "logo_09": {
-      "company": "Resend",
-      "status": "ONE_TIME",
-      "mrr": 0,
-      "lifetime_revenue": 2500,
-      "expected_event": "none",
-      "expected_segment": "smb",
-      "card": "grey",
-      "event_note": "~40 staff (TrueUp estimate)"
-    },
-    "logo_10": {
-      "company": "Granola",
-      "status": "ONE_TIME",
-      "mrr": 0,
-      "lifetime_revenue": 2500,
-      "expected_event": "none",
-      "expected_segment": "smb",
-      "card": "grey",
-      "event_note": "~55 staff; funding Mar 2026 is outside the 180-day window"
-    },
-    "logo_11": {
-      "company": "Relay",
-      "status": "NOT_IN_LEDGER",
-      "expected_event": "shutdown",
-      "weight": 1.0,
-      "mrr_at_risk": 0,
-      "card": "red",
-      "expected_segment": "smb",
-      "event_note": "Shutdown announced Jul 2026; free users lost access 2026-08-15, paying customers 2026-09-14; team to Google Chrome (TechCrunch, 2026-08-17)"
-    },
-    "logo_12": {
-      "company": "Linear",
-      "status": "NOT_IN_LEDGER",
-      "expected_event": "funding_or_none",
-      "weight": 0.0,
-      "mrr_at_risk": 0,
-      "card": "grey",
-      "expected_segment": "smb",
-      "event_note": "170-200 staff (TrueUp); positive-only 2026 news; weight 0 either way"
-    }
-  },
-  "live_prewarmed": [
-    {
-      "name": "Ramp",
-      "website": "https://ramp.com",
-      "why": "NYC, most recognizable fintech for the audience; positive news"
-    },
-    {
-      "name": "Cloudflare",
-      "website": "https://www.cloudflare.com",
-      "why": "20% layoff 2026-05-08; doubles as layoffs_major reserve"
-    },
-    {
-      "name": "Miro",
-      "website": "https://miro.com",
-      "why": "Bending Spoons $1.36B acquisition 2026-09-10; doubles as acquisition reserve"
-    }
+  "layoffs_minor": [
+   "HubSpot (2026-10-06, 7%)",
+   "GitLab (2026-06-02, 14%)",
+   "Flock Safety (2026-10-09, 18%)"
   ],
-  "reserves": {
-    "layoffs_major": [
-      "Cloudflare (2026-05-08, ~20%)",
-      "Wix (2026-05-25, ~20%)",
-      "ClickUp (2026-05-26, 22%)"
-    ],
-    "layoffs_minor": [
-      "HubSpot (2026-10-06, 7%)",
-      "GitLab (2026-06-02, 14%)",
-      "Flock Safety (2026-10-09, 18%)"
-    ],
-    "acquisition": [
-      "Miro (2026-09-10)",
-      "Airtable (2026-09-04)",
-      "Common Room (2026-07-02, Zoom)",
-      "Pocus (2026-03-19, outside window)"
-    ],
-    "shutdown": [
-      "Productiv (2026-08-06)",
-      "Convictional (2026-08-12)",
-      "Huxe (2026-05-22)"
-    ],
-    "stable_smb_mid": [
-      "PostHog (headcount conflicting, check Akta)",
-      "Pendo (layoff 2026-04-08 is outside the window)"
-    ],
-    "stable_enterprise": [
-      "Notion (~3,000)",
-      "Rippling (5,000; litigation caveat)",
-      "Vanta (1,000+, on the boundary)"
-    ]
-  },
-  "event_window": "180 days before the run date (Akta lookback is capped at 6 months on non-enterprise plans); ledger as_of is 2026-09-30",
-  "mrr_at_risk": 9300,
-  "arr_at_risk": 111600,
-  "arr_at_risk_share_of_recurring": 0.1329,
-  "recurring_arr_not_at_risk": 728400,
-  "exposure_unweighted": {
-    "customers_with_risk_event": 2,
-    "mrr_exposed": 18600,
-    "arr_exposed": 223200,
-    "share_of_recurring": 0.2657,
-    "note": "Unweighted MRR of ACTIVE logos with a weight > 0 event (slots 01 and 04). Shown under the policy-weighted number, never instead of it."
-  },
-  "implementation_rows": {
-    "sep_2026": 9,
-    "prior_12_months": 2,
-    "note": "Tie-out line: implementation rows in September vs the prior 12 months (Sep 2025 to Aug 2026), both counted from the ledger."
-  },
-  "tenure_definition": "tenure_months = (end.year - start.year) * 12 + (end.month - start.month) + 1, end = canceled_at if set else as_of; slot 01's 14 equals its 14 succeeded subscription rows. PILOT = CHURNED with tenure_months <= 3.",
-  "enterprise_count_expected": 4,
-  "enterprise_count_note": "Working assumption: slots 01, 02, 04, 05 return an Akta headcount_range with lower bound > 1000 (Mercury ~1,600 per TrueUp, UNVERIFIED). The warm-up response is final; write the actual count into PITCH.md and DEMO_SCRIPT.md.",
-  "enterprise_count_ledger_independent": true,
-  "deck_enterprise_claim": 12,
-  "ask": {
-    "raise": 4000000,
-    "post_money": 20000000,
-    "multiple_on_deck_arr": 16.7,
-    "multiple_on_recurring_arr": 23.8
-  },
-  "matching": {
-    "alias_slots": [
-      "logo_02"
-    ],
-    "normalized_only_slots": [
-      "logo_04",
-      "logo_05"
-    ],
-    "must_not_match": [
-      "logo_11",
-      "logo_12"
-    ],
-    "tiers": "alias/exact -> normalized (strip punctuation and legal suffixes) exact -> difflib >= 0.92 with >= 0.08 margin over runner-up -> NOT_IN_LEDGER"
-  },
-  "test_split": {
-    "test_engine": "ledger keys only, events injected as {}",
-    "test_rules": "policy on hand-written article fixtures (incl. CM03 target vs buyer)",
-    "test_risk": "inject {logo_01: layoffs_major, logo_04: acquisition} -> mrr_at_risk 9300, arr_at_risk 111600, exposure 18600"
-  },
-  "notes": "Slot-keyed so a logo company can be swapped on the morning without re-keying. Akta event expectations must be re-verified against the live cache before judging."
+  "acquisition": [
+   "Miro (2026-09-10)",
+   "Airtable (2026-09-04)",
+   "Common Room (2026-07-02, Zoom)",
+   "Pocus (2026-03-19, outside window)"
+  ],
+  "shutdown": [
+   "Productiv (2026-08-06)",
+   "Convictional (2026-08-12)",
+   "Huxe (2026-05-22)"
+  ],
+  "stable_smb_mid": [
+   "PostHog (headcount conflicting, check Akta)",
+   "Pendo (layoff 2026-04-08 is outside the window)"
+  ],
+  "stable_enterprise": [
+   "Notion (~3,000)",
+   "Rippling (5,000; litigation caveat)",
+   "Vanta (1,000+, on the boundary)"
+  ]
+ },
+ "event_window": "180 days before the run date (Akta lookback is capped at 6 months on non-enterprise plans); ledger as_of is 2026-09-30",
+ "mrr_at_risk": 9300,
+ "arr_at_risk": 111600,
+ "arr_at_risk_share_of_recurring": 0.1329,
+ "recurring_arr_not_at_risk": 728400,
+ "exposure_unweighted": {
+  "customers_with_risk_event": 2,
+  "mrr_exposed": 18600,
+  "arr_exposed": 223200,
+  "share_of_recurring": 0.2657,
+  "note": "Unweighted MRR of ACTIVE logos with a weight > 0 event (slots 01 and 04). Shown under the policy-weighted number, never instead of it."
+ },
+ "implementation_rows": {
+  "sep_2026": 9,
+  "prior_12_months": 2,
+  "note": "Tie-out line: implementation rows in September vs the prior 12 months (Sep 2025 to Aug 2026), both counted from the ledger."
+ },
+ "tenure_definition": "tenure_months = (end.year - start.year) * 12 + (end.month - start.month) + 1, end = canceled_at if set else as_of; slot 01's 14 equals its 14 succeeded subscription rows. PILOT = CHURNED with tenure_months <= 3.",
+ "enterprise_count_expected": 4,
+ "enterprise_count_note": "Working assumption: slots 01, 02, 04, 05 return an Akta headcount_range with lower bound > 1000 (Mercury ~1,600 per TrueUp, UNVERIFIED). The warm-up response is final; write the actual count into PITCH.md and DEMO_SCRIPT.md.",
+ "enterprise_count_ledger_independent": true,
+ "deck_enterprise_claim": 12,
+ "ask": {
+  "raise": 4000000,
+  "post_money": 20000000,
+  "multiple_on_deck_arr": 16.7,
+  "multiple_on_recurring_arr": 23.8
+ },
+ "matching": {
+  "alias_slots": [
+   "logo_02"
+  ],
+  "normalized_only_slots": [
+   "logo_04",
+   "logo_05"
+  ],
+  "must_not_match": [
+   "logo_11",
+   "logo_12"
+  ],
+  "tiers": "alias/exact -> normalized (strip punctuation and legal suffixes) exact -> difflib >= 0.92 with >= 0.08 margin over runner-up -> NOT_IN_LEDGER"
+ },
+ "test_split": {
+  "test_engine": "ledger keys only, events injected as {}",
+  "test_rules": "policy on hand-written article fixtures (incl. CM03 target vs buyer)",
+  "test_risk": "inject {logo_01: layoffs_major, logo_04: acquisition} -> mrr_at_risk 9300, arr_at_risk 111600, exposure 18600"
+ },
+ "notes": "Slot-keyed so a logo company can be swapped on the morning without re-keying. Akta event expectations must be re-verified against the live cache before judging. World-dependent values re-checked against the real Akta warm-up cache of 2026-10-24 (commit 0ce102d): headline unchanged; Clay moves from green to green_plus (real Series D in the window)."
 }

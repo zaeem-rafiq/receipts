@@ -5,5 +5,4 @@ openai
 requests
 pytest
 python-dotenv
-opentelemetry-sdk
-opentelemetry-exporter-otlp-proto-http
+prismtrace-sdk>=0.5.1
