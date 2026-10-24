@@ -14,6 +14,26 @@ from llm import summarize
 
 st.set_page_config(page_title="Receipts", layout="wide")
 
+# Visual layer from the design team's mockups: serif headings, mono labels, receipt-paper cards. Styling only.
+st.markdown("""<style>
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=IBM+Plex+Mono:wght@400;600&display=swap');
+h1, h2, h3 {font-family: 'Instrument Serif', Georgia, serif !important; font-weight: 400 !important; letter-spacing: -0.01em;}
+.rc-wordmark {font-family: 'Instrument Serif', Georgia, serif; font-size: 3rem; line-height: 1.1; margin: 0;}
+.rc-wordmark span {color: #B8361E;}
+[data-testid="stMetric"] {background: #FFFDF8; border: 1px solid #D9D2C3; border-radius: 4px; padding: 14px 16px;}
+[data-testid="stMetricLabel"] p {font-family: 'IBM Plex Mono', monospace; text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.7rem; white-space: normal;}
+[data-testid="stMetricLabel"] div {overflow: visible; white-space: normal;}
+[data-testid="stMetricValue"] {font-family: 'Instrument Serif', Georgia, serif; font-variant-numeric: tabular-nums;}
+[data-testid="stColumn"]:nth-child(3) [data-testid="stMetric"] {background: #F6E1DA; border-color: #E3B3A6;}
+[data-testid="stColumn"]:nth-child(3) [data-testid="stMetricValue"] {color: #B8361E;}
+.rc-card {background: #FFFDF8; border: 1px solid #D9D2C3; border-top: 4px solid var(--rc); border-radius: 2px; padding: 8px 10px; min-height: 170px;}
+.rc-card b {font-size: 0.95rem;}
+.rc-stamp {display: inline-block; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; font-weight: 600; letter-spacing: 0.06em;
+           color: var(--rc); border: 1px solid var(--rc); padding: 0 5px; margin: 3px 0; border-radius: 2px;}
+.rc-card small {font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; color: #555;}
+.rc-card hr {border: none; border-top: 1px dashed #CFC6B3; margin: 4px 0;}
+</style>""", unsafe_allow_html=True)
+
 COLORS = {"green": "#1f9d55", "green_plus": "#1f9d55", "amber": "#d97706", "amber_pilot": "#b7791f", "grey": "#718096",
           "grey_unverified": "#718096", "red": "#c53030"}
 LABEL = {"green": "VERIFIED", "green_plus": "VERIFIED +", "amber": "AT RISK", "amber_pilot": "PILOT", "grey": "",
@@ -78,7 +98,7 @@ VERDICT_WHY = {
 
 
 # ---------- header ----------
-st.title("Receipts")
+st.markdown("<h1 class='rc-wordmark'>Receipts<span>.</span></h1>", unsafe_allow_html=True)
 st.caption("Twelve logos on a seed deck, each checked against the customer revenue export and against the outside world (Akta).")
 st.warning("Fictional startup (Bramblefin); customer names are real public companies used for demonstration; the commercial relationships "
            "and the ledger are invented. **Akta data:** the badge below says where it came from: CACHED = real Akta API responses saved "
@@ -172,8 +192,8 @@ for i, l in enumerate(F["logos"]):
         sub = {"ACTIVE": f"{cash(l['mrr_now'])}/month · {l['tenure_months']} months", "PILOT": f"pilot, {l['tenure_months']} months, canceled",
                "ONE_TIME": f"one-time {cash(l['lifetime_revenue'])}", "NOT_IN_LEDGER": "no charges"}[l["status"]]
         ev = f"news: {plain(l['event_class'])}" if l["event_class"] != "none" else ""
-        st.markdown(f"<div style='border-left:6px solid {color};padding:6px 8px;background:rgba(127,127,127,0.08);border-radius:6px;min-height:92px'>"
-                    f"<b>{l['name']}</b><br><span style='color:{color};font-weight:600'>{LABEL[l['card']] or l['status'].replace('_', ' ')}</span><br>"
+        st.markdown(f"<div class='rc-card' style='--rc:{color}'>"
+                    f"<b>{l['name']}</b><br><span class='rc-stamp'>{LABEL[l['card']] or l['status'].replace('_', ' ')}</span><hr>"
                     f"<small>{sub}</small><br><small>{ev}</small></div>", unsafe_allow_html=True)
         if st.button("Receipt", key=f"b_{l['slot']}", width="stretch"):
             st.session_state.sel = l["slot"]

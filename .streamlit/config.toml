@@ -1,0 +1,8 @@
+# Palette from the design team's mockups (cream paper, ink, receipt red). UI only.
+[theme]
+base = "light"
+primaryColor = "#B8361E"
+backgroundColor = "#F4F1EA"
+secondaryBackgroundColor = "#E9E4D8"
+textColor = "#1A1A1A"
+font = "sans serif"
