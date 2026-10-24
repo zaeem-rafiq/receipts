@@ -80,6 +80,7 @@ def test_real_client_wire_shape(store, monkeypatch):
     (u1, b1, h1), (u2, b2, _), (u3, b3, _) = calls
     assert u1 == "https://roundtable.bot/api/tools/write_file"
     assert h1["Authorization"] == "Bearer test-not-a-key"
+    assert h1["User-Agent"] == "roundtable-transfer/1.0"
     assert b1["path"] == "receipts/claims.json" and b1["message"] == "source=llm" and b1["request_id"]
     assert u2.endswith("/read_file") and "request_id" not in b2
     assert u3.endswith("/record") and b3["kind"] == "journal" and b3["request_id"]

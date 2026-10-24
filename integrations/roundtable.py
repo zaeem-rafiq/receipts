@@ -17,6 +17,7 @@ STATE = {"remote_ok": False, "last_error": None, "calls": 0}
 
 
 FOLDER = "receipts"
+USER_AGENT = "roundtable-transfer/1.0"  # the edge rejects default Python agents (per Roundtable's connect prompt)
 _versions = {}  # file name -> latest remote version id seen in this process
 
 
@@ -33,7 +34,8 @@ class Client:
         body = dict(args, request_id=str(uuid.uuid4())) if write else args
         for attempt in range(2):
             r = requests.post(f"{self.url}/api/tools/{tool}", json=body, timeout=self.timeout,
-                              headers={"Authorization": f"Bearer {self.key}", "Content-Type": "application/json"})
+                              headers={"Authorization": f"Bearer {self.key}", "Content-Type": "application/json",
+                                       "User-Agent": USER_AGENT})
             if r.status_code in (429, 502, 503, 504) and attempt == 0:
                 time.sleep(1)
                 continue
