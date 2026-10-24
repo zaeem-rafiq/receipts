@@ -185,3 +185,13 @@ def test_engine_cards_carry_world_and_profile_without_moving_headline(monkeypatc
     monkeypatch.setattr(findings, "depth", None)
     without = findings.run(run_date=RUN)
     assert with_depth["headline"] == without["headline"] and with_depth["display"] == without["display"]
+
+
+def test_lines_helper():
+    assert depth.lines({}) == [] and depth.lines({"error": "KeyError"}) == []
+    w = depth.world(real("news", "braze.com"), [])
+    assert depth.lines(w) == [w["momentum_line"]]
+    p = depth.profile(real("enrichment", "braze.com"), "braze.com", {"mrr_now": 6000}, CFG, RUN,
+                      events=[{"class": "acquisition", "in_window": True, "article_id": "a"}])
+    ls = depth.lines(p)
+    assert ls[0].startswith("Pays $72,000 ARR") and "announced, not closed" in ls[1]
