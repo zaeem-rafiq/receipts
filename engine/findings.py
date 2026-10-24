@@ -81,7 +81,7 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
         world, prof = {}, {}
         if depth is not None and akta_enabled and lg["website"]:
             try:
-                world, prof = depth.world(nws, ak["events"]), depth.profile(enr, ak["domain"], row)
+                world, prof = depth.world(nws, ak["events"]), depth.profile(enr, ak["domain"], row, events=ak["events"])
             except Exception as e:  # depth is additive; a failure there never breaks the receipt
                 world = {"error": type(e).__name__}
         top = rules.most_severe(ak["events"], ak.get("operating_status"))
