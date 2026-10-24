@@ -25,7 +25,7 @@ python -m pytest -q tests       # 166 checks, oracle in tests/oracle.json
 streamlit run streamlit_app.py
 ```
 
-Keys are read from the environment, a git-ignored `.env` in the repo root (`cp .env.example .env`), or the Streamlit Secrets box: `AKTA_API_KEY`, `NICRRON_API_KEY`, `PRISMTRACE_API_KEY` (plus `PRISMTRACE_PROJECT_ID` and `PRISMTRACE_HOST`, which default to the Receipts project and PRISM's API host). Missing keys never crash the app; the matching badge reads OFF or MOCK. `AKTA_OFFLINE=1` (the default) serves Akta data from `demo_cache/akta/` only; `AKTA_OFFLINE=0 AKTA_LIVE_BUDGET=200` (the public host's setting) allows up to 200 live API calls per process, two per new company, before the panel falls back to the cache. `python scripts/warm.py` fills the cache for the 12 logo slots and the pre-warmed live-panel names.
+Keys are read from the environment, a git-ignored `.env` in the repo root (`cp .env.example .env`), or the Streamlit Secrets box: `AKTA_API_KEY`, `NICRRON_API_KEY`, `PRISMTRACE_API_KEY` (plus `PRISMTRACE_PROJECT_ID` and `PRISMTRACE_HOST`, which default to the Receipts project and PRISM's API host). Missing keys never crash the app; the matching badge reads OFF or MOCK. `AKTA_OFFLINE=1` (the default) serves Akta data from `demo_cache/akta/` only; `AKTA_OFFLINE=0 AKTA_LIVE_BUDGET=500` (the public host's setting) allows up to 500 live API calls per process, two per new company, before the panel falls back to the cache. `python scripts/warm.py` fills the cache for the 12 logo slots and the pre-warmed live-panel names.
 
 ## What is real and what is not
 
