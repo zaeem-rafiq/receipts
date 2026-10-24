@@ -1,0 +1,134 @@
+{
+ "fetched_at": "2026-10-24T12:09:55",
+ "params": {
+  "query": "granola.ai"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "000024b",
+    "name": "Granola",
+    "website": "https://www.granola.ai",
+    "product_category": "Ai Meeting Transcription Software",
+    "company_status": "private",
+    "akta_rank": 31264
+   },
+   {
+    "uuid": "028vhja",
+    "name": "Granola Life Ltd.",
+    "website": "https://www.granolalife.ca/",
+    "product_category": "Plant-based granola products",
+    "company_status": "private",
+    "akta_rank": 14776684
+   },
+   {
+    "uuid": "02m5cm8",
+    "name": "Granola",
+    "website": "https://www.granola.team",
+    "product_category": "Software Consulting",
+    "company_status": "private",
+    "akta_rank": 13188528
+   },
+   {
+    "uuid": "000nlfc",
+    "name": "Granol",
+    "website": "https://www.granol.com.br",
+    "product_category": "Agricultural Products and Biofuels",
+    "company_status": "private",
+    "akta_rank": 435076
+   },
+   {
+    "uuid": "0005f8r",
+    "name": "Guru Granola",
+    "website": "https://guru-granola.com",
+    "product_category": "Health Foods And Retreats",
+    "company_status": "private",
+    "akta_rank": 5925792
+   },
+   {
+    "uuid": "02lx8sp",
+    "name": "Granol AG",
+    "website": "https://granol.ch",
+    "product_category": "Construction Materials",
+    "company_status": "private",
+    "akta_rank": 5754624
+   },
+   {
+    "uuid": "02lxsgp",
+    "name": "Granova D.o.o.",
+    "website": "https://www.granova.hr",
+    "product_category": "Railway Infrastructure Engineering Services",
+    "company_status": "private",
+    "akta_rank": 6035780
+   },
+   {
+    "uuid": "00rz87v",
+    "name": "Gr\u00e2ndola",
+    "website": "https://www.cm-grandola.pt",
+    "product_category": "Municipal Government Services",
+    "company_status": "private",
+    "akta_rank": 1755809
+   },
+   {
+    "uuid": "02lxifu",
+    "name": "Granula Masterbatches India Private Limited",
+    "website": "https://www.granula.in",
+    "product_category": "Polymer Masterbatches and Compounds",
+    "company_status": "private",
+    "akta_rank": 2567656
+   },
+   {
+    "uuid": "0032y26",
+    "name": "GRANOTA.NET",
+    "website": "https://www.granota.eu/",
+    "product_category": "Digital Marketing Services",
+    "company_status": "private",
+    "akta_rank": 15926406
+   },
+   {
+    "uuid": "000cndr",
+    "name": "Grayola",
+    "website": "https://grayola.io/",
+    "product_category": "Digital Design Services",
+    "company_status": "private",
+    "akta_rank": 5348704
+   },
+   {
+    "uuid": "0026bzv",
+    "name": "Glanola",
+    "website": "http://www.glanola.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 11763580
+   },
+   {
+    "uuid": "0033kn7",
+    "name": "Glanola North America",
+    "website": "https://glanola.com/",
+    "product_category": "Draft Beverage Cleaning Equipment",
+    "company_status": "private",
+    "akta_rank": 13987964
+   },
+   {
+    "uuid": "004hprz",
+    "name": "Gianola S.p.A.",
+    "website": "https://gianola.it",
+    "product_category": "Undetermined small Italian enterprise",
+    "company_status": "",
+    "akta_rank": 18585943
+   },
+   {
+    "uuid": "002bzjc",
+    "name": "Sarna-Granol",
+    "website": "https://sarna-granol.ch",
+    "product_category": "Building Materials",
+    "company_status": "private",
+    "akta_rank": 5692796
+   }
+  ],
+  "count": 15,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

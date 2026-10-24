@@ -1,0 +1,126 @@
+{
+ "fetched_at": "2026-10-24T12:09:02",
+ "params": {
+  "query": "justworks.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "00000sr",
+    "name": "Justworks",
+    "website": "https://www.justworks.com",
+    "product_category": "Payroll Hr Compliance Software",
+    "company_status": "delisted",
+    "akta_rank": 14532
+   },
+   {
+    "uuid": "000e45n",
+    "name": "JustWorks",
+    "website": "http://www.justworks.net",
+    "product_category": "Managed IT Services",
+    "company_status": "private",
+    "akta_rank": 2005961
+   },
+   {
+    "uuid": "002b3q5",
+    "name": "Justworks",
+    "website": "https://justworks.dk/",
+    "product_category": "Web Development and Digital Agency Services",
+    "company_status": "private",
+    "akta_rank": 12585940
+   },
+   {
+    "uuid": "00sk7hf",
+    "name": "Just Word Ministries",
+    "website": "https://justword.com/app/",
+    "product_category": "Christian Bible Study Education",
+    "company_status": "private",
+    "akta_rank": 5255468
+   },
+   {
+    "uuid": "0021v7s",
+    "name": "Justworx",
+    "website": "https://justworx.store/",
+    "product_category": "Domain Discovery Platform",
+    "company_status": "private",
+    "akta_rank": 14276252
+   },
+   {
+    "uuid": "028vr66",
+    "name": "Just Socks Foundation",
+    "website": "https://www.justsocks.ca/",
+    "product_category": "Charitable Services for the Homeless",
+    "company_status": "private",
+    "akta_rank": 4546496
+   },
+   {
+    "uuid": "02lnplx",
+    "name": "Just4work",
+    "website": "https://just4work.nl",
+    "product_category": "Career Coaching and Reintegration Services",
+    "company_status": "private",
+    "akta_rank": 5776840
+   },
+   {
+    "uuid": "004phsc",
+    "name": "Just Wok",
+    "website": "https://justwok.ca",
+    "product_category": "Asian Restaurant / Chinese & Thai Take-Out and Delivery",
+    "company_status": "",
+    "akta_rank": 15565314
+   },
+   {
+    "uuid": "006fd67",
+    "name": "Junoworks",
+    "website": "https://www.junoworks.com",
+    "product_category": "Custom Metal Fabrication and Sculpture Manufacturing",
+    "company_status": "private",
+    "akta_rank": 4311400
+   },
+   {
+    "uuid": "002sb5p",
+    "name": "Jumpworks",
+    "website": "https://jumpworks.co.uk",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 9753705
+   },
+   {
+    "uuid": "0034fw5",
+    "name": "JuniWorks Marketing",
+    "website": "https://www.juniworks.se/",
+    "product_category": "Digital Marketing Consulting",
+    "company_status": "private",
+    "akta_rank": 15564240
+   },
+   {
+    "uuid": "02lphqe",
+    "name": "Jsl Law, Llc",
+    "website": "https://www.jslworks.law",
+    "product_category": "Legal Services \u2014 Employment Law",
+    "company_status": "private",
+    "akta_rank": 6121748
+   },
+   {
+    "uuid": "004pegw",
+    "name": "JUJU Works",
+    "website": "https://jujuworks.fi",
+    "product_category": "",
+    "company_status": "",
+    "akta_rank": 18703576
+   },
+   {
+    "uuid": "000nixz",
+    "name": "Content Agency Justwords Consultants",
+    "website": "https://www.justwords.in/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 3912756
+   }
+  ],
+  "count": 14,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

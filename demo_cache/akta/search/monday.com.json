@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:08:29",
+ "params": {
+  "query": "monday.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "000003l",
+    "name": "monday.com",
+    "website": "https://monday.com",
+    "product_category": "Work Management Software",
+    "company_status": "public",
+    "akta_rank": 3395
+   },
+   {
+    "uuid": "000y9ik",
+    "name": "Monday Capital",
+    "website": "https://monday.capital",
+    "product_category": "Venture Capital Investments",
+    "company_status": "private",
+    "akta_rank": 110122
+   },
+   {
+    "uuid": "0024ge8",
+    "name": "Monday Consulting",
+    "website": "https://www.monday-consulting.com/",
+    "product_category": "Digital Transformation Consulting Services",
+    "company_status": "private",
+    "akta_rank": 1281026
+   },
+   {
+    "uuid": "000sivt",
+    "name": "Monday Talent",
+    "website": "https://www.monday-talent.com",
+    "product_category": "Talent Recruitment Services",
+    "company_status": "private",
+    "akta_rank": 2175284
+   },
+   {
+    "uuid": "000vaf3",
+    "name": "Monday Blues",
+    "website": "https://monday-blues.com/",
+    "product_category": "Employee Wellness Software",
+    "company_status": "private",
+    "akta_rank": 6121748
+   },
+   {
+    "uuid": "02lp1vd",
+    "name": "Mondaycoffee Ag",
+    "website": "https://www.mondaycoffee.com",
+    "product_category": "Enterprise Collaboration Software",
+    "company_status": "private",
+    "akta_rank": 1011608
+   },
+   {
+    "uuid": "02lkved",
+    "name": "Monday Sports Club",
+    "website": "https://www.monday-sportsclub.com",
+    "product_category": "Boutique group fitness studios",
+    "company_status": "private",
+    "akta_rank": 8621170
+   },
+   {
+    "uuid": "004wy9s",
+    "name": "Monday Collective",
+    "website": "https://mondaycollective.com",
+    "product_category": "Enterprise Technology Consulting",
+    "company_status": "",
+    "akta_rank": 1677503
+   },
+   {
+    "uuid": "00fkbgw",
+    "name": "Mondaymorning Creativelab",
+    "website": "https://www.monday-lab.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 17036028
+   },
+   {
+    "uuid": "004wy9y",
+    "name": "Monday Marketing",
+    "website": "https://monday-marketing.com",
+    "product_category": "Marketing Services",
+    "company_status": "",
+    "akta_rank": 18468873
+   },
+   {
+    "uuid": "002rn3p",
+    "name": "Monday",
+    "website": "http://www.monday-portage-salarial.com",
+    "product_category": "Umbrella Payroll Services",
+    "company_status": "private",
+    "akta_rank": 16085109
+   },
+   {
+    "uuid": "0000roq",
+    "name": "Monda",
+    "website": "https://www.monda.ai",
+    "product_category": "Data Monetization Platform",
+    "company_status": "private",
+    "akta_rank": 210110
+   },
+   {
+    "uuid": "000ftu2",
+    "name": "Mondas",
+    "website": "https://mondas-iot.com",
+    "product_category": "Iot Energy Management Platform",
+    "company_status": "private",
+    "akta_rank": 2163647
+   },
+   {
+    "uuid": "002i81i",
+    "name": "Next Monday",
+    "website": "https://next-monday.com/",
+    "product_category": "Professional Coaching and Leadership Development",
+    "company_status": "private",
+    "akta_rank": 2690344
+   },
+   {
+    "uuid": "002jb1r",
+    "name": "Great Monday",
+    "website": "http://great-monday.com",
+    "product_category": "Leadership Consulting Services",
+    "company_status": "private",
+    "akta_rank": 12322948
+   },
+   {
+    "uuid": "000to23",
+    "name": "Third Monday",
+    "website": "https://third-monday.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 13366604
+   },
+   {
+    "uuid": "000attk",
+    "name": "Mondaq",
+    "website": "http://mondaq.com/",
+    "product_category": "Legal Content Platform",
+    "company_status": "private",
+    "akta_rank": 114252
+   },
+   {
+    "uuid": "003waeo",
+    "name": "Mondly",
+    "website": "https://www.mondly.com",
+    "product_category": "Language Learning Software",
+    "company_status": "private",
+    "akta_rank": 902016
+   },
+   {
+    "uuid": "0002qxq",
+    "name": "Monay",
+    "website": "https://monay.com.tr/",
+    "product_category": "Personal Finance Management App",
+    "company_status": "private",
+    "akta_rank": 1003337
+   },
+   {
+    "uuid": "004wy9w",
+    "name": "IFIED",
+    "website": "https://monday.ifiedinc.com",
+    "product_category": "Work Management Software Reseller",
+    "company_status": "",
+    "akta_rank": 11774860
+   },
+   {
+    "uuid": "000gn9p",
+    "name": "Mon-Ray",
+    "website": "https://www.monray.com",
+    "product_category": "Aluminum Window Door Products",
+    "company_status": "private",
+    "akta_rank": 2289815
+   },
+   {
+    "uuid": "002cp1w",
+    "name": "Mondat",
+    "website": "https://mondat.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 3322580
+   },
+   {
+    "uuid": "002ddwr",
+    "name": "Monay Payments",
+    "website": "https://monay.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 7469640
+   },
+   {
+    "uuid": "002k9zp",
+    "name": "Mondays Labs",
+    "website": "https://mondays.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 7487090
+   },
+   {
+    "uuid": "0035ntf",
+    "name": "Montax",
+    "website": "https://www.mondax.com.br",
+    "product_category": "Internet Service Provider",
+    "company_status": "private",
+    "akta_rank": 10068840
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

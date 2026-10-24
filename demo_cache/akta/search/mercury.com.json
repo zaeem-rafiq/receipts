@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:08:37",
+ "params": {
+  "query": "mercury.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "00000v7",
+    "name": "Mercury",
+    "website": "https://mercury.com",
+    "product_category": "Fintech Banking Platform",
+    "company_status": "private",
+    "akta_rank": 2431
+   },
+   {
+    "uuid": "000rs5s",
+    "name": "Mercury",
+    "website": "https://www.mercury.co.nz/",
+    "product_category": "Energy And Telecommunications Provider",
+    "company_status": "public",
+    "akta_rank": 18329
+   },
+   {
+    "uuid": "004vrb4",
+    "name": "Mercury Communications",
+    "website": "https://mercury-com.com",
+    "product_category": "Network Security Services",
+    "company_status": "",
+    "akta_rank": 15667326
+   },
+   {
+    "uuid": "0038ika",
+    "name": "Mercury",
+    "website": "http://www.mercury-networks.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 10950530
+   },
+   {
+    "uuid": "003ksec",
+    "name": "Mercury Industries",
+    "website": "https://www.mercury.com.my/",
+    "product_category": "Building Construction, Automotive Paints",
+    "company_status": "public",
+    "akta_rank": 9171015
+   },
+   {
+    "uuid": "00004ik",
+    "name": "Mercuryo",
+    "website": "https://mercuryo.io",
+    "product_category": "Cryptocurrency Payment Platform",
+    "company_status": "private",
+    "akta_rank": 28751
+   },
+   {
+    "uuid": "0003fdy",
+    "name": "Mercury Japan",
+    "website": "http://www.mercury-group.co.jp",
+    "product_category": "Sales Promotion Consulting Services",
+    "company_status": "private",
+    "akta_rank": 69972
+   },
+   {
+    "uuid": "00006a5",
+    "name": "Mercuri",
+    "website": "https://www.mercuri.vc",
+    "product_category": "Venture Capital Services",
+    "company_status": "private",
+    "akta_rank": 31553
+   },
+   {
+    "uuid": "0009j52",
+    "name": "Mercury",
+    "website": "https://mercurycorp.com",
+    "product_category": "Contract Manufacturing Services",
+    "company_status": "private",
+    "akta_rank": 355866
+   },
+   {
+    "uuid": "000n5nh",
+    "name": "Mercury Plastics",
+    "website": "https://www.mercury-plastics.com/",
+    "product_category": "Thermoplastic Products Manufacturer",
+    "company_status": "private",
+    "akta_rank": 471178
+   },
+   {
+    "uuid": "000ojfw",
+    "name": "Mercury Associates",
+    "website": "http://mercury-assoc.com",
+    "product_category": "Fleet Management Consulting",
+    "company_status": "private",
+    "akta_rank": 477402
+   },
+   {
+    "uuid": "000gjd8",
+    "name": "Mercury Delivery Services",
+    "website": "https://mercury-delivery.com",
+    "product_category": "Local Courier & Same-Day Delivery Services",
+    "company_status": "private",
+    "akta_rank": 1190018
+   },
+   {
+    "uuid": "002qz3f",
+    "name": "Mercury Integrated",
+    "website": "https://mercury-integrated.com",
+    "product_category": "Marketing & Advertising Services",
+    "company_status": "private",
+    "akta_rank": 1453793
+   },
+   {
+    "uuid": "002ytqu",
+    "name": "Mercury FX",
+    "website": "https://www.mercury-fx.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 4170484
+   },
+   {
+    "uuid": "004vrbg",
+    "name": "MercuryMS s.r.o",
+    "website": "https://mercury-dic.com",
+    "product_category": "Optical Measurement Systems",
+    "company_status": "",
+    "akta_rank": 4379836
+   },
+   {
+    "uuid": "028mvhm",
+    "name": "Mercury Payments Services",
+    "website": "https://mercury-pay.com",
+    "product_category": "Payment Infrastructure",
+    "company_status": "private",
+    "akta_rank": 6447068
+   },
+   {
+    "uuid": "025r678",
+    "name": "MERCURY GLOBAL PACKAGING SOLUTIONS (UK) LIMITED",
+    "website": "http://www.mercury-pac.com",
+    "product_category": "Custom Sustainable Packaging Solutions",
+    "company_status": "private",
+    "akta_rank": 6769300
+   },
+   {
+    "uuid": "002elvm",
+    "name": "Mercuri International",
+    "website": "https://mercuri.de/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 472392
+   },
+   {
+    "uuid": "0008guh",
+    "name": "Mercur",
+    "website": "http://www.mercur.se",
+    "product_category": "Enterprise Performance Management (EPM) Software",
+    "company_status": "private",
+    "akta_rank": 621018
+   },
+   {
+    "uuid": "000p8kx",
+    "name": "Merk\u00fcr Makina San. ve Tic.",
+    "website": "https://www.mercury.com.tr",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 6244040
+   },
+   {
+    "uuid": "000u1r4",
+    "name": "Matthew Mercury Watches",
+    "website": "https://matthew-mercury.com",
+    "product_category": "Luxury Watches",
+    "company_status": "private",
+    "akta_rank": 11784776
+   },
+   {
+    "uuid": "0024pzx",
+    "name": "BMT Mercury Technology",
+    "website": "https://www.bmt-mercury.com",
+    "product_category": "Hazardous Waste Management Services",
+    "company_status": "private",
+    "akta_rank": 1637423
+   },
+   {
+    "uuid": "0027vo9",
+    "name": "Mercury Technology Consultant",
+    "website": "https://www.mercury-technology.com",
+    "product_category": "Cybersecurity It Services",
+    "company_status": "private",
+    "akta_rank": 9050555
+   },
+   {
+    "uuid": "004vrbe",
+    "name": "Mercury Design",
+    "website": "https://mercury-design.com",
+    "product_category": "Architecture & Interior Design Services",
+    "company_status": "",
+    "akta_rank": 9515890
+   },
+   {
+    "uuid": "004vrc3",
+    "name": "MERCURY SERVICES",
+    "website": "https://mercury-france.com",
+    "product_category": "Construction Staffing Services",
+    "company_status": "",
+    "akta_rank": 10290380
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

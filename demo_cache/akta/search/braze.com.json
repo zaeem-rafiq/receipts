@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:08:54",
+ "params": {
+  "query": "braze.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "000033p",
+    "name": "Braze",
+    "website": "https://www.braze.com",
+    "product_category": "Customer Engagement Platform",
+    "company_status": "public",
+    "akta_rank": 2260
+   },
+   {
+    "uuid": "00002cr",
+    "name": "Brave",
+    "website": "https://www.brave.com/",
+    "product_category": "Browser And Search Platform",
+    "company_status": "private",
+    "akta_rank": 9950
+   },
+   {
+    "uuid": "00002sn",
+    "name": "Brale",
+    "website": "https://brale.xyz",
+    "product_category": "Finance Technology Platform",
+    "company_status": "private",
+    "akta_rank": 28317
+   },
+   {
+    "uuid": "000ddcs",
+    "name": "Brakes",
+    "website": "https://www.brake.co.uk/",
+    "product_category": "Wholesale Food Supplier",
+    "company_status": "private",
+    "akta_rank": 48400
+   },
+   {
+    "uuid": "02m5dfg",
+    "name": "braza churrascaria",
+    "website": "https://braza.com.au",
+    "product_category": "Brazilian Barbecue Restaurant",
+    "company_status": "private",
+    "akta_rank": 3483788
+   },
+   {
+    "uuid": "0007kl9",
+    "name": "blaze",
+    "website": "https://blaze.com",
+    "product_category": "Online Responsible Gaming Platform",
+    "company_status": "private",
+    "akta_rank": 42757
+   },
+   {
+    "uuid": "0002ur6",
+    "name": "Brate",
+    "website": "https://brate.com",
+    "product_category": "Online Travel Guide Platform",
+    "company_status": "private",
+    "akta_rank": 8846950
+   },
+   {
+    "uuid": "000wo9j",
+    "name": "BREZE",
+    "website": "http://breze.com",
+    "product_category": "It Consulting Services",
+    "company_status": "private",
+    "akta_rank": 7655310
+   },
+   {
+    "uuid": "0041j9x",
+    "name": "Brage Viagens E Turismo",
+    "website": "https://brage.com.br",
+    "product_category": "Travel Agency Services",
+    "company_status": "",
+    "akta_rank": 17038446
+   },
+   {
+    "uuid": "000mpt7",
+    "name": "Bruze",
+    "website": "https://bruze.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 9777425
+   },
+   {
+    "uuid": "0002l2x",
+    "name": "Baze",
+    "website": "https://www.baze.com/",
+    "product_category": "Blood Test Supplement Subscription",
+    "company_status": "private",
+    "akta_rank": 300366
+   },
+   {
+    "uuid": "0031nqd",
+    "name": "Brane Corporation",
+    "website": "http://brane.com",
+    "product_category": "Technology Consulting",
+    "company_status": "private",
+    "akta_rank": 18471160
+   },
+   {
+    "uuid": "002do6q",
+    "name": "Brize",
+    "website": "https://www.brize.com/",
+    "product_category": "Digital Marketing Agency",
+    "company_status": "private",
+    "akta_rank": 10048970
+   },
+   {
+    "uuid": "0000dq4",
+    "name": "Blaze.tech",
+    "website": "https://www.Blaze.tech",
+    "product_category": "No Code Development Platform",
+    "company_status": "private",
+    "akta_rank": 175664
+   },
+   {
+    "uuid": "0000ogq",
+    "name": "BLAZE\u00ae",
+    "website": "https://www.blaze.me/",
+    "product_category": "Cannabis Operations Management Software",
+    "company_status": "private",
+    "akta_rank": 206398
+   },
+   {
+    "uuid": "000214h",
+    "name": "Text Blaze",
+    "website": "https://blaze.today",
+    "product_category": "Text Expansion Automation Software",
+    "company_status": "private",
+    "akta_rank": 287996
+   },
+   {
+    "uuid": "00hfqwc",
+    "name": "Blaze Consultancy",
+    "website": "http://blaze.com.hk/",
+    "product_category": "Business Consulting Services",
+    "company_status": "private",
+    "akta_rank": 13112716
+   },
+   {
+    "uuid": "0024ruy",
+    "name": "Bonnie Brae",
+    "website": "http://www.bonnie-brae.org",
+    "product_category": "Residential Youth Treatment Services",
+    "company_status": "private",
+    "akta_rank": 368422
+   },
+   {
+    "uuid": "002k4e4",
+    "name": "Blaze Software",
+    "website": "http://www.blaze.com.au",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 14688956
+   },
+   {
+    "uuid": "000dx74",
+    "name": "M R Braz & Associates",
+    "website": "https://mr-braz.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 1045097
+   },
+   {
+    "uuid": "002xo9r",
+    "name": "Guiyang Tianlong Friction Material Co.",
+    "website": "https://www.talfri-brake.com",
+    "product_category": "Industrial Friction Materials",
+    "company_status": "private",
+    "akta_rank": 2142035
+   },
+   {
+    "uuid": "0026lof",
+    "name": "Verde Environmental",
+    "website": "https://www.micro-blaze.com/",
+    "product_category": "Bioremediation Products",
+    "company_status": "private",
+    "akta_rank": 2872836
+   },
+   {
+    "uuid": "004f36c",
+    "name": "Xiamen LongStar Medical Equipment Co.,Ltd",
+    "website": "https://fg-brace.com",
+    "product_category": "Orthopedic Medical Devices",
+    "company_status": "",
+    "akta_rank": 4810080
+   },
+   {
+    "uuid": "02lt25e",
+    "name": "OrthoLine Ltd.",
+    "website": "https://www.uzor-brace.com",
+    "product_category": "Orthopedic Medical Devices",
+    "company_status": "private",
+    "akta_rank": 6284660
+   },
+   {
+    "uuid": "003p1y5",
+    "name": "Triple Blaze Consulting",
+    "website": "https://triple-blaze.com",
+    "product_category": "Management Consulting",
+    "company_status": "private",
+    "akta_rank": 10435285
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

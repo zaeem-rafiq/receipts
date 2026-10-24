@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:10:03",
+ "params": {
+  "query": "relay.app"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "0003s9l",
+    "name": "Relay",
+    "website": "https://www.relay.app",
+    "product_category": "Workflow Automation Software",
+    "company_status": "private",
+    "akta_rank": 43043
+   },
+   {
+    "uuid": "002d6xv",
+    "name": "Relay Application Innovation",
+    "website": "https://www.relayapplication.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 916686
+   },
+   {
+    "uuid": "025cwi6",
+    "name": "Relay app",
+    "website": "https://relayapp.ng",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 8799420
+   },
+   {
+    "uuid": "00035g8",
+    "name": "REPAY",
+    "website": "https://www.repay.com/",
+    "product_category": "Payment Processing Solutions",
+    "company_status": "public",
+    "akta_rank": 1554
+   },
+   {
+    "uuid": "000kp67",
+    "name": "Relay Software",
+    "website": "https://relayapp.com",
+    "product_category": "Community Safety Communication Platform",
+    "company_status": "private",
+    "akta_rank": 17980560
+   },
+   {
+    "uuid": "005777s",
+    "name": "RELAY FRANCE",
+    "website": "https://relay.fr",
+    "product_category": "Travel Retail Convenience Stores",
+    "company_status": "",
+    "akta_rank": 496270
+   },
+   {
+    "uuid": "0000sud",
+    "name": "Relayr",
+    "website": "http://relayr.io/",
+    "product_category": "Enterprise IoT Solutions Provider",
+    "company_status": "private",
+    "akta_rank": 219146
+   },
+   {
+    "uuid": "002bp8b",
+    "name": "Relay.com",
+    "website": "https://www.relay.com",
+    "product_category": "Digital Media Platform",
+    "company_status": "private",
+    "akta_rank": 546440
+   },
+   {
+    "uuid": "000g9om",
+    "name": "Relay GSE",
+    "website": "https://www.relay.edu",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 585616
+   },
+   {
+    "uuid": "000adnh",
+    "name": "Relay2",
+    "website": "http://www.relay2.com/",
+    "product_category": "Managed Wifi And Edge Computing",
+    "company_status": "private",
+    "akta_rank": 232550
+   },
+   {
+    "uuid": "0008i91",
+    "name": "Relax Gaming",
+    "website": "http://www.relax-gaming.com/home/",
+    "product_category": "iGaming Software and Content Aggregation",
+    "company_status": "private",
+    "akta_rank": 38785
+   },
+   {
+    "uuid": "000prxp",
+    "name": "Relay Engineering",
+    "website": "https://www.relay-engineering.com",
+    "product_category": "Engineering Services Contractor",
+    "company_status": "private",
+    "akta_rank": 600070
+   },
+   {
+    "uuid": "00078mq",
+    "name": "Relay Delivery",
+    "website": "http://www.relay.delivery",
+    "product_category": "Restaurant Delivery Platform",
+    "company_status": "private",
+    "akta_rank": 641700
+   },
+   {
+    "uuid": "000afw9",
+    "name": "Relay FM",
+    "website": "http://www.relay.fm/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 1660274
+   },
+   {
+    "uuid": "0003jun",
+    "name": "Relay",
+    "website": "https://www.relay.ai",
+    "product_category": "Accounts Payable Automation",
+    "company_status": "private",
+    "akta_rank": 1846361
+   },
+   {
+    "uuid": "000334d",
+    "name": "Relay",
+    "website": "https://the-relay.com",
+    "product_category": "Second-Hand Market Platform",
+    "company_status": "private",
+    "akta_rank": 2147537
+   },
+   {
+    "uuid": "002611v",
+    "name": "Relay Software",
+    "website": "http://www.relay.ie/",
+    "product_category": "Insurance Broker Software",
+    "company_status": "private",
+    "akta_rank": 2602404
+   },
+   {
+    "uuid": "000098h",
+    "name": "Relai",
+    "website": "https://relai.app",
+    "product_category": "Bitcoin Investment Platform",
+    "company_status": "private",
+    "akta_rank": 194224
+   },
+   {
+    "uuid": "00023rh",
+    "name": "Replay",
+    "website": "https://replay.bio/",
+    "product_category": "Gene Therapy Delivery Platform",
+    "company_status": "private",
+    "akta_rank": 85486
+   },
+   {
+    "uuid": "0002l8m",
+    "name": "Reloy",
+    "website": "https://reloy.co/",
+    "product_category": "Real Estate PropTech \u2014 Customer Loyalty & Referral Platform",
+    "company_status": "private",
+    "akta_rank": 367010
+   },
+   {
+    "uuid": "000fgna",
+    "name": "Reclay Group",
+    "website": "https://www.reclay-group.com",
+    "product_category": "Waste Management Consulting",
+    "company_status": "private",
+    "akta_rank": 231784
+   },
+   {
+    "uuid": "003etmg",
+    "name": "Zhejiang Meishuo Electric Technology Co.",
+    "website": "https://www.meishuo-relay.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 382918
+   },
+   {
+    "uuid": "002gqgi",
+    "name": "Bright Toward Industrial",
+    "website": "https://relay.com.tw",
+    "product_category": "Relay And Switch Manufacturer",
+    "company_status": "private",
+    "akta_rank": 674612
+   },
+   {
+    "uuid": "002z6jj",
+    "name": "Relay It - IS-Rayfast",
+    "website": "https://www.relay-it.co.uk",
+    "product_category": "Electromechanical Components Manufacturing",
+    "company_status": "private",
+    "akta_rank": 3112812
+   },
+   {
+    "uuid": "005777w",
+    "name": "RELAY GmbH - Creative Event Transportation",
+    "website": "https://relay-on.de",
+    "product_category": "Event Transportation Services",
+    "company_status": "",
+    "akta_rank": 3234688
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

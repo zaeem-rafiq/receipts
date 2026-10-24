@@ -1,0 +1,182 @@
+{
+ "fetched_at": "2026-10-24T12:09:47",
+ "params": {
+  "query": "resend.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "0000bj6",
+    "name": "Resend",
+    "website": "https://resend.com",
+    "product_category": "Transactional Email Api",
+    "company_status": "private",
+    "akta_rank": 71298
+   },
+   {
+    "uuid": "003csy6",
+    "name": "Resend Agency",
+    "website": "https://resend.hu",
+    "product_category": "B2B Lead Generation Services",
+    "company_status": "private",
+    "akta_rank": 16344360
+   },
+   {
+    "uuid": "0057f3m",
+    "name": "Resind Ind\u00fastria e Com\u00e9rcio LTDA",
+    "website": "https://resind.com.br",
+    "product_category": "Specialty Metallurgy",
+    "company_status": "",
+    "akta_rank": 5078160
+   },
+   {
+    "uuid": "0005y7o",
+    "name": "Resene",
+    "website": "https://www.resene.co.nz",
+    "product_category": "Paint Coatings Manufacturer",
+    "company_status": "private",
+    "akta_rank": 308930
+   },
+   {
+    "uuid": "0057dwd",
+    "name": "Reseni Oy",
+    "website": "https://reseni.fi",
+    "product_category": "Quality Management Software and Consulting Services",
+    "company_status": "",
+    "akta_rank": 4005704
+   },
+   {
+    "uuid": "00035gd",
+    "name": "ReSeed",
+    "website": "https://www.reseed.farm/",
+    "product_category": "Carbon Credit and ESG Claims Platform",
+    "company_status": "private",
+    "akta_rank": 739856
+   },
+   {
+    "uuid": "003dewv",
+    "name": "Municipio de Resende",
+    "website": "https://cm-resende.pt/",
+    "product_category": "Municipal Government Services",
+    "company_status": "private",
+    "akta_rank": 1930487
+   },
+   {
+    "uuid": "0022n8f",
+    "name": "RevSend",
+    "website": "https://www.revsend.com",
+    "product_category": "B2B Corporate Gifting Platform",
+    "company_status": "private",
+    "akta_rank": 2189246
+   },
+   {
+    "uuid": "003rh7m",
+    "name": "Resen",
+    "website": "https://resen.co",
+    "product_category": "Design and Engineering Studio Services",
+    "company_status": "",
+    "akta_rank": 12388472
+   },
+   {
+    "uuid": "000uzqe",
+    "name": "Remend",
+    "website": "https://www.remend.com",
+    "product_category": "Software Asset Management Advisory",
+    "company_status": "private",
+    "akta_rank": 2656572
+   },
+   {
+    "uuid": "0000i9a",
+    "name": "Resand Oy",
+    "website": "https://resand.eu/",
+    "product_category": "Foundry Sand Reclamation Systems",
+    "company_status": "private",
+    "akta_rank": 599496
+   },
+   {
+    "uuid": "00stk16",
+    "name": "Revend",
+    "website": "https://revend.com",
+    "product_category": "Inventory Recovery & Liquidation Logistics",
+    "company_status": "private",
+    "akta_rank": 12956148
+   },
+   {
+    "uuid": "00022km",
+    "name": "Regend Therapeutics",
+    "website": "http://regend.cn/",
+    "product_category": "Autologous Stem Cell Therapy",
+    "company_status": "private",
+    "akta_rank": 118104
+   },
+   {
+    "uuid": "0003j9b",
+    "name": "Revend",
+    "website": "https://www.revend.ai/",
+    "product_category": "Ecommerce Analytics Platform",
+    "company_status": "private",
+    "akta_rank": 3707152
+   },
+   {
+    "uuid": "0057l1z",
+    "name": "Revend Group",
+    "website": "https://revend.group",
+    "product_category": "UI/UX Design Services",
+    "company_status": "",
+    "akta_rank": 6545905
+   },
+   {
+    "uuid": "00yfq9d",
+    "name": "ReMend",
+    "website": "https://remend.org",
+    "product_category": "Patient Support Services",
+    "company_status": "private",
+    "akta_rank": 8039720
+   },
+   {
+    "uuid": "003cwee",
+    "name": "reSeed Ventures",
+    "website": "http://reseed.co",
+    "product_category": "Transaction Digitization Platform",
+    "company_status": "private",
+    "akta_rank": 13673116
+   },
+   {
+    "uuid": "0057982",
+    "name": "REMEND\u00ae",
+    "website": "https://remend.se",
+    "product_category": "Premium Fitness and Wellness Center",
+    "company_status": "",
+    "akta_rank": 15826305
+   },
+   {
+    "uuid": "00341q1",
+    "name": "Reseed AB",
+    "website": "http://www.reseed.se/",
+    "product_category": "IT Consulting Services",
+    "company_status": "private",
+    "akta_rank": 16527378
+   },
+   {
+    "uuid": "00sranc",
+    "name": "RE\u0160ENO",
+    "website": "https://www.reseno.si",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 16669575
+   },
+   {
+    "uuid": "005743p",
+    "name": "Regend Services (Pty) Ltd.",
+    "website": "https://regend.co.za",
+    "product_category": "General Business Services",
+    "company_status": "",
+    "akta_rank": 17697834
+   }
+  ],
+  "count": 21,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

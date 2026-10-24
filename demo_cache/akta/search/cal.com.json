@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:09:32",
+ "params": {
+  "query": "cal.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "0000c8z",
+    "name": "Cal.com",
+    "website": "https://cal.com",
+    "product_category": "Appointment Scheduling Software",
+    "company_status": "private",
+    "akta_rank": 210424
+   },
+   {
+    "uuid": "00026qd",
+    "name": "CAL",
+    "website": "https://cal.lk",
+    "product_category": "Investment Banking Services",
+    "company_status": "public",
+    "akta_rank": 127634
+   },
+   {
+    "uuid": "002kjgh",
+    "name": "CAL",
+    "website": "https://cal.co.jp",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 215016
+   },
+   {
+    "uuid": "00037k4",
+    "name": "Cal.Net",
+    "website": "http://www.cal.net",
+    "product_category": "Broadband Internet Service Provider",
+    "company_status": "private",
+    "akta_rank": 114752
+   },
+   {
+    "uuid": "000hgyj",
+    "name": "Cal-Chlor",
+    "website": "https://www.cal-chlor.com",
+    "product_category": "Calcium chloride chemical distribution",
+    "company_status": "private",
+    "akta_rank": 301452
+   },
+   {
+    "uuid": "0042ltm",
+    "name": "CAL \u2013 Casa das Artes de Laranjeiras",
+    "website": "https://www.cal.com.br/",
+    "product_category": "Performing Arts Education",
+    "company_status": "",
+    "akta_rank": 7394970
+   },
+   {
+    "uuid": "000nltl",
+    "name": "Cal-Am Properties",
+    "website": "https://www.cal-am.com",
+    "product_category": "Senior Living Communities",
+    "company_status": "private",
+    "akta_rank": 181346
+   },
+   {
+    "uuid": "002hp4n",
+    "name": "CalCal",
+    "website": "https://www.cal-cal.com/",
+    "product_category": "Health and Wellness Software",
+    "company_status": "private",
+    "akta_rank": 12508028
+   },
+   {
+    "uuid": "0027bfi",
+    "name": "Cal-Lift",
+    "website": "https://www.cal-lift.com",
+    "product_category": "Material Handling Equipment",
+    "company_status": "private",
+    "akta_rank": 530228
+   },
+   {
+    "uuid": "000nj8b",
+    "name": "Cal-Waste Recovery Systems",
+    "website": "http://cal-waste.com/",
+    "product_category": "Waste Management Services",
+    "company_status": "private",
+    "akta_rank": 551272
+   },
+   {
+    "uuid": "002cyag",
+    "name": "CAL",
+    "website": "https://www.cal-lorraine.fr",
+    "product_category": "Agricultural Cooperative Services",
+    "company_status": "private",
+    "akta_rank": 495642
+   },
+   {
+    "uuid": "000epn4",
+    "name": "De-Cal Mechanical Contractors",
+    "website": "http://de-cal.com",
+    "product_category": "Mechanical Contracting Services",
+    "company_status": "private",
+    "akta_rank": 320334
+   },
+   {
+    "uuid": "000riip",
+    "name": "Inter Cal",
+    "website": "http://inter-cal.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 756422
+   },
+   {
+    "uuid": "0042lt9",
+    "name": "Casa de Artes das Laranjeiras",
+    "website": "https://cal.com.br",
+    "product_category": "Performing Arts Education",
+    "company_status": "",
+    "akta_rank": 10559475
+   },
+   {
+    "uuid": "002vau2",
+    "name": "Helical Products Company",
+    "website": "http://heli-cal.com/",
+    "product_category": "Precision Mechanical Components",
+    "company_status": "private",
+    "akta_rank": 1249511
+   },
+   {
+    "uuid": "0042lty",
+    "name": "Cascade Apartments Limited",
+    "website": "https://www.cal.com.pg/",
+    "product_category": "",
+    "company_status": "",
+    "akta_rank": 18589293
+   },
+   {
+    "uuid": "0054t2o",
+    "name": "Practi-Cal",
+    "website": "https://practi-cal.com",
+    "product_category": "School-Based Healthcare Billing & Compliance Software",
+    "company_status": "",
+    "akta_rank": 1406483
+   },
+   {
+    "uuid": "005hu6s",
+    "name": "Tra-Cal",
+    "website": "https://tra-cal.com",
+    "product_category": "Test and Measurement Calibration Services",
+    "company_status": "",
+    "akta_rank": 1711256
+   },
+   {
+    "uuid": "002erxk",
+    "name": "Perma-Cal Industries",
+    "website": "https://www.perma-cal.com",
+    "product_category": "Pressure Gauge Manufacturer",
+    "company_status": "private",
+    "akta_rank": 2021060
+   },
+   {
+    "uuid": "02lfqsx",
+    "name": "Ore-Cal Corp",
+    "website": "https://ore-cal.com",
+    "product_category": "Premium Seafood Products",
+    "company_status": "private",
+    "akta_rank": 2956128
+   },
+   {
+    "uuid": "000pdxf",
+    "name": "Aerospace Testing & Pyrometry",
+    "website": "https://www.atp-cal.com",
+    "product_category": "Thermal Process Compliance Services",
+    "company_status": "private",
+    "akta_rank": 1348577
+   },
+   {
+    "uuid": "000o74w",
+    "name": "Precision Measurements",
+    "website": "https://www.pmi-cal.com",
+    "product_category": "Calibration and Metrology Services",
+    "company_status": "private",
+    "akta_rank": 1544552
+   },
+   {
+    "uuid": "000bckp",
+    "name": "Fiscal Systems",
+    "website": "https://fis-cal.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 1705436
+   },
+   {
+    "uuid": "000ivdb",
+    "name": "Custom Calibration Solutions",
+    "website": "https://custom-cal.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 3510520
+   },
+   {
+    "uuid": "0022nft",
+    "name": "Servcal",
+    "website": "https://www.serv-cal.com.br",
+    "product_category": "Industrial Boiler Services",
+    "company_status": "private",
+    "akta_rank": 3954452
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

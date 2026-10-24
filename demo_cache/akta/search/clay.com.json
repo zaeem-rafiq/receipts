@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:08:46",
+ "params": {
+  "query": "clay.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "000007m",
+    "name": "Clay",
+    "website": "https://clay.com",
+    "product_category": "Sales Automation Data Enrichment",
+    "company_status": "private",
+    "akta_rank": 9938
+   },
+   {
+    "uuid": "002pqoc",
+    "name": "Clay & Company",
+    "website": "https://www.clay-co.com",
+    "product_category": "Commercial Real Estate Services",
+    "company_status": "private",
+    "akta_rank": 11880452
+   },
+   {
+    "uuid": "02mbkj6",
+    "name": "clay commerce",
+    "website": "https://clay-commerce.com",
+    "product_category": "B2B Wholesale E-commerce Software",
+    "company_status": "private",
+    "akta_rank": 15876552
+   },
+   {
+    "uuid": "0045a9h",
+    "name": "Clay Communications",
+    "website": "https://clay-communications.com",
+    "product_category": "Communications Services",
+    "company_status": "",
+    "akta_rank": 18960675
+   },
+   {
+    "uuid": "000giwl",
+    "name": "Claycomb Associates",
+    "website": "https://www.claycomb.net",
+    "product_category": "Educational Facility Architecture",
+    "company_status": "private",
+    "akta_rank": 1568477
+   },
+   {
+    "uuid": "00043ze",
+    "name": "Clay",
+    "website": "https://clay.earth/",
+    "product_category": "Personal Relationship Management Software",
+    "company_status": "private",
+    "akta_rank": 711060
+   },
+   {
+    "uuid": "0007u8k",
+    "name": "Clay",
+    "website": "https://www.my-clay.com",
+    "product_category": "Cloud-based Access Control Software",
+    "company_status": "private",
+    "akta_rank": 2587068
+   },
+   {
+    "uuid": "000bip5",
+    "name": "Clay",
+    "website": "https://join-clay.com",
+    "product_category": "Mental Health Therapy Platform",
+    "company_status": "private",
+    "akta_rank": 18716487
+   },
+   {
+    "uuid": "00024tg",
+    "name": "Clay Financial",
+    "website": "https://clay.financial",
+    "product_category": "Home Equity Investment Platform",
+    "company_status": "private",
+    "akta_rank": 1140674
+   },
+   {
+    "uuid": "000ssfk",
+    "name": "Clay",
+    "website": "https://www.clay.run/",
+    "product_category": "Sales Automation Data Enrichment",
+    "company_status": "private",
+    "akta_rank": 198144
+   },
+   {
+    "uuid": "000b15f",
+    "name": "Clay",
+    "website": "https://clay.global",
+    "product_category": "UX/UI Design Agency",
+    "company_status": "private",
+    "akta_rank": 1143023
+   },
+   {
+    "uuid": "003rieo",
+    "name": "Clay County",
+    "website": "https://co.clay.ia.us",
+    "product_category": "Local Government Services",
+    "company_status": "",
+    "akta_rank": 1412894
+   },
+   {
+    "uuid": "002jlmz",
+    "name": "Clay Point Investors",
+    "website": "https://clay-point.com",
+    "product_category": "Investment Advisory Services",
+    "company_status": "private",
+    "akta_rank": 1043762
+   },
+   {
+    "uuid": "0045acl",
+    "name": "Clay Planet",
+    "website": "https://clay-planet.com",
+    "product_category": "Ceramics and Pottery Supplies",
+    "company_status": "",
+    "akta_rank": 3604204
+   },
+   {
+    "uuid": "000m9ru",
+    "name": "Clayworks",
+    "website": "https://clay-works.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 1097690
+   },
+   {
+    "uuid": "000ye9a",
+    "name": "Digital-Clay (SFM Software LTD.)",
+    "website": "http://www.digital-clay.com",
+    "product_category": "No-Code Application Development Platform",
+    "company_status": "private",
+    "akta_rank": 1504112
+   },
+   {
+    "uuid": "000epvz",
+    "name": "Hey Clay",
+    "website": "https://hey-clay.com",
+    "product_category": "Clay Modeling Toy Kit",
+    "company_status": "private",
+    "akta_rank": 2655312
+   },
+   {
+    "uuid": "000hfyu",
+    "name": "Walker-Clay, Inc",
+    "website": "https://www.walker-clay.com/",
+    "product_category": "Promotional Products Supplier",
+    "company_status": "private",
+    "akta_rank": 4417836
+   },
+   {
+    "uuid": "02byvxa",
+    "name": "HOT CLAY LTD",
+    "website": "https://www.hot-clay.com",
+    "product_category": "Pottery & Ceramic Supplies Retail",
+    "company_status": "private",
+    "akta_rank": 8954035
+   },
+   {
+    "uuid": "003y2rb",
+    "name": "BadClay Studio Ltd",
+    "website": "https://bad-clay.com",
+    "product_category": "VFX and Animation Production Services",
+    "company_status": "",
+    "akta_rank": 5432200
+   },
+   {
+    "uuid": "002p4pt",
+    "name": "A.P.S.",
+    "website": "http://www.aps-clay.com",
+    "product_category": "Cosmetics Manufacturing Components",
+    "company_status": "private",
+    "akta_rank": 16463088
+   },
+   {
+    "uuid": "00yllbq",
+    "name": "The Ayse Clay Team",
+    "website": "https://clay-team.com",
+    "product_category": "Residential Real Estate Brokerage",
+    "company_status": "private",
+    "akta_rank": 3914912
+   },
+   {
+    "uuid": "0045a9l",
+    "name": "Clay Construction",
+    "website": "https://clay-construction.com",
+    "product_category": "Commercial Construction Services",
+    "company_status": "",
+    "akta_rank": 5401944
+   },
+   {
+    "uuid": "000voaa",
+    "name": "Clay-King.com",
+    "website": "http://clay-king.com/",
+    "product_category": "Pottery & Ceramic Supplies Retail",
+    "company_status": "private",
+    "akta_rank": 8363445
+   },
+   {
+    "uuid": "002s4zk",
+    "name": "Clay Asset Management",
+    "website": "https://www.clay-am.com",
+    "product_category": "Wealth Management",
+    "company_status": "private",
+    "akta_rank": 9580915
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

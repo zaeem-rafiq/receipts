@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:09:24",
+ "params": {
+  "query": "attio.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "00000ff",
+    "name": "Attio",
+    "website": "https://attio.com",
+    "product_category": "Customer Relationship Management Software",
+    "company_status": "private",
+    "akta_rank": 25159
+   },
+   {
+    "uuid": "00097o9",
+    "name": "Attion Consulting",
+    "website": "https://attion.com",
+    "product_category": "Financial Services Consulting",
+    "company_status": "private",
+    "akta_rank": 6870085
+   },
+   {
+    "uuid": "003xcv3",
+    "name": "Attix Apac, Singapore",
+    "website": "https://www.attix.com/",
+    "product_category": "AI Trading and Financial Software",
+    "company_status": "",
+    "akta_rank": 1007495
+   },
+   {
+    "uuid": "0003ab2",
+    "name": "ATTO Research",
+    "website": "http://www.atto-research.com/",
+    "product_category": "Software Defined Networking Solutions",
+    "company_status": "private",
+    "akta_rank": 90332
+   },
+   {
+    "uuid": "000tpxb",
+    "name": "Attido",
+    "website": "https://www.attido.com/fi/",
+    "product_category": "Enterprise Erp And Bi Consulting",
+    "company_status": "private",
+    "akta_rank": 1464491
+   },
+   {
+    "uuid": "0007bvm",
+    "name": "Attic Labs",
+    "website": "http://attic.io",
+    "product_category": "Decentralized Database Software",
+    "company_status": "private",
+    "akta_rank": 513560
+   },
+   {
+    "uuid": "0006kyv",
+    "name": "ATTO Technology",
+    "website": "https://www.atto.com",
+    "product_category": "Storage Connectivity Hardware",
+    "company_status": "private",
+    "akta_rank": 752596
+   },
+   {
+    "uuid": "002bqx2",
+    "name": "Atrio Communication & Digital Marketing",
+    "website": "https://atrio-cm.com/",
+    "product_category": "Digital Marketing Services",
+    "company_status": "private",
+    "akta_rank": 5966004
+   },
+   {
+    "uuid": "0000l53",
+    "name": "Atto",
+    "website": "http://www.atto.co",
+    "product_category": "Credit Risk Decisioning Platform",
+    "company_status": "private",
+    "akta_rank": 172920
+   },
+   {
+    "uuid": "003xcv1",
+    "name": "Attix AI UK",
+    "website": "https://www.attix.com/",
+    "product_category": "Algorithmic Trading Software",
+    "company_status": "",
+    "akta_rank": 4073684
+   },
+   {
+    "uuid": "003xcv2",
+    "name": "ATTIX",
+    "website": "https://www.attix.com/",
+    "product_category": "AI Trading Software",
+    "company_status": "",
+    "akta_rank": 4188036
+   },
+   {
+    "uuid": "000p5ye",
+    "name": "AKTIO",
+    "website": "https://www.aktio.co.jp/",
+    "product_category": "Construction Machinery Rental",
+    "company_status": "private",
+    "akta_rank": 85244
+   },
+   {
+    "uuid": "02m169q",
+    "name": "ATTIX",
+    "website": "https://www.attix.com",
+    "product_category": "AI Trading Software",
+    "company_status": "private",
+    "akta_rank": 6714010
+   },
+   {
+    "uuid": "003xbyb",
+    "name": "Atrio",
+    "website": "https://atrio.com.co",
+    "product_category": "Commercial Real Estate Development",
+    "company_status": "",
+    "akta_rank": 1384916
+   },
+   {
+    "uuid": "0002cn8",
+    "name": "Autio",
+    "website": "https://autio.com/",
+    "product_category": "Location-Based Audio Storytelling App",
+    "company_status": "private",
+    "akta_rank": 231834
+   },
+   {
+    "uuid": "0002qpq",
+    "name": "Actio",
+    "website": "https://actio.com",
+    "product_category": "Professional Coaching Platform",
+    "company_status": "private",
+    "akta_rank": 2569128
+   },
+   {
+    "uuid": "0008biq",
+    "name": "Aktio",
+    "website": "https://www.aktio.cc",
+    "product_category": "Carbon Management Software",
+    "company_status": "private",
+    "akta_rank": 711938
+   },
+   {
+    "uuid": "000tl9x",
+    "name": "Altio Solu\u00e7\u00f5es Tecnol\u00f3gicas",
+    "website": "http://altio.com.br/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 2823148
+   },
+   {
+    "uuid": "002zn7n",
+    "name": "Actio",
+    "website": "https://www.actio.co.jp",
+    "product_category": "Facility Event Management Services",
+    "company_status": "private",
+    "akta_rank": 892072
+   },
+   {
+    "uuid": "00rg4m9",
+    "name": "Association of Translators and Interpreters of Ontario",
+    "website": "https://atio.on.ca",
+    "product_category": "Professional Certification & Language Services Association",
+    "company_status": "private",
+    "akta_rank": 985331
+   },
+   {
+    "uuid": "003ufby",
+    "name": "Aktio Malaysia Sdn Bhd",
+    "website": "https://aktio.com.my",
+    "product_category": "Construction Equipment Rental",
+    "company_status": "",
+    "akta_rank": 4948436
+   },
+   {
+    "uuid": "003wm9k",
+    "name": "Artio Medical, Inc.",
+    "website": "https://artio.com",
+    "product_category": "Open-source E-commerce Extensions and Software Components",
+    "company_status": "",
+    "akta_rank": 7144000
+   },
+   {
+    "uuid": "003g85a",
+    "name": "The Attie Group",
+    "website": "https://attie.com",
+    "product_category": "Commercial Real Estate Services",
+    "company_status": "private",
+    "akta_rank": 8236640
+   },
+   {
+    "uuid": "000pt1d",
+    "name": "Attco Machine Products",
+    "website": "http://www.attco.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 9106080
+   },
+   {
+    "uuid": "002m2s8",
+    "name": "Altio IT Consulting",
+    "website": "https://www.altio.com.au/",
+    "product_category": "It Consulting Services",
+    "company_status": "private",
+    "akta_rank": 9906610
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

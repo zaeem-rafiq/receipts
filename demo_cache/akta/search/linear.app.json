@@ -1,0 +1,214 @@
+{
+ "fetched_at": "2026-10-24T12:10:12",
+ "params": {
+  "query": "linear.app"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "00007nj",
+    "name": "Linear",
+    "website": "https://linear.app/",
+    "product_category": "Project Management Software",
+    "company_status": "private",
+    "akta_rank": 7796
+   },
+   {
+    "uuid": "002dfma",
+    "name": "Linear Technology",
+    "website": "http://linear.com",
+    "product_category": "Analog Semiconductors",
+    "company_status": "delisted",
+    "akta_rank": 11301
+   },
+   {
+    "uuid": "0000j3o",
+    "name": "Linear Capital",
+    "website": "https://www.linear.vc/",
+    "product_category": "Venture Capital Firm",
+    "company_status": "private",
+    "akta_rank": 14775
+   },
+   {
+    "uuid": "00699l1",
+    "name": "Linea",
+    "website": "https://linea.build",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 25335
+   },
+   {
+    "uuid": "000nw1p",
+    "name": "Linear Clinical Research",
+    "website": "http://www.linear.org.au",
+    "product_category": "Clinical Trial Services",
+    "company_status": "private",
+    "akta_rank": 390352
+   },
+   {
+    "uuid": "0000p6h",
+    "name": "Linear Labs",
+    "website": "https://linear-labs.com",
+    "product_category": "Electric Motor Generator Manufacturing",
+    "company_status": "private",
+    "akta_rank": 559132
+   },
+   {
+    "uuid": "004sopw",
+    "name": "Linear",
+    "website": "https://linear.design",
+    "product_category": "Project Management Software",
+    "company_status": "",
+    "akta_rank": 566104
+   },
+   {
+    "uuid": "002k7nh",
+    "name": "Linear Logistics",
+    "website": "http://www.linear-logistics.com",
+    "product_category": "Third-Party Logistics Services",
+    "company_status": "private",
+    "akta_rank": 603622
+   },
+   {
+    "uuid": "000uqnr",
+    "name": "liNear",
+    "website": "https://www.linear.eu/de/",
+    "product_category": "Bim Mep Engineering Software",
+    "company_status": "private",
+    "akta_rank": 808906
+   },
+   {
+    "uuid": "00039xl",
+    "name": "Linear",
+    "website": "https://www.linear.fi/",
+    "product_category": "Real Estate Crm Software",
+    "company_status": "private",
+    "akta_rank": 876920
+   },
+   {
+    "uuid": "000c5ff",
+    "name": "Linear Dimensions Semiconductor",
+    "website": "https://linear-dimensions.com",
+    "product_category": "Biometric Signal Processing Solutions",
+    "company_status": "private",
+    "akta_rank": 972299
+   },
+   {
+    "uuid": "00055sy",
+    "name": "Lineas",
+    "website": "https://lineas.net/",
+    "product_category": "Rail Freight Logistics",
+    "company_status": "private",
+    "akta_rank": 57728
+   },
+   {
+    "uuid": "00341hr",
+    "name": "LINEAR CIRCUIT",
+    "website": "http://www.linear.co.jp",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 1338302
+   },
+   {
+    "uuid": "002audl",
+    "name": "Linear Electronics Co.",
+    "website": "https://en.linear-electronics.com",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 1409831
+   },
+   {
+    "uuid": "0000wv1",
+    "name": "Linera",
+    "website": "https://linera.io/",
+    "product_category": "Multi-chain Web3 Infrastructure",
+    "company_status": "private",
+    "akta_rank": 50024
+   },
+   {
+    "uuid": "000ox99",
+    "name": "Linear Assicurazioni",
+    "website": "https://www.linear.it",
+    "product_category": "Insurance Services Provider",
+    "company_status": "private",
+    "akta_rank": 1749455
+   },
+   {
+    "uuid": "003vq7k",
+    "name": "Linear Health",
+    "website": "https://linear.health/",
+    "product_category": "Behavioral Health Engagement Software",
+    "company_status": "private",
+    "akta_rank": 1845926
+   },
+   {
+    "uuid": "0002nus",
+    "name": "Linea Innovations",
+    "website": "https://linea-innovations.com",
+    "product_category": "Fusion Reactor Systems",
+    "company_status": "private",
+    "akta_rank": 252112
+   },
+   {
+    "uuid": "002xzef",
+    "name": "Linkar",
+    "website": "https://linkar-app.com/",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 3454724
+   },
+   {
+    "uuid": "000esmd",
+    "name": "Car-O-Liner",
+    "website": "http://www.car-o-liner.com/",
+    "product_category": "Automotive Collision Repair Equipment",
+    "company_status": "private",
+    "akta_rank": 285118
+   },
+   {
+    "uuid": "003gpwh",
+    "name": "Perma-Liner Industries",
+    "website": "https://perma-liner.com",
+    "product_category": "Trenchless Pipeline Rehabilitation Equipment",
+    "company_status": "private",
+    "akta_rank": 321408
+   },
+   {
+    "uuid": "002ghoa",
+    "name": "Linear",
+    "website": "https://linear.gr",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 2476868
+   },
+   {
+    "uuid": "002b8nf",
+    "name": "Linear! Architecture",
+    "website": "http://linear-architecture.com",
+    "product_category": "Commercial Architectural Services",
+    "company_status": "private",
+    "akta_rank": 3227200
+   },
+   {
+    "uuid": "003396u",
+    "name": "Century Woven(Beijing) Co.",
+    "website": "http://www.linear-drain.com",
+    "product_category": "Stainless Steel Drainage Systems",
+    "company_status": "private",
+    "akta_rank": 3632628
+   },
+   {
+    "uuid": "004soqg",
+    "name": "Linear IT Intelig\u00eancia em Tecnologia",
+    "website": "https://linear-it.com.br",
+    "product_category": "Industrial Automation and Energy Engineering Services",
+    "company_status": "",
+    "akta_rank": 4337148
+   }
+  ],
+  "count": 25,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}

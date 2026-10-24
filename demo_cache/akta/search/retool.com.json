@@ -1,0 +1,102 @@
+{
+ "fetched_at": "2026-10-24T12:09:15",
+ "params": {
+  "query": "retool.com"
+ },
+ "status": 200,
+ "response": {
+  "data": [
+   {
+    "uuid": "00000ke",
+    "name": "Retool",
+    "website": "https://retool.com",
+    "product_category": "Application Development Platform",
+    "company_status": "private",
+    "akta_rank": 14135
+   },
+   {
+    "uuid": "000m76q",
+    "name": "Retool",
+    "website": "https://service.re-tool.co.jp/",
+    "product_category": "Business Intelligence Software",
+    "company_status": "private",
+    "akta_rank": 2442068
+   },
+   {
+    "uuid": "003eift",
+    "name": "Retol",
+    "website": "https://www.retol.de",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 3346972
+   },
+   {
+    "uuid": "000k2ry",
+    "name": "Global Retool Group",
+    "website": "https://www.global-retool-group.com",
+    "product_category": "Industrial Machining and Tooling",
+    "company_status": "private",
+    "akta_rank": 575240
+   },
+   {
+    "uuid": "0057k8w",
+    "name": "Reto MB Sp. z o.o.",
+    "website": "https://retoo.eu",
+    "product_category": "Multi-category online retail",
+    "company_status": "",
+    "akta_rank": 13351256
+   },
+   {
+    "uuid": "002e2bk",
+    "name": "RetoXL",
+    "website": "http://www.retoxl.nl",
+    "product_category": "Affiliate Network Sales Reporting",
+    "company_status": "private",
+    "akta_rank": 17840985
+   },
+   {
+    "uuid": "0000a9z",
+    "name": "Repool",
+    "website": "https://repool.com",
+    "product_category": "Fund Administration Platform",
+    "company_status": "private",
+    "akta_rank": 342758
+   },
+   {
+    "uuid": "0023vn8",
+    "name": "Rejool",
+    "website": "https://rejool.de/en/",
+    "product_category": "Hydrogen Compression Equipment",
+    "company_status": "private",
+    "akta_rank": 4160312
+   },
+   {
+    "uuid": "002n3vt",
+    "name": "Revool",
+    "website": "https://www.revool.it",
+    "product_category": "",
+    "company_status": "private",
+    "akta_rank": 6951170
+   },
+   {
+    "uuid": "0057bzf",
+    "name": "Rentool Ltd",
+    "website": "https://rentool.co.uk",
+    "product_category": "Construction Equipment Rental",
+    "company_status": "",
+    "akta_rank": 8551795
+   },
+   {
+    "uuid": "002lsea",
+    "name": "RoTool",
+    "website": "https://rotool.se",
+    "product_category": "Industrial Tools Distribution",
+    "company_status": "private",
+    "akta_rank": 7381450
+   }
+  ],
+  "count": 11,
+  "credits_consumed": 0.0
+ },
+ "mode": "LIVE"
+}
