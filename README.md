@@ -48,7 +48,13 @@ streamlit_app.py
 
 ## Credits
 
-The idea, the product direction and the diligence rules are Zaeem Rafiq's. The team worked in lanes (engine, Akta, UI, sponsor integrations, story); teammate names and lanes are listed below as they are confirmed. AI coding tools (Claude Code) were used for implementation during the hackathon; the data room and expected values were prepared beforehand, the code was written on build day, per the rules.
+Built on Oct 24, 2026 at Deal Flow (localhost:nyc with VCLab, at Betaworks), Track 2: Diligence.
 
-- Engine and oracle: Zaeem Rafiq
-- Akta, UI, sponsor integrations, story: (teammates, to be added)
+- **Zaeem Rafiq**: idea, product direction and diligence rules; finance engine and the oracle of expected values; pitch.
+- **{UI_TEAMMATE_NAME}**: UI/UX. Logo wall, receipt layout and the Streamlit app.
+- **{TEAMMATE_NAME}**: {LANE}
+- **{TEAMMATE_NAME}**: {LANE}
+
+Sponsor tools in the product path: **akta.pro by Wokelo AI** (enrichment and news behind the Profile and World columns), **NicrronNinoo** (gateway for every model call), **PRISM by Block Convey** (run traces and the digit guardrail), **Roundtable** (claims/findings hand-off). AI coding tools (Claude Code) were used for implementation during the hackathon. The synthetic data room and the expected values were prepared beforehand, and all code was written on build day, per the rules.
+
+The startup in the data room, Bramblefin, is fictional and its ledger is synthetic. The customer names are real companies used for demonstration only, and the relationships are invented.

@@ -59,11 +59,13 @@ def run(run_date=None, events_override=None, akta_enabled=True, data=load.DATA):
             enr = akta.get("enrichment", lg["website"])
             nws = akta.get("news", lg["website"])
             modes += [enr["mode"], nws["mode"]]
-            fg = (enr.get("response") or {}).get("firmographic") or {}
+            body = enr.get("response") or {}
+            body = body["data"] if isinstance(body.get("data"), dict) else body  # live: {"data": {"firmographic": ...}}; MOCK: flat
+            fg = body.get("firmographic") or {}
             ak["headcount_range"] = fg.get("headcount_range")
             ak["operating_status"] = (fg.get("operating_status") or {}).get("label")
             ak["segment"], ak["headcount_lower"] = rules.segment_from_range(ak["headcount_range"], cfg)
-            ak["events"] = rules.events_for(nws.get("response"), lg["name"], cfg, run_date)
+            ak["events"] = rules.events_for(nws.get("response"), lg["name"], cfg, run_date, domain=ak["domain"])
             ak["fetched_at"] = nws.get("fetched_at")
             ak["mode"] = nws["mode"]
             # A 204 is a real answer (no news). No record at all (offline miss, live failure) means the window was not checked.

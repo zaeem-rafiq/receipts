@@ -209,9 +209,11 @@ if q:
             err = akta.ERRORS.get(("news", dom)) or akta.ERRORS.get(("enrichment", dom))
             st.write(f"{dom}: not in today's cache" + (f"; live lookup failed ({err})" if err else "; live lookups run from the demo laptop (AKTA_OFFLINE=0 with a live budget)") + ".")
         else:
-            fg = (enr.get("response") or {}).get("firmographic") or {}
+            body = enr.get("response") or {}
+            body = body["data"] if isinstance(body.get("data"), dict) else body
+            fg = body.get("firmographic") or {}
             name = next((l["name"] for l in F["logos"] if l["akta"].get("domain") == dom), dom.split(".")[0].title())
-            evs = rules.events_for(nws.get("response"), name, cfg, run_date)
+            evs = rules.events_for(nws.get("response"), name, cfg, run_date, domain=dom)
             top = rules.most_severe(evs)
             st.write(f"{dom} · headcount range {fg.get('headcount_range') or 'unverified'} · mode {nws['mode']}"
                      + (" (hand-written fixture, not Akta output)" if nws["mode"] == "MOCK" else ""))
