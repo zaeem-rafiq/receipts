@@ -26,7 +26,7 @@ h1, h2, h3 {font-family: 'Instrument Serif', Georgia, serif !important; font-wei
 [data-testid="stMetricValue"] {font-family: 'Instrument Serif', Georgia, serif; font-variant-numeric: tabular-nums;}
 [data-testid="stColumn"]:nth-child(3) [data-testid="stMetric"] {background: #F6E1DA; border-color: #E3B3A6;}
 [data-testid="stColumn"]:nth-child(3) [data-testid="stMetricValue"] {color: #B8361E;}
-.rc-card {background: #FFFDF8; border: 1px solid #D9D2C3; border-top: 4px solid var(--rc); border-radius: 2px; padding: 8px 10px; min-height: 136px;}
+.rc-card {background: #FFFDF8; border: 1px solid #D9D2C3; border-top: 4px solid var(--rc); border-radius: 2px; padding: 8px 10px; min-height: 170px;}
 .rc-card b {font-size: 0.95rem;}
 .rc-stamp {display: inline-block; font-family: 'IBM Plex Mono', monospace; font-size: 0.68rem; font-weight: 600; letter-spacing: 0.06em;
            color: var(--rc); border: 1px solid var(--rc); padding: 0 5px; margin: 3px 0; border-radius: 2px;}
