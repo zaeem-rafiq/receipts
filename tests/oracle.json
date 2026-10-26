@@ -59,7 +59,7 @@
  "top5_share": 0.6,
  "slots": {
   "logo_01": {
-   "company": "monday.com",
+   "company": "Harrowgate Work Platform",
    "status": "ACTIVE",
    "mrr": 12600,
    "tenure_months": 14,
@@ -68,10 +68,10 @@
    "mrr_at_risk": 6300,
    "expected_segment": "enterprise",
    "card": "amber",
-   "event_note": "Real Akta cache: CTech 2026-10-17, WT02 primary, 'a restructuring that cuts about 20% of its workforce' -> layoffs_major (percent of workforce >= 15). The TNW 2026-07-22 note was the MOCK fixture."
+   "event_note": "MOCK fixture: WT02 article 2026-07-22, 'cuts about 20% of its workforce' -> layoffs_major (percent of workforce >= 15)."
   },
   "logo_02": {
-   "company": "Mercury",
+   "company": "Tollgate",
    "status": "ACTIVE",
    "mrr": 11400,
    "tenure_months": 11,
@@ -80,10 +80,10 @@
    "mrr_at_risk": 0,
    "expected_segment": "enterprise",
    "card": "green_plus",
-   "event_note": "Real Akta cache: Dealroom 2026-08-21, CM01 primary with funding language -> funding (weight 0). The Synapse-collapse RK07 article names Metropolitan Commercial Bank as primary, not Mercury, so it is ignored."
+   "event_note": "MOCK fixture: CM01 article 2026-05-21 with funding language -> funding (weight 0), so VERIFIED +."
   },
   "logo_03": {
-   "company": "Clay",
+   "company": "Whitlock Data",
    "status": "ACTIVE",
    "mrr": 8000,
    "tenure_months": 9,
@@ -92,10 +92,10 @@
    "mrr_at_risk": 0,
    "expected_segment": "mid",
    "card": "green_plus",
-   "event_note": "Real Akta cache (2026-10-24): TechCrunch 2026-10-02, CM01 primary, 'raised a $115 million Series D at a $7.1 billion valuation'; weight 0, so VERIFIED +"
+   "event_note": "MOCK fixture: CM01 article 2026-10-02, 'raised a $115 million Series D' -> funding (weight 0), so VERIFIED +."
   },
   "logo_04": {
-   "company": "Braze",
+   "company": "Castlebridge Messaging",
    "status": "ACTIVE",
    "mrr": 6000,
    "tenure_months": 7,
@@ -104,10 +104,10 @@
    "mrr_at_risk": 3000,
    "expected_segment": "enterprise",
    "card": "amber",
-   "event_note": "Acquisition announced (pending): Salesforce agreed to acquire Braze, ~$5.66B EV, announced 2026-10-20 (SEC 8-K); closing subject to shareholder and regulatory approval"
+   "event_note": "MOCK fixture: CM03 article 2026-10-20, 'agreed to acquire Castlebridge Messaging' -> acquisition (target side), pending."
   },
   "logo_05": {
-   "company": "Justworks",
+   "company": "Paylode HR Cloud",
    "status": "ACTIVE",
    "mrr": 4000,
    "tenure_months": 5,
@@ -116,10 +116,10 @@
    "mrr_at_risk": 0,
    "expected_segment": "enterprise",
    "card": "green",
-   "event_note": "NYC, 1,402 staff (UnifyGTM, Apr 2026)"
+   "event_note": "MOCK fixture: one SD01 product-launch article, weight 0; headcount 1001-5000 (enterprise)."
   },
   "logo_06": {
-   "company": "Retool",
+   "company": "Ledgerline Internal Tools",
    "status": "PILOT",
    "mrr": 0,
    "tenure_months": 3,
@@ -127,10 +127,10 @@
    "expected_event": "none",
    "expected_segment": "mid",
    "card": "amber_pilot",
-   "event_note": "372 staff (Revelio Labs, Mar 2026)"
+   "event_note": "MOCK fixture: no articles; headcount 201-500 (mid)."
   },
   "logo_07": {
-   "company": "Attio",
+   "company": "Rookery CRM",
    "status": "PILOT",
    "mrr": 0,
    "tenure_months": 3,
@@ -138,10 +138,10 @@
    "expected_event": "none",
    "expected_segment": "smb",
    "card": "amber_pilot",
-   "event_note": "179 staff (StartupHub.ai, Oct 2026)"
+   "event_note": "MOCK fixture: no articles; headcount 51-200 (smb)."
   },
   "logo_08": {
-   "company": "Cal.com",
+   "company": "Timberlane Scheduling",
    "status": "PILOT",
    "mrr": 0,
    "tenure_months": 3,
@@ -149,47 +149,47 @@
    "expected_event": "none",
    "expected_segment": "smb",
    "card": "amber_pilot",
-   "event_note": "44 staff (Latka, Apr 2026)"
+   "event_note": "MOCK fixture: no articles; headcount 11-50 (smb)."
   },
   "logo_09": {
-   "company": "Resend",
+   "company": "Mailwright Email API",
    "status": "ONE_TIME",
    "mrr": 0,
    "lifetime_revenue": 2500,
    "expected_event": "none",
    "expected_segment": "smb",
    "card": "grey",
-   "event_note": "~40 staff (TrueUp estimate)"
+   "event_note": "MOCK fixture: no articles; headcount 11-50 (smb)."
   },
   "logo_10": {
-   "company": "Granola",
+   "company": "Quillon Meeting Notes",
    "status": "ONE_TIME",
    "mrr": 0,
    "lifetime_revenue": 2500,
    "expected_event": "none",
    "expected_segment": "smb",
    "card": "grey",
-   "event_note": "~55 staff; funding Mar 2026 is outside the 180-day window"
+   "event_note": "MOCK fixture: no articles; headcount 51-200 (smb)."
   },
   "logo_11": {
-   "company": "Relay",
+   "company": "Ferrymoor Automation",
    "status": "NOT_IN_LEDGER",
    "expected_event": "shutdown",
    "weight": 1.0,
    "mrr_at_risk": 0,
    "card": "red",
    "expected_segment": "smb",
-   "event_note": "Real Akta cache: three primary articles 2026-08-17/18 with 'shuts down' / 'shutdown' in the title -> shutdown. The 'AI graveyard' listicle (RK07) has no primary mention and is ignored."
+   "event_note": "MOCK fixture: article 2026-08-17 with 'shuts down' in the title and no Akta code -> shutdown (keyword); not in the ledger, so the card is red."
   },
   "logo_12": {
-   "company": "Linear",
+   "company": "Gridlane Issue Tracking",
    "status": "NOT_IN_LEDGER",
    "expected_event": "funding_or_none",
    "weight": 0.0,
    "mrr_at_risk": 0,
    "card": "grey",
    "expected_segment": "smb",
-   "event_note": "170-200 staff (TrueUp); positive-only 2026 news; weight 0 either way"
+   "event_note": "MOCK fixture: no articles; not in the ledger and no weighted event, so the card is grey."
   }
  },
  "live_prewarmed": [
@@ -260,7 +260,7 @@
  },
  "tenure_definition": "tenure_months = (end.year - start.year) * 12 + (end.month - start.month) + 1, end = canceled_at if set else as_of; slot 01's 14 equals its 14 succeeded subscription rows. PILOT = CHURNED with tenure_months <= 3.",
  "enterprise_count_expected": 4,
- "enterprise_count_note": "Working assumption: slots 01, 02, 04, 05 return an Akta headcount_range with lower bound > 1000 (Mercury ~1,600 per TrueUp, UNVERIFIED). The warm-up response is final; write the actual count into PITCH.md and DEMO_SCRIPT.md.",
+ "enterprise_count_note": "Slots 01, 02, 04, 05 carry a MOCK headcount_range with lower bound > 1000. All twelve logo companies are fictional; their Akta records are hand-written MOCK fixtures under demo_cache/akta/mock/.",
  "enterprise_count_ledger_independent": true,
  "deck_enterprise_claim": 12,
  "ask": {
@@ -288,5 +288,5 @@
   "test_rules": "policy on hand-written article fixtures (incl. CM03 target vs buyer)",
   "test_risk": "inject {logo_01: layoffs_major, logo_04: acquisition} -> mrr_at_risk 9300, arr_at_risk 111600, exposure 18600"
  },
- "notes": "Slot-keyed so a logo company can be swapped on the morning without re-keying. Akta event expectations must be re-verified against the live cache before judging. World-dependent values re-checked against the real Akta warm-up cache of 2026-10-24 (commit 0ce102d): headline unchanged; Clay moves from green to green_plus (real Series D in the window)."
+ "notes": "Slot-keyed so a logo company can be swapped without re-keying. All twelve logo companies are fictional (renamed 2026-10-26); the world-dependent values come from the MOCK fixtures, never from live Akta."
 }

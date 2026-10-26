@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_pl_1",
+    "title": "Paylode HR Cloud launches benefits marketplace for small employers",
+    "publisher": "Fictional Wire",
+    "published_date": "2026-09-03",
+    "ai_summary": "Paylode HR Cloud launched a benefits marketplace inside its payroll product.",
+    "types": [
+     {
+      "code": "SD01"
+     }
+    ],
+    "sentiment": "positive"
+   }
+  ]
+ }
+}

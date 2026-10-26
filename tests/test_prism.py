@@ -62,7 +62,7 @@ def test_run_is_one_session_with_traces_trajectory_and_end_marker(prism_on):
     run = prism.Run()
     with run.span("engine", run_date="2026-10-24", akta=True):
         pass
-    with run.span("akta/relay.app", mode="CACHED", event="shutdown"):
+    with run.span("akta/ferrymoor.example", mode="CACHED", event="shutdown"):
         pass
     with run.span("summarize", provider="nicrron") as rec:
         prism.record_llm([{"role": "user", "content": "p"}], "five lines", "anthropic/claude-haiku-5-5", 850,
@@ -77,7 +77,7 @@ def test_run_is_one_session_with_traces_trajectory_and_end_marker(prism_on):
     traj = prism_on.calls[1][1]
     assert traj["conversation_id"] == run.session_id and traj["agent_id"] == prism.AGENT_ID
     kinds = [(s["label"], s["step_type"]) for s in traj["steps"]]
-    assert kinds == [("engine", "tool_call"), ("akta/relay.app", "tool_call"), ("summarize", "final_answer")]
+    assert kinds == [("engine", "tool_call"), ("akta/ferrymoor.example", "tool_call"), ("summarize", "final_answer")]
     assert traj["steps"][1]["tool_name"] == "akta" and traj["steps"][2]["output_summary"] == "five lines"
     assert prism_on.calls[2][1]["session_id"] == run.session_id
     assert run.accepted == {"traces": "2/2 accepted", "trajectories": "1/1 accepted"}

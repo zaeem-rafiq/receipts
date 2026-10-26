@@ -1,0 +1,7 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "data": []
+ }
+}

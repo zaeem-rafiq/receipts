@@ -23,8 +23,9 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from akta import client  # noqa: E402
 
-# Not-in-ledger slots (Relay, Linear) plus the pre-warmed live-panel names from PLAN.md section 6.
-EXTRA = ["relay.app", "linear.app", "ramp.com", "cloudflare.com", "miro.com", "rippling.com",
+# Pre-warmed live-panel names from PLAN.md section 6 (real companies, checked as themselves). The twelve deck logos are
+# fictional .example domains served from demo_cache/akta/mock/ and never fetched.
+EXTRA = ["ramp.com", "cloudflare.com", "miro.com", "rippling.com",
          "notion.so", "vanta.com", "hubspot.com", "airtable.com", "posthog.com", "wix.com"]
 
 

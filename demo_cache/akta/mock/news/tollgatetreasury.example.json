@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_tg_1",
+    "title": "Tollgate Treasury raises $200M Series D",
+    "publisher": "Fictional Wire",
+    "published_date": "2026-05-21",
+    "ai_summary": "Tollgate Treasury raised a $200M Series D to expand its business banking platform.",
+    "types": [
+     {
+      "code": "CM01"
+     }
+    ],
+    "sentiment": "positive"
+   }
+  ]
+ }
+}

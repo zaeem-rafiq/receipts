@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "firmographic": {
+   "name": "Mailwright Email API",
+   "legal_name": "Mailwright Email API",
+   "website": "mailwright.example",
+   "company_type": {
+    "code": "private",
+    "label": "Private"
+   },
+   "founded_year": 2022,
+   "operating_status": {
+    "code": "operating",
+    "label": "Operating"
+   },
+   "headcount_range": "11-50"
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_fm_1",
+    "title": "Ferrymoor Automation shuts down; paying customers lose access September 14",
+    "publisher": "Fictional Wire",
+    "published_date": "2026-08-17",
+    "ai_summary": "Ferrymoor Automation will shut down. Free users lost access on August 15 and paying customers lose access on September 14.",
+    "types": [],
+    "sentiment": "negative"
+   }
+  ]
+ }
+}

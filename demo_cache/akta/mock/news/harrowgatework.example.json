@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_hw_1",
+    "title": "Harrowgate Work Platform cuts about 20% of its workforce in restructuring",
+    "publisher": "Fictional Wire",
+    "published_date": "2026-07-22",
+    "ai_summary": "Harrowgate Work Platform is cutting about 20% of its workforce, roughly 600 people, as part of a restructuring.",
+    "types": [
+     {
+      "code": "WT02"
+     }
+    ],
+    "sentiment": "negative"
+   }
+  ]
+ }
+}

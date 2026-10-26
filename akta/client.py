@@ -97,9 +97,10 @@ def get(endpoint, website):
     if rec:
         rec["mode"] = "CACHED"  # a file written by an earlier LIVE call is a cache hit now, never LIVE
         return rec
-    rec = _live(endpoint, domain)
-    if rec:
-        return rec
+    if not domain.endswith(".example"):  # reserved names (the fictional demo customers) never go to the live API
+        rec = _live(endpoint, domain)
+        if rec:
+            return rec
     rec = _read(MOCK / endpoint / f"{domain}.json")
     if rec:
         rec["mode"] = "MOCK"

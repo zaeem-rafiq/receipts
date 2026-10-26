@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_cb_1",
+    "title": "Northstar Cloud agreed to acquire Castlebridge Messaging",
+    "publisher": "Fictional Filing",
+    "published_date": "2026-10-20",
+    "ai_summary": "Northstar Cloud agreed to acquire Castlebridge Messaging for about $5.7B; closing is subject to shareholder and regulatory approval.",
+    "types": [
+     {
+      "code": "CM03"
+     }
+    ],
+    "sentiment": "neutral"
+   }
+  ]
+ }
+}

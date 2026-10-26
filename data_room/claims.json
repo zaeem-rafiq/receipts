@@ -2,74 +2,74 @@
  "logos": [
   {
    "slot": "logo_01",
-   "name": "monday.com",
-   "website": "https://monday.com",
+   "name": "Harrowgate Work Platform",
+   "website": "https://harrowgatework.example",
    "slide": 5
   },
   {
    "slot": "logo_02",
-   "name": "Mercury",
-   "website": "https://mercury.com",
+   "name": "Tollgate",
+   "website": "https://tollgatetreasury.example",
    "slide": 5
   },
   {
    "slot": "logo_03",
-   "name": "Clay",
-   "website": "https://www.clay.com",
+   "name": "Whitlock Data",
+   "website": "https://www.whitlockdata.example",
    "slide": 5
   },
   {
    "slot": "logo_04",
-   "name": "Braze",
-   "website": "https://www.braze.com",
+   "name": "Castlebridge Messaging",
+   "website": "https://www.castlebridgemessaging.example",
    "slide": 5
   },
   {
    "slot": "logo_05",
-   "name": "Justworks",
-   "website": "https://www.justworks.com",
+   "name": "Paylode HR Cloud",
+   "website": "https://www.paylodehr.example",
    "slide": 5
   },
   {
    "slot": "logo_06",
-   "name": "Retool",
-   "website": "https://retool.com",
+   "name": "Ledgerline Internal Tools",
+   "website": "https://ledgerlinetools.example",
    "slide": 5
   },
   {
    "slot": "logo_07",
-   "name": "Attio",
-   "website": "https://attio.com",
+   "name": "Rookery CRM",
+   "website": "https://rookerycrm.example",
    "slide": 5
   },
   {
    "slot": "logo_08",
-   "name": "Cal.com",
-   "website": "https://cal.com",
+   "name": "Timberlane Scheduling",
+   "website": "https://timberlanescheduling.example",
    "slide": 5
   },
   {
    "slot": "logo_09",
-   "name": "Resend",
-   "website": "https://resend.com",
+   "name": "Mailwright Email API",
+   "website": "https://mailwright.example",
    "slide": 5
   },
   {
    "slot": "logo_10",
-   "name": "Granola",
-   "website": "https://www.granola.ai",
+   "name": "Quillon Meeting Notes",
+   "website": "https://www.quillonnotes.example",
    "slide": 5
   },
   {
    "slot": "logo_11",
-   "name": "Relay",
-   "website": "https://www.relay.app",
+   "name": "Ferrymoor Automation",
+   "website": "https://www.ferrymoor.example",
    "slide": 5
   },
   {
    "slot": "logo_12",
-   "name": "Linear",
-   "website": "https://linear.app",
+   "name": "Gridlane Issue Tracking",
+   "website": "https://gridlane.example",
    "slide": 5
   }
  ],

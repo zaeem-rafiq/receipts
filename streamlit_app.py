@@ -110,9 +110,10 @@ STEP_LABEL = {"implementation_fees_sep_annualized": "September implementation fe
 # ---------- header ----------
 st.markdown("<h1 class='rc-wordmark'>Receipts<span>.</span></h1>", unsafe_allow_html=True)
 st.caption("Twelve logos on a seed deck, each checked against the customer revenue export and against the outside world (Akta).")
-st.warning("Fictional startup (Bramblefin); customer names are real public companies used for demonstration; the commercial relationships "
-           "and the ledger are invented. **Akta data:** the badge below says where it came from: CACHED = real Akta API responses saved "
-           "earlier and replayed; LIVE = fetched now; MOCK = hand-written test data, not Akta output.")
+st.warning("Fictional startup (Bramblefin) with fictional customers: every company on the logo wall, its ledger rows and its news are "
+           "invented for this demo. **Akta data:** the badge below says where it came from: MOCK = hand-written fixtures for the fictional "
+           "customers, not Akta output; CACHED = real Akta API responses saved earlier and replayed; LIVE = fetched now. The "
+           "[Check any company](#check-any-company) panel looks up real companies as themselves.")
 with st.container(border=True):
     st.markdown("**Start here (about one minute)**  \n"
                 "1. Read the four numbers: what the deck claims versus what the revenue ledger supports.  \n"

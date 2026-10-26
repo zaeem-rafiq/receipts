@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "data": [
+   {
+    "id": "mock_wd_1",
+    "title": "Whitlock Data raises $115M Series D at a $7.1B valuation",
+    "publisher": "Fictional Wire",
+    "published_date": "2026-10-02",
+    "ai_summary": "Whitlock Data raised a $115 million Series D at a $7.1 billion valuation.",
+    "types": [
+     {
+      "code": "CM01"
+     }
+    ],
+    "sentiment": "positive"
+   }
+  ]
+ }
+}

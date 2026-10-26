@@ -33,7 +33,12 @@ def _live_env(monkeypatch, tmp_path):
     monkeypatch.setenv("AKTA_LIVE_BUDGET", "10")
     monkeypatch.setattr(client, "_live_used", 0)
     monkeypatch.setattr(client, "CACHE", tmp_path / "akta")
-    monkeypatch.setattr(client, "MOCK", ROOT / "demo_cache" / "akta" / "mock")
+    # a MOCK fixture for a made-up live domain, so the live-then-mock fallback can be exercised without a real company
+    mock = tmp_path / "mock"
+    for kind, body in (("news", {"data": []}), ("enrichment", {"firmographic": {"headcount_range": "11-50"}})):
+        (mock / kind).mkdir(parents=True, exist_ok=True)
+        (mock / kind / "liveprobe.test.json").write_text(json.dumps({"fetched_at": "mock", "response": body}))
+    monkeypatch.setattr(client, "MOCK", mock)
     monkeypatch.setattr(client.time, "sleep", lambda *_: None)
     client.ERRORS.clear()
 
@@ -43,10 +48,19 @@ def test_failed_live_call_is_not_cached_and_falls_to_mock(monkeypatch, tmp_path,
     import requests
     _live_env(monkeypatch, tmp_path)
     monkeypatch.setattr(requests, "get", lambda *a, **k: _Resp(status))
-    rec = client.get("news", "https://monday.com")
+    rec = client.get("news", "https://liveprobe.test")
     assert rec["mode"] == "MOCK"
-    assert not (tmp_path / "akta" / "news" / "monday.com.json").exists()
-    assert client.ERRORS[("news", "monday.com")] == f"HTTP {status}"
+    assert not (tmp_path / "akta" / "news" / "liveprobe.test.json").exists()
+    assert client.ERRORS[("news", "liveprobe.test")] == f"HTTP {status}"
+
+
+def test_reserved_example_domain_never_calls_live(monkeypatch, tmp_path):
+    import requests
+    _live_env(monkeypatch, tmp_path)
+    monkeypatch.setattr(client, "MOCK", ROOT / "demo_cache" / "akta" / "mock")  # the repo's fixtures for the fictional customers
+    monkeypatch.setattr(requests, "get", lambda *a, **k: (_ for _ in ()).throw(AssertionError("live call made")))
+    rec = client.get("news", "https://www.ferrymoor.example")
+    assert rec["mode"] == "MOCK" and client._live_used == 0 and client.ERRORS == {}
 
 
 def test_timeout_degrades_instead_of_crashing(monkeypatch, tmp_path):
@@ -56,9 +70,9 @@ def test_timeout_degrades_instead_of_crashing(monkeypatch, tmp_path):
     def boom(*a, **k):
         raise requests.exceptions.ReadTimeout("slow")
     monkeypatch.setattr(requests, "get", boom)
-    rec = client.get("enrichment", "monday.com")
+    rec = client.get("enrichment", "liveprobe.test")
     assert rec["mode"] == "MOCK"
-    assert client.ERRORS[("enrichment", "monday.com")] == "ReadTimeout"
+    assert client.ERRORS[("enrichment", "liveprobe.test")] == "ReadTimeout"
 
 
 def test_live_success_is_cached_and_reads_back_as_cached(monkeypatch, tmp_path):
@@ -108,12 +122,12 @@ def test_unavailable_news_makes_active_logo_unverified_not_verified(monkeypatch)
     real_get = client.get
 
     def fake_get(endpoint, website):
-        if client.domain_of(website) == "clay.com":
+        if client.domain_of(website) == "whitlockdata.example":
             return {"unresolved": True, "mode": "MISS", "response": {}}
         return real_get(endpoint, website)
     monkeypatch.setattr(client, "get", fake_get)
     F = findings.run(run_date=date(2026, 10, 24))
-    clay = next(l for l in F["logos"] if l["akta"]["domain"] == "clay.com")
+    clay = next(l for l in F["logos"] if l["akta"]["domain"] == "whitlockdata.example")
     assert clay["status"] == "ACTIVE" and clay["verdict"] == "UNVERIFIED" and clay["card"] == "grey_unverified"
     assert clay["mrr_at_risk"] == 0 and clay["akta"]["news_status"] == "unavailable"
     assert "logo_03" in F["headline"]["unverified_slots"]
@@ -126,12 +140,12 @@ def test_empty_news_204_still_counts_as_checked(monkeypatch):
 
     def fake_get(endpoint, website):
         rec = real_get(endpoint, website)
-        if endpoint == "news" and client.domain_of(website) == "clay.com":
+        if endpoint == "news" and client.domain_of(website) == "whitlockdata.example":
             return {"mode": "CACHED", "fetched_at": "x", "response": {"data": [], "empty": True}}
         return rec
     monkeypatch.setattr(client, "get", fake_get)
     F = findings.run(run_date=date(2026, 10, 24))
-    clay = next(l for l in F["logos"] if l["akta"]["domain"] == "clay.com")
+    clay = next(l for l in F["logos"] if l["akta"]["domain"] == "whitlockdata.example")
     assert clay["verdict"] == "VERIFIED" and clay["akta"]["news_status"] == "checked"
 
 
@@ -187,10 +201,10 @@ def test_failed_live_lookup_is_not_retried_within_the_process(monkeypatch, tmp_p
     _live_env(monkeypatch, tmp_path)
     import requests
     monkeypatch.setattr(requests, "get", lambda *a, **k: _Resp(403))
-    first = client.get("news", "https://monday.com")
-    second = client.get("news", "https://monday.com")
+    first = client.get("news", "https://liveprobe.test")
+    second = client.get("news", "https://liveprobe.test")
     assert first["mode"] == "MOCK" and second["mode"] == "MOCK"
-    assert client._live_used == 1 and client.ERRORS[("news", "monday.com")] == "HTTP 403"
+    assert client._live_used == 1 and client.ERRORS[("news", "liveprobe.test")] == "HTTP 403"
 
 
 def test_active_logo_without_website_is_unverified_when_akta_is_on(monkeypatch):
@@ -259,7 +273,7 @@ def test_funding_tag_needs_funding_language():
 
 def test_live_enrichment_shape_is_read():
     F = findings.run(run_date=date(2026, 10, 24))
-    m = next(l for l in F["logos"] if l["akta"]["domain"] == "monday.com")
+    m = next(l for l in F["logos"] if l["akta"]["domain"] == "harrowgatework.example")
     assert m["akta"]["mode"] in ("CACHED", "MOCK") and m["akta"]["headcount_range"] and m["akta"]["segment"] != "unverified"
     assert F["headline"]["enterprise_count"] == 4
 

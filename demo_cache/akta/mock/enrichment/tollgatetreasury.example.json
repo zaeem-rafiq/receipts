@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "firmographic": {
+   "name": "Tollgate",
+   "legal_name": "Tollgate Treasury Technologies, Inc.",
+   "website": "tollgatetreasury.example",
+   "company_type": {
+    "code": "private",
+    "label": "Private"
+   },
+   "founded_year": 2017,
+   "operating_status": {
+    "code": "operating",
+    "label": "Operating"
+   },
+   "headcount_range": "1001-5000"
+  }
+ }
+}

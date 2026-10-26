@@ -1,0 +1,21 @@
+{
+ "_note": "MOCK fixture for a FICTIONAL company, hand-written for the Receipts demo. NOT an Akta response.",
+ "fetched_at": "mock",
+ "response": {
+  "firmographic": {
+   "name": "Gridlane Issue Tracking",
+   "legal_name": "Gridlane Issue Tracking",
+   "website": "gridlane.example",
+   "company_type": {
+    "code": "private",
+    "label": "Private"
+   },
+   "founded_year": 2019,
+   "operating_status": {
+    "code": "operating",
+    "label": "Operating"
+   },
+   "headcount_range": "51-200"
+  }
+ }
+}
